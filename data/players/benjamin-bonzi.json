@@ -1,0 +1,87 @@
+{
+  "slug": "benjamin-bonzi",
+  "name": "Benjamin Bonzi",
+  "country": "FR",
+  "countryName": "France",
+  "flagEmoji": "🇫🇷",
+  "birthDate": "1996-06-09",
+  "age": 30,
+  "seed": null,
+  "ranking": 97,
+  "draw": "men",
+  "tier": 3,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 183,
+  "hometown": "Nîmes, France",
+  "nicknameOrTagline": "La Bonz",
+  "intro": "Benjamin Bonzi is a tennis player from the south of France. His friends call him 'La Bonz.' He is known for big upsets and a super backhand.",
+  "story": "Benjamin grew up just 400 meters from a tennis club. He walked there to play when he was tiny. In 2021 he won six smaller tournaments in one year. That ties the all-time record! Last year he beat star Daniil Medvedev here in New York. Now he is back in the third round again.",
+  "funFacts": [
+    {
+      "text": "He won his first trophy at age 10. The prize was a big bag of candy.",
+      "source": "https://wearetennis.bnpparibas/fr/actualites-tennis/portrait-interview/4466-tout-vous-saurez-tout-sur-benjamin-bonzi"
+    },
+    {
+      "text": "His first airplane ride was at 12. He flew to the Bahamas for a tennis event.",
+      "source": "https://wearetennis.bnpparibas/fr/actualites-tennis/portrait-interview/4466-tout-vous-saurez-tout-sur-benjamin-bonzi"
+    },
+    {
+      "text": "He loves video games. He plays PlayStation a lot at home.",
+      "source": "https://www.atptour.com/en/news/bonzi-qa-feature-2021-november"
+    },
+    {
+      "text": "His secret talent is biology. His favorite book is The Lord of the Rings.",
+      "source": "https://www.atptour.com/en/players/benjamin-bonzi/bm95/bio"
+    },
+    {
+      "text": "His favorite shot is the volley, hit up close at the net.",
+      "source": "https://www.atptour.com/en/players/benjamin-bonzi/bm95/bio"
+    },
+    {
+      "text": "He won six Challenger titles in one year, 2021. Almost nobody has done that.",
+      "source": "https://en.wikipedia.org/wiki/Benjamin_Bonzi"
+    },
+    {
+      "text": "He beat Daniil Medvedev in five sets at the 2025 US Open.",
+      "source": "https://en.wikipedia.org/wiki/Benjamin_Bonzi"
+    }
+  ],
+  "watchFor": "Watch for him rushing to the net to hit a volley. It is his favorite shot.",
+  "matchTomorrow": {
+    "opponent": "Karen Khachanov",
+    "opponentSlug": "karen-khachanov",
+    "court": "TBD",
+    "session": "TBD",
+    "matchId": "m5"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Bonzi_MLC21_%282%29_%2851602502868%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "localPath": "img/players/benjamin-bonzi.jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "si.robi",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ABonzi_MLC21_%282%29_%2851602502868%29.jpg",
+    "title": "File:Bonzi_MLC21_(2)_(51602502868).jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Benjamin_Bonzi",
+    "https://www.atptour.com/en/players/benjamin-bonzi/bm95/bio",
+    "https://www.atptour.com/en/news/bonzi-qa-feature-2021-november",
+    "https://wearetennis.bnpparibas/fr/actualites-tennis/portrait-interview/4466-tout-vous-saurez-tout-sur-benjamin-bonzi",
+    "https://tennistonic.com/tennis-news/1051101/unstoppable-benjamin-bonzi-exterminates-buse-in-the-2nd-round-to-clash-vs-khachanov-highlights-u-s-open-results/"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-04T13:13:10-04:00",
+  "factCheck": {
+    "checkedAt": "2026-09-04T13:18:35-04:00",
+    "notes": [
+      "Born 9 June 1996 in Nîmes, 183 cm, right-handed/two-handed backhand, six 2021 Challenger titles (ties record with 3 others), beat Medvedev in five sets at 2025 US Open R1: en.wikipedia.org/wiki/Benjamin_Bonzi.",
+      "Nickname La Bonz, favourite shot volley, secret talent biology, Lord of the Rings, video games: atptour.com bio. PS4 quote: ATP 2021 Q&A.",
+      "Candy prize at 10 (club tournament in Anduze), first flight at 12 1/2 to Bahamas, lived ~400 m from club: wearetennis.bnpparibas portrait.",
+      "Hometown kept as Nîmes (birthplace per Wikipedia and wearetennis). He has lived in Anduze (Wikipedia) and Marseille (ATP 2021 Q&A).",
+      "Ranking 97 / no seed / opponent Khachanov match schedule.json."
+    ],
+    "changes": [
+      "Story: 'That is a record!' -> 'That ties the all-time record!' (six Challenger titles in a season ties, not breaks, the record)."
+    ]
+  }
+}

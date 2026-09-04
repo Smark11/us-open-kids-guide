@@ -1,0 +1,87 @@
+{
+  "slug": "iga-swiatek",
+  "name": "Iga Świątek",
+  "country": "PL",
+  "countryName": "Poland",
+  "flagEmoji": "🇵🇱",
+  "birthDate": "2001-05-31",
+  "age": 25,
+  "seed": 8,
+  "ranking": 8,
+  "draw": "women",
+  "tier": 1,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 176,
+  "hometown": "Raszyn, Poland",
+  "nicknameOrTagline": "Queen of Clay",
+  "intro": "Iga Świątek is a champion from Poland. She has won six Grand Slam titles. That includes this tournament, the US Open, in 2022.",
+  "story": "Iga's dad rowed in the Olympics for Poland. She wanted to be a champion too. She picked tennis and worked very hard. She has been the world number 1 for 125 weeks in total. She wins so many 6-0 sets that fans call it Iga's Bakery. Why? A 6-0 set is called a bagel!",
+  "funFacts": [
+    {
+      "text": "Her favorite meal is pasta with strawberries. Yes, really!",
+      "source": "https://www.wtatennis.com/news/4316611/swiateks-one-of-a-kind-gift-for-wimbledon-win-a-lego-strawberry"
+    },
+    {
+      "text": "She loves building LEGO sets. It helps her stay calm and focused.",
+      "source": "https://www.wtatennis.com/news/4316611/swiateks-one-of-a-kind-gift-for-wimbledon-win-a-lego-strawberry"
+    },
+    {
+      "text": "LEGO once gave her a giant strawberry made from 3,000 bricks.",
+      "source": "https://www.wtatennis.com/news/4316611/swiateks-one-of-a-kind-gift-for-wimbledon-win-a-lego-strawberry"
+    },
+    {
+      "text": "She warms up to loud rock music like AC/DC and Led Zeppelin.",
+      "source": "https://www.tennis.com/baseline/articles/what-music-is-on-iga-swiatek-pre-match-playlist-at-the-2023-australian-open"
+    },
+    {
+      "text": "She has a cat named Grappa. LEGO even made a tiny Grappa figure for her!",
+      "source": "https://www.wtatennis.com/news/4316611/swiateks-one-of-a-kind-gift-for-wimbledon-win-a-lego-strawberry"
+    },
+    {
+      "text": "Her dad rowed for Poland at the 1988 Olympics.",
+      "source": "https://en.wikipedia.org/wiki/Iga_%C5%9Awi%C4%85tek"
+    },
+    {
+      "text": "Her forehand spins the ball more than 3,400 times a minute. That is like Rafael Nadal!",
+      "source": "https://en.wikipedia.org/wiki/Iga_%C5%9Awi%C4%85tek"
+    }
+  ],
+  "watchFor": "Watch her forehand: it has so much spin the ball dips and jumps up high off the court.",
+  "matchTomorrow": {
+    "opponent": "Marie Bouzkova",
+    "opponentSlug": "marie-bouzkova",
+    "court": "TBD",
+    "session": "TBD",
+    "matchId": "m13"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Iga_Swiatek_2023_Cropped_%2B_Retouched.jpg",
+    "localPath": "img/players/iga-swiatek.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AIga_Swiatek_2023_Cropped_%2B_Retouched.jpg",
+    "title": "File:Iga_Swiatek_2023_Cropped_+_Retouched.jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Iga_%C5%9Awi%C4%85tek",
+    "https://www.wtatennis.com/news/4316611/swiateks-one-of-a-kind-gift-for-wimbledon-win-a-lego-strawberry",
+    "https://www.tennis.com/baseline/articles/what-music-is-on-iga-swiatek-pre-match-playlist-at-the-2023-australian-open"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-04T17:30:00Z",
+  "factCheck": {
+    "checkedAt": "2026-09-04T19:00:00Z",
+    "notes": [
+      "Birth date, height, plays, six majors incl. 2022 US Open, father's 1988 Olympic rowing, 125 weeks at No.1, Iga's Bakery, 3,453 rpm forehand, ranking 8 confirmed via Wikipedia. Born Warsaw, resides Raszyn (hometown kept).",
+      "LEGO hobby, 3,000-brick strawberry, strawberries-on-pasta and cat Grappa confirmed in WTA article.",
+      "Seed 8 / rank 8 / opponent Bouzkova match schedule.json."
+    ],
+    "changes": [
+      "Story: 'more than 125 weeks' -> '125 weeks in total' (Wikipedia figure).",
+      "Fact 4: replaced fan-site source with tennis.com; Guns N' Roses swapped for Led Zeppelin (named in tennis.com article).",
+      "Fact 5: dropped unsourced 'black'; re-sourced Grappa to WTA article.",
+      "Fact 7: 'about 3,400' -> 'more than 3,400' (3,453 rpm).",
+      "Removed fgsn.com from sources."
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "slug": "francisco-cerundolo",
+  "name": "Francisco Cerúndolo",
+  "country": "AR",
+  "countryName": "Argentina",
+  "flagEmoji": "🇦🇷",
+  "birthDate": "1998-08-13",
+  "age": 28,
+  "seed": 24,
+  "ranking": 25,
+  "draw": "men",
+  "tier": 1,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 185,
+  "hometown": "Buenos Aires, Argentina",
+  "nicknameOrTagline": "Fran",
+  "intro": "Francisco Cerúndolo is from Buenos Aires, Argentina. Everyone calls him Fran. He is famous for a huge, whip-crack forehand.",
+  "story": "Fran grew up at his family's tennis academy. His mom and dad both played tennis. His little brother Juan Manuel is a pro too. His sister won a gold medal in field hockey! This summer Fran won his biggest title ever, on grass at Queen's Club in London.",
+  "funFacts": [
+    {
+      "text": "His secret talent is math. He loves numbers and checking stats.",
+      "source": "https://www.atptour.com/en/players/francisco-cerundolo/c0au/bio"
+    },
+    {
+      "text": "His favorite foods are burgers and asado, Argentine barbecue.",
+      "source": "https://www.atptour.com/en/players/francisco-cerundolo/c0au/bio"
+    },
+    {
+      "text": "He loves to sing. He packs a speaker so he can play music in every hotel room.",
+      "source": "https://www.atptour.com/en/news/cerundolo-nomadic-life-june-2023"
+    },
+    {
+      "text": "His sister María Constanza won field hockey gold at the Youth Olympics.",
+      "source": "https://www.atptour.com/en/players/francisco-cerundolo/c0au/bio"
+    },
+    {
+      "text": "He and his brother Juan Manuel were both in the world top 100 at the same time.",
+      "source": "https://en.wikipedia.org/wiki/Francisco_Cer%C3%BAndolo"
+    },
+    {
+      "text": "His favorite movie is Gladiator. He cheers for the River Plate soccer club.",
+      "source": "https://www.atptour.com/en/players/francisco-cerundolo/c0au/bio"
+    },
+    {
+      "text": "He once lost his passport on a trip and had to sleep at the airport.",
+      "source": "https://www.atptour.com/en/news/cerundolo-nomadic-life-june-2023"
+    }
+  ],
+  "watchFor": "Watch him run around his backhand to smack a giant forehand. It is his favorite shot.",
+  "matchTomorrow": {
+    "opponent": "Taylor Fritz",
+    "opponentSlug": "taylor-fritz",
+    "court": "TBD",
+    "session": "TBD",
+    "matchId": "m7"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Cerundolo_MCM23_%2821%29_%2852883527185%29.jpg",
+    "localPath": "img/players/francisco-cerundolo.jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "si.robi",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ACerundolo_MCM23_%2821%29_%2852883527185%29.jpg",
+    "title": "File:Cerundolo_MCM23_(21)_(52883527185).jpg",
+    "isAvatar": false
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Francisco_Cer%C3%BAndolo",
+    "https://www.atptour.com/en/players/francisco-cerundolo/c0au/bio",
+    "https://www.atptour.com/en/news/cerundolo-nomadic-life-june-2023"
+  ],
+  "verified": false,
+  "researchedAt": "2026-09-04T17:11:02Z"
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "jakub-mensik",
+  "name": "Jakub Menšík",
+  "country": "CZ",
+  "countryName": "Czechia",
+  "flagEmoji": "🇨🇿",
+  "birthDate": "2005-09-01",
+  "age": 21,
+  "seed": 17,
+  "ranking": 18,
+  "draw": "men",
+  "tier": 2,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 196,
+  "hometown": "Prostějov, Czechia",
+  "nicknameOrTagline": "Menimal",
+  "intro": "Jakub Menšík is a very tall player from Czechia. He stands 6 feet 5 inches. At 19 he won the Miami Open, beating his hero Novak Djokovic.",
+  "story": "Jakub grew up right next to tennis courts. He watched other kids play, then joined in at age four. Djokovic liked him so much he invited him to train together. In 2025 Jakub beat Djokovic in the Miami final. This year he reached the French Open semifinals. He also just won the US Open mixed doubles title.",
+  "funFacts": [
+    {
+      "text": "He turned 21 just four days ago, on September 1.",
+      "source": "https://en.wikipedia.org/wiki/Jakub_Menšík"
+    },
+    {
+      "text": "Off the court he plays golf and the guitar.",
+      "source": "https://www.tennis-prose.com/bios/biofile-jakub-mensik-interview/"
+    },
+    {
+      "text": "His favorite foods are spare ribs and vanilla ice cream.",
+      "source": "https://www.atptour.com/en/players/jakub-mensik/m0ni/bio"
+    },
+    {
+      "text": "His favorite book is Harry Potter and the Cursed Child.",
+      "source": "https://www.tennis-prose.com/bios/biofile-jakub-mensik-interview/"
+    },
+    {
+      "text": "He loves basketball star Stephen Curry and the Golden State Warriors.",
+      "source": "https://www.atptour.com/en/players/jakub-mensik/m0ni/bio"
+    },
+    {
+      "text": "His favorite city on tour is New York.",
+      "source": "https://www.atptour.com/en/players/jakub-mensik/m0ni/bio"
+    },
+    {
+      "text": "His first serve zooms in at about 129 miles per hour.",
+      "source": "https://x.com/tennis_insights/status/1905920972139458577"
+    }
+  ],
+  "watchFor": "Watch his rocket first serve, then his high-kicking second serve that bounces over heads.",
+  "matchTomorrow": {
+    "opponent": "Learner Tien",
+    "opponentSlug": "learner-tien",
+    "court": "TBD",
+    "session": "TBD",
+    "matchId": "m6"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Jakub_Men%C5%A1%C3%ADk_%282023_US_Open%29_14_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "localPath": "img/players/jakub-mensik.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AJakub_Men%C5%A1%C3%ADk_%282023_US_Open%29_14_%28cropped%29.jpg",
+    "title": "File:Jakub_Menšík_(2023_US_Open)_14_(cropped).jpg",
+    "bytes": 58982,
+    "width": 380,
+    "height": 600
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jakub_Menšík",
+    "https://www.atptour.com/en/players/jakub-mensik/m0ni/bio",
+    "https://www.tennis-prose.com/bios/biofile-jakub-mensik-interview/",
+    "https://www.tennismajors.com/atp/australian-open-qatar-murray-everything-you-ever-wanted-to-know-about-jakub-mensik-but-never-had-time-to-find-out-745211.html",
+    "https://x.com/tennis_insights/status/1905920972139458577"
+  ],
+  "verified": false,
+  "researchedAt": "2026-09-04T17:10:24+00:00"
+}

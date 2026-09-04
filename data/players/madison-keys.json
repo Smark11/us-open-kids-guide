@@ -1,0 +1,73 @@
+{
+  "slug": "madison-keys",
+  "name": "Madison Keys",
+  "country": "US",
+  "countryName": "United States",
+  "flagEmoji": "🇺🇸",
+  "birthDate": "1995-02-17",
+  "age": 31,
+  "seed": 22,
+  "ranking": 24,
+  "draw": "women",
+  "tier": 2,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 178,
+  "hometown": "Rock Island, Illinois, USA",
+  "nicknameOrTagline": "Kindness wins",
+  "intro": "Madison Keys is an American from Rock Island, Illinois. She hits some of the hardest shots in tennis. In 2025 she finally won her first Grand Slam, the Australian Open.",
+  "story": "At age 4, Madison saw Venus Williams on TV in a white tennis dress. She begged for the same dress. Her parents said yes, if she learned tennis. She did! She reached the US Open final in 2017 and won the Australian Open in 2025. She also started a charity called Kindness Wins.",
+  "funFacts": [
+    {
+      "text": "She started tennis because she wanted a white dress like Venus Williams.",
+      "source": "https://en.wikipedia.org/wiki/Madison_Keys"
+    },
+    {
+      "text": "She has three sisters: Sydney, Montana, and Hunter. None play tennis.",
+      "source": "https://en.wikipedia.org/wiki/Madison_Keys"
+    },
+    {
+      "text": "She loves baking, decorating rooms, and taking care of plants.",
+      "source": "https://tennis-infinity.com/wta/who-is-madison-keys-bio-fun-facts-info-much-more"
+    },
+    {
+      "text": "Her favorite singer is Beyoncé.",
+      "source": "https://tennis-infinity.com/wta/who-is-madison-keys-bio-fun-facts-info-much-more"
+    },
+    {
+      "text": "She started Kindness Wins, a charity that teaches kids to be kind.",
+      "source": "https://glorioussport.com/articles/madison-keys-tennis-kindness-foundation-interview/"
+    },
+    {
+      "text": "She once hit a 126 mph serve, one of the fastest ever by a woman.",
+      "source": "https://en.wikipedia.org/wiki/Madison_Keys"
+    },
+    {
+      "text": "Both her parents are lawyers. Her dad was a college basketball star.",
+      "source": "https://en.wikipedia.org/wiki/Madison_Keys"
+    }
+  ],
+  "watchFor": "Listen for the loud pop when she hits her forehand. It is one of the fastest in tennis.",
+  "matchTomorrow": {
+    "opponent": "Qinwen Zheng",
+    "opponentSlug": "qinwen-zheng",
+    "court": "TBD",
+    "session": "TBD",
+    "matchId": "m14"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Madison_Keys_%282023_DC_Open%29_01a_%28cropped2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "localPath": "img/players/madison-keys.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AMadison_Keys_%282023_DC_Open%29_01a_%28cropped2%29.jpg",
+    "title": "File:Madison_Keys_(2023_DC_Open)_01a_(cropped2).jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Madison_Keys",
+    "https://tennis-infinity.com/wta/who-is-madison-keys-bio-fun-facts-info-much-more",
+    "https://glorioussport.com/articles/madison-keys-tennis-kindness-foundation-interview/",
+    "https://www.wtatennis.com/players/316959/madison-keys"
+  ],
+  "verified": false,
+  "researchedAt": "2026-09-04T17:11:02Z"
+}

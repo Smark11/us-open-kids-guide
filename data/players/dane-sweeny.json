@@ -1,0 +1,91 @@
+{
+  "slug": "dane-sweeny",
+  "name": "Dane Sweeny",
+  "country": "AU",
+  "countryName": "Australia",
+  "flagEmoji": "🇦🇺",
+  "birthDate": "2001-02-12",
+  "age": 25,
+  "seed": null,
+  "ranking": 123,
+  "draw": "men",
+  "tier": 2,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 170,
+  "hometown": "Sunshine Coast, Australia",
+  "nicknameOrTagline": "The Sunshine Coast scrapper",
+  "intro": "Dane Sweeny is a surprise star from Australia. He is 25. He is only 170 cm tall, but he plays big. He just beat a seeded star to reach the third round of a Grand Slam for the first time ever.",
+  "story": "Dane grew up on the Sunshine Coast, near the beach. He started hitting balls at age two. His dad Clay is his coach. Clay sold his business so he could travel with Dane. Dane got into this US Open with a special invite called a wildcard. Then he beat Lorenzo Musetti, one of the seeded stars. He says the tennis journey is a roller coaster.",
+  "funFacts": [
+    {
+      "text": "He started hitting at age two with a plastic totem tennis racket.",
+      "source": "https://www.tennis.com.au/fan-zone/news/2026/07/22/my-tennis-life--dane-sweeny"
+    },
+    {
+      "text": "His dad Clay is his coach. He sold his cleaning business to travel with Dane.",
+      "source": "https://www.womensweekly.com.au/news/dane-sweeny-tennis/"
+    },
+    {
+      "text": "His tennis life began on the beach at Mooloolaba, hitting balls with his dad.",
+      "source": "https://www.tennis.com.au/fan-zone/news/2026/07/22/my-tennis-life--dane-sweeny"
+    },
+    {
+      "text": "He is 170 cm tall. That is about 5 feet 7 inches.",
+      "source": "https://en.wikipedia.org/wiki/Dane_Sweeny"
+    },
+    {
+      "text": "He uses meditation and mindful breathing to stay calm on court.",
+      "source": "https://theowluc.com/story/making-it-is-not-everything-meet-aussie-tennis-player-dane-sweeny/"
+    },
+    {
+      "text": "He says he plays with his heart on his sleeve.",
+      "source": "https://theowluc.com/story/making-it-is-not-everything-meet-aussie-tennis-player-dane-sweeny/"
+    },
+    {
+      "text": "This is his very first time playing at the US Open.",
+      "source": "https://www.atptour.com/en/news/sweeny-musetti-us-open-2026-thursday"
+    }
+  ],
+  "watchFor": "Watch him dive for volleys at the net. He flies through the air like a superhero.",
+  "matchTomorrow": {
+    "opponent": "Luciano Darderi",
+    "opponentSlug": "luciano-darderi",
+    "court": "TBD",
+    "session": "TBD",
+    "matchId": "m2"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Sweeny_WMQ23_%2853062168553%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "localPath": "img/players/dane-sweeny.jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "si.robi",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ASweeny_WMQ23_%2853062168553%29.jpg",
+    "title": "File:Sweeny_WMQ23_(53062168553).jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dane_Sweeny",
+    "https://www.atptour.com/en/news/sweeny-musetti-us-open-2026-thursday",
+    "https://www.abc.net.au/news/2026-09-04/us-open-wildcard-dane-sweeny-into-third-round/107114784",
+    "https://www.womensweekly.com.au/news/dane-sweeny-tennis/",
+    "https://www.tennis.com.au/fan-zone/news/2026/07/22/my-tennis-life--dane-sweeny",
+    "https://theowluc.com/story/making-it-is-not-everything-meet-aussie-tennis-player-dane-sweeny/"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-04T17:14:15Z",
+  "factCheck": {
+    "checkedAt": "2026-09-04T18:30:00Z",
+    "notes": [
+      "Birth date, 170 cm, plays, ranking 123, unseeded, opponent Darderi (m2), Sunshine Coast (moved there at 3), coach Clay Sweeny confirmed via Wikipedia + schedule.json.",
+      "ATP confirms first US Open appearance, first major third round, 'rollercoaster' quote; ABC confirms wildcard and diving volleys; Women's Weekly confirms dad sold cleaning business.",
+      "Musetti seed: ATP says 13th, ABC says 14th; number removed from story.",
+      "tennis.com.au 'My Tennis Life' page returns 403 to fetchers; totem-tennis racquet at age two and beach start at Mooloolaba are confirmed only via search-engine snippets of that article's own text.",
+      "theowluc confirms meditation, 'mindful breaths', 'heart on my sleeve'."
+    ],
+    "changes": [
+      "Removed Musetti seed number.",
+      "Softened 'one of the shortest players here'.",
+      "Reworded beach fact to match the source wording.",
+      "'slow breathing' -> 'mindful breathing'."
+    ]
+  }
+}

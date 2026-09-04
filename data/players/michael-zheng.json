@@ -1,0 +1,90 @@
+{
+  "slug": "michael-zheng",
+  "name": "Michael Zheng",
+  "country": "US",
+  "countryName": "United States",
+  "flagEmoji": "🇺🇸",
+  "birthDate": "2004-01-27",
+  "age": 22,
+  "seed": null,
+  "ranking": 107,
+  "draw": "men",
+  "tier": 3,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 188,
+  "hometown": "Montville, New Jersey, United States",
+  "nicknameOrTagline": "The Ivy League Ace",
+  "intro": "Michael Zheng is an American from New Jersey. He just finished college at Columbia in New York City. He is the local kid in this tournament.",
+  "story": "Michael's parents came to America from China. As a kid he rode a bus and subway to practice in Queens. He won the college national title two years in a row. This year he played all four Grand Slams. He got a special invite to the US Open, and he has won twice so far.",
+  "funFacts": [
+    {
+      "text": "He won the college national title twice. Columbia's first since 1906!",
+      "source": "https://en.wikipedia.org/wiki/Michael_Zheng"
+    },
+    {
+      "text": "He studied psychology at Columbia and kept great grades while playing pro tennis.",
+      "source": "https://www.atptour.com/en/news/zheng-australian-open-2026-feature"
+    },
+    {
+      "text": "He once flew overnight after winning a tournament to take a test the next morning.",
+      "source": "https://www.atptour.com/en/news/zheng-australian-open-2026-feature"
+    },
+    {
+      "text": "In middle school he traveled 90 minutes by bus and subway to train in Queens.",
+      "source": "https://www.atptour.com/en/news/zheng-challenger-2025-feature"
+    },
+    {
+      "text": "His dad Joe is a big Roger Federer fan. His older sister Amy plays tennis too.",
+      "source": "https://www.atptour.com/en/news/zheng-challenger-2025-feature"
+    },
+    {
+      "text": "He missed his college graduation because he was playing the French Open.",
+      "source": "https://www.westsiderag.com/2026/08/31/former-columbia-university-star-michael-zheng-to-make-his-u-s-open-debut"
+    },
+    {
+      "text": "His coach says nothing seems to bother him, on or off the court.",
+      "source": "https://www.atptour.com/en/news/zheng-australian-open-2026-feature"
+    }
+  ],
+  "watchFor": "Look for his Columbia teammates and classmates cheering in the stands, and his calm face after every point.",
+  "matchTomorrow": {
+    "opponent": "Arthur Géa",
+    "opponentSlug": "arthur-gea",
+    "court": "TBD",
+    "session": "TBD",
+    "matchId": "m3"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Michael_Zheng_%282023_US_Open%29_13_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "localPath": "img/players/michael-zheng.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AMichael_Zheng_%282023_US_Open%29_13_%28cropped%29.jpg",
+    "title": "File:Michael Zheng (2023 US Open) 13 (cropped).jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Michael_Zheng",
+    "https://www.atptour.com/en/players/michael-zheng/z0bz/bio",
+    "https://www.atptour.com/en/news/zheng-australian-open-2026-feature",
+    "https://www.atptour.com/en/news/zheng-challenger-2025-feature",
+    "https://www.westsiderag.com/2026/08/31/former-columbia-university-star-michael-zheng-to-make-his-u-s-open-debut",
+    "https://sports.yahoo.com/articles/n-j-michael-zheng-wins-223653753.html",
+    "https://tennistonic.com/tennis-news/1051105/michael-zheng-gets-the-better-of-yunchaokete-in-the-2nd-round-to-set-up-a-clash-vs-gea-highlights-u-s-open-results/"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-04T13:13:10-04:00",
+  "factCheck": {
+    "checkedAt": "2026-09-04T13:18:35-04:00",
+    "notes": [
+      "Born 27 Jan 2004, raised in Montville NJ, 188 cm, right-handed/two-handed backhand, NCAA singles champion 2024 + 2025 (Columbia's first since 1906), parents Joe and Mei from Hubei, China, all four 2026 Slams, ranking 107: en.wikipedia.org/wiki/Michael_Zheng + atptour.com bio.",
+      "Psychology major, Academic All-American, red-eye flight after Tiburon title to sit an in-person exam (coach Howard Endelman quote), sister Amy plays tennis, 'Nothing seems to bother Michael' quote: atptour.com Australian Open 2026 feature.",
+      "90-minute bus/subway commute to Queens in middle school, dad Joe a longtime Federer fan: atptour.com Challenger 2025 feature.",
+      "Missed Columbia graduation for French Open; US Open wild card; Columbia teammates/classmates/coaches turn out in force at his NY matches: westsiderag.com.",
+      "Ranking 107 / no seed / opponent Gea match schedule.json."
+    ],
+    "changes": [
+      "watchFor: 'fans in Columbia light blue' rewritten to 'Columbia teammates and classmates cheering' (documented by West Side Rag).",
+      "Dad/sister fact: source URL changed to ATP Challenger 2025 feature (which has the Federer detail); sister Amy is from the ATP AO 2026 feature."
+    ]
+  }
+}

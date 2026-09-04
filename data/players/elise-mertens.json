@@ -1,0 +1,95 @@
+{
+  "slug": "elise-mertens",
+  "name": "Elise Mertens",
+  "country": "BE",
+  "countryName": "Belgium",
+  "flagEmoji": "🇧🇪",
+  "birthDate": "1995-11-17",
+  "age": 30,
+  "seed": 23,
+  "ranking": 20,
+  "draw": "women",
+  "tier": 2,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 179,
+  "hometown": "Hamont-Achel, Belgium",
+  "nicknameOrTagline": "Belgium's doubles queen",
+  "intro": "Elise Mertens is a tennis star from Belgium. She is 30 years old. She has won ten singles titles and six Grand Slam doubles titles. She has been the world's number one doubles player.",
+  "story": "Elise's big sister Lauren put a racket in her hand at age four. Lauren is now an airline pilot! Elise grew up watching Belgian champions Justine Henin and Kim Clijsters. Later she trained at Kim Clijsters' own tennis school. Last summer she won a title in the Netherlands after saving eleven match points in one match. That means she was one point from losing eleven times, and still won. This January she won the Australian Open doubles title with Zhang Shuai.",
+  "funFacts": [
+    {
+      "text": "She has a house full of rescue dogs. She wants to be a voice for shelter animals.",
+      "source": "https://osakaworld.com/en-gb/blogs/athletes/elise-mertens"
+    },
+    {
+      "text": "Her family keeps birds too: peacocks, pheasants, chickens, and cranes.",
+      "source": "https://www.tennismajors.com/wta-tour-news/elise-mertens-tennis-belgium-doubles-sabalenka-clijsters-who-is-questions-329467.html"
+    },
+    {
+      "text": "She speaks three languages: Dutch, French, and English.",
+      "source": "https://en.wikipedia.org/wiki/Elise_Mertens"
+    },
+    {
+      "text": "She was homeschooled so she could travel and play tennis.",
+      "source": "https://en.wikipedia.org/wiki/Elise_Mertens"
+    },
+    {
+      "text": "Her dad makes furniture for churches. Her mom is a teacher.",
+      "source": "https://en.wikipedia.org/wiki/Elise_Mertens"
+    },
+    {
+      "text": "She has won six Grand Slam doubles titles with four different partners.",
+      "source": "https://en.wikipedia.org/wiki/Elise_Mertens"
+    },
+    {
+      "text": "She has a tiny green tattoo on her wrist for her dog Bo. Green means hope.",
+      "source": "https://osakaworld.com/en-gb/blogs/athletes/elise-mertens"
+    }
+  ],
+  "watchFor": "Watch her left wrist as she tosses the ball to serve. Her little green tattoo gives her strength.",
+  "matchTomorrow": {
+    "opponent": "Naomi Osaka",
+    "opponentSlug": "naomi-osaka",
+    "court": "TBD",
+    "session": "TBD",
+    "matchId": "m15"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Elise_Mertens_%282024_DC_Open%29_06_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "localPath": "img/players/elise-mertens.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AElise_Mertens_%282024_DC_Open%29_06_%28cropped%29.jpg",
+    "title": "File:Elise_Mertens_(2024_DC_Open)_06_(cropped).jpg",
+    "bytes": 30957,
+    "width": 424,
+    "height": 600
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Elise_Mertens",
+    "https://www.tennismajors.com/wta-tour-news/elise-mertens-tennis-belgium-doubles-sabalenka-clijsters-who-is-questions-329467.html",
+    "https://osakaworld.com/en-gb/blogs/athletes/elise-mertens",
+    "https://www.wtatennis.com/news/4571786/osaka-recovers-after-second-set-dip-to-defeat-siniakova-at-us-open",
+    "https://www.wtatennis.com/news/4287076/mertens",
+    "https://en.wikipedia.org/wiki/2026_Australian_Open_%E2%80%93_Women%27s_doubles"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-04T17:14:15Z",
+  "factCheck": {
+    "checkedAt": "2026-09-04T18:30:00Z",
+    "notes": [
+      "Birth date, height, plays, ranking 20, seed 23, opponent Osaka (m15), parents' jobs, sister Lauren (pilot), homeschooling, three languages, Clijsters academy, doubles No.1, 10 singles titles all confirmed via Wikipedia + schedule.json.",
+      "Six Grand Slam doubles titles confirmed (2019 USO, 2021 AO, 2021 W, 2024 AO, 2025 W, 2026 AO) with Sabalenka, Hsieh, Kudermetova, Zhang Shuai.",
+      "Dog count conflicts: her own osakaworld Q&A says 8 shelter dogs; Tennis Majors says 4 dogs plus birds. Number removed.",
+      "The 11-match-point save was at the 2025 Libema Open semifinal ('s-Hertogenbosch), not summer 2026; reworded to 'last summer'.",
+      "Tattoo (green, left wrist, for collie Bo, colour of hope, strength on ball toss) confirmed at osakaworld.",
+      "Hometown Hamont-Achel is her residence (born Leuven) per Tennis Majors."
+    ],
+    "changes": [
+      "Removed '8 rescue dogs' number (conflicting sources).",
+      "Fixed story timing of 11-match-point title (2025, Netherlands).",
+      "Added Australian Open 2026 doubles title to story.",
+      "Clarified 'four different partners' in doubles fact."
+    ]
+  }
+}

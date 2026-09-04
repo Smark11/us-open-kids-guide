@@ -1,0 +1,74 @@
+{
+  "slug": "anastasia-potapova",
+  "name": "Anastasia Potapova",
+  "country": "AT",
+  "countryName": "Austria",
+  "flagEmoji": "🇦🇹",
+  "birthDate": "2001-03-30",
+  "age": 25,
+  "seed": 24,
+  "ranking": 25,
+  "draw": "women",
+  "tier": 1,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 175,
+  "hometown": "Vienna, Austria (born in Saratov, Russia)",
+  "nicknameOrTagline": "Big Swings, Big Smile",
+  "intro": "Anastasia Potapova plays for Austria and lives in Vienna. She was born in Russia. She swings at the ball with all her might.",
+  "story": "At 15, Anastasia won the junior title at Wimbledon. She became the No. 1 junior in the world. As a pro she has won three titles. This year she got into a big Madrid event as a lucky loser. Then she surprised everyone by reaching the semifinals!",
+  "funFacts": [
+    {
+      "text": "She travels to tournaments with her little dog. She says the dog brings her luck.",
+      "source": "https://www.puntodebreak.com/en/2026/05/24/potapovas-dog-protagonist-at-roland-garros"
+    },
+    {
+      "text": "She loves fashion, especially fancy handbags.",
+      "source": "https://tennistonic.com/tennis-news/1028538/if-im-not-gonna-look-good-on-court-if-im-not-going-to-play-good-potapova-explains-how-self-care-fuels-performance/"
+    },
+    {
+      "text": "She tells stories with sound effects, like 'Woosh!' and 'Boom!'",
+      "source": "https://www.tennis.com/news/articles/anastasia-potapova-burnout-new-coach-coco-gauff-montreal"
+    },
+    {
+      "text": "Her grandmother coached a basketball team in Russia.",
+      "source": "https://www.tennis.com/news/articles/anastasia-potapova-burnout-new-coach-coco-gauff-montreal"
+    },
+    {
+      "text": "She won Wimbledon's junior girls' title in 2016.",
+      "source": "https://en.wikipedia.org/wiki/Anastasia_Potapova"
+    },
+    {
+      "text": "She says Vienna feels like home, so she now plays for Austria.",
+      "source": "https://www.tennis.com/news/articles/anastasia-potapova-changes-sporting-nationality-to-austria-ahead-of-2026-tennis-season"
+    },
+    {
+      "text": "She won a title in Linz, Austria, in 2023.",
+      "source": "https://en.wikipedia.org/wiki/Anastasia_Potapova"
+    }
+  ],
+  "watchFor": "Watch her giant swings. She winds up big on every forehand. Then she hits it super hard.",
+  "matchTomorrow": {
+    "opponent": "Amanda Anisimova",
+    "opponentSlug": "amanda-anisimova",
+    "court": "TBD",
+    "session": "TBD",
+    "matchId": "m10"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Day_9_-_Transylvania_Open_Women%27s_Singles_Final_ceremony_-_Anna_Potapova_Lucia_Bronzetti_%2854318974077%29.jpg",
+    "localPath": "img/players/anastasia-potapova.jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "Nuță Lucian from Cluj-Napoca, Romania",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ADay_9_-_Transylvania_Open_Women%27s_Singles_Final_ceremony_-_Anna_Potapova_Lucia_Bronzetti_%2854318974077%29.jpg",
+    "title": "File:Day_9_-_Transylvania_Open_Women's_Singles_Final_ceremony_-_Anna_Potapova_Lucia_Bronzetti_(54318974077).jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Anastasia_Potapova",
+    "https://www.tennis.com/news/articles/anastasia-potapova-burnout-new-coach-coco-gauff-montreal",
+    "https://www.tennis.com/news/articles/anastasia-potapova-changes-sporting-nationality-to-austria-ahead-of-2026-tennis-season",
+    "https://www.puntodebreak.com/en/2026/05/24/potapovas-dog-protagonist-at-roland-garros",
+    "https://tennistonic.com/tennis-news/1028538/if-im-not-gonna-look-good-on-court-if-im-not-going-to-play-good-potapova-explains-how-self-care-fuels-performance/"
+  ],
+  "verified": false,
+  "researchedAt": "2026-09-04T17:16:31+00:00"
+}

@@ -1,0 +1,73 @@
+{
+  "slug": "alejandro-tabilo",
+  "name": "Alejandro Tabilo",
+  "country": "CL",
+  "countryName": "Chile",
+  "flagEmoji": "🇨🇱",
+  "birthDate": "1997-06-02",
+  "age": 29,
+  "seed": 25,
+  "ranking": 28,
+  "draw": "men",
+  "tier": 1,
+  "plays": "Left-handed, two-handed backhand",
+  "heightCm": 188,
+  "hometown": "Santiago, Chile (born in Toronto, Canada)",
+  "nicknameOrTagline": "Jano",
+  "intro": "Alejandro Tabilo is a lefty from Chile. His friends call him Jano. He was born in Canada. He plays for Chile, his parents' home.",
+  "story": "Jano started tennis by copying his big brother Sebastian. At 13 he left home to train in Florida. Later he moved to Chile and became the country's best player. In 2024 he shocked the world by beating Novak Djokovic in Rome. He did it again in 2025!",
+  "funFacts": [
+    {
+      "text": "His secret talent is chess.",
+      "source": "https://www.atptour.com/en/players/alejandro-tabilo/te30/bio"
+    },
+    {
+      "text": "His favorite food is popcorn. His guilty pleasure is ice cream.",
+      "source": "https://www.atptour.com/en/players/alejandro-tabilo/te30/bio"
+    },
+    {
+      "text": "Favorite school subject? Gym class, of course.",
+      "source": "https://www.atptour.com/en/players/alejandro-tabilo/te30/bio"
+    },
+    {
+      "text": "He was born in Toronto, Canada. His parents are both from Chile.",
+      "source": "https://en.wikipedia.org/wiki/Alejandro_Tabilo"
+    },
+    {
+      "text": "He beat world No. 1 Novak Djokovic in Rome in 2024.",
+      "source": "https://en.wikipedia.org/wiki/Alejandro_Tabilo"
+    },
+    {
+      "text": "His favorite shot is the drop shot. His idol is lefty Rafael Nadal.",
+      "source": "https://www.atptour.com/en/players/alejandro-tabilo/te30/bio"
+    },
+    {
+      "text": "His favorite superhero is Superman.",
+      "source": "https://www.atptour.com/en/players/alejandro-tabilo/te30/bio"
+    }
+  ],
+  "watchFor": "He is a lefty! Watch his serve curve out wide. Then spot his sneaky drop shot.",
+  "matchTomorrow": {
+    "opponent": "Alexander Zverev",
+    "opponentSlug": "alexander-zverev",
+    "court": "TBD",
+    "session": "TBD",
+    "matchId": "m1"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Tabilo_RGQ23_%2852942983162%29.jpg",
+    "localPath": "img/players/alejandro-tabilo.jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "si.robi",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ATabilo_RGQ23_%2852942983162%29.jpg",
+    "title": "File:Tabilo_RGQ23_(52942983162).jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Alejandro_Tabilo",
+    "https://www.atptour.com/en/players/alejandro-tabilo/te30/bio",
+    "https://www.tennismajors.com/atp/chile-canada-djokovic-everything-you-always-wanted-to-know-about-alejandro-tabilo-but-never-had-time-to-find-out-760301.html",
+    "https://www.tennis-prose.com/bios/biofile-alejandro-tabilo-interview/"
+  ],
+  "verified": false,
+  "researchedAt": "2026-09-04T17:16:31+00:00"
+}

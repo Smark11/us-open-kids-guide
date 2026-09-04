@@ -1,0 +1,75 @@
+{
+  "slug": "learner-tien",
+  "name": "Learner Tien",
+  "country": "US",
+  "countryName": "United States",
+  "flagEmoji": "🇺🇸",
+  "birthDate": "2005-12-02",
+  "age": 20,
+  "seed": 14,
+  "ranking": 15,
+  "draw": "men",
+  "tier": 2,
+  "plays": "Left-handed, two-handed backhand",
+  "heightCm": 180,
+  "hometown": "Irvine, California, United States",
+  "nicknameOrTagline": "The Quiet Problem Solver",
+  "intro": "Learner Tien is a lefty from Irvine, California. He is 20 and already a top-15 player. He is quiet, calm, and very hard to beat in long rallies.",
+  "story": "Learner first held a racket when he was one and a half. His dad was his first coach on Irvine's community courts. He started high school at 11. He played one semester of college tennis, then turned pro. This year he reached the Australian Open quarterfinals. His coach is former champion Michael Chang.",
+  "funFacts": [
+    {
+      "text": "His mom was a math teacher, so his parents named him Learner.",
+      "source": "https://en.wikipedia.org/wiki/Learner_Tien"
+    },
+    {
+      "text": "His dad is a lawyer, so his sister is named Justice.",
+      "source": "https://en.wikipedia.org/wiki/Learner_Tien"
+    },
+    {
+      "text": "He plays Fortnite with fellow pro Alex Michelsen.",
+      "source": "https://www.tennis.com/news/articles/learner-tien-19-rafael-nadal-australian-open"
+    },
+    {
+      "text": "His guilty pleasure is candy. His favorite school subject was English.",
+      "source": "https://www.atptour.com/en/news/learner-tien-us-open-2023-five-things-to-know"
+    },
+    {
+      "text": "His favorite movie is Gladiator.",
+      "source": "https://www.atptour.com/en/news/learner-tien-us-open-2023-five-things-to-know"
+    },
+    {
+      "text": "He started high school at 11 and a half years old.",
+      "source": "https://www.atptour.com/en/news/learner-tien-us-open-2023-five-things-to-know"
+    },
+    {
+      "text": "He once beat Daniil Medvedev in a match that ended around 3 a.m.",
+      "source": "https://www.tennis.com/news/articles/learner-tien-19-rafael-nadal-australian-open"
+    }
+  ],
+  "watchFor": "Watch how calm he stays: smooth lefty shots and sneaky slice forehands that slide low.",
+  "matchTomorrow": {
+    "opponent": "Jakub Mensik",
+    "opponentSlug": "jakub-mensik",
+    "court": "TBD",
+    "session": "TBD",
+    "matchId": "m6"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Learner_Tien_%282024_US_Open%29_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "localPath": "img/players/learner-tien.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ALearner_Tien_%282024_US_Open%29_04.jpg",
+    "title": "File:Learner_Tien_(2024_US_Open)_04.jpg",
+    "bytes": 41598,
+    "width": 450,
+    "height": 600
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Learner_Tien",
+    "https://www.atptour.com/en/news/learner-tien-us-open-2023-five-things-to-know",
+    "https://www.tennis.com/news/articles/learner-tien-19-rafael-nadal-australian-open"
+  ],
+  "verified": false,
+  "researchedAt": "2026-09-04T17:10:24+00:00"
+}

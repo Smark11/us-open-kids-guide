@@ -1,0 +1,72 @@
+{
+  "slug": "amanda-anisimova",
+  "name": "Amanda Anisimova",
+  "country": "US",
+  "countryName": "United States",
+  "flagEmoji": "🇺🇸",
+  "birthDate": "2001-08-31",
+  "age": 25,
+  "seed": 10,
+  "ranking": 10,
+  "draw": "women",
+  "tier": 1,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 180,
+  "hometown": "Freehold Township, New Jersey, United States",
+  "nicknameOrTagline": "The Comeback Painter",
+  "intro": "Amanda Anisimova is an American star from New Jersey. She hits one of the hardest backhands in tennis. Last year she reached the US Open final in New York!",
+  "story": "Amanda started tennis at age five. She copied her big sister Maria. At 17 she reached the semifinals of the French Open. Then she took a break from tennis to rest her mind. She came back stronger than ever and climbed to No. 3 in the world.",
+  "funFacts": [
+    {
+      "text": "She won the US Open junior title in 2017. She beat Coco Gauff in the final!",
+      "source": "https://en.wikipedia.org/wiki/Amanda_Anisimova"
+    },
+    {
+      "text": "She loves to paint. She sold her paintings in a New York gallery to help charities.",
+      "source": "https://www.wtatennis.com/news/3844595/amanda-anisimova"
+    },
+    {
+      "text": "Her favorite artist is Vincent van Gogh.",
+      "source": "https://www.olympics.com/en/news/amanda-anisimova-top-facts-usa-tennis-star"
+    },
+    {
+      "text": "During her break, she fostered a dog. She took road trips with friends.",
+      "source": "https://www.olympics.com/en/news/amanda-anisimova-top-facts-usa-tennis-star"
+    },
+    {
+      "text": "During her time off, she went to college in Florida for a semester.",
+      "source": "https://www.wtatennis.com/news/3844595/amanda-anisimova"
+    },
+    {
+      "text": "Her parents moved from Russia to America before she was born.",
+      "source": "https://en.wikipedia.org/wiki/Amanda_Anisimova"
+    },
+    {
+      "text": "She won two big titles in 2025, in Qatar and Beijing.",
+      "source": "https://en.wikipedia.org/wiki/Amanda_Anisimova"
+    }
+  ],
+  "watchFor": "Watch her two-handed backhand. She crushes it flat and hard. It often lands right on the line.",
+  "matchTomorrow": {
+    "opponent": "Anastasia Potapova",
+    "opponentSlug": "anastasia-potapova",
+    "court": "TBD",
+    "session": "TBD",
+    "matchId": "m10"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Amanda_Anisimova_%282024_DC_Open%29_05_%28cropped4%29.jpg",
+    "localPath": "img/players/amanda-anisimova.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AAmanda_Anisimova_%282024_DC_Open%29_05_%28cropped4%29.jpg",
+    "title": "File:Amanda_Anisimova_(2024_DC_Open)_05_(cropped4).jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Amanda_Anisimova",
+    "https://www.wtatennis.com/news/3844595/amanda-anisimova",
+    "https://www.olympics.com/en/news/amanda-anisimova-top-facts-usa-tennis-star"
+  ],
+  "verified": false,
+  "researchedAt": "2026-09-04T17:16:31+00:00"
+}

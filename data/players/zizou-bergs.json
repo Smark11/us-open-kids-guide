@@ -1,0 +1,90 @@
+{
+  "slug": "zizou-bergs",
+  "name": "Zizou Bergs",
+  "country": "BE",
+  "countryName": "Belgium",
+  "flagEmoji": "🇧🇪",
+  "birthDate": "1999-06-03",
+  "age": 27,
+  "seed": 31,
+  "ranking": 37,
+  "draw": "men",
+  "tier": 2,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 185,
+  "hometown": "Lommel, Belgium",
+  "nicknameOrTagline": "Where is the party?",
+  "intro": "Zizou Bergs is a fun-loving player from Belgium. He is 27. This summer he became the first Belgian man to win a title on grass. He loves to get the crowd cheering.",
+  "story": "Zizou's parents thought they were having a girl. When a boy came, they needed a name fast. His dad's soccer nickname was Zizou, after the French star Zinedine Zidane. So Zizou it was! He started tennis lessons at age three. His grandpa traveled to his tournaments and helped him plan for matches. At the French Open he led the crowd in a chant. He yelled, Where is the party? The fans yelled back, Here is the party!",
+  "funFacts": [
+    {
+      "text": "He is named after soccer legend Zinedine Zidane, whose nickname is Zizou.",
+      "source": "https://www.atptour.com/en/news/bergs-roland-garros-2024-feature"
+    },
+    {
+      "text": "His parents expected a girl, so they had no boy names ready when he was born.",
+      "source": "https://www.atptour.com/en/news/bergs-roland-garros-2024-feature"
+    },
+    {
+      "text": "His friends talked him into making TikTok videos back in 2020.",
+      "source": "https://www.claytenis.com/interviews/interview-with-zizou-bergs/"
+    },
+    {
+      "text": "His mom is a photographer. His dad works for a train company.",
+      "source": "https://en.wikipedia.org/wiki/Zizou_Bergs"
+    },
+    {
+      "text": "He has a brother named Maxim.",
+      "source": "https://en.wikipedia.org/wiki/Zizou_Bergs"
+    },
+    {
+      "text": "French fans cheer for him because they loved the first Zizou, Zinedine Zidane.",
+      "source": "https://www.tennis.com/baseline/articles/watch-zizou-bergs-where-is-party-roland-garros-breakthrough-zinedine-zidane-nickname"
+    },
+    {
+      "text": "He won his first big title on grass in Eastbourne, England.",
+      "source": "https://en.wikipedia.org/wiki/Zizou_Bergs"
+    }
+  ],
+  "watchFor": "Watch how he fires up the crowd after big points. He might even get them chanting.",
+  "matchTomorrow": {
+    "opponent": "Botic van de Zandschulp",
+    "opponentSlug": "botic-van-de-zandschulp",
+    "court": "TBD",
+    "session": "TBD",
+    "matchId": "m4"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Zizou_Bergs_%282023_US_Open%29_03_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "localPath": "img/players/zizou-bergs.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AZizou_Bergs_%282023_US_Open%29_03_%28cropped%29.jpg",
+    "title": "File:Zizou_Bergs_(2023_US_Open)_03_(cropped).jpg",
+    "bytes": 42264,
+    "width": 399,
+    "height": 600
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Zizou_Bergs",
+    "https://www.atptour.com/en/news/bergs-roland-garros-2024-feature",
+    "https://www.tennis.com/baseline/articles/watch-zizou-bergs-where-is-party-roland-garros-breakthrough-zinedine-zidane-nickname",
+    "https://www.claytenis.com/interviews/interview-with-zizou-bergs/"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-04T17:14:15Z",
+  "factCheck": {
+    "checkedAt": "2026-09-04T18:30:00Z",
+    "notes": [
+      "Birth date, Lommel, 185 cm, plays, seed 31, ranking 37 (schedule.json; Wikipedia showed 33 on 10 Aug), opponent van de Zandschulp (m4), parents' jobs, brother Maxim, started at 3, Eastbourne 2026 title as first Belgian ATP grass title all confirmed.",
+      "Name story (father's football nickname, parents expected a girl) confirmed at ATP feature; grandfather travelling to tournaments and analysing matches confirmed at claytenis; 'Where is the party?' chant at Roland Garros 2024 confirmed at tennis.com.",
+      "TikTok: claytenis confirms he started in 2020 on friends' urging and later took a break; reworded to avoid claiming he currently posts."
+    ],
+    "changes": [
+      "Deleted 'silly dance went viral' fact (twerking story) and 'very ridiculous' quote from the same article; removed that URL from sources.",
+      "Added two sourced replacement facts (girl names, French fans).",
+      "Reworded TikTok fact.",
+      "Reworded watchFor to a supportable claim."
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "slug": "nikola-bartunkova",
+  "name": "Nikola Bartůňková",
+  "country": "CZ",
+  "countryName": "Czechia",
+  "flagEmoji": "🇨🇿",
+  "birthDate": "2006-02-25",
+  "age": 20,
+  "seed": null,
+  "ranking": 34,
+  "draw": "women",
+  "tier": 1,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 184,
+  "hometown": "Prague, Czechia",
+  "nicknameOrTagline": "Drop-shot dynamo",
+  "intro": "Nikola Bartůňková is a 20-year-old from Prague, Czechia. She is one of the newest stars in tennis. She loves tricky drop shots and rushing to the net.",
+  "story": "Nikola's dad is a tennis coach. He put a racket in her hands when she was tiny. As a junior she reached the Wimbledon girls' final. She had a tough stretch and came back stronger. This year she beat a top-10 player at her very first Grand Slam. Now she is in the top 40.",
+  "funFacts": [
+    {
+      "text": "Her dad is her coach. Her mom learned tennis as a grown-up.",
+      "source": "https://www.babolat.com/gb/heroes-players-blog-nikola-bartunkova/nikola-bartunkova.html"
+    },
+    {
+      "text": "Her big sister played tennis too.",
+      "source": "https://www.babolat.com/gb/heroes-players-blog-nikola-bartunkova/nikola-bartunkova.html"
+    },
+    {
+      "text": "She loves skiing and biking when she has free time.",
+      "source": "https://www.babolat.com/gb/heroes-players-blog-nikola-bartunkova/nikola-bartunkova.html"
+    },
+    {
+      "text": "Her favorite players to watch are Carlos Alcaraz and Roger Federer.",
+      "source": "https://www.babolat.com/gb/heroes-players-blog-nikola-bartunkova/nikola-bartunkova.html"
+    },
+    {
+      "text": "She says she plays 'Federer style, Alcaraz style' with lots of tricks.",
+      "source": "https://ausopen.com/articles/news/bartunkova-making-most-sliding-doors-moment"
+    },
+    {
+      "text": "She is 6 feet tall and loves reading and Netflix shows.",
+      "source": "https://www.babolat.com/gb/heroes-players-blog-nikola-bartunkova/nikola-bartunkova.html"
+    },
+    {
+      "text": "Her motto: 'I hate to lose, but I never give up.'",
+      "source": "https://www.babolat.com/gb/heroes-players-blog-nikola-bartunkova/nikola-bartunkova.html"
+    }
+  ],
+  "watchFor": "Watch for her sneaky drop shots, then a dash to the net for a volley.",
+  "matchTomorrow": {
+    "opponent": "Mirra Andreeva",
+    "opponentSlug": "mirra-andreeva",
+    "court": "TBD",
+    "session": "TBD",
+    "matchId": "m9"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Nikola_Bart%C5%AF%C5%88kov%C3%A1_Birmingham_2026_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "localPath": "img/players/nikola-bartunkova.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Daniel Cooper derivative work: Kacir",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ANikola_Bart%C5%AF%C5%88kov%C3%A1_Birmingham_2026_%28cropped%29.jpg",
+    "title": "File:Nikola_Bartůňková_Birmingham_2026_(cropped).jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nikola_Bart%C5%AF%C5%88kov%C3%A1",
+    "https://www.babolat.com/gb/heroes-players-blog-nikola-bartunkova/nikola-bartunkova.html",
+    "https://ausopen.com/articles/news/bartunkova-making-most-sliding-doors-moment"
+  ],
+  "verified": false,
+  "researchedAt": "2026-09-04T17:11:02Z"
+}

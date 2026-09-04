@@ -1,0 +1,72 @@
+{
+  "slug": "cristina-bucsa",
+  "name": "Cristina Bucșa",
+  "country": "ES",
+  "countryName": "Spain",
+  "flagEmoji": "🇪🇸",
+  "birthDate": "1998-01-01",
+  "age": 28,
+  "seed": null,
+  "ranking": 40,
+  "draw": "women",
+  "tier": 1,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 176,
+  "hometown": "Torrelavega, Spain (born in Chișinău, Moldova)",
+  "nicknameOrTagline": "The Quiet Olympian",
+  "intro": "Cristina Bucșa plays for Spain. She was born in Moldova and moved to Spain at age three. She won an Olympic bronze medal in doubles in 2024.",
+  "story": "Cristina's dad Ion was an Olympic skier and shooter. He carried Moldova's flag at two Winter Olympics! Now he is her coach. Cristina won a regional title at age seven. This year she won her first big singles title in Mexico. Tomorrow she faces Coco Gauff.",
+  "funFacts": [
+    {
+      "text": "Her birthday is January 1. She is a New Year's baby!",
+      "source": "https://en.wikipedia.org/wiki/Cristina_Buc%C8%99a"
+    },
+    {
+      "text": "She speaks four languages: Spanish, Romanian, English and French. She is learning Korean too.",
+      "source": "https://www.wtatennis.com/news/4301091/from-no-shoes-to-finding-her-footing-bucsa-is-moving-up-at-wimbledon"
+    },
+    {
+      "text": "She has a blue belt in karate.",
+      "source": "https://www.wtatennis.com/news/4301091/from-no-shoes-to-finding-her-footing-bucsa-is-moving-up-at-wimbledon"
+    },
+    {
+      "text": "She once played Wimbledon in too-big shoes stuffed with socks. She still won!",
+      "source": "https://www.wtatennis.com/news/4301091/from-no-shoes-to-finding-her-footing-bucsa-is-moving-up-at-wimbledon"
+    },
+    {
+      "text": "She has no Instagram or TikTok. She says she is too busy.",
+      "source": "https://www.claytenis.com/features/cristina-bucsa-when-spains-no-1-doesnt-want-you-to-find-her/"
+    },
+    {
+      "text": "At home she can ski in the morning. Then swim in the sea after lunch.",
+      "source": "https://www.claytenis.com/features/cristina-bucsa-when-spains-no-1-doesnt-want-you-to-find-her/"
+    },
+    {
+      "text": "She won an Olympic bronze medal in doubles at Paris 2024.",
+      "source": "https://en.wikipedia.org/wiki/Cristina_Buc%C8%99a"
+    }
+  ],
+  "watchFor": "Watch how she rushes to the net. She is a doubles champ, so she loves quick volleys.",
+  "matchTomorrow": {
+    "opponent": "Coco Gauff",
+    "opponentSlug": "coco-gauff",
+    "court": "TBD",
+    "session": "TBD",
+    "matchId": "m12"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Cristina_Buc%C8%99a_%282025_DC_Open%29_03_%28cropped%29.jpg",
+    "localPath": "img/players/cristina-bucsa.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ACristina_Buc%C8%99a_%282025_DC_Open%29_03_%28cropped%29.jpg",
+    "title": "File:Cristina_Bucșa_(2025_DC_Open)_03_(cropped).jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cristina_Buc%C8%99a",
+    "https://www.wtatennis.com/news/4301091/from-no-shoes-to-finding-her-footing-bucsa-is-moving-up-at-wimbledon",
+    "https://www.claytenis.com/features/cristina-bucsa-when-spains-no-1-doesnt-want-you-to-find-her/"
+  ],
+  "verified": false,
+  "researchedAt": "2026-09-04T17:16:31+00:00"
+}

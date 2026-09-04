@@ -1,0 +1,93 @@
+{
+  "slug": "arthur-gea",
+  "name": "Arthur Géa",
+  "country": "FR",
+  "countryName": "France",
+  "flagEmoji": "🇫🇷",
+  "birthDate": "2005-01-02",
+  "age": 21,
+  "seed": null,
+  "ranking": 87,
+  "draw": "men",
+  "tier": 3,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 180,
+  "hometown": "Velleron, France",
+  "nicknameOrTagline": "Lucky Loser, Big Winner",
+  "intro": "Arthur Géa is a young player from a tiny village in France. He almost did not get into this tournament. Now he is one of its best stories.",
+  "story": "Arthur lost in the last round of qualifying. Then another player got hurt, so Arthur took his spot. That is called a 'lucky loser.' He won a five-set match in round one. Then he won again. His whole village is cheering back home.",
+  "funFacts": [
+    {
+      "text": "He got into the US Open as a 'lucky loser' after another player pulled out.",
+      "source": "https://www.atptour.com/en/news/ruud-us-open-2026-withdrawal"
+    },
+    {
+      "text": "He played soccer first, like his dad. Then he switched to tennis at seven.",
+      "source": "https://www.atptour.com/en/news/arthur-gea-los-cabos-2026-first-time-winner"
+    },
+    {
+      "text": "He says his heroes are his parents, Cécile and Christophe.",
+      "source": "https://www.atptour.com/en/players/arthur-gea/g0ix/bio"
+    },
+    {
+      "text": "His hobby is taking ice baths. His guilty pleasure is pasta.",
+      "source": "https://www.atptour.com/en/players/arthur-gea/g0ix/bio"
+    },
+    {
+      "text": "His favorite superhero is Iron Man. His favorite movie is Top Gun: Maverick.",
+      "source": "https://www.atptour.com/en/players/arthur-gea/g0ix/bio"
+    },
+    {
+      "text": "He loves to go fishing.",
+      "source": "https://espndeportes.espn.com/tenis/nota/_/id/16201950/quien-es-arthur-gea-rival-stan-wawrinka-australian-open-segunda-ronda"
+    },
+    {
+      "text": "He won his first big title in Los Cabos, Mexico, this summer. He beat Michael Zheng there!",
+      "source": "https://www.atptour.com/en/news/arthur-gea-los-cabos-2026-first-time-winner"
+    }
+  ],
+  "watchFor": "Watch his big forehand, his favorite shot. He says he smiles a lot on court, and his tennis idol is Rafael Nadal.",
+  "matchTomorrow": {
+    "opponent": "Michael Zheng",
+    "opponentSlug": "michael-zheng",
+    "court": "TBD",
+    "session": "TBD",
+    "matchId": "m3"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Gea_RGQ23_%2852944097158%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "localPath": "img/players/arthur-gea.jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "si.robi",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AGea_RGQ23_%2852944097158%29.jpg",
+    "title": "File:Gea_RGQ23_(52944097158).jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Arthur_G%C3%A9a",
+    "https://www.atptour.com/en/players/arthur-gea/g0ix/bio",
+    "https://www.atptour.com/en/news/arthur-gea-los-cabos-2026-first-time-winner",
+    "https://www.tennisactu.net/news-us-open-arthur-gea-fait-vibrer-velleron-tout-le-monde-doit-etre-bourre-126793.html",
+    "https://www.ici.fr/provence-alpes-cote-d-azur/vaucluse-84/velleron/c-est-incroyable-le-tennisman-arthur-gea-decroche-son-premier-grand-titre-et-entre-dans-le-top-100-mondial-4140084",
+    "https://espndeportes.espn.com/tenis/nota/_/id/16201950/quien-es-arthur-gea-rival-stan-wawrinka-australian-open-segunda-ronda",
+    "https://www.atptour.com/en/news/ruud-us-open-2026-withdrawal",
+    "https://sports.orange.fr/tennis/atp/article/atp-gea-lache-par-son-coach-exclu-CNT000002qFvZt.html"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-04T13:13:10-04:00",
+  "factCheck": {
+    "checkedAt": "2026-09-04T13:18:35-04:00",
+    "notes": [
+      "Born 2 Jan 2005 in Carpentras, 180 cm, right-handed/two-handed backhand, Los Cabos 2026 title (final vs Shapovalov): en.wikipedia.org/wiki/Arthur_Géa. Beat Michael Zheng en route in Los Cabos: atptour.com Los Cabos feature.",
+      "Grew up in Velleron, began tennis at 7, R1 win over J.M. Cerundolo, village gathers at a bar to watch: tennisactu.net. R1 score 3-6 6-2 6-3 3-6 1-6 (five sets) per tennis.com/Sofascore listings.",
+      "Lucky loser replacing Casper Ruud: atptour.com Ruud withdrawal article (tennistemple.com returned 403, source swapped).",
+      "Dad was a footballer and he started with football: ATP Los Cabos feature; started tennis at 7: ATP bio + tennisactu.",
+      "Heroes parents Cecile and Christophe, ice baths, pasta, Iron Man, Top Gun Maverick, favourite shot forehand, idol Nadal: atptour.com bio.",
+      "Fishing: ESPN Deportes ('apasionado por la pesca') and Orange Sports ('la passion de la pêche') - two sources.",
+      "Ranking 87 / no seed / opponent Zheng match schedule.json."
+    ],
+    "changes": [
+      "watchFor: removed inferred 'loud fist pumps like his hero Rafael Nadal'; replaced with documented favourite shot (forehand, ATP bio), smiling on court (ATP Los Cabos feature) and Nadal as idol (ATP bio).",
+      "Lucky-loser fact: source changed from tennistemple.com (403) to atptour.com."
+    ]
+  }
+}

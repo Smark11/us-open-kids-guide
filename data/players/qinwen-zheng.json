@@ -1,0 +1,92 @@
+{
+  "slug": "qinwen-zheng",
+  "name": "Zheng Qinwen",
+  "country": "CN",
+  "countryName": "China",
+  "flagEmoji": "🇨🇳",
+  "birthDate": "2002-10-08",
+  "age": 23,
+  "seed": null,
+  "ranking": 121,
+  "draw": "women",
+  "tier": 2,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 178,
+  "hometown": "Shiyan, China",
+  "nicknameOrTagline": "Queen Wen",
+  "intro": "Zheng Qinwen is an Olympic champion from China. She is 23. In China her family name comes first, so friends call her Qinwen. She won the gold medal at the 2024 Paris Olympics. Fans call her Queen Wen.",
+  "story": "Qinwen grew up in a city called Shiyan. At age eight she moved away from home to train in a bigger city. Her mom quit her job to help her. At eleven she watched Li Na win the Australian Open on TV. She says Li Na planted dream seeds inside her. Last year she hurt her elbow and could not play for many months. Her ranking dropped, so she had to play qualifying just to get into this US Open. Now she is in the third round. She says she found her fire again.",
+  "funFacts": [
+    {
+      "text": "She loves roller coasters. The highest point makes her feel free.",
+      "source": "https://www.tennis.com/baseline/articles/zheng-qinwen-rollercoasters-karaoke-blackpink-coco-gauff-2023-us-open"
+    },
+    {
+      "text": "She loves karaoke. She sings slow Chinese songs and even some Chinese rap.",
+      "source": "https://www.tennis.com/baseline/articles/zheng-qinwen-rollercoasters-karaoke-blackpink-coco-gauff-2023-us-open"
+    },
+    {
+      "text": "She is a big fan of the K-pop group Blackpink.",
+      "source": "https://en.wikipedia.org/wiki/Zheng_Qinwen"
+    },
+    {
+      "text": "She was the first Asian player ever to win Olympic gold in singles.",
+      "source": "https://en.wikipedia.org/wiki/Zheng_Qinwen"
+    },
+    {
+      "text": "Her forehand spun about 2,800 times a minute at the 2024 Australian Open. More than any other woman there.",
+      "source": "https://ausopen.com/articles/news/five-reasons-we-love-zheng-qinwen"
+    },
+    {
+      "text": "She lives and trains in Barcelona, Spain.",
+      "source": "https://en.wikipedia.org/wiki/Zheng_Qinwen"
+    },
+    {
+      "text": "Her hero is Li Na, the first Chinese player to win a Grand Slam.",
+      "source": "https://ausopen.com/articles/news/five-reasons-we-love-zheng-qinwen"
+    }
+  ],
+  "watchFor": "Watch her huge serve and her heavy-spinning forehand. When the ball lands, it jumps up high.",
+  "matchTomorrow": {
+    "opponent": "Madison Keys",
+    "opponentSlug": "madison-keys",
+    "court": "TBD",
+    "session": "TBD",
+    "matchId": "m14"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Zheng_Qinwen_%282024_US_Open%29_01_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "localPath": "img/players/qinwen-zheng.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AZheng_Qinwen_%282024_US_Open%29_01_%28cropped%29.jpg",
+    "title": "File:Zheng_Qinwen_(2024_US_Open)_01_(cropped).jpg",
+    "bytes": 38171,
+    "width": 459,
+    "height": 600
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Zheng_Qinwen",
+    "https://www.tennis.com/baseline/articles/zheng-qinwen-rollercoasters-karaoke-blackpink-coco-gauff-2023-us-open",
+    "https://gulfnews.com/sport/tennis/china-hails-queen-wen-the-tennis-star-who-fulfilled-a-dream-1.1727600650064",
+    "https://www.philstar.com/sports/2026/09/04/2554000/olympic-champ-zheng-back-hunt-and-us-open-third-round",
+    "https://ausopen.com/articles/news/five-reasons-we-love-zheng-qinwen"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-04T17:14:15Z",
+  "factCheck": {
+    "checkedAt": "2026-09-04T18:30:00Z",
+    "notes": [
+      "Birth date, Shiyan, 178 cm, plays, ranking 121, unseeded, opponent Keys (m14), move to Wuhan at 8, mother quit job, Barcelona base, Blackpink, first Asian singles Olympic gold all confirmed via Wikipedia + schedule.json.",
+      "2,800 rpm forehand confirmed by ausopen.com (AO 2024, higher than any other woman); source updated.",
+      "Li Na inspiration at age 11 confirmed (2014 AO final, per WTA/ausopen coverage); invented quote 'I want to do that too' replaced with her real 'dream seeds' line.",
+      "Elbow surgery was July 2025 (not 'this year'); kept to one gentle sentence. Qualifying at 2026 US Open and 'found my fire' quote confirmed at philstar.",
+      "Roller coaster and karaoke quotes confirmed at tennis.com."
+    ],
+    "changes": [
+      "Rewrote injury sentence (timing + softened).",
+      "Replaced fabricated Li Na quote.",
+      "Re-sourced and reworded 2,800 rpm fact."
+    ]
+  }
+}

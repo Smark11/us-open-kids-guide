@@ -1,0 +1,87 @@
+{
+  "slug": "coco-gauff",
+  "name": "Coco Gauff",
+  "country": "US",
+  "countryName": "United States",
+  "flagEmoji": "🇺🇸",
+  "birthDate": "2004-03-13",
+  "age": 22,
+  "seed": 4,
+  "ranking": 4,
+  "draw": "women",
+  "tier": 1,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 175,
+  "hometown": "Delray Beach, Florida, United States",
+  "nicknameOrTagline": "Coco",
+  "intro": "Coco Gauff is one of America's favorite tennis stars. She grew up in Florida and won this very tournament in 2023. She is famous for running down every ball.",
+  "story": "Coco's real name is Cori. Her dad played college basketball. Her mom ran track. They quit their jobs to help her dream. At age six she picked up a racket. At 19 she won the US Open in front of a roaring crowd. In 2025 she won the French Open too. The home crowd will be loud tomorrow!",
+  "funFacts": [
+    {
+      "text": "Her real first name is Cori. Everyone calls her Coco.",
+      "source": "https://www.nbcolympics.com/news/coco-gauff-meet-athlete"
+    },
+    {
+      "text": "She has two little brothers named Codey and Cameron.",
+      "source": "https://www.nbcolympics.com/news/coco-gauff-meet-athlete"
+    },
+    {
+      "text": "Her dream dinner is a burger, fries, and a brownie.",
+      "source": "https://www.purewow.com/entertainment/coco-gauff-us-open-2026"
+    },
+    {
+      "text": "She does not like raw tomatoes. Too squishy!",
+      "source": "https://www.purewow.com/entertainment/coco-gauff-us-open-2026"
+    },
+    {
+      "text": "She was homeschooled. As a teen she studied French and said she read it better than she spoke it.",
+      "source": "https://www.tennis.com/news/articles/gauff-unveils-new-hobbies-and-skills-with-mattek-sands"
+    },
+    {
+      "text": "She carried the American flag at the 2024 Paris Olympics. She was the youngest ever to do it.",
+      "source": "https://en.wikipedia.org/wiki/Coco_Gauff"
+    },
+    {
+      "text": "As a 16-year-old she loved TikTok dances, ping-pong, and cornhole at home.",
+      "source": "https://www.tennis.com/news/articles/gauff-unveils-new-hobbies-and-skills-with-mattek-sands"
+    }
+  ],
+  "watchFor": "Watch how fast she runs: she chases down balls nobody else could reach and turns defense into offense.",
+  "matchTomorrow": {
+    "opponent": "Cristina Bucsa",
+    "opponentSlug": "cristina-bucsa",
+    "court": "TBD",
+    "session": "TBD",
+    "matchId": "m12"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Coco_Gauff_Miami_Open.jpg",
+    "localPath": "img/players/coco-gauff.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Rick Munroe",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ACoco_Gauff_Miami_Open.jpg",
+    "title": "File:Coco_Gauff_Miami_Open.jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Coco_Gauff",
+    "https://www.nbcolympics.com/news/coco-gauff-meet-athlete",
+    "https://www.purewow.com/entertainment/coco-gauff-us-open-2026",
+    "https://www.tennis.com/news/articles/gauff-unveils-new-hobbies-and-skills-with-mattek-sands"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-04T17:30:00Z",
+  "factCheck": {
+    "checkedAt": "2026-09-04T19:00:00Z",
+    "notes": [
+      "Birth date, height, plays, started at six, parents' careers and quitting jobs, homeschooled, 2023 US Open at 19, 2025 French Open, youngest US flag bearer 2024 confirmed via Wikipedia; brothers Codey/Cameron via NBC Olympics; food facts via PureWow (Aug 28, 2026).",
+      "Wikipedia gives birthplace Boca Raton and residence Delray Beach (family moved there at age 7); hometown field kept as Delray Beach.",
+      "Seed 4 / rank 4 / opponent Bucsa match schedule.json and current WTA rankings."
+    ],
+    "changes": [
+      "Intro: 'America's tennis sweetheart' -> 'one of America's favorite tennis stars' (opinion softened).",
+      "Story: 'Her hometown fans' -> 'The home crowd' (she is from Florida, match is in New York).",
+      "Facts 5 and 7 rewritten in past tense because the source is from April 2020.",
+      "watchFor: removed unsourced 'points to the sky after big wins'."
+    ]
+  }
+}

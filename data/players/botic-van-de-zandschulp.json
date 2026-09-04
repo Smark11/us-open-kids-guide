@@ -1,0 +1,86 @@
+{
+  "slug": "botic-van-de-zandschulp",
+  "name": "Botic van de Zandschulp",
+  "country": "NL",
+  "countryName": "Netherlands",
+  "flagEmoji": "🇳🇱",
+  "birthDate": "1995-10-04",
+  "age": 30,
+  "seed": null,
+  "ranking": 70,
+  "draw": "men",
+  "tier": 2,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 191,
+  "hometown": "Wageningen, Netherlands",
+  "nicknameOrTagline": "The giant-slayer",
+  "intro": "Botic van de Zandschulp is a tall player from the Netherlands. He is 30. He is famous for beating the biggest stars at the US Open. Say his name BO-tik van de ZAND-skulp.",
+  "story": "Botic started tennis at age four. He took a long time to get famous. In 2021 he came to New York for the very first time. He had to win three matches just to get in. Then he kept winning, all the way to the quarterfinals! In 2024 he beat superstar Carlos Alcaraz here. This week he beat the number six seed. New York is his lucky city.",
+  "funFacts": [
+    {
+      "text": "His last name means 'from a sandy seashell' in Dutch.",
+      "source": "https://supersport.com/football/general/news/6d2d6f72-85f6-4748-b96a-e4b8f06b7e49/three-things-to-know-about-botic-van-de-zandschulp"
+    },
+    {
+      "text": "He is a huge soccer fan. His team is Ajax from Amsterdam.",
+      "source": "https://www.atptour.com/en/players/botic-van-de-zandschulp/v812/bio"
+    },
+    {
+      "text": "His favorite movie is Gladiator.",
+      "source": "https://www.atptour.com/en/players/botic-van-de-zandschulp/v812/bio"
+    },
+    {
+      "text": "He has a brother named Melvin.",
+      "source": "https://www.atptour.com/en/players/botic-van-de-zandschulp/v812/bio"
+    },
+    {
+      "text": "His first trip to America ended in the US Open quarterfinals.",
+      "source": "https://www.atptour.com/en/players/botic-van-de-zandschulp/v812/bio"
+    },
+    {
+      "text": "He beat Carlos Alcaraz at the 2024 US Open without losing a set.",
+      "source": "https://en.wikipedia.org/wiki/Botic_van_de_Zandschulp"
+    },
+    {
+      "text": "He was born in Wageningen, a Dutch city known for farming.",
+      "source": "https://supersport.com/football/general/news/6d2d6f72-85f6-4748-b96a-e4b8f06b7e49/three-things-to-know-about-botic-van-de-zandschulp"
+    }
+  ],
+  "watchFor": "Watch his big forehand. It is his favorite shot, and he uses it to push players around.",
+  "matchTomorrow": {
+    "opponent": "Zizou Bergs",
+    "opponentSlug": "zizou-bergs",
+    "court": "TBD",
+    "session": "TBD",
+    "matchId": "m4"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Van_de_Zandschulp_MCM22_%2811%29_%2852036444288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "localPath": "img/players/botic-van-de-zandschulp.jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "si.robi",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AVan_de_Zandschulp_MCM22_%2811%29_%2852036444288%29.jpg",
+    "title": "File:Van_de_Zandschulp_MCM22_(11)_(52036444288).jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Botic_van_de_Zandschulp",
+    "https://www.atptour.com/en/players/botic-van-de-zandschulp/v812/bio",
+    "https://supersport.com/football/general/news/6d2d6f72-85f6-4748-b96a-e4b8f06b7e49/three-things-to-know-about-botic-van-de-zandschulp",
+    "https://tenngrand.com/van-de-zandschulp-defeats-de-minaur-in-wide-open-section-of-us-open-draw/",
+    "https://www.abc.net.au/news/2026-09-04/alex-de-minaur-falls-in-straight-sets-at-us-open/107115674"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-04T17:14:15Z",
+  "factCheck": {
+    "checkedAt": "2026-09-04T18:30:00Z",
+    "notes": [
+      "Birth date, Wageningen, 191 cm, plays, ranking 70, unseeded, opponent Bergs (m4) confirmed via Wikipedia + schedule.json.",
+      "ATP bio confirms Ajax fan, favourite movie Gladiator, brother Melvin, favourite shot forehand, first trip to USA was the 2021 US Open QF run as a qualifier.",
+      "Supersport confirms name meaning ('from a sandy seashell'), started tennis at 4, Wageningen as agricultural city.",
+      "2024 straight-sets win over Alcaraz (6-1 7-5 6-4) and 2026 R2 win over No.6 seed de Minaur (6-4 7-5 6-2) confirmed (Wikipedia, ABC, tenngrand)."
+    ],
+    "changes": [
+      "Reworded 'farm town' to 'a Dutch city known for farming'."
+    ]
+  }
+}

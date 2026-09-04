@@ -1,0 +1,74 @@
+{
+  "slug": "yuliia-starodubtseva",
+  "name": "Yuliia Starodubtseva",
+  "country": "UA",
+  "countryName": "Ukraine",
+  "flagEmoji": "🇺🇦",
+  "birthDate": "2000-02-17",
+  "age": 26,
+  "seed": null,
+  "ranking": 58,
+  "draw": "women",
+  "tier": 1,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 172,
+  "hometown": "Kakhovka, Ukraine",
+  "nicknameOrTagline": "From tennis teacher to tennis star",
+  "intro": "Yuliia Starodubtseva is from Kakhovka, Ukraine. She went to college in Virginia and once worked as a tennis teacher. Now she beats top players on the biggest stages.",
+  "story": "Yuliia played college tennis at Old Dominion University in Virginia. After school, she taught tennis lessons at a club near New York City. Her friends helped her chase her pro dream. It worked! This spring she reached her first big final, and she beat a top-3 player in Paris.",
+  "funFacts": [
+    {
+      "text": "She has two college degrees, one in communication and one in sport management.",
+      "source": "https://www.wtatennis.com/news/4481787/who-is-yuliia-starodubtseva-get-to-know-the-first-time-finalist-charleston-open"
+    },
+    {
+      "text": "She taught tennis on green clay courts near New York City before turning pro.",
+      "source": "https://www.tennis.com/news/articles/the-best-thing-i-saw-at-roland-garros-today-late-bloomer-yuliia-starodubtseva-pulls-off-rybakina-upset"
+    },
+    {
+      "text": "She loves driving cars and listening to techno music.",
+      "source": "https://www.wtatennis.com/news/4481787/who-is-yuliia-starodubtseva-get-to-know-the-first-time-finalist-charleston-open"
+    },
+    {
+      "text": "She cheers for the Green Bay Packers football team.",
+      "source": "https://www.wtatennis.com/news/4481787/who-is-yuliia-starodubtseva-get-to-know-the-first-time-finalist-charleston-open"
+    },
+    {
+      "text": "In 2024 she qualified for all four Grand Slams in one year. Nobody had done that before.",
+      "source": "https://en.wikipedia.org/wiki/Yuliia_Starodubtseva"
+    },
+    {
+      "text": "Her New York friends set up a fund to help her chase her pro dream.",
+      "source": "https://www.tennis.com/news/articles/the-best-thing-i-saw-at-roland-garros-today-late-bloomer-yuliia-starodubtseva-pulls-off-rybakina-upset"
+    },
+    {
+      "text": "She started tennis at age 5, almost by accident.",
+      "source": "https://www.wtatennis.com/news/4481787/who-is-yuliia-starodubtseva-get-to-know-the-first-time-finalist-charleston-open"
+    }
+  ],
+  "watchFor": "Look for blue-and-yellow Ukrainian flags in the crowd. Watch how she stays calm and steady from the baseline, point after point.",
+  "matchTomorrow": {
+    "opponent": "Elena Rybakina",
+    "opponentSlug": "elena-rybakina",
+    "court": "TBD",
+    "session": "TBD",
+    "matchId": "m16"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Yuliia_Starodubtseva_%282023_US_Open%29_07_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "localPath": "img/players/yuliia-starodubtseva.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AYuliia_Starodubtseva_%282023_US_Open%29_07_%28cropped%29.jpg",
+    "title": "File:Yuliia_Starodubtseva_(2023_US_Open)_07_(cropped).jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Yuliia_Starodubtseva",
+    "https://www.wtatennis.com/news/4481787/who-is-yuliia-starodubtseva-get-to-know-the-first-time-finalist-charleston-open",
+    "https://www.tennis.com/news/articles/the-best-thing-i-saw-at-roland-garros-today-late-bloomer-yuliia-starodubtseva-pulls-off-rybakina-upset",
+    "https://www.wtatennis.com/players/325338/yuliia-starodubtseva",
+    "https://www.rolandgarros.com/en-us/article/2026-edition-r2-rybakina-starodubtseva"
+  ],
+  "verified": false,
+  "researchedAt": "2026-09-04T17:11:02Z"
+}

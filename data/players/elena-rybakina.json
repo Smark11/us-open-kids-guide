@@ -1,0 +1,85 @@
+{
+  "slug": "elena-rybakina",
+  "name": "Elena Rybakina",
+  "country": "KZ",
+  "countryName": "Kazakhstan",
+  "flagEmoji": "🇰🇿",
+  "birthDate": "1999-06-17",
+  "age": 27,
+  "seed": 2,
+  "ranking": 2,
+  "draw": "women",
+  "tier": 1,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 184,
+  "hometown": "Moscow, Russia · plays for Kazakhstan",
+  "nicknameOrTagline": "Ice Queen",
+  "intro": "Elena Rybakina plays for Kazakhstan and is the number 2 seed. She is six feet tall and has one of the biggest serves in women's tennis. Fans call her the Ice Queen because she stays so calm.",
+  "story": "As a little girl, Elena did gymnastics and ice skating. Then she grew too tall for those sports! So she tried tennis instead. Good choice. In 2022 she won Wimbledon. In 2026 she won the Australian Open. She was the first player from Kazakhstan ever to win a Grand Slam.",
+  "funFacts": [
+    {
+      "text": "Her serve can zoom at 127 miles per hour. That is faster than a car on the highway.",
+      "source": "https://en.wikipedia.org/wiki/Elena_Rybakina"
+    },
+    {
+      "text": "She hit 516 aces in 2025. Nobody had hit 500 in one season for nine years!",
+      "source": "https://en.wikipedia.org/wiki/Elena_Rybakina"
+    },
+    {
+      "text": "She has a beagle named Mulia and has visited animal shelters to help pets find homes.",
+      "source": "https://www.scmp.com/magazines/style/celebrity/article/3185022/meet-elena-rybakina-calm-23-year-old-who-won-wimbledon"
+    },
+    {
+      "text": "She did gymnastics and ice skating as a kid until she got too tall.",
+      "source": "https://www.scmp.com/magazines/style/celebrity/article/3185022/meet-elena-rybakina-calm-23-year-old-who-won-wimbledon"
+    },
+    {
+      "text": "She once met a kangaroo in Australia and posted the photo.",
+      "source": "https://www.scmp.com/magazines/style/celebrity/article/3185022/meet-elena-rybakina-calm-23-year-old-who-won-wimbledon"
+    },
+    {
+      "text": "She went to a regular school and practiced tennis only two hours a day.",
+      "source": "https://en.wikipedia.org/wiki/Elena_Rybakina"
+    },
+    {
+      "text": "She is shy and quiet, but she loves posting pictures of desserts.",
+      "source": "https://www.scmp.com/magazines/style/celebrity/article/3185022/meet-elena-rybakina-calm-23-year-old-who-won-wimbledon"
+    }
+  ],
+  "watchFor": "Watch her face after a big point: she almost never celebrates, just a calm little nod.",
+  "matchTomorrow": {
+    "opponent": "Yuliia Starodubtseva",
+    "opponentSlug": "yuliia-starodubtseva",
+    "court": "TBD",
+    "session": "TBD",
+    "matchId": "m16"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Elena_Rybakina_%282025_DC_Open%29_11_%28cropped%29.jpg",
+    "localPath": "img/players/elena-rybakina.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AElena_Rybakina_%282025_DC_Open%29_11_%28cropped%29.jpg",
+    "title": "File:Elena_Rybakina_(2025_DC_Open)_11_(cropped).jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Elena_Rybakina",
+    "https://www.scmp.com/magazines/style/celebrity/article/3185022/meet-elena-rybakina-calm-23-year-old-who-won-wimbledon"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-04T17:30:00Z",
+  "factCheck": {
+    "checkedAt": "2026-09-04T19:00:00Z",
+    "notes": [
+      "Birth date (Moscow), Kazakhstan since 2018, height 184, plays, gymnastics/skating until too tall, 2022 Wimbledon, 2026 Australian Open, first Kazakh major champion, 127 mph serve, 516 aces in 2025 (first 500+ since Pliskova 2016), regular school and ~2 hrs tennis a day, Ice Queen nickname, ranking 2 confirmed via Wikipedia.",
+      "Beagle Mulia (WTA interview quote), animal-shelter visit, kangaroo photo, desserts, shy/calm confirmed in SCMP article.",
+      "Seed 2 / rank 2 / opponent Starodubtseva match schedule.json."
+    ],
+    "changes": [
+      "Hometown -> 'Moscow, Russia · plays for Kazakhstan'.",
+      "Intro: 'the biggest serve' -> 'one of the biggest serves'.",
+      "Fact 2: 'most of anyone in nine years' -> 'nobody had hit 500 in one season for nine years' (matches Wikipedia).",
+      "Fact 3: re-sourced from fgsn.com to SCMP; shelters wording matched to source. Removed fgsn.com from sources."
+    ]
+  }
+}

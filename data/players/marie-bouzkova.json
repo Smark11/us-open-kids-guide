@@ -1,0 +1,72 @@
+{
+  "slug": "marie-bouzkova",
+  "name": "Marie Bouzková",
+  "country": "CZ",
+  "countryName": "Czechia",
+  "flagEmoji": "🇨🇿",
+  "birthDate": "1998-07-21",
+  "age": 28,
+  "seed": 25,
+  "ranking": 26,
+  "draw": "women",
+  "tier": 1,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 180,
+  "hometown": "Prague, Czechia",
+  "nicknameOrTagline": "The Wall from Prague",
+  "intro": "Marie Bouzková is from Prague, in Czechia. She is a super-fast runner who chases down everything. Players say hitting past her is like hitting into a wall.",
+  "story": "Marie started at a tennis club her parents owned in Prague. At 16 she won the US Open junior title, right here in New York. Now she lives in Florida and plays on the big tour. This year she won a title on grass and reached her best ranking ever.",
+  "funFacts": [
+    {
+      "text": "She speaks four languages: Czech, English, German, and Spanish.",
+      "source": "https://en.wikipedia.org/wiki/Marie_Bouzkov%C3%A1"
+    },
+    {
+      "text": "She dreams of owning a Bernese mountain dog. She follows lots of them online.",
+      "source": "https://www.tennis.com/baseline/articles/5-minutes-marie-bouzkova-and-ann-li-interview"
+    },
+    {
+      "text": "She listens to Mozart before matches to calm her mind.",
+      "source": "https://www.tennis.com/baseline/articles/5-minutes-marie-bouzkova-and-ann-li-interview"
+    },
+    {
+      "text": "Her favorite emoji on grass courts is the strawberry.",
+      "source": "https://www.tennis.com/baseline/articles/5-minutes-marie-bouzkova-and-ann-li-interview"
+    },
+    {
+      "text": "She finished a college business degree while playing on tour.",
+      "source": "https://en.wikipedia.org/wiki/Marie_Bouzkov%C3%A1"
+    },
+    {
+      "text": "She won the US Open girls' title in 2014, at age 16.",
+      "source": "https://en.wikipedia.org/wiki/Marie_Bouzkov%C3%A1"
+    },
+    {
+      "text": "She loves drawing, reading, and playing Wordle every day.",
+      "source": "https://www.tennis.com/baseline/articles/5-minutes-marie-bouzkova-and-ann-li-interview"
+    }
+  ],
+  "watchFor": "Watch her sprint and slide to reach balls that look impossible, then celebrate with a big fist pump.",
+  "matchTomorrow": {
+    "opponent": "Iga Swiatek",
+    "opponentSlug": "iga-swiatek",
+    "court": "TBD",
+    "session": "TBD",
+    "matchId": "m13"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Marie_Bouzkov%C3%A1_%282023_US_Open%29_26_%28cropped2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "localPath": "img/players/marie-bouzkova.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AMarie_Bouzkov%C3%A1_%282023_US_Open%29_26_%28cropped2%29.jpg",
+    "title": "File:Marie_Bouzková_(2023_US_Open)_26_(cropped2).jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Marie_Bouzkov%C3%A1",
+    "https://www.tennis.com/baseline/articles/5-minutes-marie-bouzkova-and-ann-li-interview",
+    "https://www.wtatennis.com/players/319143/marie-bouzkova"
+  ],
+  "verified": false,
+  "researchedAt": "2026-09-04T17:11:02Z"
+}

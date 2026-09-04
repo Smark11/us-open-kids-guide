@@ -1,0 +1,90 @@
+{
+  "slug": "mirra-andreeva",
+  "name": "Mirra Andreeva",
+  "country": "RU",
+  "countryName": "Russia",
+  "flagEmoji": "🇷🇺",
+  "birthDate": "2007-04-29",
+  "age": 19,
+  "seed": 5,
+  "ranking": 5,
+  "draw": "women",
+  "tier": 1,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 175,
+  "hometown": "Krasnoyarsk, Russia",
+  "nicknameOrTagline": "The teen who beat everyone",
+  "intro": "Mirra Andreeva is only 19, and she is already a Grand Slam champion. She grew up in Siberia, where winters are freezing cold. Now she is one of the best players in the world.",
+  "story": "Mirra started tennis at six. Her big sister Erika plays pro tennis too. At 17 she won two huge tournaments in a row. In 2026 she won the French Open. She is the youngest French Open champion in more than 30 years. Her coach is Conchita Martínez, who won Wimbledon herself.",
+  "funFacts": [
+    {
+      "text": "Her big sister Erika is a pro tennis player too. They have played each other!",
+      "source": "https://www.wtatennis.com/news/4146478/tough-for-both-of-us-erika-andreeva-defeats-sister-mirra-in-wuhan"
+    },
+    {
+      "text": "She once thanked herself in a trophy speech. The crowd laughed and loved it.",
+      "source": "https://tennishead.net/id-like-to-thank-me-mirra-andreeva-historic-dubai-triumph/"
+    },
+    {
+      "text": "She speaks Russian and English, and she is learning French and Spanish.",
+      "source": "https://www.tennismajors.com/wta-tour-news/madrid-erika-russia-everything-you-always-wanted-to-know-about-mirra-andreeva-but-never-had-time-to-find-out-677483.html"
+    },
+    {
+      "text": "She is a huge fan of Andy Murray. She was too shy to talk to him!",
+      "source": "https://www.skysports.com/tennis/news/32498/12915924/wimbledon-teenage-sensation-mirra-andreeva-too-shy-to-talk-with-andy-murray-despite-incredible-run"
+    },
+    {
+      "text": "She won an Olympic silver medal in doubles in Paris in 2024.",
+      "source": "https://en.wikipedia.org/wiki/Mirra_Andreeva"
+    },
+    {
+      "text": "She picked tennis because of her mom, who loved watching it on TV.",
+      "source": "https://www.essentiallysports.com/wta-tennis-news-meet-mirra-andreeva-career-education-achievements-parents-siblings-net-worth-and-more/"
+    },
+    {
+      "text": "At 17 she became the youngest player ever to win a WTA 1000 tournament.",
+      "source": "https://tennishead.net/id-like-to-thank-me-mirra-andreeva-historic-dubai-triumph/"
+    }
+  ],
+  "watchFor": "Watch her backhand down the line: it is her favorite shot, and she hits it right on the line.",
+  "matchTomorrow": {
+    "opponent": "Nikola Bartunkova",
+    "opponentSlug": "nikola-bartunkova",
+    "court": "TBD",
+    "session": "TBD",
+    "matchId": "m9"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Mirra_Andreeva_WMQ23_%28cropped%29.jpg",
+    "localPath": "img/players/mirra-andreeva.jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "si.robi",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AMirra_Andreeva_WMQ23_%28cropped%29.jpg",
+    "title": "File:Mirra_Andreeva_WMQ23_(cropped).jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mirra_Andreeva",
+    "https://www.wtatennis.com/news/4146478/tough-for-both-of-us-erika-andreeva-defeats-sister-mirra-in-wuhan",
+    "https://tennishead.net/id-like-to-thank-me-mirra-andreeva-historic-dubai-triumph/",
+    "https://www.skysports.com/tennis/news/32498/12915924/wimbledon-teenage-sensation-mirra-andreeva-too-shy-to-talk-with-andy-murray-despite-incredible-run",
+    "https://www.thetennisgazette.com/news/mirra-andreeva-picks-her-most-favorite-shot-after-getting-advice-from-coach-conchita-martinez-recently/",
+    "https://www.tennismajors.com/wta-tour-news/madrid-erika-russia-everything-you-always-wanted-to-know-about-mirra-andreeva-but-never-had-time-to-find-out-677483.html",
+    "https://www.essentiallysports.com/wta-tennis-news-meet-mirra-andreeva-career-education-achievements-parents-siblings-net-worth-and-more/"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-04T17:30:00Z",
+  "factCheck": {
+    "checkedAt": "2026-09-04T19:00:00Z",
+    "notes": [
+      "Birth date, Krasnoyarsk (Siberia), 175 cm, plays, started at six, sister Erika, 2025 Dubai + Indian Wells at 17, 2026 French Open (youngest since Seles 1992), coach Conchita Martinez, Paris 2024 doubles silver, ranking 5 confirmed via Wikipedia.",
+      "Sisters' Wuhan 2024 match (WTA), 'I want to thank me' Dubai 2025 speech (tennishead), too shy to talk to Murray (Sky Sports), favorite shot backhand down the line (Tennis Gazette), languages (Tennis Majors) re-sourced away from tennis-infinity.com.",
+      "Seed 5 / rank 5 / opponent Bartunkova match schedule.json."
+    ],
+    "changes": [
+      "Intro: 'one of the coldest places on Earth' -> 'where winters are freezing cold'.",
+      "Story: removed unsourced 'started with her sister' and 'chilly courts'.",
+      "Deleted fact 'favorite way to relax is watching TV shows' (only tennis-infinity source); replaced with sourced youngest-WTA-1000-champion fact.",
+      "All tennis-infinity.com citations replaced with WTA/Sky Sports/tennishead/Tennis Majors/Tennis Gazette."
+    ]
+  }
+}

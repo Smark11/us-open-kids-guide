@@ -15,10 +15,17 @@ ALLOWED = re.compile(r"(cc[- ]by(?:[- ]sa)?(?:[- ]\d(\.\d)?)?|cc0|public domain|
 BANNED = re.compile(r"(nc|nd|non-?commercial|no derivatives|fair use|copyright|all rights)", re.I)
 
 def api(url, params):
+    import time, urllib.error
     q = urllib.parse.urlencode(params)
     req = urllib.request.Request(url + "?" + q, headers={"User-Agent": UA})
-    with urllib.request.urlopen(req, timeout=30) as r:
-        return json.loads(r.read().decode())
+    for attempt in range(6):
+        try:
+            with urllib.request.urlopen(req, timeout=30) as r:
+                return json.loads(r.read().decode())
+        except urllib.error.HTTPError as e:
+            if e.code == 429 and attempt < 5:
+                time.sleep(8 * (attempt + 1)); continue
+            raise
 
 def strip_html(s):
     return re.sub(r"<[^>]+>", "", s or "").strip()
@@ -78,7 +85,9 @@ def main():
         print(__doc__); sys.exit(2)
     title, slug = sys.argv[1], sys.argv[2]
     tried = []
-    for fname in candidate_files(title):
+    # Direct Commons file mode: pass "File:Name.jpg" as the title
+    cands = [title] if title.startswith("File:") else candidate_files(title)
+    for fname in cands:
         meta = file_meta(fname)
         if not meta or not meta.get("thumb"):
             continue

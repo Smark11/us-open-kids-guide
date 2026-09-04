@@ -1,0 +1,90 @@
+{
+  "slug": "taylor-fritz",
+  "name": "Taylor Fritz",
+  "country": "US",
+  "countryName": "United States",
+  "flagEmoji": "🇺🇸",
+  "birthDate": "1997-10-28",
+  "age": 28,
+  "seed": 9,
+  "ranking": 10,
+  "draw": "men",
+  "tier": 1,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 196,
+  "hometown": "Rancho Santa Fe, California, United States",
+  "nicknameOrTagline": "America's big server",
+  "intro": "Taylor Fritz is one of the top American men in tennis. He comes from sunny California. He is known for a booming serve and a rocket forehand.",
+  "story": "Taylor was born to play tennis. His mom was a top-10 player. His dad was a pro and a coach. In 2024, Taylor reached the US Open final right here in New York. He also won an Olympic bronze medal in doubles. This summer he won the big tournament in Washington, D.C. Tomorrow the home crowd will cheer for him.",
+  "funFacts": [
+    {
+      "text": "He is 6 feet 5 inches tall.",
+      "source": "https://en.wikipedia.org/wiki/Taylor_Fritz"
+    },
+    {
+      "text": "His mom, Kathy May, was a top-10 tennis player too.",
+      "source": "https://en.wikipedia.org/wiki/Taylor_Fritz"
+    },
+    {
+      "text": "He loves video games. He says gaming keeps his brain sharp for tennis.",
+      "source": "https://sports.yahoo.com/articles/tennis-star-taylor-fritz-says-065059522.html"
+    },
+    {
+      "text": "He has a special Chipotle order with double chicken. He eats lots of protein.",
+      "source": "https://sports.yahoo.com/articles/tennis-star-taylor-fritz-says-065059522.html"
+    },
+    {
+      "text": "He has a son named Jordan.",
+      "source": "https://en.wikipedia.org/wiki/Taylor_Fritz"
+    },
+    {
+      "text": "He was on the Netflix show Break Point.",
+      "source": "https://en.wikipedia.org/wiki/Taylor_Fritz"
+    },
+    {
+      "text": "He won an Olympic bronze medal in doubles in Paris in 2024.",
+      "source": "https://en.wikipedia.org/wiki/Taylor_Fritz"
+    },
+    {
+      "text": "He won the Washington, D.C. tournament in August 2026. It was his 11th trophy!",
+      "source": "https://www.atptour.com/en/news/fritz-jodar-washington-2026-monday-final"
+    }
+  ],
+  "watchFor": "Watch his huge serve: count how many aces he hits!",
+  "matchTomorrow": {
+    "opponent": "Francisco Cerundolo",
+    "opponentSlug": "francisco-cerundolo",
+    "court": "TBD",
+    "session": "TBD",
+    "matchId": "m7"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Taylor_Fritz_-_Delray_Beach_Open_Final_Round_%28cropped%29.jpg",
+    "localPath": "img/players/taylor-fritz.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Rickmunroe01",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ATaylor_Fritz_-_Delray_Beach_Open_Final_Round_%28cropped%29.jpg",
+    "title": "File:Taylor_Fritz_-_Delray_Beach_Open_Final_Round_(cropped).jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Taylor_Fritz",
+    "https://sports.yahoo.com/articles/tennis-star-taylor-fritz-says-065059522.html",
+    "https://www.atptour.com/en/news/fritz-jodar-washington-2026-monday-final"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-04T17:30:00Z",
+  "factCheck": {
+    "checkedAt": "2026-09-04T19:00:00Z",
+    "notes": [
+      "Birth date, Rancho Santa Fe, 196 cm, plays, mother Kathy May top-10, father pro/coach, 2024 US Open final, Paris 2024 doubles bronze, son Jordan, Break Point, Twitch gaming confirmed via Wikipedia.",
+      "League of Legends 'brain working well' quote and double-chicken Chipotle order confirmed in Yahoo article (Aug 27, 2026).",
+      "Washington 2026 title (11th career) confirmed via atptour.com (added as third source).",
+      "Seed 9 / rank 10 / opponent Cerundolo match schedule.json; Ben Shelton is ranked 9, so Fritz is the No. 2 American (Wikipedia + current rankings)."
+    ],
+    "changes": [
+      "Intro: 'the top American man' -> 'one of the top American men' (Shelton ranked above him).",
+      "watchFor: removed unsourced 'white headband'.",
+      "Fact 6: 'star of' -> 'was on'. Added fun fact 8 (Washington 2026 title) with ATP source."
+    ]
+  }
+}

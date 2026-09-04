@@ -1,0 +1,14 @@
+{
+  "name": "Nora's US Open Guide",
+  "short_name": "US Open Guide",
+  "description": "A collector's-card guide to every player on Saturday at the US Open.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1E56D9",
+  "theme_color": "#1E56D9",
+  "icons": [
+    { "src": "img/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

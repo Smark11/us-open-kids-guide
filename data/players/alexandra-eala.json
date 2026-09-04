@@ -1,0 +1,77 @@
+{
+  "slug": "alexandra-eala",
+  "name": "Alexandra Eala",
+  "country": "PH",
+  "countryName": "Philippines",
+  "flagEmoji": "🇵🇭",
+  "birthDate": "2005-05-23",
+  "age": 21,
+  "seed": 17,
+  "ranking": 18,
+  "draw": "women",
+  "tier": 2,
+  "plays": "Left-handed, two-handed backhand",
+  "heightCm": 175,
+  "hometown": "Quezon City, Philippines",
+  "nicknameOrTagline": "Alex, the Pride of the Philippines",
+  "intro": "Alex Eala is a lefty from the Philippines. She is the first Filipino player ever to crack the top 20. Huge crowds of fans follow her, waving flags and shouting her name.",
+  "story": "Alex started tennis at age four. Her grandpa was her first coach. At 13 she moved to Spain to train at Rafael Nadal's academy. In 2022 she won the US Open junior title. That was right here in New York! This summer she won her first big WTA trophy in Washington.",
+  "funFacts": [
+    {
+      "text": "Her mom was a swimmer who won a medal for the Philippines.",
+      "source": "https://en.wikipedia.org/wiki/Alexandra_Eala"
+    },
+    {
+      "text": "She speaks three languages: English, Filipino, and Spanish.",
+      "source": "https://en.wikipedia.org/wiki/Alexandra_Eala"
+    },
+    {
+      "text": "Her favorite food is caldereta, a Filipino beef stew.",
+      "source": "https://en.wikipedia.org/wiki/Alexandra_Eala"
+    },
+    {
+      "text": "She picks matcha over coffee, and loves finding cafes and bakeries in every city.",
+      "source": "https://www.sportbible.com/tennis/alex-eala-intriguing-insight-life-outside-of-tennis-us-open-572937-20260829"
+    },
+    {
+      "text": "She calls herself a foodie and says it is the Filipino in her.",
+      "source": "https://www.sportbible.com/tennis/alex-eala-intriguing-insight-life-outside-of-tennis-us-open-572937-20260829"
+    },
+    {
+      "text": "Her big brother Miko played college tennis at Penn State.",
+      "source": "https://en.wikipedia.org/wiki/Alexandra_Eala"
+    },
+    {
+      "text": "She won the US Open girls' title in 2022 on these same courts.",
+      "source": "https://en.wikipedia.org/wiki/Alexandra_Eala"
+    }
+  ],
+  "watchFor": "Listen for fans chanting \"Alex! Alex!\" and watch her spinny lefty forehand yank opponents wide.",
+  "matchTomorrow": {
+    "opponent": "Iva Jovic",
+    "opponentSlug": "iva-jovic",
+    "court": "TBD",
+    "session": "TBD",
+    "matchId": "m11"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Ealas_and_Patrick_Gregorio_%28cropped_Alexandra_Eala%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "localPath": "img/players/alexandra-eala.jpg",
+    "license": "Public domain",
+    "author": "Philippine Sports Commission",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AEalas_and_Patrick_Gregorio_%28cropped_Alexandra_Eala%29.jpg",
+    "title": "File:Ealas_and_Patrick_Gregorio_(cropped_Alexandra_Eala).jpg",
+    "bytes": 30925,
+    "width": 313,
+    "height": 454
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Alexandra_Eala",
+    "https://www.sportbible.com/tennis/alex-eala-intriguing-insight-life-outside-of-tennis-us-open-572937-20260829",
+    "https://gulfnews.com/sport/tennis/wimbledon-10-things-to-know-about-philippines-tennis-sensation-alex-eala-1.500182001",
+    "https://www.benrothenberg.com/p/alexandra-eala-interview-washington-philippines-parents-tennis",
+    "https://defector.com/alex-eala-is-the-best-show-in-town"
+  ],
+  "verified": false,
+  "researchedAt": "2026-09-04T17:10:24+00:00"
+}

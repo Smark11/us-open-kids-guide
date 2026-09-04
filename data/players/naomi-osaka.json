@@ -1,0 +1,75 @@
+{
+  "slug": "naomi-osaka",
+  "name": "Naomi Osaka",
+  "country": "JP",
+  "countryName": "Japan",
+  "flagEmoji": "🇯🇵",
+  "birthDate": "1997-10-16",
+  "age": 28,
+  "seed": 13,
+  "ranking": 13,
+  "draw": "women",
+  "tier": 2,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 180,
+  "hometown": "Osaka, Japan",
+  "nicknameOrTagline": "Four-time Grand Slam champ",
+  "intro": "Naomi Osaka was born in Osaka, Japan, and grew up in New York and Florida. She has won four Grand Slams, including the US Open twice. She was the first Asian player ever ranked No. 1 in the world.",
+  "story": "Naomi's dad taught her and her big sister Mari to play on public courts. Her serve is one of the fastest in women's tennis. She lit the Olympic flame at the Tokyo Games. In 2023 she became a mom to a girl named Shai. Then she came back and climbed right back into the top 15.",
+  "funFacts": [
+    {
+      "text": "Her comfort show is the anime Naruto. Her favorite character is lazy-but-brilliant Shikamaru.",
+      "source": "https://hypebeast.com/2026/2/naomi-osaka-loves-anime-and-japan-interview"
+    },
+    {
+      "text": "She loves video games like Skyrim and Overwatch, often playing with her sister Mari.",
+      "source": "https://hypebeast.com/2026/2/naomi-osaka-loves-anime-and-japan-interview"
+    },
+    {
+      "text": "Her French bulldog is named Butta. Butta has his own Instagram.",
+      "source": "https://www.sportskeeda.com/tennis/news-naomi-osaka-reveals-new-shoes-inspired-dog-butta-manga-series-naruto"
+    },
+    {
+      "text": "She once quoted the Pokémon theme song in an interview: 'to be the very best.'",
+      "source": "https://www.si.com/extra-mustard/2016/01/22/australian-open-naomi-osaka-pokemon-theme"
+    },
+    {
+      "text": "Her dad is from Haiti and her mom is from Japan.",
+      "source": "https://en.wikipedia.org/wiki/Naomi_Osaka"
+    },
+    {
+      "text": "She lit the Olympic cauldron at the Tokyo 2020 Olympics.",
+      "source": "https://en.wikipedia.org/wiki/Naomi_Osaka"
+    },
+    {
+      "text": "Her serve has been clocked over 125 miles per hour.",
+      "source": "https://en.wikipedia.org/wiki/Naomi_Osaka"
+    }
+  ],
+  "watchFor": "Watch her walk on court in a wild custom outfit, then listen for the boom of her serve.",
+  "matchTomorrow": {
+    "opponent": "Elise Mertens",
+    "opponentSlug": "elise-mertens",
+    "court": "TBD",
+    "session": "TBD",
+    "matchId": "m15"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Naomi_Osaka_%2827849801707%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "localPath": "img/players/naomi-osaka.jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "Peter Menzel",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ANaomi_Osaka_%2827849801707%29_%28cropped%29.jpg",
+    "title": "File:Naomi Osaka (27849801707) (cropped).jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Naomi_Osaka",
+    "https://thesmartlocal.jp/naomi-osaka-facts/",
+    "https://www.sportskeeda.com/tennis/news-naomi-osaka-reveals-new-shoes-inspired-dog-butta-manga-series-naruto",
+    "https://www.si.com/extra-mustard/2016/01/22/australian-open-naomi-osaka-pokemon-theme",
+    "https://www.usopen.org/amp/en_US/news/articles/2026-08-31/naomi_osaka_makes_2026_us_open_fashion_statement_with_all-white_look.html",
+    "https://hypebeast.com/2026/2/naomi-osaka-loves-anime-and-japan-interview"
+  ],
+  "verified": false,
+  "researchedAt": "2026-09-04T17:11:02Z"
+}

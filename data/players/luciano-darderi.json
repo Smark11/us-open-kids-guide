@@ -1,0 +1,75 @@
+{
+  "slug": "luciano-darderi",
+  "name": "Luciano Darderi",
+  "country": "IT",
+  "countryName": "Italy",
+  "flagEmoji": "🇮🇹",
+  "birthDate": "2002-02-14",
+  "age": 24,
+  "seed": 21,
+  "ranking": 22,
+  "draw": "men",
+  "tier": 2,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 183,
+  "hometown": "Villa Gesell, Argentina",
+  "nicknameOrTagline": "Luli",
+  "intro": "Luciano Darderi plays for Italy but was born in Argentina. He is 24 and a clay-court king with five titles. His dad is his coach.",
+  "story": "Luciano's grandpa moved from Italy to Argentina long ago. Luciano started swinging a racket at age two. His grandma Elisa bought his first rackets and traveled to his tournaments. He moved to Italy to chase his dream. This spring he beat Alexander Zverev in Rome. He saved four match points to do it!",
+  "funFacts": [
+    {
+      "text": "He was born on Valentine's Day.",
+      "source": "https://en.wikipedia.org/wiki/Luciano_Darderi"
+    },
+    {
+      "text": "His nickname is Luli.",
+      "source": "https://www.atptour.com/en/players/luciano-darderi/d0fj/bio"
+    },
+    {
+      "text": "He speaks Spanish, Italian, and English.",
+      "source": "https://www.atptour.com/en/players/luciano-darderi/d0fj/bio"
+    },
+    {
+      "text": "His favorite food is barbecue. His guilty pleasure is chocolate.",
+      "source": "https://www.atptour.com/en/players/luciano-darderi/d0fj/bio"
+    },
+    {
+      "text": "His favorite athlete is soccer star Lionel Messi.",
+      "source": "https://www.atptour.com/en/players/luciano-darderi/d0fj/bio"
+    },
+    {
+      "text": "His little brother Vito was an Italian under-12 tennis champion.",
+      "source": "https://en.wikipedia.org/wiki/Luciano_Darderi"
+    },
+    {
+      "text": "He has his grandma's name tattooed on his right wrist.",
+      "source": "https://www.claytenis.com/features/a-promise-with-cobolli-and-his-grandmothers-help-darderi-wins-in-santiago/"
+    }
+  ],
+  "watchFor": "After a big point, watch him kiss his right wrist, where his grandma's name is tattooed.",
+  "matchTomorrow": {
+    "opponent": "Dane Sweeny",
+    "opponentSlug": "dane-sweeny",
+    "court": "TBD",
+    "session": "TBD",
+    "matchId": "m2"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Darderi_RGQ23_%2852944097003%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "localPath": "img/players/luciano-darderi.jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "si.robi",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ADarderi_RGQ23_%2852944097003%29.jpg",
+    "title": "File:Darderi_RGQ23_(52944097003).jpg",
+    "bytes": 32341,
+    "width": 400,
+    "height": 600
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Luciano_Darderi",
+    "https://www.atptour.com/en/players/luciano-darderi/d0fj/bio",
+    "https://www.claytenis.com/features/a-promise-with-cobolli-and-his-grandmothers-help-darderi-wins-in-santiago/"
+  ],
+  "verified": false,
+  "researchedAt": "2026-09-04T17:10:24+00:00"
+}

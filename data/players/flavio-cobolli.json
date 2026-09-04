@@ -1,0 +1,72 @@
+{
+  "slug": "flavio-cobolli",
+  "name": "Flavio Cobolli",
+  "country": "IT",
+  "countryName": "Italy",
+  "flagEmoji": "🇮🇹",
+  "birthDate": "2002-05-06",
+  "age": 24,
+  "seed": 5,
+  "ranking": 6,
+  "draw": "men",
+  "tier": 1,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 183,
+  "hometown": "Rome, Italy",
+  "nicknameOrTagline": "The Gladiator",
+  "intro": "Flavio Cobolli is an Italian player who lives in Rome. He was born in Florence. He reached the French Open final this year and is ranked No. 6 in the world.",
+  "story": "As a kid, Flavio played soccer for the famous club AS Roma. At 14 he had to choose: soccer or tennis. He picked tennis! His dad Stefano was a tennis pro. Now he is Flavio's coach. Flavio also helped Italy win the Davis Cup team trophy in 2025.",
+  "funFacts": [
+    {
+      "text": "He played soccer in the AS Roma youth academy until age 14.",
+      "source": "https://www.tennismajors.com/atp/italy-the-gladiator-roland-garros-juniors-as-roma-everything-you-always-wanted-to-know-about-flavio-cobolli-but-never-had-the-time-to-find-out-updated-after-australian-open-2025-806104.html"
+    },
+    {
+      "text": "He has about 30 tattoos. One is Roma's wolf logo.",
+      "source": "https://www.nss-sports.com/en/lifestyle/42543/extratime-flavio-cobolli-interview"
+    },
+    {
+      "text": "He loves fashion and likes wearing big, comfy oversized clothes.",
+      "source": "https://www.nss-sports.com/en/lifestyle/42543/extratime-flavio-cobolli-interview"
+    },
+    {
+      "text": "His nickname on the UTS tour is The Gladiator, like ancient Rome.",
+      "source": "https://www.tennismajors.com/atp/italy-the-gladiator-roland-garros-juniors-as-roma-everything-you-always-wanted-to-know-about-flavio-cobolli-but-never-had-the-time-to-find-out-updated-after-australian-open-2025-806104.html"
+    },
+    {
+      "text": "His tennis idol is Novak Djokovic.",
+      "source": "https://en.wikipedia.org/wiki/Flavio_Cobolli"
+    },
+    {
+      "text": "He won the French Open junior doubles title in 2020.",
+      "source": "https://www.tennismajors.com/atp/italy-the-gladiator-roland-garros-juniors-as-roma-everything-you-always-wanted-to-know-about-flavio-cobolli-but-never-had-the-time-to-find-out-updated-after-australian-open-2025-806104.html"
+    },
+    {
+      "text": "He has a brother named Guglielmo.",
+      "source": "https://en.wikipedia.org/wiki/Flavio_Cobolli"
+    }
+  ],
+  "watchFor": "Look for his tattoos on his arms and his speedy footwork. He chases every ball like a soccer player.",
+  "matchTomorrow": {
+    "opponent": "Alexander Blockx",
+    "opponentSlug": "alexander-blockx",
+    "court": "TBD",
+    "session": "TBD",
+    "matchId": "m8"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Cobolli_RGQ23_%2852944096963%29.jpg",
+    "localPath": "img/players/flavio-cobolli.jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "si.robi",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ACobolli_RGQ23_%2852944096963%29.jpg",
+    "title": "File:Cobolli_RGQ23_(52944096963).jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flavio_Cobolli",
+    "https://www.nss-sports.com/en/lifestyle/42543/extratime-flavio-cobolli-interview",
+    "https://www.tennismajors.com/atp/italy-the-gladiator-roland-garros-juniors-as-roma-everything-you-always-wanted-to-know-about-flavio-cobolli-but-never-had-the-time-to-find-out-updated-after-australian-open-2025-806104.html"
+  ],
+  "verified": false,
+  "researchedAt": "2026-09-04T17:16:31+00:00"
+}

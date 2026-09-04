@@ -1,0 +1,838 @@
+{
+  "date": "2026-09-05",
+  "round": "Third round (Day 7)",
+  "orderOfPlayPublished": false,
+  "halfSplitConfident": true,
+  "fetchedAt": "2026-09-04T17:05:33Z",
+  "sources": [
+    "https://www.usopen.org/en_US/scores/feeds/2026/schedule/scheduleDays.json",
+    "https://www.usopen.org/en_US/scores/feeds/2026/schedule/schedule13.json",
+    "https://www.usopen.org/en_US/scores/feeds/2026/draws/MS.json",
+    "https://www.usopen.org/en_US/scores/feeds/2026/draws/WS.json",
+    "https://www.usopen.org/en_US/scores/feeds/2026/players/players.json",
+    "https://en.wikipedia.org/wiki/2026_US_Open_%E2%80%93_Men%27s_singles",
+    "https://en.wikipedia.org/wiki/2026_US_Open_%E2%80%93_Women%27s_singles",
+    "https://www.espn.com/tennis/scoreboard/tournament/_/eventId/189-2026/competitionType/1",
+    "https://www.skysports.com/tennis/news/32832/13577913/us-open-2026-order-of-play-and-match-schedule-for-arthur-ashe-stadium-louis-armstrong-stadium-and-more"
+  ],
+  "matches": [
+    {
+      "id": "m1",
+      "draw": "men",
+      "usopenMatchId": "1301",
+      "court": "TBD",
+      "session": "TBD",
+      "order": null,
+      "startTimeET": null,
+      "tier": 1,
+      "pending": false,
+      "players": [
+        {
+          "slug": "alexander-zverev",
+          "name": "Alexander Zverev",
+          "country": "DE",
+          "countryName": "Germany",
+          "seed": 1,
+          "ranking": 2
+        },
+        {
+          "slug": "alejandro-tabilo",
+          "name": "Alejandro Tabilo",
+          "country": "CL",
+          "countryName": "Chile",
+          "seed": 25,
+          "ranking": 28
+        }
+      ]
+    },
+    {
+      "id": "m2",
+      "draw": "men",
+      "usopenMatchId": "1302",
+      "court": "TBD",
+      "session": "TBD",
+      "order": null,
+      "startTimeET": null,
+      "tier": 2,
+      "pending": false,
+      "players": [
+        {
+          "slug": "luciano-darderi",
+          "name": "Luciano Darderi",
+          "country": "IT",
+          "countryName": "Italy",
+          "seed": 21,
+          "ranking": 22
+        },
+        {
+          "slug": "dane-sweeny",
+          "name": "Dane Sweeny",
+          "country": "AU",
+          "countryName": "Australia",
+          "seed": null,
+          "ranking": 123
+        }
+      ]
+    },
+    {
+      "id": "m3",
+      "draw": "men",
+      "usopenMatchId": "1303",
+      "court": "TBD",
+      "session": "TBD",
+      "order": null,
+      "startTimeET": null,
+      "tier": 3,
+      "pending": false,
+      "players": [
+        {
+          "slug": "michael-zheng",
+          "name": "Michael Zheng",
+          "country": "US",
+          "countryName": "United States",
+          "seed": null,
+          "ranking": 107
+        },
+        {
+          "slug": "arthur-gea",
+          "name": "Arthur Gea",
+          "country": "FR",
+          "countryName": "France",
+          "seed": null,
+          "ranking": 87
+        }
+      ]
+    },
+    {
+      "id": "m4",
+      "draw": "men",
+      "usopenMatchId": "1304",
+      "court": "TBD",
+      "session": "TBD",
+      "order": null,
+      "startTimeET": null,
+      "tier": 2,
+      "pending": false,
+      "players": [
+        {
+          "slug": "zizou-bergs",
+          "name": "Zizou Bergs",
+          "country": "BE",
+          "countryName": "Belgium",
+          "seed": 31,
+          "ranking": 37
+        },
+        {
+          "slug": "botic-van-de-zandschulp",
+          "name": "Botic van de Zandschulp",
+          "country": "NL",
+          "countryName": "Netherlands",
+          "seed": null,
+          "ranking": 70
+        }
+      ]
+    },
+    {
+      "id": "m5",
+      "draw": "men",
+      "usopenMatchId": "1305",
+      "court": "TBD",
+      "session": "TBD",
+      "order": null,
+      "startTimeET": null,
+      "tier": 3,
+      "pending": false,
+      "players": [
+        {
+          "slug": "karen-khachanov",
+          "name": "Karen Khachanov",
+          "country": "RU",
+          "countryName": "Russia",
+          "seed": null,
+          "ranking": 50
+        },
+        {
+          "slug": "benjamin-bonzi",
+          "name": "Benjamin Bonzi",
+          "country": "FR",
+          "countryName": "France",
+          "seed": null,
+          "ranking": 97
+        }
+      ]
+    },
+    {
+      "id": "m6",
+      "draw": "men",
+      "usopenMatchId": "1306",
+      "court": "TBD",
+      "session": "TBD",
+      "order": null,
+      "startTimeET": null,
+      "tier": 2,
+      "pending": false,
+      "players": [
+        {
+          "slug": "jakub-mensik",
+          "name": "Jakub Mensik",
+          "country": "CZ",
+          "countryName": "Czechia",
+          "seed": 17,
+          "ranking": 18
+        },
+        {
+          "slug": "learner-tien",
+          "name": "Learner Tien",
+          "country": "US",
+          "countryName": "United States",
+          "seed": 14,
+          "ranking": 15
+        }
+      ]
+    },
+    {
+      "id": "m7",
+      "draw": "men",
+      "usopenMatchId": "1307",
+      "court": "TBD",
+      "session": "TBD",
+      "order": null,
+      "startTimeET": null,
+      "tier": 1,
+      "pending": false,
+      "players": [
+        {
+          "slug": "taylor-fritz",
+          "name": "Taylor Fritz",
+          "country": "US",
+          "countryName": "United States",
+          "seed": 9,
+          "ranking": 10
+        },
+        {
+          "slug": "francisco-cerundolo",
+          "name": "Francisco Cerundolo",
+          "country": "AR",
+          "countryName": "Argentina",
+          "seed": 24,
+          "ranking": 25
+        }
+      ]
+    },
+    {
+      "id": "m8",
+      "draw": "men",
+      "usopenMatchId": "1308",
+      "court": "TBD",
+      "session": "TBD",
+      "order": null,
+      "startTimeET": null,
+      "tier": 1,
+      "pending": false,
+      "players": [
+        {
+          "slug": "alexander-blockx",
+          "name": "Alexander Blockx",
+          "country": "BE",
+          "countryName": "Belgium",
+          "seed": 28,
+          "ranking": 34
+        },
+        {
+          "slug": "flavio-cobolli",
+          "name": "Flavio Cobolli",
+          "country": "IT",
+          "countryName": "Italy",
+          "seed": 5,
+          "ranking": 6
+        }
+      ]
+    },
+    {
+      "id": "m9",
+      "draw": "women",
+      "usopenMatchId": "2309",
+      "court": "TBD",
+      "session": "TBD",
+      "order": null,
+      "startTimeET": null,
+      "tier": 1,
+      "pending": false,
+      "players": [
+        {
+          "slug": "mirra-andreeva",
+          "name": "Mirra Andreeva",
+          "country": "RU",
+          "countryName": "Russia",
+          "seed": 5,
+          "ranking": 5
+        },
+        {
+          "slug": "nikola-bartunkova",
+          "name": "Nikola Bartunkova",
+          "country": "CZ",
+          "countryName": "Czechia",
+          "seed": null,
+          "ranking": 34
+        }
+      ]
+    },
+    {
+      "id": "m10",
+      "draw": "women",
+      "usopenMatchId": "2310",
+      "court": "TBD",
+      "session": "TBD",
+      "order": null,
+      "startTimeET": null,
+      "tier": 1,
+      "pending": false,
+      "players": [
+        {
+          "slug": "anastasia-potapova",
+          "name": "Anastasia Potapova",
+          "country": "AT",
+          "countryName": "Austria",
+          "seed": 24,
+          "ranking": 25
+        },
+        {
+          "slug": "amanda-anisimova",
+          "name": "Amanda Anisimova",
+          "country": "US",
+          "countryName": "United States",
+          "seed": 10,
+          "ranking": 10
+        }
+      ]
+    },
+    {
+      "id": "m11",
+      "draw": "women",
+      "usopenMatchId": "2311",
+      "court": "TBD",
+      "session": "TBD",
+      "order": null,
+      "startTimeET": null,
+      "tier": 2,
+      "pending": false,
+      "players": [
+        {
+          "slug": "iva-jovic",
+          "name": "Iva Jovic",
+          "country": "US",
+          "countryName": "United States",
+          "seed": 14,
+          "ranking": 14
+        },
+        {
+          "slug": "alexandra-eala",
+          "name": "Alexandra Eala",
+          "country": "PH",
+          "countryName": "Philippines",
+          "seed": 17,
+          "ranking": 18
+        }
+      ]
+    },
+    {
+      "id": "m12",
+      "draw": "women",
+      "usopenMatchId": "2312",
+      "court": "TBD",
+      "session": "TBD",
+      "order": null,
+      "startTimeET": null,
+      "tier": 1,
+      "pending": false,
+      "players": [
+        {
+          "slug": "cristina-bucsa",
+          "name": "Cristina Bucsa",
+          "country": "ES",
+          "countryName": "Spain",
+          "seed": null,
+          "ranking": 40
+        },
+        {
+          "slug": "coco-gauff",
+          "name": "Coco Gauff",
+          "country": "US",
+          "countryName": "United States",
+          "seed": 4,
+          "ranking": 4
+        }
+      ]
+    },
+    {
+      "id": "m13",
+      "draw": "women",
+      "usopenMatchId": "2313",
+      "court": "TBD",
+      "session": "TBD",
+      "order": null,
+      "startTimeET": null,
+      "tier": 1,
+      "pending": false,
+      "players": [
+        {
+          "slug": "iga-swiatek",
+          "name": "Iga Swiatek",
+          "country": "PL",
+          "countryName": "Poland",
+          "seed": 8,
+          "ranking": 8
+        },
+        {
+          "slug": "marie-bouzkova",
+          "name": "Marie Bouzkova",
+          "country": "CZ",
+          "countryName": "Czechia",
+          "seed": 25,
+          "ranking": 26
+        }
+      ]
+    },
+    {
+      "id": "m14",
+      "draw": "women",
+      "usopenMatchId": "2314",
+      "court": "TBD",
+      "session": "TBD",
+      "order": null,
+      "startTimeET": null,
+      "tier": 2,
+      "pending": false,
+      "players": [
+        {
+          "slug": "madison-keys",
+          "name": "Madison Keys",
+          "country": "US",
+          "countryName": "United States",
+          "seed": 22,
+          "ranking": 24
+        },
+        {
+          "slug": "qinwen-zheng",
+          "name": "Qinwen Zheng",
+          "country": "CN",
+          "countryName": "China",
+          "seed": null,
+          "ranking": 121
+        }
+      ]
+    },
+    {
+      "id": "m15",
+      "draw": "women",
+      "usopenMatchId": "2315",
+      "court": "TBD",
+      "session": "TBD",
+      "order": null,
+      "startTimeET": null,
+      "tier": 2,
+      "pending": false,
+      "players": [
+        {
+          "slug": "naomi-osaka",
+          "name": "Naomi Osaka",
+          "country": "JP",
+          "countryName": "Japan",
+          "seed": 13,
+          "ranking": 13
+        },
+        {
+          "slug": "elise-mertens",
+          "name": "Elise Mertens",
+          "country": "BE",
+          "countryName": "Belgium",
+          "seed": 23,
+          "ranking": 20
+        }
+      ]
+    },
+    {
+      "id": "m16",
+      "draw": "women",
+      "usopenMatchId": "2316",
+      "court": "TBD",
+      "session": "TBD",
+      "order": null,
+      "startTimeET": null,
+      "tier": 1,
+      "pending": false,
+      "players": [
+        {
+          "slug": "yuliia-starodubtseva",
+          "name": "Yuliia Starodubtseva",
+          "country": "UA",
+          "countryName": "Ukraine",
+          "seed": null,
+          "ranking": 58
+        },
+        {
+          "slug": "elena-rybakina",
+          "name": "Elena Rybakina",
+          "country": "KZ",
+          "countryName": "Kazakhstan",
+          "seed": 2,
+          "ranking": 2
+        }
+      ]
+    }
+  ],
+  "players": [
+    {
+      "slug": "alexander-zverev",
+      "name": "Alexander Zverev",
+      "country": "DE",
+      "countryName": "Germany",
+      "seed": 1,
+      "ranking": 2,
+      "draw": "men",
+      "tier": 1,
+      "matchId": "m1"
+    },
+    {
+      "slug": "alejandro-tabilo",
+      "name": "Alejandro Tabilo",
+      "country": "CL",
+      "countryName": "Chile",
+      "seed": 25,
+      "ranking": 28,
+      "draw": "men",
+      "tier": 1,
+      "matchId": "m1"
+    },
+    {
+      "slug": "luciano-darderi",
+      "name": "Luciano Darderi",
+      "country": "IT",
+      "countryName": "Italy",
+      "seed": 21,
+      "ranking": 22,
+      "draw": "men",
+      "tier": 2,
+      "matchId": "m2"
+    },
+    {
+      "slug": "dane-sweeny",
+      "name": "Dane Sweeny",
+      "country": "AU",
+      "countryName": "Australia",
+      "seed": null,
+      "ranking": 123,
+      "draw": "men",
+      "tier": 2,
+      "matchId": "m2"
+    },
+    {
+      "slug": "michael-zheng",
+      "name": "Michael Zheng",
+      "country": "US",
+      "countryName": "United States",
+      "seed": null,
+      "ranking": 107,
+      "draw": "men",
+      "tier": 3,
+      "matchId": "m3"
+    },
+    {
+      "slug": "arthur-gea",
+      "name": "Arthur Gea",
+      "country": "FR",
+      "countryName": "France",
+      "seed": null,
+      "ranking": 87,
+      "draw": "men",
+      "tier": 3,
+      "matchId": "m3"
+    },
+    {
+      "slug": "zizou-bergs",
+      "name": "Zizou Bergs",
+      "country": "BE",
+      "countryName": "Belgium",
+      "seed": 31,
+      "ranking": 37,
+      "draw": "men",
+      "tier": 2,
+      "matchId": "m4"
+    },
+    {
+      "slug": "botic-van-de-zandschulp",
+      "name": "Botic van de Zandschulp",
+      "country": "NL",
+      "countryName": "Netherlands",
+      "seed": null,
+      "ranking": 70,
+      "draw": "men",
+      "tier": 2,
+      "matchId": "m4"
+    },
+    {
+      "slug": "karen-khachanov",
+      "name": "Karen Khachanov",
+      "country": "RU",
+      "countryName": "Russia",
+      "seed": null,
+      "ranking": 50,
+      "draw": "men",
+      "tier": 3,
+      "matchId": "m5"
+    },
+    {
+      "slug": "benjamin-bonzi",
+      "name": "Benjamin Bonzi",
+      "country": "FR",
+      "countryName": "France",
+      "seed": null,
+      "ranking": 97,
+      "draw": "men",
+      "tier": 3,
+      "matchId": "m5"
+    },
+    {
+      "slug": "jakub-mensik",
+      "name": "Jakub Mensik",
+      "country": "CZ",
+      "countryName": "Czechia",
+      "seed": 17,
+      "ranking": 18,
+      "draw": "men",
+      "tier": 2,
+      "matchId": "m6"
+    },
+    {
+      "slug": "learner-tien",
+      "name": "Learner Tien",
+      "country": "US",
+      "countryName": "United States",
+      "seed": 14,
+      "ranking": 15,
+      "draw": "men",
+      "tier": 2,
+      "matchId": "m6"
+    },
+    {
+      "slug": "taylor-fritz",
+      "name": "Taylor Fritz",
+      "country": "US",
+      "countryName": "United States",
+      "seed": 9,
+      "ranking": 10,
+      "draw": "men",
+      "tier": 1,
+      "matchId": "m7"
+    },
+    {
+      "slug": "francisco-cerundolo",
+      "name": "Francisco Cerundolo",
+      "country": "AR",
+      "countryName": "Argentina",
+      "seed": 24,
+      "ranking": 25,
+      "draw": "men",
+      "tier": 1,
+      "matchId": "m7"
+    },
+    {
+      "slug": "alexander-blockx",
+      "name": "Alexander Blockx",
+      "country": "BE",
+      "countryName": "Belgium",
+      "seed": 28,
+      "ranking": 34,
+      "draw": "men",
+      "tier": 1,
+      "matchId": "m8"
+    },
+    {
+      "slug": "flavio-cobolli",
+      "name": "Flavio Cobolli",
+      "country": "IT",
+      "countryName": "Italy",
+      "seed": 5,
+      "ranking": 6,
+      "draw": "men",
+      "tier": 1,
+      "matchId": "m8"
+    },
+    {
+      "slug": "mirra-andreeva",
+      "name": "Mirra Andreeva",
+      "country": "RU",
+      "countryName": "Russia",
+      "seed": 5,
+      "ranking": 5,
+      "draw": "women",
+      "tier": 1,
+      "matchId": "m9"
+    },
+    {
+      "slug": "nikola-bartunkova",
+      "name": "Nikola Bartunkova",
+      "country": "CZ",
+      "countryName": "Czechia",
+      "seed": null,
+      "ranking": 34,
+      "draw": "women",
+      "tier": 1,
+      "matchId": "m9"
+    },
+    {
+      "slug": "anastasia-potapova",
+      "name": "Anastasia Potapova",
+      "country": "AT",
+      "countryName": "Austria",
+      "seed": 24,
+      "ranking": 25,
+      "draw": "women",
+      "tier": 1,
+      "matchId": "m10"
+    },
+    {
+      "slug": "amanda-anisimova",
+      "name": "Amanda Anisimova",
+      "country": "US",
+      "countryName": "United States",
+      "seed": 10,
+      "ranking": 10,
+      "draw": "women",
+      "tier": 1,
+      "matchId": "m10"
+    },
+    {
+      "slug": "iva-jovic",
+      "name": "Iva Jovic",
+      "country": "US",
+      "countryName": "United States",
+      "seed": 14,
+      "ranking": 14,
+      "draw": "women",
+      "tier": 2,
+      "matchId": "m11"
+    },
+    {
+      "slug": "alexandra-eala",
+      "name": "Alexandra Eala",
+      "country": "PH",
+      "countryName": "Philippines",
+      "seed": 17,
+      "ranking": 18,
+      "draw": "women",
+      "tier": 2,
+      "matchId": "m11"
+    },
+    {
+      "slug": "cristina-bucsa",
+      "name": "Cristina Bucsa",
+      "country": "ES",
+      "countryName": "Spain",
+      "seed": null,
+      "ranking": 40,
+      "draw": "women",
+      "tier": 1,
+      "matchId": "m12"
+    },
+    {
+      "slug": "coco-gauff",
+      "name": "Coco Gauff",
+      "country": "US",
+      "countryName": "United States",
+      "seed": 4,
+      "ranking": 4,
+      "draw": "women",
+      "tier": 1,
+      "matchId": "m12"
+    },
+    {
+      "slug": "iga-swiatek",
+      "name": "Iga Swiatek",
+      "country": "PL",
+      "countryName": "Poland",
+      "seed": 8,
+      "ranking": 8,
+      "draw": "women",
+      "tier": 1,
+      "matchId": "m13"
+    },
+    {
+      "slug": "marie-bouzkova",
+      "name": "Marie Bouzkova",
+      "country": "CZ",
+      "countryName": "Czechia",
+      "seed": 25,
+      "ranking": 26,
+      "draw": "women",
+      "tier": 1,
+      "matchId": "m13"
+    },
+    {
+      "slug": "madison-keys",
+      "name": "Madison Keys",
+      "country": "US",
+      "countryName": "United States",
+      "seed": 22,
+      "ranking": 24,
+      "draw": "women",
+      "tier": 2,
+      "matchId": "m14"
+    },
+    {
+      "slug": "qinwen-zheng",
+      "name": "Qinwen Zheng",
+      "country": "CN",
+      "countryName": "China",
+      "seed": null,
+      "ranking": 121,
+      "draw": "women",
+      "tier": 2,
+      "matchId": "m14"
+    },
+    {
+      "slug": "naomi-osaka",
+      "name": "Naomi Osaka",
+      "country": "JP",
+      "countryName": "Japan",
+      "seed": 13,
+      "ranking": 13,
+      "draw": "women",
+      "tier": 2,
+      "matchId": "m15"
+    },
+    {
+      "slug": "elise-mertens",
+      "name": "Elise Mertens",
+      "country": "BE",
+      "countryName": "Belgium",
+      "seed": 23,
+      "ranking": 20,
+      "draw": "women",
+      "tier": 2,
+      "matchId": "m15"
+    },
+    {
+      "slug": "yuliia-starodubtseva",
+      "name": "Yuliia Starodubtseva",
+      "country": "UA",
+      "countryName": "Ukraine",
+      "seed": null,
+      "ranking": 58,
+      "draw": "women",
+      "tier": 1,
+      "matchId": "m16"
+    },
+    {
+      "slug": "elena-rybakina",
+      "name": "Elena Rybakina",
+      "country": "KZ",
+      "countryName": "Kazakhstan",
+      "seed": 2,
+      "ranking": 2,
+      "draw": "women",
+      "tier": 1,
+      "matchId": "m16"
+    }
+  ]
+}

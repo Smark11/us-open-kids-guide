@@ -1,0 +1,89 @@
+{
+  "slug": "karen-khachanov",
+  "name": "Karen Khachanov",
+  "country": "RU",
+  "countryName": "Russia",
+  "flagEmoji": "🇷🇺",
+  "birthDate": "1996-05-21",
+  "age": 30,
+  "seed": null,
+  "ranking": 50,
+  "draw": "men",
+  "tier": 3,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 198,
+  "hometown": "Moscow, Russia",
+  "nicknameOrTagline": "The Gentle Giant",
+  "intro": "Karen Khachanov is a tall tennis player from Moscow, Russia. He stands 6 feet 6 inches. He is famous for his huge serve and calm, quiet style.",
+  "story": "Karen started tennis at age three in a kindergarten class. He decided to become a pro player when he was 12. In 2018 he won the Paris Masters and beat Novak Djokovic in the final. He won a silver medal at the Tokyo Olympics. This week he beat the No. 3 seed to reach the third round.",
+  "funFacts": [
+    {
+      "text": "He started playing tennis at age three in a kindergarten class.",
+      "source": "https://www.atptour.com/en/players/karen-khachanov/ke29/bio"
+    },
+    {
+      "text": "He speaks three languages: Russian, English and Spanish.",
+      "source": "https://www.atptour.com/en/players/karen-khachanov/ke29/bio"
+    },
+    {
+      "text": "He loved chemistry in school. He said the formulas 'danced around nicely' in his head.",
+      "source": "https://libema-open.nl/en/2024/06/12/interview-khachanov-my-teachers-looked-weird-about-it/"
+    },
+    {
+      "text": "Off the court he likes reading books and playing chess.",
+      "source": "https://www.rolandgarros.com/en-us/article/heirs-to-the-throne-part-2-karen-khachanov"
+    },
+    {
+      "text": "He won an Olympic silver medal at the Tokyo Games.",
+      "source": "https://en.wikipedia.org/wiki/Karen_Khachanov"
+    },
+    {
+      "text": "He cheers for Real Madrid in soccer and the Miami Heat in basketball.",
+      "source": "https://en.wikipedia.org/wiki/Karen_Khachanov"
+    },
+    {
+      "text": "He is a dad to two little boys.",
+      "source": "https://en.wikipedia.org/wiki/Karen_Khachanov"
+    }
+  ],
+  "watchFor": "Watch his booming serve: he is 6 feet 6, so the ball comes down from way up high.",
+  "matchTomorrow": {
+    "opponent": "Benjamin Bonzi",
+    "opponentSlug": "benjamin-bonzi",
+    "court": "TBD",
+    "session": "TBD",
+    "matchId": "m5"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Karen_Khachanov_%282024_DC_Open%29_02.jpg",
+    "localPath": "img/players/karen-khachanov.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AKaren_Khachanov_%282024_DC_Open%29_02.jpg",
+    "title": "File:Karen_Khachanov_(2024_DC_Open)_02.jpg",
+    "isAvatar": false
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Karen_Khachanov",
+    "https://www.atptour.com/en/players/karen-khachanov/ke29/bio",
+    "https://libema-open.nl/en/2024/06/12/interview-khachanov-my-teachers-looked-weird-about-it/",
+    "https://www.rolandgarros.com/en-us/article/heirs-to-the-throne-part-2-karen-khachanov",
+    "https://www.atptour.com/en/news/auger-aliassime-khachanov-us-open-2026-thursday",
+    "https://facts.net/lifestyle/sports/50-facts-about-karen-khachanov/"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-04T13:13:10-04:00",
+  "factCheck": {
+    "checkedAt": "2026-09-04T13:18:35-04:00",
+    "notes": [
+      "Birth date, Moscow, 198 cm, right-handed/two-handed backhand, Tokyo silver, 2018 Paris final vs Djokovic, two sons (2019, 2023), Real Madrid + Miami Heat: en.wikipedia.org/wiki/Karen_Khachanov.",
+      "Started at 3 in kindergarten; speaks Russian, English, Spanish; hobbies chess: atptour.com bio (ATP lists only son David; Wikipedia lists second son born 2023).",
+      "'Gentle giant', reading + chess: rolandgarros.com feature (exact wording 'Khachanov is a gentle giant').",
+      "Chemistry quote: libema-open.nl interview. Beat No. 3 seed Auger-Aliassime in R2: atptour.com US Open Thursday report.",
+      "Ranking 50 / no seed / opponent Bonzi match schedule.json."
+    ],
+    "changes": [
+      "Story: replaced unsourced 'grew up watching big tournaments in Moscow' with 'decided to become a pro player when he was 12' (Wikipedia)."
+    ]
+  }
+}

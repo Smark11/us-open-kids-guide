@@ -1,0 +1,76 @@
+{
+  "slug": "iva-jovic",
+  "name": "Iva Jovic",
+  "country": "US",
+  "countryName": "United States",
+  "flagEmoji": "🇺🇸",
+  "birthDate": "2007-12-06",
+  "age": 18,
+  "seed": 14,
+  "ranking": 14,
+  "draw": "women",
+  "tier": 2,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 173,
+  "hometown": "Torrance, California, United States",
+  "nicknameOrTagline": "California Beach Kid, Big Backhand",
+  "intro": "Iva Jovic is an 18-year-old from Torrance, California. She is one of the youngest players in the top 20. She reached the quarterfinals of the Australian Open this year.",
+  "story": "Iva started tennis at age five. She also swam and played soccer as a kid. Her big sister Mia was her first rival. Iva hated losing to her! In 2024 she won two junior Grand Slam doubles titles. Now she is the top-ranked American teenager.",
+  "funFacts": [
+    {
+      "text": "She lives near the beach and loves surfing, boogie boarding, and paddleboarding.",
+      "source": "https://cincinnatiopen.com/news/iva-jovic-17-shares-parents-emigration-story-and-menace-memories/"
+    },
+    {
+      "text": "Her favorite fun days are at Six Flags and Knott's Berry Farm.",
+      "source": "https://cincinnatiopen.com/news/iva-jovic-17-shares-parents-emigration-story-and-menace-memories/"
+    },
+    {
+      "text": "She speaks Serbian at home. Her parents are both pharmacists.",
+      "source": "https://cincinnatiopen.com/news/iva-jovic-17-shares-parents-emigration-story-and-menace-memories/"
+    },
+    {
+      "text": "As a kid she waited two and a half hours for Novak Djokovic's autograph.",
+      "source": "https://bnpparibasopen.com/news/iva-jovic-2025"
+    },
+    {
+      "text": "Her big sister Mia plays college tennis at UCLA.",
+      "source": "https://en.wikipedia.org/wiki/Iva_Jovic"
+    },
+    {
+      "text": "She says swimming built her muscles and soccer built her footwork.",
+      "source": "https://www.rolandgarros.com/en-us/article/wta-interview-iva-jovic-rise-ambitions-career-clay-court-family-values"
+    },
+    {
+      "text": "She was the youngest American to win a US Open match in over 20 years.",
+      "source": "https://en.wikipedia.org/wiki/Iva_Jovic"
+    }
+  ],
+  "watchFor": "Watch her two-handed backhand: she hits it early and flips it cross-court in a flash.",
+  "matchTomorrow": {
+    "opponent": "Alexandra Eala",
+    "opponentSlug": "alexandra-eala",
+    "court": "TBD",
+    "session": "TBD",
+    "matchId": "m11"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Iva_Jovic%2C_Roma_7_May_2026_%28cropped_v2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "localPath": "img/players/iva-jovic.jpg",
+    "license": "Public domain",
+    "author": "Raffaele Di Buono",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AIva_Jovic%2C_Roma_7_May_2026_%28cropped_v2%29.jpg",
+    "title": "File:Iva_Jovic,_Roma_7_May_2026_(cropped_v2).jpg",
+    "bytes": 45127,
+    "width": 445,
+    "height": 600
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Iva_Jovic",
+    "https://cincinnatiopen.com/news/iva-jovic-17-shares-parents-emigration-story-and-menace-memories/",
+    "https://bnpparibasopen.com/news/iva-jovic-2025",
+    "https://www.rolandgarros.com/en-us/article/wta-interview-iva-jovic-rise-ambitions-career-clay-court-family-values"
+  ],
+  "verified": false,
+  "researchedAt": "2026-09-04T17:10:24+00:00"
+}

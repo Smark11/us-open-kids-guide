@@ -1,0 +1,85 @@
+{
+  "slug": "alexander-zverev",
+  "name": "Alexander Zverev",
+  "country": "DE",
+  "countryName": "Germany",
+  "flagEmoji": "🇩🇪",
+  "birthDate": "1997-04-20",
+  "age": 29,
+  "seed": 1,
+  "ranking": 2,
+  "draw": "men",
+  "tier": 1,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 198,
+  "hometown": "Hamburg, Germany",
+  "nicknameOrTagline": "Sascha",
+  "intro": "Alexander Zverev is a super-tall tennis star from Hamburg, Germany. His friends call him Sascha. He is the number 1 seed here, and he has a giant serve.",
+  "story": "Sascha comes from a tennis family. His mom and dad were both pro players. His big brother Mischa was a pro too. His dad has coached him since he was a little boy. In 2026, Sascha finally won his first Grand Slam title at the French Open. He also has an Olympic gold medal from Tokyo.",
+  "funFacts": [
+    {
+      "text": "He is 6 feet 6 inches tall. That is taller than most doorways feel!",
+      "source": "https://en.wikipedia.org/wiki/Alexander_Zverev"
+    },
+    {
+      "text": "He travels with a little grey poodle named Lovik. Lovik has even had his own tournament pass.",
+      "source": "https://www.rolandgarros.com/en-us/article/the-a-z-of-alexander-zverev"
+    },
+    {
+      "text": "He speaks three languages: German, Russian, and English.",
+      "source": "https://www.rolandgarros.com/en-us/article/the-a-z-of-alexander-zverev"
+    },
+    {
+      "text": "He loves basketball. His favorite player ever is Dwyane Wade.",
+      "source": "https://www.rolandgarros.com/en-us/article/the-a-z-of-alexander-zverev"
+    },
+    {
+      "text": "He met Roger Federer at age five and got his autograph. Years later he beat Federer in a real match!",
+      "source": "https://en.wikipedia.org/wiki/Alexander_Zverev"
+    },
+    {
+      "text": "He won the Olympic gold medal in Tokyo in 2021.",
+      "source": "https://en.wikipedia.org/wiki/Alexander_Zverev"
+    },
+    {
+      "text": "In his free time he plays golf and video games.",
+      "source": "https://www.rolandgarros.com/en-us/article/the-a-z-of-alexander-zverev"
+    }
+  ],
+  "watchFor": "Watch his serve: he tosses the ball way up high, then hits it so fast it is a blur.",
+  "matchTomorrow": {
+    "opponent": "Alejandro Tabilo",
+    "opponentSlug": "alejandro-tabilo",
+    "court": "TBD",
+    "session": "TBD",
+    "matchId": "m1"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Alexander_Zverev.jpg",
+    "localPath": "img/players/alexander-zverev.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Rick Munroe",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AAlexander_Zverev.jpg",
+    "title": "File:Alexander_Zverev.jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Alexander_Zverev",
+    "https://www.rolandgarros.com/en-us/article/the-a-z-of-alexander-zverev",
+    "https://au.sports.yahoo.com/alexander-zverev-and-his-dog-lovik-at-paris-masters-37676118.html"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-04T17:30:00Z",
+  "factCheck": {
+    "checkedAt": "2026-09-04T19:00:00Z",
+    "notes": [
+      "Birth date, height, plays, hometown, parents/brother, 2026 French Open, Tokyo gold, ranking 2 confirmed via Wikipedia; seed 1/rank 2/opponent match schedule.json.",
+      "Lovik grey poodle + tournament pass, three languages, Dwyane Wade, Federer autograph at five, golf/video games confirmed in full text of Roland Garros A-Z article.",
+      "High ball toss on serve is widely documented (e.g. lobandsmash.com 2020 analysis)."
+    ],
+    "changes": [
+      "Story: 'coached since three' -> 'since he was a little boy' (RG source says 'since early childhood').",
+      "Fact 2: 'tiny' -> 'little'; pass wording softened to 'has even had'.",
+      "Fact 5: 'Now they are rivals' (Federer retired 2022) -> 'Years later he beat Federer in a real match' (Halle 2016, Wikipedia)."
+    ]
+  }
+}

@@ -476,7 +476,7 @@
    ]
   }
  ],
- "generatedAt": "2026-09-04T18:03:10",
+ "generatedAt": "2026-09-04T18:09:55",
  "players": [
   {
    "slug": "alexander-zverev",
@@ -502,7 +502,7 @@
      "source": "https://en.wikipedia.org/wiki/Alexander_Zverev"
     },
     {
-     "text": "He travels with a little grey poodle named Lovik. Lovik even had his own tournament pass!",
+     "text": "He travels with a grey poodle named Lovik. Lovik even had his own tournament pass!",
      "source": "https://www.rolandgarros.com/en-us/article/the-a-z-of-alexander-zverev"
     },
     {
@@ -869,7 +869,7 @@
     },
     {
      "text": "She picked tennis because of her mom, who loved watching it on TV.",
-     "source": "https://www.essentiallysports.com/wta-tennis-news-meet-mirra-andreeva-career-education-achievements-parents-siblings-net-worth-and-more/"
+     "source": "https://www.tennismajors.com/wta-tour-news/madrid-erika-russia-everything-you-always-wanted-to-know-about-mirra-andreeva-but-never-had-time-to-find-out-677483.html"
     },
     {
      "text": "At 17 she was the youngest ever to win one of the tour's biggest events.",
@@ -901,8 +901,7 @@
     "https://tennishead.net/id-like-to-thank-me-mirra-andreeva-historic-dubai-triumph/",
     "https://www.skysports.com/tennis/news/32498/12915924/wimbledon-teenage-sensation-mirra-andreeva-too-shy-to-talk-with-andy-murray-despite-incredible-run",
     "https://www.thetennisgazette.com/news/mirra-andreeva-picks-her-most-favorite-shot-after-getting-advice-from-coach-conchita-martinez-recently/",
-    "https://www.tennismajors.com/wta-tour-news/madrid-erika-russia-everything-you-always-wanted-to-know-about-mirra-andreeva-but-never-had-time-to-find-out-677483.html",
-    "https://www.essentiallysports.com/wta-tennis-news-meet-mirra-andreeva-career-education-achievements-parents-siblings-net-worth-and-more/"
+    "https://www.tennismajors.com/wta-tour-news/madrid-erika-russia-everything-you-always-wanted-to-know-about-mirra-andreeva-but-never-had-time-to-find-out-677483.html"
    ],
    "verified": true,
    "researchedAt": "2026-09-04T17:30:00Z",
@@ -1028,7 +1027,7 @@
    "hometown": "Rancho Santa Fe, California, United States",
    "nicknameOrTagline": "Big-Serving American",
    "intro": "Taylor Fritz is one of the top American men in tennis. He comes from sunny California. He is known for a booming serve and a rocket forehand.",
-   "story": "His mom was a top-10 player. His dad was a pro and a coach. In 2024 Taylor reached the US Open final, right here in New York. He also won an Olympic bronze medal in doubles. This summer he won the big tournament in Washington, D.C.",
+   "story": "His dad was a pro and a coach. In 2024 Taylor reached the US Open final, right here in New York. He also won an Olympic bronze medal in doubles. This summer he won the big tournament in Washington, D.C.",
    "funFacts": [
     {
      "text": "He is 6 feet 5 inches tall.",
@@ -1264,7 +1263,6 @@
    },
    "sources": [
     "https://en.wikipedia.org/wiki/Anastasia_Potapova",
-    "https://www.tennis.com/news/articles/anastasia-potapova-burnout-new-coach-coco-gauff-montreal",
     "https://www.tennis.com/news/articles/anastasia-potapova-changes-sporting-nationality-to-austria-ahead-of-2026-tennis-season",
     "https://www.puntodebreak.com/en/2026/05/24/potapovas-dog-protagonist-at-roland-garros",
     "https://tennistonic.com/tennis-news/1028538/if-im-not-gonna-look-good-on-court-if-im-not-going-to-play-good-potapova-explains-how-self-care-fuels-performance/",
@@ -1983,7 +1981,6 @@
     "https://www.si.com/extra-mustard/2016/01/22/australian-open-naomi-osaka-pokemon-theme",
     "https://www.usopen.org/amp/en_US/news/articles/2026-08-31/naomi_osaka_makes_2026_us_open_fashion_statement_with_all-white_look.html",
     "https://hypebeast.com/2026/2/naomi-osaka-loves-anime-and-japan-interview",
-    "https://www.tennis.com/news/articles/mother-no-drama-osaka-shows-off-her-precious-new-puppy",
     "https://www.yahoo.com/entertainment/celebrity/articles/naomi-osaka-daughter-shai-she-141622754.html",
     "https://www.si.com/onsi/serve/style/naomi-osaka-nike-kit-2026-us-open-appears-online"
    ],
@@ -2052,7 +2049,7 @@
      "source": "https://en.wikipedia.org/wiki/Iva_Jovic"
     }
    ],
-   "watchFor": "Watch her two-handed backhand flip cross-court in a flash.",
+   "watchFor": "Watch her hit her two-handed backhand hard and low across the court.",
    "matchTomorrow": {
     "opponent": "Alexandra Eala",
     "opponentSlug": "alexandra-eala",
@@ -2296,7 +2293,7 @@
    "plays": "Right-handed, two-handed backhand",
    "heightCm": 196,
    "hometown": "Prostějov, Czechia",
-   "nicknameOrTagline": "Menimal",
+   "nicknameOrTagline": "Big Serve, Cool Head",
    "intro": "Jakub Menšík is a very tall player from Czechia. He stands 6 feet 5 inches. At 19 he won a big title in Miami, beating his hero Novak Djokovic.",
    "story": "Jakub grew up right next to tennis courts. He watched other kids play, then joined in at age five. Later his idol Djokovic invited him to practice together. In 2025 Jakub beat Djokovic in the Miami final! He also just won a doubles title right here at the US Open.",
    "funFacts": [
@@ -2327,6 +2324,10 @@
     {
      "text": "He taught himself the drums from YouTube videos. He can play Led Zeppelin songs!",
      "source": "https://www.atptour.com/en/news/mensik-cap-cana-challenger-2025-feature"
+    },
+    {
+     "text": "Fans call him Menimal, a mash-up of Mensik and animal.",
+     "source": "https://en.wikipedia.org/wiki/Jakub_Menšík"
     }
    ],
    "watchFor": "Watch his rocket first serve, then his second serve that kicks up high.",

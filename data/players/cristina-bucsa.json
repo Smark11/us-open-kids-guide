@@ -15,7 +15,7 @@
   "hometown": "Torrelavega, Spain (born in Chișinău, Moldova)",
   "nicknameOrTagline": "The Quiet Olympian",
   "intro": "Cristina Bucșa plays for Spain. She was born in Moldova and moved to Spain at age three. She won an Olympic bronze medal in doubles in 2024.",
-  "story": "Cristina's dad Ion was an Olympic skier and shooter. He carried Moldova's flag at two Winter Olympics! Now he is her coach. Cristina won a regional title at age seven. This year she won her first big singles title in Mexico. Tomorrow she faces Coco Gauff.",
+  "story": "Cristina's dad Ion was an Olympic biathlete. That is skiing and shooting! He carried Moldova's flag at two Winter Olympics. Now he is her coach. Cristina won a regional title at age seven. This year she won her first big singles title in Mexico. Tomorrow she faces Coco Gauff.",
   "funFacts": [
     {
       "text": "Her birthday is January 1. She is a New Year's baby!",
@@ -23,7 +23,7 @@
     },
     {
       "text": "She speaks four languages: Spanish, Romanian, English and French. She is learning Korean too.",
-      "source": "https://www.wtatennis.com/news/4301091/from-no-shoes-to-finding-her-footing-bucsa-is-moving-up-at-wimbledon"
+      "source": "https://en.wikipedia.org/wiki/Cristina_Buc%C8%99a"
     },
     {
       "text": "She has a blue belt in karate.",
@@ -34,12 +34,12 @@
       "source": "https://www.wtatennis.com/news/4301091/from-no-shoes-to-finding-her-footing-bucsa-is-moving-up-at-wimbledon"
     },
     {
-      "text": "She has no Instagram or TikTok. She says she is too busy.",
+      "text": "She has no Instagram or TikTok. She says she is too busy training.",
       "source": "https://www.claytenis.com/features/cristina-bucsa-when-spains-no-1-doesnt-want-you-to-find-her/"
     },
     {
-      "text": "At home she can ski in the morning. Then swim in the sea after lunch.",
-      "source": "https://www.claytenis.com/features/cristina-bucsa-when-spains-no-1-doesnt-want-you-to-find-her/"
+      "text": "In spring at home she can ski in the morning and swim in the sea in the afternoon.",
+      "source": "https://www.wtatennis.com/news/4301091/from-no-shoes-to-finding-her-footing-bucsa-is-moving-up-at-wimbledon"
     },
     {
       "text": "She won an Olympic bronze medal in doubles at Paris 2024.",
@@ -67,6 +67,20 @@
     "https://www.wtatennis.com/news/4301091/from-no-shoes-to-finding-her-footing-bucsa-is-moving-up-at-wimbledon",
     "https://www.claytenis.com/features/cristina-bucsa-when-spains-no-1-doesnt-want-you-to-find-her/"
   ],
-  "verified": false,
-  "researchedAt": "2026-09-04T17:16:31+00:00"
+  "verified": true,
+  "researchedAt": "2026-09-04T17:16:31+00:00",
+  "factCheck": {
+    "checkedAt": "2026-09-04T21:52:28+00:00",
+    "notes": [
+      "Birth 1998-01-01 Chisinau, moved to Cantabria at 3, resides Torrelavega, R-handed/2HBH, 176 cm, father Ion Olympic biathlete and flag bearer 1998/2002 and her coach, Paris 2024 doubles bronze with Sorribes Tormo, first WTA singles title Merida 2026, speaks Spanish/Romanian/English/French: confirmed on Wikipedia.",
+      "Karate blue belt, oversized-shoes Wimbledon qualifying win, studying Korean, no social media: WTA article 4301091. Regional U10 champion at seven: claytenis.",
+      "Unseeded / ranking 40 / opponent Gauff match schedule.json."
+    ],
+    "changes": [
+      "Story: 'Olympic skier and shooter' -> 'Olympic biathlete (skiing and shooting)' per Wikipedia/claytenis.",
+      "Fun fact 2 (languages): four languages sourced to Wikipedia; Korean study remains from WTA article.",
+      "Fun fact 5: reworded to match her quote ('I don't have time. I'm working so hard').",
+      "Fun fact 6 (ski/swim): claytenis did not contain it; re-sourced to WTA article and reworded ('in spring')."
+    ]
+  }
 }

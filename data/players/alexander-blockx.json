@@ -69,6 +69,15 @@
     "https://www.tennis.com/news/articles/alexander-blockx-full-circle-medvedev-goffin-belgium-roland-garros-interview",
     "https://tennisnow.com/alexander-blockx-former-junior-no-1-is-rising-rapidly-in-madrid/"
   ],
-  "verified": false,
-  "researchedAt": "2026-09-04T17:16:31+00:00"
+  "verified": true,
+  "researchedAt": "2026-09-04T17:16:31+00:00",
+  "factCheck": {
+    "checkedAt": "2026-09-04T21:52:28+00:00",
+    "notes": [
+      "Birth 2005-04-08 Antwerp, R-handed/2HBH, 193 cm, parents Oleg (hurdles) and Natalia (swimmer), 2023 AO boys' title over Learner Tien, junior No. 1, coach Cassiers 2010-Apr 2026, 2026 Madrid SF, Belgian No. 1, started at 4 via brother's lessons: confirmed on Wikipedia.",
+      "Trivia memory, 42 of 45 U12 matches, parents' sports: confirmed in ATP Saint-Tropez feature. Medvedev fan photo (Next Gen Finals) and later sharing a stage (Tecnifibre event RG 2026): confirmed in tennis.com interview.",
+      "Ranking 34 per schedule.json (Wikipedia shows 32 as of late July; schedule feed is authoritative). Seed 28 / opponent Cobolli match."
+    ],
+    "changes": []
+  }
 }

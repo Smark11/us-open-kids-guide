@@ -13,8 +13,8 @@
   "plays": "Right-handed, two-handed backhand",
   "heightCm": 180,
   "hometown": "Prague, Czechia",
-  "nicknameOrTagline": "The Wall from Prague",
-  "intro": "Marie Bouzková is from Prague, in Czechia. She is a super-fast runner who chases down everything. Players say hitting past her is like hitting into a wall.",
+  "nicknameOrTagline": "Defense that never quits",
+  "intro": "Marie Bouzková is from Prague, in Czechia. She is a super-fast runner who chases down everything. Even the WTA Tour calls her defense astounding.",
   "story": "Marie started at a tennis club her parents owned in Prague. At 16 she won the US Open junior title, right here in New York. Now she lives in Florida and plays on the big tour. This year she won a title on grass and reached her best ranking ever.",
   "funFacts": [
     {
@@ -22,7 +22,7 @@
       "source": "https://en.wikipedia.org/wiki/Marie_Bouzkov%C3%A1"
     },
     {
-      "text": "She dreams of owning a Bernese mountain dog. She follows lots of them online.",
+      "text": "She follows lots of mountain dog accounts online. She wants one after she retires.",
       "source": "https://www.tennis.com/baseline/articles/5-minutes-marie-bouzkova-and-ann-li-interview"
     },
     {
@@ -42,11 +42,11 @@
       "source": "https://en.wikipedia.org/wiki/Marie_Bouzkov%C3%A1"
     },
     {
-      "text": "She loves drawing, reading, and playing Wordle every day.",
+      "text": "She loves drawing, reading, and playing Wordle in her free time.",
       "source": "https://www.tennis.com/baseline/articles/5-minutes-marie-bouzkova-and-ann-li-interview"
     }
   ],
-  "watchFor": "Watch her sprint and slide to reach balls that look impossible, then celebrate with a big fist pump.",
+  "watchFor": "Watch her chase down shot after shot in long rallies. Her defense is so good the WTA called it astounding.",
   "matchTomorrow": {
     "opponent": "Iga Swiatek",
     "opponentSlug": "iga-swiatek",
@@ -65,8 +65,22 @@
   "sources": [
     "https://en.wikipedia.org/wiki/Marie_Bouzkov%C3%A1",
     "https://www.tennis.com/baseline/articles/5-minutes-marie-bouzkova-and-ann-li-interview",
-    "https://www.wtatennis.com/players/319143/marie-bouzkova"
+    "https://www.wtatennis.com/players/319143/marie-bouzkova",
+    "https://www.wtatennis.com/videos/4252524/what-astounding-defense-marie-bouzkova-triumphs-in-madrid-lungbuster"
   ],
-  "verified": false,
-  "researchedAt": "2026-09-04T17:11:02Z"
+  "verified": true,
+  "researchedAt": "2026-09-04T17:11:02Z",
+  "factCheck": {
+    "checkedAt": "2026-09-04T21:53:16Z",
+    "notes": [
+      "birthDate/height 180/plays/hometown: Wikipedia + WTA profile (ID 320983; the 319143 URL in sources is a different player). WTA profile ranking 26 and career high 21 match schedule (seed 25, rank 26).",
+      "Wikipedia confirms parents' club, 2014 US Open girls' title, four languages, business degree (Indiana University East 2022), Florida residence, 2026 Nottingham grass title, career-high July 2026. tennis.com interview confirms Mozart, strawberry emoji, drawing/reading/Wordle, mountain-dog accounts."
+    ],
+    "changes": [
+      "Tagline 'The Wall from Prague' and intro 'hitting into a wall' unsourced; replaced with WTA-sourced 'astounding defense'.",
+      "watchFor 'big fist pump' unsourced; replaced with WTA-sourced defense/long-rally description.",
+      "Dog fact: source says 'Burmese Mountain Dog' (typo); made breed-neutral.",
+      "Wordle 'every day' -> 'in her free time'."
+    ]
+  }
 }

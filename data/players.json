@@ -2,7 +2,7 @@
  "config": {
   "kidName": "Nora",
   "eventDate": "2026-09-05",
-  "eventLabel": "Saturday, September 5, 2026 · Day 6 · Third Round"
+  "eventLabel": "Saturday, September 5, 2026 · Day 7 · Third Round"
  },
  "schedule": {
   "date": "2026-09-05",
@@ -476,7 +476,7 @@
    ]
   }
  ],
- "generatedAt": "2026-09-04T17:48:17",
+ "generatedAt": "2026-09-04T17:54:19",
  "players": [
   {
    "slug": "alexander-zverev",
@@ -816,8 +816,17 @@
     "https://www.nss-sports.com/en/lifestyle/42543/extratime-flavio-cobolli-interview",
     "https://www.tennismajors.com/atp/italy-the-gladiator-roland-garros-juniors-as-roma-everything-you-always-wanted-to-know-about-flavio-cobolli-but-never-had-the-time-to-find-out-updated-after-australian-open-2025-806104.html"
    ],
-   "verified": false,
-   "researchedAt": "2026-09-04T17:16:31+00:00"
+   "verified": true,
+   "researchedAt": "2026-09-04T17:16:31+00:00",
+   "factCheck": {
+    "checkedAt": "2026-09-04T21:52:28+00:00",
+    "notes": [
+     "Birth 2002-05-06 Florence, resides Rome, R-handed/2HBH, 183 cm, father Stefano ex-player and coach, brother Guglielmo, idol Djokovic, 2020 RG boys' doubles with Stricker, 2025 Davis Cup, 2026 RG finalist, No. 6: confirmed on Wikipedia.",
+     "AS Roma academy until 14, UTS nickname 'The Gladiator', father coaching: confirmed on tennismajors.com. 30 tattoos, Roma wolf (Lupetto) tattoo, oversized clothing: confirmed in nss-sports interview.",
+     "Seed 5 / ranking 6 / opponent Blockx match schedule.json. No changes needed."
+    ],
+    "changes": []
+   }
   },
   {
    "slug": "mirra-andreeva",
@@ -1119,16 +1128,16 @@
      "source": "https://en.wikipedia.org/wiki/Amanda_Anisimova"
     },
     {
-     "text": "She loves to paint. She sold her paintings in a New York gallery to help charities.",
-     "source": "https://www.wtatennis.com/news/3844595/amanda-anisimova"
+     "text": "She loves to paint. She showed her paintings at a New York gallery and gives the money to charities.",
+     "source": "https://www.tennis-prose.com/articles/anisimova-unveils-her-new-art-in-nyc/"
     },
     {
      "text": "Her favorite artist is Vincent van Gogh.",
-     "source": "https://www.olympics.com/en/news/amanda-anisimova-top-facts-usa-tennis-star"
+     "source": "https://www.insidetennis.com/2025/07/amanda-for-all-seasons/"
     },
     {
-     "text": "During her break, she fostered a dog. She took road trips with friends.",
-     "source": "https://www.olympics.com/en/news/amanda-anisimova-top-facts-usa-tennis-star"
+     "text": "During her break, she volunteered at a dog shelter and took trips with friends.",
+     "source": "https://www.espn.com/tennis/story/_/id/39331295/australian-open-amanda-anisimova-refreshed-2023-break"
     },
     {
      "text": "During her time off, she went to college in Florida for a semester.",
@@ -1165,10 +1174,26 @@
    "sources": [
     "https://en.wikipedia.org/wiki/Amanda_Anisimova",
     "https://www.wtatennis.com/news/3844595/amanda-anisimova",
-    "https://www.olympics.com/en/news/amanda-anisimova-top-facts-usa-tennis-star"
+    "https://www.olympics.com/en/news/amanda-anisimova-top-facts-usa-tennis-star",
+    "https://www.tennis-prose.com/articles/anisimova-unveils-her-new-art-in-nyc/",
+    "https://www.insidetennis.com/2025/07/amanda-for-all-seasons/",
+    "https://www.espn.com/tennis/story/_/id/39331295/australian-open-amanda-anisimova-refreshed-2023-break"
    ],
-   "verified": false,
-   "researchedAt": "2026-09-04T17:16:31+00:00"
+   "verified": true,
+   "researchedAt": "2026-09-04T17:16:31+00:00",
+   "factCheck": {
+    "checkedAt": "2026-09-04T21:52:28+00:00",
+    "notes": [
+     "Birth date, age 25, US, R-handed/2HBH, 180 cm, Freehold Township, parents from Russia, started at 5 copying sister Maria, 2017 USO girls' title over Gauff, 2019 RG SF at 17, 2023 break, career-high No. 3, 2025 Doha+Beijing titles, 2025 USO final: all confirmed on Wikipedia.",
+     "Seed 10 / ranking 10 / opponent Potapova match schedule.json.",
+     "Nova Southeastern semester and road trips confirmed by WTA article 3844595."
+    ],
+    "changes": [
+     "Fun fact 2: 'sold paintings in a NY gallery' -> 'showed paintings at a NY gallery; proceeds to charity' (tennis-prose Tribeca show).",
+     "Fun fact 3 (van Gogh): olympics.com unreachable; re-sourced to InsideTennis ('Van Gogh was her favorite').",
+     "Fun fact 4: 'fostered a dog' -> 'volunteered at a dog shelter' (ESPN); road trips kept (WTA/ESPN)."
+    ]
+   }
   },
   {
    "slug": "anastasia-potapova",
@@ -1190,7 +1215,7 @@
    "story": "At 15, Anastasia won the junior title at Wimbledon. She became the No. 1 junior in the world. As a pro she has won three titles. This year she got into a big Madrid event as a lucky loser. Then she surprised everyone by reaching the semifinals!",
    "funFacts": [
     {
-     "text": "She travels to tournaments with her little dog. She says the dog brings her luck.",
+     "text": "She travels to tournaments with her dog. She says the dog brings her luck.",
      "source": "https://www.puntodebreak.com/en/2026/05/24/potapovas-dog-protagonist-at-roland-garros"
     },
     {
@@ -1202,15 +1227,15 @@
      "source": "https://www.tennis.com/news/articles/anastasia-potapova-burnout-new-coach-coco-gauff-montreal"
     },
     {
-     "text": "Her grandmother coached a basketball team in Russia.",
-     "source": "https://www.tennis.com/news/articles/anastasia-potapova-burnout-new-coach-coco-gauff-montreal"
+     "text": "Her grandmother coaches a basketball team in Moscow. She got Anastasia into tennis at age four.",
+     "source": "https://www.wtatennis.com/news/1414583/potapova-russian-on-the-rise"
     },
     {
      "text": "She won Wimbledon's junior girls' title in 2016.",
      "source": "https://en.wikipedia.org/wiki/Anastasia_Potapova"
     },
     {
-     "text": "She says Vienna feels like home, so she now plays for Austria.",
+     "text": "She says Austria feels like home. Starting in 2026 she plays for Austria.",
      "source": "https://www.tennis.com/news/articles/anastasia-potapova-changes-sporting-nationality-to-austria-ahead-of-2026-tennis-season"
     },
     {
@@ -1242,10 +1267,24 @@
     "https://www.tennis.com/news/articles/anastasia-potapova-burnout-new-coach-coco-gauff-montreal",
     "https://www.tennis.com/news/articles/anastasia-potapova-changes-sporting-nationality-to-austria-ahead-of-2026-tennis-season",
     "https://www.puntodebreak.com/en/2026/05/24/potapovas-dog-protagonist-at-roland-garros",
-    "https://tennistonic.com/tennis-news/1028538/if-im-not-gonna-look-good-on-court-if-im-not-going-to-play-good-potapova-explains-how-self-care-fuels-performance/"
+    "https://tennistonic.com/tennis-news/1028538/if-im-not-gonna-look-good-on-court-if-im-not-going-to-play-good-potapova-explains-how-self-care-fuels-performance/",
+    "https://www.wtatennis.com/news/1414583/potapova-russian-on-the-rise"
    ],
-   "verified": false,
-   "researchedAt": "2026-09-04T17:16:31+00:00"
+   "verified": true,
+   "researchedAt": "2026-09-04T17:16:31+00:00",
+   "factCheck": {
+    "checkedAt": "2026-09-04T21:52:28+00:00",
+    "notes": [
+     "Birth 2001-03-30 Saratov, resides Vienna, Austrian since Dec 2025/2026 season, R-handed/2HBH, 175 cm, 2016 Wimbledon girls' title at 15, junior No. 1, three WTA titles (Istanbul 2022, Linz 2023, Cluj 2025), first lucky loser to reach a WTA 1000 SF (Madrid 2026): confirmed on Wikipedia.",
+     "Dog travels with her in Europe and 'brings me luck': puntodebreak. 'Woosh'/'Boom' storytelling: tennis.com Montreal article. Designer bags/fashion: tennistonic article (page returned 403 to fetch; content confirmed via search excerpt).",
+     "Seed 24 / ranking 25 / opponent Anisimova match schedule.json."
+    ],
+    "changes": [
+     "Fun fact 1: removed unsupported 'little' (dog's size/breed not stated in source).",
+     "Fun fact 4 (grandmother): cited tennis.com article did not mention it; re-sourced to WTA 'Russian On The Rise' and reworded.",
+     "Fun fact 6: 'Vienna feels like home' -> her actual quote is about Austria feeling like home; reworded."
+    ]
+   }
   },
   {
    "slug": "francisco-cerundolo",
@@ -1264,7 +1303,7 @@
    "hometown": "Buenos Aires, Argentina",
    "nicknameOrTagline": "Fran",
    "intro": "Francisco Cerúndolo is from Buenos Aires, Argentina. Everyone calls him Fran. He is famous for a huge, whip-crack forehand.",
-   "story": "Fran grew up at his family's tennis academy. His mom and dad both played tennis. His little brother Juan Manuel is a pro too. His sister won a gold medal in field hockey! This summer Fran won his biggest title ever, on grass at Queen's Club in London.",
+   "story": "Fran started tennis at age 5. His mom and dad both played tennis, and they run a tennis academy in Buenos Aires. His little brother Juan Manuel is a pro too. His sister won a gold medal in field hockey! This summer Fran won his biggest title ever, on grass at Queen's Club in London.",
    "funFacts": [
     {
      "text": "His secret talent is math. He loves numbers and checking stats.",
@@ -1291,7 +1330,7 @@
      "source": "https://www.atptour.com/en/players/francisco-cerundolo/c0au/bio"
     },
     {
-     "text": "He once lost his passport on a trip and had to sleep at the airport.",
+     "text": "He once lost his passport on a trip and missed his plane.",
      "source": "https://www.atptour.com/en/news/cerundolo-nomadic-life-june-2023"
     }
    ],
@@ -1318,10 +1357,22 @@
    "sources": [
     "https://en.wikipedia.org/wiki/Francisco_Cer%C3%BAndolo",
     "https://www.atptour.com/en/players/francisco-cerundolo/c0au/bio",
-    "https://www.atptour.com/en/news/cerundolo-nomadic-life-june-2023"
+    "https://www.atptour.com/en/news/cerundolo-nomadic-life-june-2023",
+    "https://lavercup.com/player/francisco-cerundolo"
    ],
-   "verified": false,
-   "researchedAt": "2026-09-04T17:11:02Z"
+   "verified": true,
+   "researchedAt": "2026-09-04T17:11:02Z",
+   "factCheck": {
+    "checkedAt": "2026-09-04T21:53:16Z",
+    "notes": [
+     "birthDate/height/plays/hometown: Wikipedia + Laver Cup profile (185 cm). Seed 24 / ranking 25 match schedule.json; Wikipedia table shows him unseeded but usopen.org feed is authoritative.",
+     "ATP bio confirms nickname Fran, math, burgers/asado, Gladiator, River Plate, sister's 2018 Youth Olympic hockey gold, singing. ATP nomadic-life article confirms speaker and passport story. Wikipedia confirms brothers in top 100 (2022) and 2026 Queen's title."
+    ],
+    "changes": [
+     "Story: 'grew up at family academy' rephrased to sourced version (parents run academy in Buenos Aires, started at 5).",
+     "Passport fact: 'sleep at the airport' unsupported; changed to 'missed his plane'."
+    ]
+   }
   },
   {
    "slug": "alejandro-tabilo",
@@ -1396,8 +1447,18 @@
     "https://www.tennismajors.com/atp/chile-canada-djokovic-everything-you-always-wanted-to-know-about-alejandro-tabilo-but-never-had-time-to-find-out-760301.html",
     "https://www.tennis-prose.com/bios/biofile-alejandro-tabilo-interview/"
    ],
-   "verified": false,
-   "researchedAt": "2026-09-04T17:16:31+00:00"
+   "verified": true,
+   "researchedAt": "2026-09-04T17:16:31+00:00",
+   "factCheck": {
+    "checkedAt": "2026-09-04T21:52:28+00:00",
+    "notes": [
+     "Birth 1997-06-02 Toronto, Chilean parents, left-handed/2HBH, 188 cm, beat No. 1 Djokovic Rome 2024 and again Monte Carlo 2025, current Chilean No. 1: confirmed on Wikipedia.",
+     "Nickname Jano, brother Sebastian, left home at 13 for Florida, chess, popcorn, ice cream, gym, drop shot, Nadal idol, Superman: all confirmed on ATP bio page.",
+     "Hometown Santiago: tennismajors interview ('When I was around 18, I moved to Santiago').",
+     "Seed 25 / ranking 28 / opponent Zverev match schedule.json. No text changes needed."
+    ],
+    "changes": []
+   }
   },
   {
    "slug": "marie-bouzkova",
@@ -1414,8 +1475,8 @@
    "plays": "Right-handed, two-handed backhand",
    "heightCm": 180,
    "hometown": "Prague, Czechia",
-   "nicknameOrTagline": "The Wall from Prague",
-   "intro": "Marie Bouzková is from Prague, in Czechia. She is a super-fast runner who chases down everything. Players say hitting past her is like hitting into a wall.",
+   "nicknameOrTagline": "Defense that never quits",
+   "intro": "Marie Bouzková is from Prague, in Czechia. She is a super-fast runner who chases down everything. Even the WTA Tour calls her defense astounding.",
    "story": "Marie started at a tennis club her parents owned in Prague. At 16 she won the US Open junior title, right here in New York. Now she lives in Florida and plays on the big tour. This year she won a title on grass and reached her best ranking ever.",
    "funFacts": [
     {
@@ -1423,7 +1484,7 @@
      "source": "https://en.wikipedia.org/wiki/Marie_Bouzkov%C3%A1"
     },
     {
-     "text": "She dreams of owning a Bernese mountain dog. She follows lots of them online.",
+     "text": "She follows lots of mountain dog accounts online. She wants one after she retires.",
      "source": "https://www.tennis.com/baseline/articles/5-minutes-marie-bouzkova-and-ann-li-interview"
     },
     {
@@ -1443,11 +1504,11 @@
      "source": "https://en.wikipedia.org/wiki/Marie_Bouzkov%C3%A1"
     },
     {
-     "text": "She loves drawing, reading, and playing Wordle every day.",
+     "text": "She loves drawing, reading, and playing Wordle in her free time.",
      "source": "https://www.tennis.com/baseline/articles/5-minutes-marie-bouzkova-and-ann-li-interview"
     }
    ],
-   "watchFor": "Watch her sprint and slide to reach balls that look impossible, then celebrate with a big fist pump.",
+   "watchFor": "Watch her chase down shot after shot in long rallies. Her defense is so good the WTA called it astounding.",
    "matchTomorrow": {
     "opponent": "Iga Swiatek",
     "opponentSlug": "iga-swiatek",
@@ -1469,10 +1530,24 @@
    "sources": [
     "https://en.wikipedia.org/wiki/Marie_Bouzkov%C3%A1",
     "https://www.tennis.com/baseline/articles/5-minutes-marie-bouzkova-and-ann-li-interview",
-    "https://www.wtatennis.com/players/319143/marie-bouzkova"
+    "https://www.wtatennis.com/players/319143/marie-bouzkova",
+    "https://www.wtatennis.com/videos/4252524/what-astounding-defense-marie-bouzkova-triumphs-in-madrid-lungbuster"
    ],
-   "verified": false,
-   "researchedAt": "2026-09-04T17:11:02Z"
+   "verified": true,
+   "researchedAt": "2026-09-04T17:11:02Z",
+   "factCheck": {
+    "checkedAt": "2026-09-04T21:53:16Z",
+    "notes": [
+     "birthDate/height 180/plays/hometown: Wikipedia + WTA profile (ID 320983; the 319143 URL in sources is a different player). WTA profile ranking 26 and career high 21 match schedule (seed 25, rank 26).",
+     "Wikipedia confirms parents' club, 2014 US Open girls' title, four languages, business degree (Indiana University East 2022), Florida residence, 2026 Nottingham grass title, career-high July 2026. tennis.com interview confirms Mozart, strawberry emoji, drawing/reading/Wordle, mountain-dog accounts."
+    ],
+    "changes": [
+     "Tagline 'The Wall from Prague' and intro 'hitting into a wall' unsourced; replaced with WTA-sourced 'astounding defense'.",
+     "watchFor 'big fist pump' unsourced; replaced with WTA-sourced defense/long-rally description.",
+     "Dog fact: source says 'Burmese Mountain Dog' (typo); made breed-neutral.",
+     "Wordle 'every day' -> 'in her free time'."
+    ]
+   }
   },
   {
    "slug": "alexander-blockx",
@@ -1548,8 +1623,17 @@
     "https://www.tennis.com/news/articles/alexander-blockx-full-circle-medvedev-goffin-belgium-roland-garros-interview",
     "https://tennisnow.com/alexander-blockx-former-junior-no-1-is-rising-rapidly-in-madrid/"
    ],
-   "verified": false,
-   "researchedAt": "2026-09-04T17:16:31+00:00"
+   "verified": true,
+   "researchedAt": "2026-09-04T17:16:31+00:00",
+   "factCheck": {
+    "checkedAt": "2026-09-04T21:52:28+00:00",
+    "notes": [
+     "Birth 2005-04-08 Antwerp, R-handed/2HBH, 193 cm, parents Oleg (hurdles) and Natalia (swimmer), 2023 AO boys' title over Learner Tien, junior No. 1, coach Cassiers 2010-Apr 2026, 2026 Madrid SF, Belgian No. 1, started at 4 via brother's lessons: confirmed on Wikipedia.",
+     "Trivia memory, 42 of 45 U12 matches, parents' sports: confirmed in ATP Saint-Tropez feature. Medvedev fan photo (Next Gen Finals) and later sharing a stage (Tecnifibre event RG 2026): confirmed in tennis.com interview.",
+     "Ranking 34 per schedule.json (Wikipedia shows 32 as of late July; schedule feed is authoritative). Seed 28 / opponent Cobolli match."
+    ],
+    "changes": []
+   }
   },
   {
    "slug": "cristina-bucsa",
@@ -1568,7 +1652,7 @@
    "hometown": "Torrelavega, Spain (born in Chișinău, Moldova)",
    "nicknameOrTagline": "The Quiet Olympian",
    "intro": "Cristina Bucșa plays for Spain. She was born in Moldova and moved to Spain at age three. She won an Olympic bronze medal in doubles in 2024.",
-   "story": "Cristina's dad Ion was an Olympic skier and shooter. He carried Moldova's flag at two Winter Olympics! Now he is her coach. Cristina won a regional title at age seven. This year she won her first big singles title in Mexico. Tomorrow she faces Coco Gauff.",
+   "story": "Cristina's dad Ion was an Olympic biathlete. That is skiing and shooting! He carried Moldova's flag at two Winter Olympics. Now he is her coach. Cristina won a regional title at age seven. This year she won her first big singles title in Mexico. Tomorrow she faces Coco Gauff.",
    "funFacts": [
     {
      "text": "Her birthday is January 1. She is a New Year's baby!",
@@ -1576,7 +1660,7 @@
     },
     {
      "text": "She speaks four languages: Spanish, Romanian, English and French. She is learning Korean too.",
-     "source": "https://www.wtatennis.com/news/4301091/from-no-shoes-to-finding-her-footing-bucsa-is-moving-up-at-wimbledon"
+     "source": "https://en.wikipedia.org/wiki/Cristina_Buc%C8%99a"
     },
     {
      "text": "She has a blue belt in karate.",
@@ -1587,12 +1671,12 @@
      "source": "https://www.wtatennis.com/news/4301091/from-no-shoes-to-finding-her-footing-bucsa-is-moving-up-at-wimbledon"
     },
     {
-     "text": "She has no Instagram or TikTok. She says she is too busy.",
+     "text": "She has no Instagram or TikTok. She says she is too busy training.",
      "source": "https://www.claytenis.com/features/cristina-bucsa-when-spains-no-1-doesnt-want-you-to-find-her/"
     },
     {
-     "text": "At home she can ski in the morning. Then swim in the sea after lunch.",
-     "source": "https://www.claytenis.com/features/cristina-bucsa-when-spains-no-1-doesnt-want-you-to-find-her/"
+     "text": "In spring at home she can ski in the morning and swim in the sea in the afternoon.",
+     "source": "https://www.wtatennis.com/news/4301091/from-no-shoes-to-finding-her-footing-bucsa-is-moving-up-at-wimbledon"
     },
     {
      "text": "She won an Olympic bronze medal in doubles at Paris 2024.",
@@ -1623,8 +1707,22 @@
     "https://www.wtatennis.com/news/4301091/from-no-shoes-to-finding-her-footing-bucsa-is-moving-up-at-wimbledon",
     "https://www.claytenis.com/features/cristina-bucsa-when-spains-no-1-doesnt-want-you-to-find-her/"
    ],
-   "verified": false,
-   "researchedAt": "2026-09-04T17:16:31+00:00"
+   "verified": true,
+   "researchedAt": "2026-09-04T17:16:31+00:00",
+   "factCheck": {
+    "checkedAt": "2026-09-04T21:52:28+00:00",
+    "notes": [
+     "Birth 1998-01-01 Chisinau, moved to Cantabria at 3, resides Torrelavega, R-handed/2HBH, 176 cm, father Ion Olympic biathlete and flag bearer 1998/2002 and her coach, Paris 2024 doubles bronze with Sorribes Tormo, first WTA singles title Merida 2026, speaks Spanish/Romanian/English/French: confirmed on Wikipedia.",
+     "Karate blue belt, oversized-shoes Wimbledon qualifying win, studying Korean, no social media: WTA article 4301091. Regional U10 champion at seven: claytenis.",
+     "Unseeded / ranking 40 / opponent Gauff match schedule.json."
+    ],
+    "changes": [
+     "Story: 'Olympic skier and shooter' -> 'Olympic biathlete (skiing and shooting)' per Wikipedia/claytenis.",
+     "Fun fact 2 (languages): four languages sourced to Wikipedia; Korean study remains from WTA article.",
+     "Fun fact 5: reworded to match her quote ('I don't have time. I'm working so hard').",
+     "Fun fact 6 (ski/swim): claytenis did not contain it; re-sourced to WTA article and reworded ('in spring')."
+    ]
+   }
   },
   {
    "slug": "nikola-bartunkova",
@@ -1643,10 +1741,10 @@
    "hometown": "Prague, Czechia",
    "nicknameOrTagline": "Drop-shot dynamo",
    "intro": "Nikola Bartůňková is a 20-year-old from Prague, Czechia. She is one of the newest stars in tennis. She loves tricky drop shots and rushing to the net.",
-   "story": "Nikola's dad is a tennis coach. He put a racket in her hands when she was tiny. As a junior she reached the Wimbledon girls' final. She had a tough stretch and came back stronger. This year she beat a top-10 player at her very first Grand Slam. Now she is in the top 40.",
+   "story": "Nikola's dad is a tennis coach. He put a racket in her hands when she was tiny. As a junior she reached the Wimbledon girls' final. This year she beat a top-10 player at her very first Grand Slam. Now she is in the top 40.",
    "funFacts": [
     {
-     "text": "Her dad is her coach. Her mom learned tennis as a grown-up.",
+     "text": "Her dad is a tennis coach. Her mom learned tennis as a grown-up.",
      "source": "https://www.babolat.com/gb/heroes-players-blog-nikola-bartunkova/nikola-bartunkova.html"
     },
     {
@@ -1658,7 +1756,7 @@
      "source": "https://www.babolat.com/gb/heroes-players-blog-nikola-bartunkova/nikola-bartunkova.html"
     },
     {
-     "text": "Her favorite players to watch are Carlos Alcaraz and Roger Federer.",
+     "text": "She loves watching Carlos Alcaraz. Roger Federer and Rafael Nadal are her role models.",
      "source": "https://www.babolat.com/gb/heroes-players-blog-nikola-bartunkova/nikola-bartunkova.html"
     },
     {
@@ -1666,12 +1764,16 @@
      "source": "https://ausopen.com/articles/news/bartunkova-making-most-sliding-doors-moment"
     },
     {
-     "text": "She is 6 feet tall and loves reading and Netflix shows.",
+     "text": "She is about 6 feet tall and loves reading and Netflix shows.",
      "source": "https://www.babolat.com/gb/heroes-players-blog-nikola-bartunkova/nikola-bartunkova.html"
     },
     {
-     "text": "Her motto: 'I hate to lose, but I never give up.'",
+     "text": "She says 'I hate defeat,' but she has never once thought about quitting tennis.",
      "source": "https://www.babolat.com/gb/heroes-players-blog-nikola-bartunkova/nikola-bartunkova.html"
+    },
+    {
+     "text": "She likes old music best, like ABBA and Michael Jackson.",
+     "source": "https://www.wtatennis.com/news/4501631/get-to-know-nikola-bartunkova-whos-on-a-roll-with-hot-shots-in-rome"
     }
    ],
    "watchFor": "Watch for her sneaky drop shots, then a dash to the net for a volley.",
@@ -1696,10 +1798,26 @@
    "sources": [
     "https://en.wikipedia.org/wiki/Nikola_Bart%C5%AF%C5%88kov%C3%A1",
     "https://www.babolat.com/gb/heroes-players-blog-nikola-bartunkova/nikola-bartunkova.html",
-    "https://ausopen.com/articles/news/bartunkova-making-most-sliding-doors-moment"
+    "https://ausopen.com/articles/news/bartunkova-making-most-sliding-doors-moment",
+    "https://www.wtatennis.com/players/330364/nikola-bartunkova",
+    "https://www.wtatennis.com/news/4501631/get-to-know-nikola-bartunkova-whos-on-a-roll-with-hot-shots-in-rome"
    ],
-   "verified": false,
-   "researchedAt": "2026-09-04T17:11:02Z"
+   "verified": true,
+   "researchedAt": "2026-09-04T17:11:02Z",
+   "factCheck": {
+    "checkedAt": "2026-09-04T21:53:16Z",
+    "notes": [
+     "birthDate 2006-02-25 (Wikipedia + WTA). WTA profile ranking 34 matches schedule; Wikipedia says 38 (Aug 24, stale). Height: WTA profile lists none; Wikipedia 184, Babolat 182 (at age 17). Kept 184 per Wikipedia.",
+     "Wikipedia confirms 2023 Wimbledon girls' final and first-slam top-10 win over Bencic at AO 2026. Babolat confirms dad coach, mom, sister, skiing/biking, reading/Netflix, Alcaraz/Federer/Nadal. ausopen.com confirms 'Federer style, Alcaraz style' and drop shots/net quote."
+    ],
+    "changes": [
+     "Story: removed 'tough stretch and came back stronger' (alludes to a doping suspension; age sweep).",
+     "'Her dad is her coach' -> 'Her dad is a tennis coach' (source only says coach who introduced her).",
+     "Favorite-players fact reworded to match Babolat quotes.",
+     "Motto reworded to match Babolat quote.",
+     "Added WTA-sourced music fun fact."
+    ]
+   }
   },
   {
    "slug": "yuliia-starodubtseva",
@@ -1718,7 +1836,7 @@
    "hometown": "Kakhovka, Ukraine",
    "nicknameOrTagline": "From tennis teacher to tennis star",
    "intro": "Yuliia Starodubtseva is from Kakhovka, Ukraine. She went to college in Virginia and once worked as a tennis teacher. Now she beats top players on the biggest stages.",
-   "story": "Yuliia played college tennis at Old Dominion University in Virginia. After school, she taught tennis lessons at a club near New York City. Her friends helped her chase her pro dream. It worked! This spring she reached her first big final, and she beat a top-3 player in Paris.",
+   "story": "Yuliia played college tennis at Old Dominion University in Virginia. After school, she taught tennis lessons at a club near New York City. Friends and supporters helped her chase her pro dream. It worked! This spring she reached her first big final, and she beat the No. 2 seed in Paris.",
    "funFacts": [
     {
      "text": "She has two college degrees, one in communication and one in sport management.",
@@ -1737,19 +1855,19 @@
      "source": "https://www.wtatennis.com/news/4481787/who-is-yuliia-starodubtseva-get-to-know-the-first-time-finalist-charleston-open"
     },
     {
-     "text": "In 2024 she qualified for all four Grand Slams in one year. Nobody had done that before.",
+     "text": "In 2024 she qualified for all four Grand Slams. No woman had done that in the modern era.",
      "source": "https://en.wikipedia.org/wiki/Yuliia_Starodubtseva"
     },
     {
-     "text": "Her New York friends set up a fund to help her chase her pro dream.",
+     "text": "Her supporters set up a fund to help her chase her pro dream.",
      "source": "https://www.tennis.com/news/articles/the-best-thing-i-saw-at-roland-garros-today-late-bloomer-yuliia-starodubtseva-pulls-off-rybakina-upset"
     },
     {
-     "text": "She started tennis at age 5, almost by accident.",
+     "text": "She picked tennis at age 5, just for fun. It got serious around age 11.",
      "source": "https://www.wtatennis.com/news/4481787/who-is-yuliia-starodubtseva-get-to-know-the-first-time-finalist-charleston-open"
     }
    ],
-   "watchFor": "Look for blue-and-yellow Ukrainian flags in the crowd. Watch how she stays calm and steady from the baseline, point after point.",
+   "watchFor": "Watch how steady she is from the baseline. When she beat the No. 2 seed in Paris, she made far fewer mistakes than her opponent.",
    "matchTomorrow": {
     "opponent": "Elena Rybakina",
     "opponentSlug": "elena-rybakina",
@@ -1773,10 +1891,25 @@
     "https://www.wtatennis.com/news/4481787/who-is-yuliia-starodubtseva-get-to-know-the-first-time-finalist-charleston-open",
     "https://www.tennis.com/news/articles/the-best-thing-i-saw-at-roland-garros-today-late-bloomer-yuliia-starodubtseva-pulls-off-rybakina-upset",
     "https://www.wtatennis.com/players/325338/yuliia-starodubtseva",
-    "https://www.rolandgarros.com/en-us/article/2026-edition-r2-rybakina-starodubtseva"
+    "https://www.rolandgarros.com/en-us/article/2026-edition-r2-rybakina-starodubtseva",
+    "https://www.wtatennis.com/news/4510325/starodubtseva-stuns-no-2-seed-rybakina-in-dramatic-roland-garros-upset"
    ],
-   "verified": false,
-   "researchedAt": "2026-09-04T17:11:02Z"
+   "verified": true,
+   "researchedAt": "2026-09-04T17:11:02Z",
+   "factCheck": {
+    "checkedAt": "2026-09-04T21:53:16Z",
+    "notes": [
+     "birthDate/height 172/plays: WTA profile + Wikipedia. WTA profile ranking 58 matches schedule (Wikipedia says 74, stale). Opponent Rybakina (seed 2) matches schedule.",
+     "WTA feature confirms two ODU degrees, cars/techno, Packers, age-5 start, Westchester coaching. tennis.com confirms green clay in Westchester and GoFundMe. Wikipedia confirms 2024 all-four-majors qualifying (first woman in Open Era), Charleston final, RG win over Rybakina."
+    ],
+    "changes": [
+     "'top-3 player' -> 'No. 2 seed' (sourced).",
+     "All-four-slams fact: 'Nobody had done that before' narrowed to 'no woman in the modern era'.",
+     "'New York friends' fund -> 'supporters' (source says supporters/GoFundMe).",
+     "'almost by accident' unsupported; reworded to 'just for fun, serious at 11'.",
+     "watchFor: removed unsourced flags line; replaced with WTA-sourced match description."
+    ]
+   }
   },
   {
    "slug": "naomi-osaka",
@@ -1795,19 +1928,19 @@
    "hometown": "Osaka, Japan",
    "nicknameOrTagline": "Four-time Grand Slam champ",
    "intro": "Naomi Osaka was born in Osaka, Japan, and grew up in New York and Florida. She has won four Grand Slams, including the US Open twice. She was the first Asian player ever ranked No. 1 in the world.",
-   "story": "Naomi's dad taught her and her big sister Mari to play on public courts. Her serve is one of the fastest in women's tennis. She lit the Olympic flame at the Tokyo Games. In 2023 she became a mom to a girl named Shai. Then she came back and climbed right back into the top 15.",
+   "story": "Naomi's dad taught her and her big sister Mari to play on public courts. Her serve has been clocked at 124 miles per hour. She lit the Olympic flame at the Tokyo Games. In 2023 she became a mom to a girl named Shai. Then she came back and climbed right back into the top 15.",
    "funFacts": [
     {
      "text": "Her comfort show is the anime Naruto. Her favorite character is lazy-but-brilliant Shikamaru.",
      "source": "https://hypebeast.com/2026/2/naomi-osaka-loves-anime-and-japan-interview"
     },
     {
-     "text": "She loves video games like Skyrim and Overwatch, often playing with her sister Mari.",
+     "text": "She loves video games. Her go-to game is Skyrim, and she plays Overwatch too.",
      "source": "https://hypebeast.com/2026/2/naomi-osaka-loves-anime-and-japan-interview"
     },
     {
-     "text": "Her French bulldog is named Butta. Butta has his own Instagram.",
-     "source": "https://www.sportskeeda.com/tennis/news-naomi-osaka-reveals-new-shoes-inspired-dog-butta-manga-series-naruto"
+     "text": "Her French bulldog is named Butta. Butta goes almost everywhere with her.",
+     "source": "https://www.tennis.com/news/articles/mother-no-drama-osaka-shows-off-her-precious-new-puppy"
     },
     {
      "text": "She once quoted the Pokémon theme song in an interview: 'to be the very best.'",
@@ -1822,11 +1955,11 @@
      "source": "https://en.wikipedia.org/wiki/Naomi_Osaka"
     },
     {
-     "text": "Her serve has been clocked over 125 miles per hour.",
+     "text": "Her serve has been clocked at 124 miles per hour.",
      "source": "https://en.wikipedia.org/wiki/Naomi_Osaka"
     }
    ],
-   "watchFor": "Watch her walk on court in a wild custom outfit, then listen for the boom of her serve.",
+   "watchFor": "Watch her walk on court in a special custom outfit, then listen for the boom of her serve.",
    "matchTomorrow": {
     "opponent": "Elise Mertens",
     "opponentSlug": "elise-mertens",
@@ -1847,14 +1980,29 @@
    },
    "sources": [
     "https://en.wikipedia.org/wiki/Naomi_Osaka",
-    "https://thesmartlocal.jp/naomi-osaka-facts/",
-    "https://www.sportskeeda.com/tennis/news-naomi-osaka-reveals-new-shoes-inspired-dog-butta-manga-series-naruto",
     "https://www.si.com/extra-mustard/2016/01/22/australian-open-naomi-osaka-pokemon-theme",
     "https://www.usopen.org/amp/en_US/news/articles/2026-08-31/naomi_osaka_makes_2026_us_open_fashion_statement_with_all-white_look.html",
-    "https://hypebeast.com/2026/2/naomi-osaka-loves-anime-and-japan-interview"
+    "https://hypebeast.com/2026/2/naomi-osaka-loves-anime-and-japan-interview",
+    "https://www.tennis.com/news/articles/mother-no-drama-osaka-shows-off-her-precious-new-puppy",
+    "https://www.yahoo.com/entertainment/celebrity/articles/naomi-osaka-daughter-shai-she-141622754.html",
+    "https://www.si.com/onsi/serve/style/naomi-osaka-nike-kit-2026-us-open-appears-online"
    ],
-   "verified": false,
-   "researchedAt": "2026-09-04T17:11:02Z"
+   "verified": true,
+   "researchedAt": "2026-09-04T17:11:02Z",
+   "factCheck": {
+    "checkedAt": "2026-09-04T21:53:16Z",
+    "notes": [
+     "birthDate/height 180/plays/birthplace/NY+Florida upbringing/parents/4 slams (USO 2018, 2020)/first Asian No.1/Tokyo cauldron: Wikipedia. Seed 13 / rank 13 match schedule; opponent Mertens matches.",
+     "Hypebeast 2026 interview confirms Naruto/Shikamaru, Skyrim/Overwatch (sister Mari not mentioned as gaming partner — see change). SI 2016 confirms Pokémon quote. tennis.com confirms French bulldog Butta. Yahoo/People confirms daughter Shai born July 2023. SI confirms walk-on outfit tradition."
+    ],
+    "changes": [
+     "Serve: 'over 125 mph' -> '124 mph' per Wikipedia; 'one of the fastest' rephrased.",
+     "Butta fact: Instagram-account claim unsourced (sportskeeda 405); replaced with tennis.com-sourced detail.",
+     "watchFor: 'wild' -> 'special custom outfit' (SI).",
+     "Dropped sportskeeda and thesmartlocal from sources.",
+     "Video-game fact: 'playing with her sister Mari' not in source; removed."
+    ]
+   }
   },
   {
    "slug": "iva-jovic",
@@ -1872,8 +2020,8 @@
    "heightCm": 173,
    "hometown": "Torrance, California, United States",
    "nicknameOrTagline": "California Beach Kid, Big Backhand",
-   "intro": "Iva Jovic is an 18-year-old from Torrance, California. She is one of the youngest players in the top 20. She reached the quarterfinals of the Australian Open this year.",
-   "story": "Iva started tennis at age five. She also swam and played soccer as a kid. Her big sister Mia was her first rival. Iva hated losing to her! In 2024 she won two junior Grand Slam doubles titles. Now she is the top-ranked American teenager.",
+   "intro": "Iva Jovic is an 18-year-old from Torrance, California. She is the youngest player in the WTA top 20. She reached the quarterfinals of the Australian Open this year.",
+   "story": "Iva started tennis at age five. She also swam and played soccer as a kid. She and her big sister Mia battled in practice sets, and Iva could not stand losing! In 2024 she won two junior Grand Slam doubles titles. Now she is ranked No. 14 in the world.",
    "funFacts": [
     {
      "text": "She lives near the beach and loves surfing, boogie boarding, and paddleboarding.",
@@ -1900,7 +2048,7 @@
      "source": "https://www.rolandgarros.com/en-us/article/wta-interview-iva-jovic-rise-ambitions-career-clay-court-family-values"
     },
     {
-     "text": "She was the youngest American to win a US Open match in over 20 years.",
+     "text": "She was the youngest American woman to win a US Open match since the year 2000.",
      "source": "https://en.wikipedia.org/wiki/Iva_Jovic"
     }
    ],
@@ -1930,10 +2078,24 @@
     "https://en.wikipedia.org/wiki/Iva_Jovic",
     "https://cincinnatiopen.com/news/iva-jovic-17-shares-parents-emigration-story-and-menace-memories/",
     "https://bnpparibasopen.com/news/iva-jovic-2025",
-    "https://www.rolandgarros.com/en-us/article/wta-interview-iva-jovic-rise-ambitions-career-clay-court-family-values"
+    "https://www.rolandgarros.com/en-us/article/wta-interview-iva-jovic-rise-ambitions-career-clay-court-family-values",
+    "https://cincinnatiopen.com/news/iva-jovic-is-a-different-kind-of-18-year-old/"
    ],
-   "verified": false,
-   "researchedAt": "2026-09-04T17:10:24+00:00"
+   "verified": true,
+   "researchedAt": "2026-09-04T17:10:24+00:00",
+   "factCheck": {
+    "checkedAt": "2026-09-04T21:52:23+00:00",
+    "notes": [
+     "Birth date, height, plays, hometown, ranking/seed 14, opponent Eala verified vs Wikipedia and schedule.json.",
+     "Started at five, sister Mia at UCLA, 2024 AO + Wimbledon junior doubles titles, 2026 AO quarterfinal verified on Wikipedia; swimming/soccer via rolandgarros.com; beach hobbies, amusement parks, Serbian, pharmacists via cincinnatiopen.com; Djokovic autograph via bnpparibasopen.com.",
+     "'Youngest player in the WTA Top 20' sourced to Cincinnati Open (Aug 2026)."
+    ],
+    "changes": [
+     "Intro: 'one of the youngest' -> 'the youngest player in the WTA top 20' (sourced).",
+     "Story: removed unverifiable 'top-ranked American teenager'; replaced with ranking No. 14. Sister sentence rewritten to match the Cincinnati interview (practice sets, could not stand losing).",
+     "Fun fact 7 made precise: youngest American woman to win a US Open main-draw match since 2000 (Wikipedia wording)."
+    ]
+   }
   },
   {
    "slug": "learner-tien",
@@ -2010,8 +2172,19 @@
     "https://www.atptour.com/en/news/learner-tien-us-open-2023-five-things-to-know",
     "https://www.tennis.com/news/articles/learner-tien-19-rafael-nadal-australian-open"
    ],
-   "verified": false,
-   "researchedAt": "2026-09-04T17:10:24+00:00"
+   "verified": true,
+   "researchedAt": "2026-09-04T17:10:24+00:00",
+   "factCheck": {
+    "checkedAt": "2026-09-04T21:52:23+00:00",
+    "notes": [
+     "Birth date, height 180, lefty, Irvine, ranking 15 / seed 14, opponent Menšík verified vs Wikipedia and schedule.json.",
+     "Name origins (mother math teacher, father real-estate lawyer, sister Justice), Michael Chang coach, 2026 AO quarterfinal, 2025 Medvedev win ending ~3 a.m. verified on Wikipedia; racquet at 1.5, dad first coach on Irvine community courts, high school at 11.5, one semester at USC, candy/English/Gladiator verified in ATP 'Five Things' article; Fortnite with Michelsen verified on tennis.com.",
+     "ATP bio page (t0da) shows no bio; fact-check relied on Wikipedia + ATP news article."
+    ],
+    "changes": [
+     "No content changes needed."
+    ]
+   }
   },
   {
    "slug": "alexandra-eala",
@@ -2033,7 +2206,7 @@
    "story": "Alex started tennis at age four. Her grandpa was her first coach. At 13 she moved to Spain to train at Rafael Nadal's academy. In 2022 she won the US Open junior title. That was right here in New York! This summer she won her first big WTA trophy in Washington.",
    "funFacts": [
     {
-     "text": "Her mom was a swimmer who won a medal for the Philippines.",
+     "text": "Her mom was a swimmer who won a bronze medal for the Philippines.",
      "source": "https://en.wikipedia.org/wiki/Alexandra_Eala"
     },
     {
@@ -2041,15 +2214,15 @@
      "source": "https://en.wikipedia.org/wiki/Alexandra_Eala"
     },
     {
-     "text": "Her favorite food is caldereta, a Filipino beef stew.",
+     "text": "Her favorite comfort food is caldereta, a Filipino beef stew.",
      "source": "https://en.wikipedia.org/wiki/Alexandra_Eala"
     },
     {
-     "text": "She picks matcha over coffee, and loves finding cafes and bakeries in every city.",
-     "source": "https://www.sportbible.com/tennis/alex-eala-intriguing-insight-life-outside-of-tennis-us-open-572937-20260829"
+     "text": "She picks matcha over coffee.",
+     "source": "https://en.wikipedia.org/wiki/Alexandra_Eala"
     },
     {
-     "text": "She calls herself a foodie and says it is the Filipino in her.",
+     "text": "She calls herself a foodie who loves cafes and bakeries. She says it is the Filipino in her.",
      "source": "https://www.sportbible.com/tennis/alex-eala-intriguing-insight-life-outside-of-tennis-us-open-572937-20260829"
     },
     {
@@ -2088,10 +2261,25 @@
     "https://www.sportbible.com/tennis/alex-eala-intriguing-insight-life-outside-of-tennis-us-open-572937-20260829",
     "https://gulfnews.com/sport/tennis/wimbledon-10-things-to-know-about-philippines-tennis-sensation-alex-eala-1.500182001",
     "https://www.benrothenberg.com/p/alexandra-eala-interview-washington-philippines-parents-tennis",
-    "https://defector.com/alex-eala-is-the-best-show-in-town"
+    "https://defector.com/alex-eala-is-the-best-show-in-town",
+    "https://www.tennis365.com/tennis-news/alex-eala-explains-how-ended-up-training-rafa-nadal-academy"
    ],
-   "verified": false,
-   "researchedAt": "2026-09-04T17:10:24+00:00"
+   "verified": true,
+   "researchedAt": "2026-09-04T17:10:24+00:00",
+   "factCheck": {
+    "checkedAt": "2026-09-04T21:52:23+00:00",
+    "notes": [
+     "Birth date, height, plays, hometown, ranking 18 / seed 17, opponent Jovic verified vs Wikipedia and schedule.json.",
+     "Moved to Spain at 13 verified via tennis365 interview (Wikipedia gives only graduation year 2023); grandfather first coach, 2022 US Open girls' title, 2026 Washington title, first Filipino top-20 verified on Wikipedia.",
+     "Mom's medal: bronze, 100m backstroke, 1985 SEA Games (Wikipedia)."
+    ],
+    "changes": [
+     "Fun fact 1: specified 'bronze medal'.",
+     "Fun fact 4 split: 'matcha over coffee' is on Wikipedia, not in the SportBible article; re-sourced. 'in every city' was unsupported and removed.",
+     "Fun fact 5 merged cafes/bakeries + foodie quote (both from SportBible).",
+     "Added tennis365 source for the age-13 move to Spain."
+    ]
+   }
   },
   {
    "slug": "jakub-mensik",
@@ -2110,18 +2298,18 @@
    "hometown": "Prostějov, Czechia",
    "nicknameOrTagline": "Menimal",
    "intro": "Jakub Menšík is a very tall player from Czechia. He stands 6 feet 5 inches. At 19 he won the Miami Open, beating his hero Novak Djokovic.",
-   "story": "Jakub grew up right next to tennis courts. He watched other kids play, then joined in at age four. Djokovic liked him so much he invited him to train together. In 2025 Jakub beat Djokovic in the Miami final. This year he reached the French Open semifinals. He also just won the US Open mixed doubles title.",
+   "story": "Jakub grew up right next to tennis courts. He watched other kids play, then joined in at age five. After the 2022 Australian Open, his idol Djokovic invited him to Belgrade to practice together. In 2025 Jakub beat Djokovic in the Miami final. This year he reached the French Open semifinals. He also just won the US Open mixed doubles title with Karolína Muchová.",
    "funFacts": [
     {
      "text": "He turned 21 just four days ago, on September 1.",
      "source": "https://en.wikipedia.org/wiki/Jakub_Menšík"
     },
     {
-     "text": "Off the court he plays golf and the guitar.",
+     "text": "Off the court he loves golf, and his favorite ice cream is vanilla.",
      "source": "https://www.tennis-prose.com/bios/biofile-jakub-mensik-interview/"
     },
     {
-     "text": "His favorite foods are spare ribs and vanilla ice cream.",
+     "text": "His favorite food is spare ribs.",
      "source": "https://www.atptour.com/en/players/jakub-mensik/m0ni/bio"
     },
     {
@@ -2137,8 +2325,8 @@
      "source": "https://www.atptour.com/en/players/jakub-mensik/m0ni/bio"
     },
     {
-     "text": "His first serve zooms in at about 129 miles per hour.",
-     "source": "https://x.com/tennis_insights/status/1905920972139458577"
+     "text": "He taught himself the drums from YouTube videos. He can play Led Zeppelin songs!",
+     "source": "https://www.atptour.com/en/news/mensik-cap-cana-challenger-2025-feature"
     }
    ],
    "watchFor": "Watch his rocket first serve, then his high-kicking second serve that bounces over heads.",
@@ -2168,10 +2356,26 @@
     "https://www.atptour.com/en/players/jakub-mensik/m0ni/bio",
     "https://www.tennis-prose.com/bios/biofile-jakub-mensik-interview/",
     "https://www.tennismajors.com/atp/australian-open-qatar-murray-everything-you-ever-wanted-to-know-about-jakub-mensik-but-never-had-time-to-find-out-745211.html",
-    "https://x.com/tennis_insights/status/1905920972139458577"
+    "https://www.atptour.com/en/news/mensik-cap-cana-challenger-2025-feature",
+    "https://www.usopen.org/en_US/news/articles/2026-08-26/muchova-mensik_win_2026_us_open_mixed_doubles_title.html"
    ],
-   "verified": false,
-   "researchedAt": "2026-09-04T17:10:24+00:00"
+   "verified": true,
+   "researchedAt": "2026-09-04T17:10:24+00:00",
+   "factCheck": {
+    "checkedAt": "2026-09-04T21:52:23+00:00",
+    "notes": [
+     "Height: ATP player data endpoint (players/hero/m0ni) gives HeightCm 196 / 6'5\"; Wikipedia 1.96 m; Roland Garros 1.95 m. Kept 196.",
+     "Birth date 2005-09-01, plays, hometown Prostějov, ranking 18 / seed 17, opponent Tien verified vs ATP + Wikipedia + schedule.json.",
+     "Miami 2025 win over Djokovic at 19, 2026 RG semifinal verified on Wikipedia; 2026 US Open mixed doubles title with Muchová verified on usopen.org.",
+     "Djokovic invitation quote from tennismajors.com interview (Belgrade/Montenegro after 2022 AO)."
+    ],
+    "changes": [
+     "Story: started tennis at age five (ATP bio) instead of four; Djokovic invitation reworded to the sourced version; added partner Muchová.",
+     "Removed 129 mph serve-speed fact (only source was an X post); replaced with sourced drumming fact (ATP Tour feature).",
+     "Removed 'guitar' (no source; the ATP feature says drums). Split combined food fact: spare ribs (ATP bio), vanilla ice cream (tennis-prose).",
+     "Dropped x.com from sources; added ATP feature and usopen.org."
+    ]
+   }
   },
   {
    "slug": "luciano-darderi",
@@ -2190,7 +2394,7 @@
    "hometown": "Villa Gesell, Argentina",
    "nicknameOrTagline": "Luli",
    "intro": "Luciano Darderi plays for Italy but was born in Argentina. He is 24 and a clay-court king with five titles. His dad is his coach.",
-   "story": "Luciano's grandpa moved from Italy to Argentina long ago. Luciano started swinging a racket at age two. His grandma Elisa bought his first rackets and traveled to his tournaments. He moved to Italy to chase his dream. This spring he beat Alexander Zverev in Rome. He saved four match points to do it!",
+   "story": "Luciano's grandpa moved from Italy to Argentina long ago. Luciano started playing tennis at age four with his dad. His grandma Elisa gave him his first racket and traveled to his tournaments. He moved to Italy to chase his dream. This spring he beat Alexander Zverev in Rome. He saved four match points to do it!",
    "funFacts": [
     {
      "text": "He was born on Valentine's Day.",
@@ -2246,10 +2450,22 @@
    "sources": [
     "https://en.wikipedia.org/wiki/Luciano_Darderi",
     "https://www.atptour.com/en/players/luciano-darderi/d0fj/bio",
-    "https://www.claytenis.com/features/a-promise-with-cobolli-and-his-grandmothers-help-darderi-wins-in-santiago/"
+    "https://www.claytenis.com/features/a-promise-with-cobolli-and-his-grandmothers-help-darderi-wins-in-santiago/",
+    "https://www.puntodebreak.com/en/2026/03/02/darderi-is-reality-from-grandma-elisas-babolat-to-the-doors-of-the-top20"
    ],
-   "verified": false,
-   "researchedAt": "2026-09-04T17:10:24+00:00"
+   "verified": true,
+   "researchedAt": "2026-09-04T17:10:24+00:00",
+   "factCheck": {
+    "checkedAt": "2026-09-04T21:52:23+00:00",
+    "notes": [
+     "Birth date 2002-02-14, height 183, plays, Villa Gesell, ranking 22 / seed 21, opponent Sweeny verified vs Wikipedia/ATP and schedule.json (Wikipedia's ranking snapshot is older, No. 20 on Aug 10; schedule feed is authoritative).",
+     "Five titles all on clay, father Gino as coach, grandfather emigrated from Italy, brother Vito Italian U12 champion, Rome 2026 Zverev win saving four match points verified on Wikipedia; nickname Luli, languages, barbecue/chocolate, Messi verified on ATP bio; tattoo on right wrist and kissing it verified on claytenis.com; grandmother gave first racket verified on puntodebreak.com and Wikipedia."
+    ],
+    "changes": [
+     "Story: 'racket at age two' replaced with ATP-sourced 'started playing tennis at age four with his dad'; 'bought his first rackets' -> 'gave him his first racket'.",
+     "Added puntodebreak.com source."
+    ]
+   }
   },
   {
    "slug": "madison-keys",
@@ -2280,14 +2496,14 @@
     },
     {
      "text": "She loves baking, decorating rooms, and taking care of plants.",
-     "source": "https://tennis-infinity.com/wta/who-is-madison-keys-bio-fun-facts-info-much-more"
+     "source": "https://www.wtatennis.com/players/316959/madison-keys"
     },
     {
      "text": "Her favorite singer is Beyoncé.",
-     "source": "https://tennis-infinity.com/wta/who-is-madison-keys-bio-fun-facts-info-much-more"
+     "source": "https://www.wtatennis.com/players/316959/madison-keys"
     },
     {
-     "text": "She started Kindness Wins, a charity that teaches kids to be kind.",
+     "text": "She started Kindness Wins, a charity that spreads kindness, especially to kids.",
      "source": "https://glorioussport.com/articles/madison-keys-tennis-kindness-foundation-interview/"
     },
     {
@@ -2295,11 +2511,15 @@
      "source": "https://en.wikipedia.org/wiki/Madison_Keys"
     },
     {
-     "text": "Both her parents are lawyers. Her dad was a college basketball star.",
+     "text": "Both her parents are lawyers. Her dad played college basketball.",
      "source": "https://en.wikipedia.org/wiki/Madison_Keys"
+    },
+    {
+     "text": "At 13, her mom found her rearranging her bedroom furniture in the middle of the night.",
+     "source": "https://sports.yahoo.com/madison-keys-mom-made-huge-164800595.html"
     }
    ],
-   "watchFor": "Listen for the loud pop when she hits her forehand. It is one of the fastest in tennis.",
+   "watchFor": "Listen for the loud pop of her forehand. At Wimbledon in 2016, hers was the fastest forehand measured.",
    "matchTomorrow": {
     "opponent": "Qinwen Zheng",
     "opponentSlug": "qinwen-zheng",
@@ -2320,12 +2540,27 @@
    },
    "sources": [
     "https://en.wikipedia.org/wiki/Madison_Keys",
-    "https://tennis-infinity.com/wta/who-is-madison-keys-bio-fun-facts-info-much-more",
     "https://glorioussport.com/articles/madison-keys-tennis-kindness-foundation-interview/",
-    "https://www.wtatennis.com/players/316959/madison-keys"
+    "https://www.wtatennis.com/players/316959/madison-keys",
+    "https://www.espn.com/tennis/story/_/id/16954430/wimbledon-women-2016-5-fascinating-top-5s",
+    "https://sports.yahoo.com/madison-keys-mom-made-huge-164800595.html"
    ],
-   "verified": false,
-   "researchedAt": "2026-09-04T17:11:02Z"
+   "verified": true,
+   "researchedAt": "2026-09-04T17:11:02Z",
+   "factCheck": {
+    "checkedAt": "2026-09-04T21:53:16Z",
+    "notes": [
+     "birthDate/height 178/plays/Rock Island: Wikipedia + WTA profile. WTA ranking 24 matches schedule (seed 22, rank 24); opponent Zheng matches.",
+     "Wikipedia confirms Venus dress story, sisters Sydney/Montana/Hunter, lawyer parents, dad's Div III basketball, 2017 USO final, 2025 AO title, 126 mph serve. WTA profile confirms baking/plants/interior design and Beyoncé. glorioussport confirms Kindness Wins (2020). ESPN confirms fastest forehand at Wimbledon 2016."
+    ],
+    "changes": [
+     "Replaced low-quality tennis-infinity source with WTA profile for hobbies/Beyoncé.",
+     "'college basketball star' -> 'played college basketball'.",
+     "Kindness Wins description aligned with source (kindness to self, youth, others).",
+     "watchFor 'one of the fastest in tennis' replaced with ESPN-sourced 2016 Wimbledon stat.",
+     "Added Yahoo-sourced furniture fun fact."
+    ]
+   }
   },
   {
    "slug": "elise-mertens",

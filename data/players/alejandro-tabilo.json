@@ -68,6 +68,16 @@
     "https://www.tennismajors.com/atp/chile-canada-djokovic-everything-you-always-wanted-to-know-about-alejandro-tabilo-but-never-had-time-to-find-out-760301.html",
     "https://www.tennis-prose.com/bios/biofile-alejandro-tabilo-interview/"
   ],
-  "verified": false,
-  "researchedAt": "2026-09-04T17:16:31+00:00"
+  "verified": true,
+  "researchedAt": "2026-09-04T17:16:31+00:00",
+  "factCheck": {
+    "checkedAt": "2026-09-04T21:52:28+00:00",
+    "notes": [
+      "Birth 1997-06-02 Toronto, Chilean parents, left-handed/2HBH, 188 cm, beat No. 1 Djokovic Rome 2024 and again Monte Carlo 2025, current Chilean No. 1: confirmed on Wikipedia.",
+      "Nickname Jano, brother Sebastian, left home at 13 for Florida, chess, popcorn, ice cream, gym, drop shot, Nadal idol, Superman: all confirmed on ATP bio page.",
+      "Hometown Santiago: tennismajors interview ('When I was around 18, I moved to Santiago').",
+      "Seed 25 / ranking 28 / opponent Zverev match schedule.json. No text changes needed."
+    ],
+    "changes": []
+  }
 }

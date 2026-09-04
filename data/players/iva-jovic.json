@@ -14,8 +14,8 @@
   "heightCm": 173,
   "hometown": "Torrance, California, United States",
   "nicknameOrTagline": "California Beach Kid, Big Backhand",
-  "intro": "Iva Jovic is an 18-year-old from Torrance, California. She is one of the youngest players in the top 20. She reached the quarterfinals of the Australian Open this year.",
-  "story": "Iva started tennis at age five. She also swam and played soccer as a kid. Her big sister Mia was her first rival. Iva hated losing to her! In 2024 she won two junior Grand Slam doubles titles. Now she is the top-ranked American teenager.",
+  "intro": "Iva Jovic is an 18-year-old from Torrance, California. She is the youngest player in the WTA top 20. She reached the quarterfinals of the Australian Open this year.",
+  "story": "Iva started tennis at age five. She also swam and played soccer as a kid. She and her big sister Mia battled in practice sets, and Iva could not stand losing! In 2024 she won two junior Grand Slam doubles titles. Now she is ranked No. 14 in the world.",
   "funFacts": [
     {
       "text": "She lives near the beach and loves surfing, boogie boarding, and paddleboarding.",
@@ -42,7 +42,7 @@
       "source": "https://www.rolandgarros.com/en-us/article/wta-interview-iva-jovic-rise-ambitions-career-clay-court-family-values"
     },
     {
-      "text": "She was the youngest American to win a US Open match in over 20 years.",
+      "text": "She was the youngest American woman to win a US Open match since the year 2000.",
       "source": "https://en.wikipedia.org/wiki/Iva_Jovic"
     }
   ],
@@ -69,8 +69,22 @@
     "https://en.wikipedia.org/wiki/Iva_Jovic",
     "https://cincinnatiopen.com/news/iva-jovic-17-shares-parents-emigration-story-and-menace-memories/",
     "https://bnpparibasopen.com/news/iva-jovic-2025",
-    "https://www.rolandgarros.com/en-us/article/wta-interview-iva-jovic-rise-ambitions-career-clay-court-family-values"
+    "https://www.rolandgarros.com/en-us/article/wta-interview-iva-jovic-rise-ambitions-career-clay-court-family-values",
+    "https://cincinnatiopen.com/news/iva-jovic-is-a-different-kind-of-18-year-old/"
   ],
-  "verified": false,
-  "researchedAt": "2026-09-04T17:10:24+00:00"
+  "verified": true,
+  "researchedAt": "2026-09-04T17:10:24+00:00",
+  "factCheck": {
+    "checkedAt": "2026-09-04T21:52:23+00:00",
+    "notes": [
+      "Birth date, height, plays, hometown, ranking/seed 14, opponent Eala verified vs Wikipedia and schedule.json.",
+      "Started at five, sister Mia at UCLA, 2024 AO + Wimbledon junior doubles titles, 2026 AO quarterfinal verified on Wikipedia; swimming/soccer via rolandgarros.com; beach hobbies, amusement parks, Serbian, pharmacists via cincinnatiopen.com; Djokovic autograph via bnpparibasopen.com.",
+      "'Youngest player in the WTA Top 20' sourced to Cincinnati Open (Aug 2026)."
+    ],
+    "changes": [
+      "Intro: 'one of the youngest' -> 'the youngest player in the WTA top 20' (sourced).",
+      "Story: removed unverifiable 'top-ranked American teenager'; replaced with ranking No. 14. Sister sentence rewritten to match the Cincinnati interview (practice sets, could not stand losing).",
+      "Fun fact 7 made precise: youngest American woman to win a US Open main-draw match since 2000 (Wikipedia wording)."
+    ]
+  }
 }

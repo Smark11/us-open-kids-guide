@@ -70,6 +70,17 @@
     "https://www.atptour.com/en/news/learner-tien-us-open-2023-five-things-to-know",
     "https://www.tennis.com/news/articles/learner-tien-19-rafael-nadal-australian-open"
   ],
-  "verified": false,
-  "researchedAt": "2026-09-04T17:10:24+00:00"
+  "verified": true,
+  "researchedAt": "2026-09-04T17:10:24+00:00",
+  "factCheck": {
+    "checkedAt": "2026-09-04T21:52:23+00:00",
+    "notes": [
+      "Birth date, height 180, lefty, Irvine, ranking 15 / seed 14, opponent Menšík verified vs Wikipedia and schedule.json.",
+      "Name origins (mother math teacher, father real-estate lawyer, sister Justice), Michael Chang coach, 2026 AO quarterfinal, 2025 Medvedev win ending ~3 a.m. verified on Wikipedia; racquet at 1.5, dad first coach on Irvine community courts, high school at 11.5, one semester at USC, candy/English/Gladiator verified in ATP 'Five Things' article; Fortnite with Michelsen verified on tennis.com.",
+      "ATP bio page (t0da) shows no bio; fact-check relied on Wikipedia + ATP news article."
+    ],
+    "changes": [
+      "No content changes needed."
+    ]
+  }
 }

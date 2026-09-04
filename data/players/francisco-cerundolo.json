@@ -15,7 +15,7 @@
   "hometown": "Buenos Aires, Argentina",
   "nicknameOrTagline": "Fran",
   "intro": "Francisco Cerúndolo is from Buenos Aires, Argentina. Everyone calls him Fran. He is famous for a huge, whip-crack forehand.",
-  "story": "Fran grew up at his family's tennis academy. His mom and dad both played tennis. His little brother Juan Manuel is a pro too. His sister won a gold medal in field hockey! This summer Fran won his biggest title ever, on grass at Queen's Club in London.",
+  "story": "Fran started tennis at age 5. His mom and dad both played tennis, and they run a tennis academy in Buenos Aires. His little brother Juan Manuel is a pro too. His sister won a gold medal in field hockey! This summer Fran won his biggest title ever, on grass at Queen's Club in London.",
   "funFacts": [
     {
       "text": "His secret talent is math. He loves numbers and checking stats.",
@@ -42,7 +42,7 @@
       "source": "https://www.atptour.com/en/players/francisco-cerundolo/c0au/bio"
     },
     {
-      "text": "He once lost his passport on a trip and had to sleep at the airport.",
+      "text": "He once lost his passport on a trip and missed his plane.",
       "source": "https://www.atptour.com/en/news/cerundolo-nomadic-life-june-2023"
     }
   ],
@@ -66,8 +66,20 @@
   "sources": [
     "https://en.wikipedia.org/wiki/Francisco_Cer%C3%BAndolo",
     "https://www.atptour.com/en/players/francisco-cerundolo/c0au/bio",
-    "https://www.atptour.com/en/news/cerundolo-nomadic-life-june-2023"
+    "https://www.atptour.com/en/news/cerundolo-nomadic-life-june-2023",
+    "https://lavercup.com/player/francisco-cerundolo"
   ],
-  "verified": false,
-  "researchedAt": "2026-09-04T17:11:02Z"
+  "verified": true,
+  "researchedAt": "2026-09-04T17:11:02Z",
+  "factCheck": {
+    "checkedAt": "2026-09-04T21:53:16Z",
+    "notes": [
+      "birthDate/height/plays/hometown: Wikipedia + Laver Cup profile (185 cm). Seed 24 / ranking 25 match schedule.json; Wikipedia table shows him unseeded but usopen.org feed is authoritative.",
+      "ATP bio confirms nickname Fran, math, burgers/asado, Gladiator, River Plate, sister's 2018 Youth Olympic hockey gold, singing. ATP nomadic-life article confirms speaker and passport story. Wikipedia confirms brothers in top 100 (2022) and 2026 Queen's title."
+    ],
+    "changes": [
+      "Story: 'grew up at family academy' rephrased to sourced version (parents run academy in Buenos Aires, started at 5).",
+      "Passport fact: 'sleep at the airport' unsupported; changed to 'missed his plane'."
+    ]
+  }
 }

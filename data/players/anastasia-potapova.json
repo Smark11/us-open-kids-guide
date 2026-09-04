@@ -18,7 +18,7 @@
   "story": "At 15, Anastasia won the junior title at Wimbledon. She became the No. 1 junior in the world. As a pro she has won three titles. This year she got into a big Madrid event as a lucky loser. Then she surprised everyone by reaching the semifinals!",
   "funFacts": [
     {
-      "text": "She travels to tournaments with her little dog. She says the dog brings her luck.",
+      "text": "She travels to tournaments with her dog. She says the dog brings her luck.",
       "source": "https://www.puntodebreak.com/en/2026/05/24/potapovas-dog-protagonist-at-roland-garros"
     },
     {
@@ -30,15 +30,15 @@
       "source": "https://www.tennis.com/news/articles/anastasia-potapova-burnout-new-coach-coco-gauff-montreal"
     },
     {
-      "text": "Her grandmother coached a basketball team in Russia.",
-      "source": "https://www.tennis.com/news/articles/anastasia-potapova-burnout-new-coach-coco-gauff-montreal"
+      "text": "Her grandmother coaches a basketball team in Moscow. She got Anastasia into tennis at age four.",
+      "source": "https://www.wtatennis.com/news/1414583/potapova-russian-on-the-rise"
     },
     {
       "text": "She won Wimbledon's junior girls' title in 2016.",
       "source": "https://en.wikipedia.org/wiki/Anastasia_Potapova"
     },
     {
-      "text": "She says Vienna feels like home, so she now plays for Austria.",
+      "text": "She says Austria feels like home. Starting in 2026 she plays for Austria.",
       "source": "https://www.tennis.com/news/articles/anastasia-potapova-changes-sporting-nationality-to-austria-ahead-of-2026-tennis-season"
     },
     {
@@ -67,8 +67,22 @@
     "https://www.tennis.com/news/articles/anastasia-potapova-burnout-new-coach-coco-gauff-montreal",
     "https://www.tennis.com/news/articles/anastasia-potapova-changes-sporting-nationality-to-austria-ahead-of-2026-tennis-season",
     "https://www.puntodebreak.com/en/2026/05/24/potapovas-dog-protagonist-at-roland-garros",
-    "https://tennistonic.com/tennis-news/1028538/if-im-not-gonna-look-good-on-court-if-im-not-going-to-play-good-potapova-explains-how-self-care-fuels-performance/"
+    "https://tennistonic.com/tennis-news/1028538/if-im-not-gonna-look-good-on-court-if-im-not-going-to-play-good-potapova-explains-how-self-care-fuels-performance/",
+    "https://www.wtatennis.com/news/1414583/potapova-russian-on-the-rise"
   ],
-  "verified": false,
-  "researchedAt": "2026-09-04T17:16:31+00:00"
+  "verified": true,
+  "researchedAt": "2026-09-04T17:16:31+00:00",
+  "factCheck": {
+    "checkedAt": "2026-09-04T21:52:28+00:00",
+    "notes": [
+      "Birth 2001-03-30 Saratov, resides Vienna, Austrian since Dec 2025/2026 season, R-handed/2HBH, 175 cm, 2016 Wimbledon girls' title at 15, junior No. 1, three WTA titles (Istanbul 2022, Linz 2023, Cluj 2025), first lucky loser to reach a WTA 1000 SF (Madrid 2026): confirmed on Wikipedia.",
+      "Dog travels with her in Europe and 'brings me luck': puntodebreak. 'Woosh'/'Boom' storytelling: tennis.com Montreal article. Designer bags/fashion: tennistonic article (page returned 403 to fetch; content confirmed via search excerpt).",
+      "Seed 24 / ranking 25 / opponent Anisimova match schedule.json."
+    ],
+    "changes": [
+      "Fun fact 1: removed unsupported 'little' (dog's size/breed not stated in source).",
+      "Fun fact 4 (grandmother): cited tennis.com article did not mention it; re-sourced to WTA 'Russian On The Rise' and reworded.",
+      "Fun fact 6: 'Vienna feels like home' -> her actual quote is about Austria feeling like home; reworded."
+    ]
+  }
 }

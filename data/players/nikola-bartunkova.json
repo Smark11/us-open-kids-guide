@@ -15,10 +15,10 @@
   "hometown": "Prague, Czechia",
   "nicknameOrTagline": "Drop-shot dynamo",
   "intro": "Nikola Bartůňková is a 20-year-old from Prague, Czechia. She is one of the newest stars in tennis. She loves tricky drop shots and rushing to the net.",
-  "story": "Nikola's dad is a tennis coach. He put a racket in her hands when she was tiny. As a junior she reached the Wimbledon girls' final. She had a tough stretch and came back stronger. This year she beat a top-10 player at her very first Grand Slam. Now she is in the top 40.",
+  "story": "Nikola's dad is a tennis coach. He put a racket in her hands when she was tiny. As a junior she reached the Wimbledon girls' final. This year she beat a top-10 player at her very first Grand Slam. Now she is in the top 40.",
   "funFacts": [
     {
-      "text": "Her dad is her coach. Her mom learned tennis as a grown-up.",
+      "text": "Her dad is a tennis coach. Her mom learned tennis as a grown-up.",
       "source": "https://www.babolat.com/gb/heroes-players-blog-nikola-bartunkova/nikola-bartunkova.html"
     },
     {
@@ -30,7 +30,7 @@
       "source": "https://www.babolat.com/gb/heroes-players-blog-nikola-bartunkova/nikola-bartunkova.html"
     },
     {
-      "text": "Her favorite players to watch are Carlos Alcaraz and Roger Federer.",
+      "text": "She loves watching Carlos Alcaraz. Roger Federer and Rafael Nadal are her role models.",
       "source": "https://www.babolat.com/gb/heroes-players-blog-nikola-bartunkova/nikola-bartunkova.html"
     },
     {
@@ -38,12 +38,16 @@
       "source": "https://ausopen.com/articles/news/bartunkova-making-most-sliding-doors-moment"
     },
     {
-      "text": "She is 6 feet tall and loves reading and Netflix shows.",
+      "text": "She is about 6 feet tall and loves reading and Netflix shows.",
       "source": "https://www.babolat.com/gb/heroes-players-blog-nikola-bartunkova/nikola-bartunkova.html"
     },
     {
-      "text": "Her motto: 'I hate to lose, but I never give up.'",
+      "text": "She says 'I hate defeat,' but she has never once thought about quitting tennis.",
       "source": "https://www.babolat.com/gb/heroes-players-blog-nikola-bartunkova/nikola-bartunkova.html"
+    },
+    {
+      "text": "She likes old music best, like ABBA and Michael Jackson.",
+      "source": "https://www.wtatennis.com/news/4501631/get-to-know-nikola-bartunkova-whos-on-a-roll-with-hot-shots-in-rome"
     }
   ],
   "watchFor": "Watch for her sneaky drop shots, then a dash to the net for a volley.",
@@ -65,8 +69,24 @@
   "sources": [
     "https://en.wikipedia.org/wiki/Nikola_Bart%C5%AF%C5%88kov%C3%A1",
     "https://www.babolat.com/gb/heroes-players-blog-nikola-bartunkova/nikola-bartunkova.html",
-    "https://ausopen.com/articles/news/bartunkova-making-most-sliding-doors-moment"
+    "https://ausopen.com/articles/news/bartunkova-making-most-sliding-doors-moment",
+    "https://www.wtatennis.com/players/330364/nikola-bartunkova",
+    "https://www.wtatennis.com/news/4501631/get-to-know-nikola-bartunkova-whos-on-a-roll-with-hot-shots-in-rome"
   ],
-  "verified": false,
-  "researchedAt": "2026-09-04T17:11:02Z"
+  "verified": true,
+  "researchedAt": "2026-09-04T17:11:02Z",
+  "factCheck": {
+    "checkedAt": "2026-09-04T21:53:16Z",
+    "notes": [
+      "birthDate 2006-02-25 (Wikipedia + WTA). WTA profile ranking 34 matches schedule; Wikipedia says 38 (Aug 24, stale). Height: WTA profile lists none; Wikipedia 184, Babolat 182 (at age 17). Kept 184 per Wikipedia.",
+      "Wikipedia confirms 2023 Wimbledon girls' final and first-slam top-10 win over Bencic at AO 2026. Babolat confirms dad coach, mom, sister, skiing/biking, reading/Netflix, Alcaraz/Federer/Nadal. ausopen.com confirms 'Federer style, Alcaraz style' and drop shots/net quote."
+    ],
+    "changes": [
+      "Story: removed 'tough stretch and came back stronger' (alludes to a doping suspension; age sweep).",
+      "'Her dad is her coach' -> 'Her dad is a tennis coach' (source only says coach who introduced her).",
+      "Favorite-players fact reworded to match Babolat quotes.",
+      "Motto reworded to match Babolat quote.",
+      "Added WTA-sourced music fun fact."
+    ]
+  }
 }

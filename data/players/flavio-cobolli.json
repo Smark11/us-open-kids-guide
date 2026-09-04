@@ -67,6 +67,15 @@
     "https://www.nss-sports.com/en/lifestyle/42543/extratime-flavio-cobolli-interview",
     "https://www.tennismajors.com/atp/italy-the-gladiator-roland-garros-juniors-as-roma-everything-you-always-wanted-to-know-about-flavio-cobolli-but-never-had-the-time-to-find-out-updated-after-australian-open-2025-806104.html"
   ],
-  "verified": false,
-  "researchedAt": "2026-09-04T17:16:31+00:00"
+  "verified": true,
+  "researchedAt": "2026-09-04T17:16:31+00:00",
+  "factCheck": {
+    "checkedAt": "2026-09-04T21:52:28+00:00",
+    "notes": [
+      "Birth 2002-05-06 Florence, resides Rome, R-handed/2HBH, 183 cm, father Stefano ex-player and coach, brother Guglielmo, idol Djokovic, 2020 RG boys' doubles with Stricker, 2025 Davis Cup, 2026 RG finalist, No. 6: confirmed on Wikipedia.",
+      "AS Roma academy until 14, UTS nickname 'The Gladiator', father coaching: confirmed on tennismajors.com. 30 tattoos, Roma wolf (Lupetto) tattoo, oversized clothing: confirmed in nss-sports interview.",
+      "Seed 5 / ranking 6 / opponent Blockx match schedule.json. No changes needed."
+    ],
+    "changes": []
+  }
 }

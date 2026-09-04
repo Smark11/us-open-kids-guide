@@ -18,7 +18,7 @@
   "story": "Alex started tennis at age four. Her grandpa was her first coach. At 13 she moved to Spain to train at Rafael Nadal's academy. In 2022 she won the US Open junior title. That was right here in New York! This summer she won her first big WTA trophy in Washington.",
   "funFacts": [
     {
-      "text": "Her mom was a swimmer who won a medal for the Philippines.",
+      "text": "Her mom was a swimmer who won a bronze medal for the Philippines.",
       "source": "https://en.wikipedia.org/wiki/Alexandra_Eala"
     },
     {
@@ -26,15 +26,15 @@
       "source": "https://en.wikipedia.org/wiki/Alexandra_Eala"
     },
     {
-      "text": "Her favorite food is caldereta, a Filipino beef stew.",
+      "text": "Her favorite comfort food is caldereta, a Filipino beef stew.",
       "source": "https://en.wikipedia.org/wiki/Alexandra_Eala"
     },
     {
-      "text": "She picks matcha over coffee, and loves finding cafes and bakeries in every city.",
-      "source": "https://www.sportbible.com/tennis/alex-eala-intriguing-insight-life-outside-of-tennis-us-open-572937-20260829"
+      "text": "She picks matcha over coffee.",
+      "source": "https://en.wikipedia.org/wiki/Alexandra_Eala"
     },
     {
-      "text": "She calls herself a foodie and says it is the Filipino in her.",
+      "text": "She calls herself a foodie who loves cafes and bakeries. She says it is the Filipino in her.",
       "source": "https://www.sportbible.com/tennis/alex-eala-intriguing-insight-life-outside-of-tennis-us-open-572937-20260829"
     },
     {
@@ -70,8 +70,23 @@
     "https://www.sportbible.com/tennis/alex-eala-intriguing-insight-life-outside-of-tennis-us-open-572937-20260829",
     "https://gulfnews.com/sport/tennis/wimbledon-10-things-to-know-about-philippines-tennis-sensation-alex-eala-1.500182001",
     "https://www.benrothenberg.com/p/alexandra-eala-interview-washington-philippines-parents-tennis",
-    "https://defector.com/alex-eala-is-the-best-show-in-town"
+    "https://defector.com/alex-eala-is-the-best-show-in-town",
+    "https://www.tennis365.com/tennis-news/alex-eala-explains-how-ended-up-training-rafa-nadal-academy"
   ],
-  "verified": false,
-  "researchedAt": "2026-09-04T17:10:24+00:00"
+  "verified": true,
+  "researchedAt": "2026-09-04T17:10:24+00:00",
+  "factCheck": {
+    "checkedAt": "2026-09-04T21:52:23+00:00",
+    "notes": [
+      "Birth date, height, plays, hometown, ranking 18 / seed 17, opponent Jovic verified vs Wikipedia and schedule.json.",
+      "Moved to Spain at 13 verified via tennis365 interview (Wikipedia gives only graduation year 2023); grandfather first coach, 2022 US Open girls' title, 2026 Washington title, first Filipino top-20 verified on Wikipedia.",
+      "Mom's medal: bronze, 100m backstroke, 1985 SEA Games (Wikipedia)."
+    ],
+    "changes": [
+      "Fun fact 1: specified 'bronze medal'.",
+      "Fun fact 4 split: 'matcha over coffee' is on Wikipedia, not in the SportBible article; re-sourced. 'in every city' was unsupported and removed.",
+      "Fun fact 5 merged cafes/bakeries + foodie quote (both from SportBible).",
+      "Added tennis365 source for the age-13 move to Spain."
+    ]
+  }
 }

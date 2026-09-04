@@ -15,7 +15,7 @@
   "hometown": "Villa Gesell, Argentina",
   "nicknameOrTagline": "Luli",
   "intro": "Luciano Darderi plays for Italy but was born in Argentina. He is 24 and a clay-court king with five titles. His dad is his coach.",
-  "story": "Luciano's grandpa moved from Italy to Argentina long ago. Luciano started swinging a racket at age two. His grandma Elisa bought his first rackets and traveled to his tournaments. He moved to Italy to chase his dream. This spring he beat Alexander Zverev in Rome. He saved four match points to do it!",
+  "story": "Luciano's grandpa moved from Italy to Argentina long ago. Luciano started playing tennis at age four with his dad. His grandma Elisa gave him his first racket and traveled to his tournaments. He moved to Italy to chase his dream. This spring he beat Alexander Zverev in Rome. He saved four match points to do it!",
   "funFacts": [
     {
       "text": "He was born on Valentine's Day.",
@@ -68,8 +68,20 @@
   "sources": [
     "https://en.wikipedia.org/wiki/Luciano_Darderi",
     "https://www.atptour.com/en/players/luciano-darderi/d0fj/bio",
-    "https://www.claytenis.com/features/a-promise-with-cobolli-and-his-grandmothers-help-darderi-wins-in-santiago/"
+    "https://www.claytenis.com/features/a-promise-with-cobolli-and-his-grandmothers-help-darderi-wins-in-santiago/",
+    "https://www.puntodebreak.com/en/2026/03/02/darderi-is-reality-from-grandma-elisas-babolat-to-the-doors-of-the-top20"
   ],
-  "verified": false,
-  "researchedAt": "2026-09-04T17:10:24+00:00"
+  "verified": true,
+  "researchedAt": "2026-09-04T17:10:24+00:00",
+  "factCheck": {
+    "checkedAt": "2026-09-04T21:52:23+00:00",
+    "notes": [
+      "Birth date 2002-02-14, height 183, plays, Villa Gesell, ranking 22 / seed 21, opponent Sweeny verified vs Wikipedia/ATP and schedule.json (Wikipedia's ranking snapshot is older, No. 20 on Aug 10; schedule feed is authoritative).",
+      "Five titles all on clay, father Gino as coach, grandfather emigrated from Italy, brother Vito Italian U12 champion, Rome 2026 Zverev win saving four match points verified on Wikipedia; nickname Luli, languages, barbecue/chocolate, Messi verified on ATP bio; tattoo on right wrist and kissing it verified on claytenis.com; grandmother gave first racket verified on puntodebreak.com and Wikipedia."
+    ],
+    "changes": [
+      "Story: 'racket at age two' replaced with ATP-sourced 'started playing tennis at age four with his dad'; 'bought his first rackets' -> 'gave him his first racket'.",
+      "Added puntodebreak.com source."
+    ]
+  }
 }

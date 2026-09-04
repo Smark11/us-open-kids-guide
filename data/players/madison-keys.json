@@ -27,14 +27,14 @@
     },
     {
       "text": "She loves baking, decorating rooms, and taking care of plants.",
-      "source": "https://tennis-infinity.com/wta/who-is-madison-keys-bio-fun-facts-info-much-more"
+      "source": "https://www.wtatennis.com/players/316959/madison-keys"
     },
     {
       "text": "Her favorite singer is Beyoncé.",
-      "source": "https://tennis-infinity.com/wta/who-is-madison-keys-bio-fun-facts-info-much-more"
+      "source": "https://www.wtatennis.com/players/316959/madison-keys"
     },
     {
-      "text": "She started Kindness Wins, a charity that teaches kids to be kind.",
+      "text": "She started Kindness Wins, a charity that spreads kindness, especially to kids.",
       "source": "https://glorioussport.com/articles/madison-keys-tennis-kindness-foundation-interview/"
     },
     {
@@ -42,11 +42,15 @@
       "source": "https://en.wikipedia.org/wiki/Madison_Keys"
     },
     {
-      "text": "Both her parents are lawyers. Her dad was a college basketball star.",
+      "text": "Both her parents are lawyers. Her dad played college basketball.",
       "source": "https://en.wikipedia.org/wiki/Madison_Keys"
+    },
+    {
+      "text": "At 13, her mom found her rearranging her bedroom furniture in the middle of the night.",
+      "source": "https://sports.yahoo.com/madison-keys-mom-made-huge-164800595.html"
     }
   ],
-  "watchFor": "Listen for the loud pop when she hits her forehand. It is one of the fastest in tennis.",
+  "watchFor": "Listen for the loud pop of her forehand. At Wimbledon in 2016, hers was the fastest forehand measured.",
   "matchTomorrow": {
     "opponent": "Qinwen Zheng",
     "opponentSlug": "qinwen-zheng",
@@ -64,10 +68,25 @@
   },
   "sources": [
     "https://en.wikipedia.org/wiki/Madison_Keys",
-    "https://tennis-infinity.com/wta/who-is-madison-keys-bio-fun-facts-info-much-more",
     "https://glorioussport.com/articles/madison-keys-tennis-kindness-foundation-interview/",
-    "https://www.wtatennis.com/players/316959/madison-keys"
+    "https://www.wtatennis.com/players/316959/madison-keys",
+    "https://www.espn.com/tennis/story/_/id/16954430/wimbledon-women-2016-5-fascinating-top-5s",
+    "https://sports.yahoo.com/madison-keys-mom-made-huge-164800595.html"
   ],
-  "verified": false,
-  "researchedAt": "2026-09-04T17:11:02Z"
+  "verified": true,
+  "researchedAt": "2026-09-04T17:11:02Z",
+  "factCheck": {
+    "checkedAt": "2026-09-04T21:53:16Z",
+    "notes": [
+      "birthDate/height 178/plays/Rock Island: Wikipedia + WTA profile. WTA ranking 24 matches schedule (seed 22, rank 24); opponent Zheng matches.",
+      "Wikipedia confirms Venus dress story, sisters Sydney/Montana/Hunter, lawyer parents, dad's Div III basketball, 2017 USO final, 2025 AO title, 126 mph serve. WTA profile confirms baking/plants/interior design and Beyoncé. glorioussport confirms Kindness Wins (2020). ESPN confirms fastest forehand at Wimbledon 2016."
+    ],
+    "changes": [
+      "Replaced low-quality tennis-infinity source with WTA profile for hobbies/Beyoncé.",
+      "'college basketball star' -> 'played college basketball'.",
+      "Kindness Wins description aligned with source (kindness to self, youth, others).",
+      "watchFor 'one of the fastest in tennis' replaced with ESPN-sourced 2016 Wimbledon stat.",
+      "Added Yahoo-sourced furniture fun fact."
+    ]
+  }
 }

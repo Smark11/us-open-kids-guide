@@ -22,16 +22,16 @@
       "source": "https://en.wikipedia.org/wiki/Amanda_Anisimova"
     },
     {
-      "text": "She loves to paint. She sold her paintings in a New York gallery to help charities.",
-      "source": "https://www.wtatennis.com/news/3844595/amanda-anisimova"
+      "text": "She loves to paint. She showed her paintings at a New York gallery and gives the money to charities.",
+      "source": "https://www.tennis-prose.com/articles/anisimova-unveils-her-new-art-in-nyc/"
     },
     {
       "text": "Her favorite artist is Vincent van Gogh.",
-      "source": "https://www.olympics.com/en/news/amanda-anisimova-top-facts-usa-tennis-star"
+      "source": "https://www.insidetennis.com/2025/07/amanda-for-all-seasons/"
     },
     {
-      "text": "During her break, she fostered a dog. She took road trips with friends.",
-      "source": "https://www.olympics.com/en/news/amanda-anisimova-top-facts-usa-tennis-star"
+      "text": "During her break, she volunteered at a dog shelter and took trips with friends.",
+      "source": "https://www.espn.com/tennis/story/_/id/39331295/australian-open-amanda-anisimova-refreshed-2023-break"
     },
     {
       "text": "During her time off, she went to college in Florida for a semester.",
@@ -65,8 +65,24 @@
   "sources": [
     "https://en.wikipedia.org/wiki/Amanda_Anisimova",
     "https://www.wtatennis.com/news/3844595/amanda-anisimova",
-    "https://www.olympics.com/en/news/amanda-anisimova-top-facts-usa-tennis-star"
+    "https://www.olympics.com/en/news/amanda-anisimova-top-facts-usa-tennis-star",
+    "https://www.tennis-prose.com/articles/anisimova-unveils-her-new-art-in-nyc/",
+    "https://www.insidetennis.com/2025/07/amanda-for-all-seasons/",
+    "https://www.espn.com/tennis/story/_/id/39331295/australian-open-amanda-anisimova-refreshed-2023-break"
   ],
-  "verified": false,
-  "researchedAt": "2026-09-04T17:16:31+00:00"
+  "verified": true,
+  "researchedAt": "2026-09-04T17:16:31+00:00",
+  "factCheck": {
+    "checkedAt": "2026-09-04T21:52:28+00:00",
+    "notes": [
+      "Birth date, age 25, US, R-handed/2HBH, 180 cm, Freehold Township, parents from Russia, started at 5 copying sister Maria, 2017 USO girls' title over Gauff, 2019 RG SF at 17, 2023 break, career-high No. 3, 2025 Doha+Beijing titles, 2025 USO final: all confirmed on Wikipedia.",
+      "Seed 10 / ranking 10 / opponent Potapova match schedule.json.",
+      "Nova Southeastern semester and road trips confirmed by WTA article 3844595."
+    ],
+    "changes": [
+      "Fun fact 2: 'sold paintings in a NY gallery' -> 'showed paintings at a NY gallery; proceeds to charity' (tennis-prose Tribeca show).",
+      "Fun fact 3 (van Gogh): olympics.com unreachable; re-sourced to InsideTennis ('Van Gogh was her favorite').",
+      "Fun fact 4: 'fostered a dog' -> 'volunteered at a dog shelter' (ESPN); road trips kept (WTA/ESPN)."
+    ]
+  }
 }

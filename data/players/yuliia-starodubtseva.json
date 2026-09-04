@@ -15,7 +15,7 @@
   "hometown": "Kakhovka, Ukraine",
   "nicknameOrTagline": "From tennis teacher to tennis star",
   "intro": "Yuliia Starodubtseva is from Kakhovka, Ukraine. She went to college in Virginia and once worked as a tennis teacher. Now she beats top players on the biggest stages.",
-  "story": "Yuliia played college tennis at Old Dominion University in Virginia. After school, she taught tennis lessons at a club near New York City. Her friends helped her chase her pro dream. It worked! This spring she reached her first big final, and she beat a top-3 player in Paris.",
+  "story": "Yuliia played college tennis at Old Dominion University in Virginia. After school, she taught tennis lessons at a club near New York City. Friends and supporters helped her chase her pro dream. It worked! This spring she reached her first big final, and she beat the No. 2 seed in Paris.",
   "funFacts": [
     {
       "text": "She has two college degrees, one in communication and one in sport management.",
@@ -34,19 +34,19 @@
       "source": "https://www.wtatennis.com/news/4481787/who-is-yuliia-starodubtseva-get-to-know-the-first-time-finalist-charleston-open"
     },
     {
-      "text": "In 2024 she qualified for all four Grand Slams in one year. Nobody had done that before.",
+      "text": "In 2024 she qualified for all four Grand Slams. No woman had done that in the modern era.",
       "source": "https://en.wikipedia.org/wiki/Yuliia_Starodubtseva"
     },
     {
-      "text": "Her New York friends set up a fund to help her chase her pro dream.",
+      "text": "Her supporters set up a fund to help her chase her pro dream.",
       "source": "https://www.tennis.com/news/articles/the-best-thing-i-saw-at-roland-garros-today-late-bloomer-yuliia-starodubtseva-pulls-off-rybakina-upset"
     },
     {
-      "text": "She started tennis at age 5, almost by accident.",
+      "text": "She picked tennis at age 5, just for fun. It got serious around age 11.",
       "source": "https://www.wtatennis.com/news/4481787/who-is-yuliia-starodubtseva-get-to-know-the-first-time-finalist-charleston-open"
     }
   ],
-  "watchFor": "Look for blue-and-yellow Ukrainian flags in the crowd. Watch how she stays calm and steady from the baseline, point after point.",
+  "watchFor": "Watch how steady she is from the baseline. When she beat the No. 2 seed in Paris, she made far fewer mistakes than her opponent.",
   "matchTomorrow": {
     "opponent": "Elena Rybakina",
     "opponentSlug": "elena-rybakina",
@@ -67,8 +67,23 @@
     "https://www.wtatennis.com/news/4481787/who-is-yuliia-starodubtseva-get-to-know-the-first-time-finalist-charleston-open",
     "https://www.tennis.com/news/articles/the-best-thing-i-saw-at-roland-garros-today-late-bloomer-yuliia-starodubtseva-pulls-off-rybakina-upset",
     "https://www.wtatennis.com/players/325338/yuliia-starodubtseva",
-    "https://www.rolandgarros.com/en-us/article/2026-edition-r2-rybakina-starodubtseva"
+    "https://www.rolandgarros.com/en-us/article/2026-edition-r2-rybakina-starodubtseva",
+    "https://www.wtatennis.com/news/4510325/starodubtseva-stuns-no-2-seed-rybakina-in-dramatic-roland-garros-upset"
   ],
-  "verified": false,
-  "researchedAt": "2026-09-04T17:11:02Z"
+  "verified": true,
+  "researchedAt": "2026-09-04T17:11:02Z",
+  "factCheck": {
+    "checkedAt": "2026-09-04T21:53:16Z",
+    "notes": [
+      "birthDate/height 172/plays: WTA profile + Wikipedia. WTA profile ranking 58 matches schedule (Wikipedia says 74, stale). Opponent Rybakina (seed 2) matches schedule.",
+      "WTA feature confirms two ODU degrees, cars/techno, Packers, age-5 start, Westchester coaching. tennis.com confirms green clay in Westchester and GoFundMe. Wikipedia confirms 2024 all-four-majors qualifying (first woman in Open Era), Charleston final, RG win over Rybakina."
+    ],
+    "changes": [
+      "'top-3 player' -> 'No. 2 seed' (sourced).",
+      "All-four-slams fact: 'Nobody had done that before' narrowed to 'no woman in the modern era'.",
+      "'New York friends' fund -> 'supporters' (source says supporters/GoFundMe).",
+      "'almost by accident' unsupported; reworded to 'just for fun, serious at 11'.",
+      "watchFor: removed unsourced flags line; replaced with WTA-sourced match description."
+    ]
+  }
 }

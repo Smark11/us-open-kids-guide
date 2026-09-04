@@ -15,18 +15,18 @@
   "hometown": "Prostějov, Czechia",
   "nicknameOrTagline": "Menimal",
   "intro": "Jakub Menšík is a very tall player from Czechia. He stands 6 feet 5 inches. At 19 he won the Miami Open, beating his hero Novak Djokovic.",
-  "story": "Jakub grew up right next to tennis courts. He watched other kids play, then joined in at age four. Djokovic liked him so much he invited him to train together. In 2025 Jakub beat Djokovic in the Miami final. This year he reached the French Open semifinals. He also just won the US Open mixed doubles title.",
+  "story": "Jakub grew up right next to tennis courts. He watched other kids play, then joined in at age five. After the 2022 Australian Open, his idol Djokovic invited him to Belgrade to practice together. In 2025 Jakub beat Djokovic in the Miami final. This year he reached the French Open semifinals. He also just won the US Open mixed doubles title with Karolína Muchová.",
   "funFacts": [
     {
       "text": "He turned 21 just four days ago, on September 1.",
       "source": "https://en.wikipedia.org/wiki/Jakub_Menšík"
     },
     {
-      "text": "Off the court he plays golf and the guitar.",
+      "text": "Off the court he loves golf, and his favorite ice cream is vanilla.",
       "source": "https://www.tennis-prose.com/bios/biofile-jakub-mensik-interview/"
     },
     {
-      "text": "His favorite foods are spare ribs and vanilla ice cream.",
+      "text": "His favorite food is spare ribs.",
       "source": "https://www.atptour.com/en/players/jakub-mensik/m0ni/bio"
     },
     {
@@ -42,8 +42,8 @@
       "source": "https://www.atptour.com/en/players/jakub-mensik/m0ni/bio"
     },
     {
-      "text": "His first serve zooms in at about 129 miles per hour.",
-      "source": "https://x.com/tennis_insights/status/1905920972139458577"
+      "text": "He taught himself the drums from YouTube videos. He can play Led Zeppelin songs!",
+      "source": "https://www.atptour.com/en/news/mensik-cap-cana-challenger-2025-feature"
     }
   ],
   "watchFor": "Watch his rocket first serve, then his high-kicking second serve that bounces over heads.",
@@ -70,8 +70,24 @@
     "https://www.atptour.com/en/players/jakub-mensik/m0ni/bio",
     "https://www.tennis-prose.com/bios/biofile-jakub-mensik-interview/",
     "https://www.tennismajors.com/atp/australian-open-qatar-murray-everything-you-ever-wanted-to-know-about-jakub-mensik-but-never-had-time-to-find-out-745211.html",
-    "https://x.com/tennis_insights/status/1905920972139458577"
+    "https://www.atptour.com/en/news/mensik-cap-cana-challenger-2025-feature",
+    "https://www.usopen.org/en_US/news/articles/2026-08-26/muchova-mensik_win_2026_us_open_mixed_doubles_title.html"
   ],
-  "verified": false,
-  "researchedAt": "2026-09-04T17:10:24+00:00"
+  "verified": true,
+  "researchedAt": "2026-09-04T17:10:24+00:00",
+  "factCheck": {
+    "checkedAt": "2026-09-04T21:52:23+00:00",
+    "notes": [
+      "Height: ATP player data endpoint (players/hero/m0ni) gives HeightCm 196 / 6'5\"; Wikipedia 1.96 m; Roland Garros 1.95 m. Kept 196.",
+      "Birth date 2005-09-01, plays, hometown Prostějov, ranking 18 / seed 17, opponent Tien verified vs ATP + Wikipedia + schedule.json.",
+      "Miami 2025 win over Djokovic at 19, 2026 RG semifinal verified on Wikipedia; 2026 US Open mixed doubles title with Muchová verified on usopen.org.",
+      "Djokovic invitation quote from tennismajors.com interview (Belgrade/Montenegro after 2022 AO)."
+    ],
+    "changes": [
+      "Story: started tennis at age five (ATP bio) instead of four; Djokovic invitation reworded to the sourced version; added partner Muchová.",
+      "Removed 129 mph serve-speed fact (only source was an X post); replaced with sourced drumming fact (ATP Tour feature).",
+      "Removed 'guitar' (no source; the ATP feature says drums). Split combined food fact: spare ribs (ATP bio), vanilla ice cream (tennis-prose).",
+      "Dropped x.com from sources; added ATP feature and usopen.org."
+    ]
+  }
 }

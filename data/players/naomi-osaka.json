@@ -15,19 +15,19 @@
   "hometown": "Osaka, Japan",
   "nicknameOrTagline": "Four-time Grand Slam champ",
   "intro": "Naomi Osaka was born in Osaka, Japan, and grew up in New York and Florida. She has won four Grand Slams, including the US Open twice. She was the first Asian player ever ranked No. 1 in the world.",
-  "story": "Naomi's dad taught her and her big sister Mari to play on public courts. Her serve is one of the fastest in women's tennis. She lit the Olympic flame at the Tokyo Games. In 2023 she became a mom to a girl named Shai. Then she came back and climbed right back into the top 15.",
+  "story": "Naomi's dad taught her and her big sister Mari to play on public courts. Her serve has been clocked at 124 miles per hour. She lit the Olympic flame at the Tokyo Games. In 2023 she became a mom to a girl named Shai. Then she came back and climbed right back into the top 15.",
   "funFacts": [
     {
       "text": "Her comfort show is the anime Naruto. Her favorite character is lazy-but-brilliant Shikamaru.",
       "source": "https://hypebeast.com/2026/2/naomi-osaka-loves-anime-and-japan-interview"
     },
     {
-      "text": "She loves video games like Skyrim and Overwatch, often playing with her sister Mari.",
+      "text": "She loves video games. Her go-to game is Skyrim, and she plays Overwatch too.",
       "source": "https://hypebeast.com/2026/2/naomi-osaka-loves-anime-and-japan-interview"
     },
     {
-      "text": "Her French bulldog is named Butta. Butta has his own Instagram.",
-      "source": "https://www.sportskeeda.com/tennis/news-naomi-osaka-reveals-new-shoes-inspired-dog-butta-manga-series-naruto"
+      "text": "Her French bulldog is named Butta. Butta goes almost everywhere with her.",
+      "source": "https://www.tennis.com/news/articles/mother-no-drama-osaka-shows-off-her-precious-new-puppy"
     },
     {
       "text": "She once quoted the Pokémon theme song in an interview: 'to be the very best.'",
@@ -42,11 +42,11 @@
       "source": "https://en.wikipedia.org/wiki/Naomi_Osaka"
     },
     {
-      "text": "Her serve has been clocked over 125 miles per hour.",
+      "text": "Her serve has been clocked at 124 miles per hour.",
       "source": "https://en.wikipedia.org/wiki/Naomi_Osaka"
     }
   ],
-  "watchFor": "Watch her walk on court in a wild custom outfit, then listen for the boom of her serve.",
+  "watchFor": "Watch her walk on court in a special custom outfit, then listen for the boom of her serve.",
   "matchTomorrow": {
     "opponent": "Elise Mertens",
     "opponentSlug": "elise-mertens",
@@ -64,12 +64,27 @@
   },
   "sources": [
     "https://en.wikipedia.org/wiki/Naomi_Osaka",
-    "https://thesmartlocal.jp/naomi-osaka-facts/",
-    "https://www.sportskeeda.com/tennis/news-naomi-osaka-reveals-new-shoes-inspired-dog-butta-manga-series-naruto",
     "https://www.si.com/extra-mustard/2016/01/22/australian-open-naomi-osaka-pokemon-theme",
     "https://www.usopen.org/amp/en_US/news/articles/2026-08-31/naomi_osaka_makes_2026_us_open_fashion_statement_with_all-white_look.html",
-    "https://hypebeast.com/2026/2/naomi-osaka-loves-anime-and-japan-interview"
+    "https://hypebeast.com/2026/2/naomi-osaka-loves-anime-and-japan-interview",
+    "https://www.tennis.com/news/articles/mother-no-drama-osaka-shows-off-her-precious-new-puppy",
+    "https://www.yahoo.com/entertainment/celebrity/articles/naomi-osaka-daughter-shai-she-141622754.html",
+    "https://www.si.com/onsi/serve/style/naomi-osaka-nike-kit-2026-us-open-appears-online"
   ],
-  "verified": false,
-  "researchedAt": "2026-09-04T17:11:02Z"
+  "verified": true,
+  "researchedAt": "2026-09-04T17:11:02Z",
+  "factCheck": {
+    "checkedAt": "2026-09-04T21:53:16Z",
+    "notes": [
+      "birthDate/height 180/plays/birthplace/NY+Florida upbringing/parents/4 slams (USO 2018, 2020)/first Asian No.1/Tokyo cauldron: Wikipedia. Seed 13 / rank 13 match schedule; opponent Mertens matches.",
+      "Hypebeast 2026 interview confirms Naruto/Shikamaru, Skyrim/Overwatch (sister Mari not mentioned as gaming partner — see change). SI 2016 confirms Pokémon quote. tennis.com confirms French bulldog Butta. Yahoo/People confirms daughter Shai born July 2023. SI confirms walk-on outfit tradition."
+    ],
+    "changes": [
+      "Serve: 'over 125 mph' -> '124 mph' per Wikipedia; 'one of the fastest' rephrased.",
+      "Butta fact: Instagram-account claim unsourced (sportskeeda 405); replaced with tennis.com-sourced detail.",
+      "watchFor: 'wild' -> 'special custom outfit' (SI).",
+      "Dropped sportskeeda and thesmartlocal from sources.",
+      "Video-game fact: 'playing with her sister Mari' not in source; removed."
+    ]
+  }
 }

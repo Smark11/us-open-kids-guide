@@ -476,7 +476,7 @@
    ]
   }
  ],
- "generatedAt": "2026-09-04T18:09:55",
+ "generatedAt": "2026-09-04T18:12:38",
  "players": [
   {
    "slug": "alexander-zverev",
@@ -564,7 +564,8 @@
      "Fact 2: 'tiny' -> 'little'; pass wording softened to 'has even had'.",
      "Fact 5: 'Now they are rivals' (Federer retired 2022) -> 'Years later he beat Federer in a real match' (Halle 2016, Wikipedia)."
     ]
-   }
+   },
+   "matchTier": 1
   },
   {
    "slug": "elena-rybakina",
@@ -652,7 +653,8 @@
      "Fact 2: 'most of anyone in nine years' -> 'nobody had hit 500 in one season for nine years' (matches Wikipedia).",
      "Fact 3: re-sourced from fgsn.com to SCMP; shelters wording matched to source. Removed fgsn.com from sources."
     ]
-   }
+   },
+   "matchTier": 1
   },
   {
    "slug": "coco-gauff",
@@ -742,7 +744,8 @@
      "Facts 5 and 7 rewritten in past tense because the source is from April 2020.",
      "watchFor: removed unsourced 'points to the sky after big wins'."
     ]
-   }
+   },
+   "matchTier": 1
   },
   {
    "slug": "flavio-cobolli",
@@ -826,7 +829,8 @@
      "Seed 5 / ranking 6 / opponent Blockx match schedule.json. No changes needed."
     ],
     "changes": []
-   }
+   },
+   "matchTier": 1
   },
   {
    "slug": "mirra-andreeva",
@@ -918,7 +922,8 @@
      "Deleted fact 'favorite way to relax is watching TV shows' (only tennis-infinity source); replaced with sourced youngest-WTA-1000-champion fact.",
      "All tennis-infinity.com citations replaced with WTA/Sky Sports/tennishead/Tennis Majors/Tennis Gazette."
     ]
-   }
+   },
+   "matchTier": 1
   },
   {
    "slug": "iga-swiatek",
@@ -1008,7 +1013,8 @@
      "Fact 7: 'about 3,400' -> 'more than 3,400' (3,453 rpm).",
      "Removed fgsn.com from sources."
     ]
-   }
+   },
+   "matchTier": 1
   },
   {
    "slug": "taylor-fritz",
@@ -1101,7 +1107,8 @@
      "watchFor: removed unsourced 'white headband'.",
      "Fact 6: 'star of' -> 'was on'. Added fun fact 8 (Washington 2026 title) with ATP source."
     ]
-   }
+   },
+   "matchTier": 1
   },
   {
    "slug": "amanda-anisimova",
@@ -1192,722 +1199,8 @@
      "Fun fact 3 (van Gogh): olympics.com unreachable; re-sourced to InsideTennis ('Van Gogh was her favorite').",
      "Fun fact 4: 'fostered a dog' -> 'volunteered at a dog shelter' (ESPN); road trips kept (WTA/ESPN)."
     ]
-   }
-  },
-  {
-   "slug": "anastasia-potapova",
-   "name": "Anastasia Potapova",
-   "country": "AT",
-   "countryName": "Austria",
-   "flagEmoji": "🇦🇹",
-   "birthDate": "2001-03-30",
-   "age": 25,
-   "seed": 24,
-   "ranking": 25,
-   "draw": "women",
-   "tier": 1,
-   "plays": "Right-handed, two-handed backhand",
-   "heightCm": 175,
-   "hometown": "Vienna, Austria (born in Saratov, Russia)",
-   "nicknameOrTagline": "Big Swings, Big Smile",
-   "intro": "Anastasia Potapova plays for Austria and lives in Vienna. She was born in Russia. She swings at every ball with all her might.",
-   "story": "At 15, Anastasia won the junior title at Wimbledon. She became the number 1 junior in the world. This year in Madrid she was a lucky loser. That means she lost her last qualifying match but got a spot anyway. Then she surprised everyone and reached the semifinals!",
-   "funFacts": [
-    {
-     "text": "She travels to tournaments with her dog. She says the dog brings her luck.",
-     "source": "https://www.puntodebreak.com/en/2026/05/24/potapovas-dog-protagonist-at-roland-garros"
-    },
-    {
-     "text": "She loves fashion, especially fancy handbags.",
-     "source": "https://tennistonic.com/tennis-news/1028538/if-im-not-gonna-look-good-on-court-if-im-not-going-to-play-good-potapova-explains-how-self-care-fuels-performance/"
-    },
-    {
-     "text": "She tells stories with sound effects, like Woosh! and Boom!",
-     "source": "https://www.tennis.com/news/articles/anastasia-potapova-burnout-new-coach-coco-gauff-montreal"
-    },
-    {
-     "text": "Her grandma coaches a basketball team in Moscow. She got Anastasia into tennis at age four.",
-     "source": "https://www.wtatennis.com/news/1414583/potapova-russian-on-the-rise"
-    },
-    {
-     "text": "She won the Wimbledon junior girls' title in 2016.",
-     "source": "https://en.wikipedia.org/wiki/Anastasia_Potapova"
-    },
-    {
-     "text": "She says Austria feels like home. Since 2026 she plays for Austria.",
-     "source": "https://www.tennis.com/news/articles/anastasia-potapova-changes-sporting-nationality-to-austria-ahead-of-2026-tennis-season"
-    },
-    {
-     "text": "She won a title in Linz, Austria, in 2023.",
-     "source": "https://en.wikipedia.org/wiki/Anastasia_Potapova"
-    }
-   ],
-   "watchFor": "Watch her wind up big on every forehand and hit it super hard.",
-   "matchTomorrow": {
-    "opponent": "Amanda Anisimova",
-    "opponentSlug": "amanda-anisimova",
-    "court": "TBD",
-    "session": "TBD",
-    "order": null,
-    "startTimeET": null,
-    "matchId": "m10"
    },
-   "photo": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Day_9_-_Transylvania_Open_Women%27s_Singles_Final_ceremony_-_Anna_Potapova_Lucia_Bronzetti_%2854318974077%29.jpg",
-    "localPath": "img/players/anastasia-potapova.jpg",
-    "license": "CC BY-SA 2.0",
-    "author": "Nuță Lucian from Cluj-Napoca, Romania",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ADay_9_-_Transylvania_Open_Women%27s_Singles_Final_ceremony_-_Anna_Potapova_Lucia_Bronzetti_%2854318974077%29.jpg",
-    "title": "File:Day_9_-_Transylvania_Open_Women's_Singles_Final_ceremony_-_Anna_Potapova_Lucia_Bronzetti_(54318974077).jpg",
-    "exists": true
-   },
-   "sources": [
-    "https://en.wikipedia.org/wiki/Anastasia_Potapova",
-    "https://www.tennis.com/news/articles/anastasia-potapova-changes-sporting-nationality-to-austria-ahead-of-2026-tennis-season",
-    "https://www.puntodebreak.com/en/2026/05/24/potapovas-dog-protagonist-at-roland-garros",
-    "https://tennistonic.com/tennis-news/1028538/if-im-not-gonna-look-good-on-court-if-im-not-going-to-play-good-potapova-explains-how-self-care-fuels-performance/",
-    "https://www.wtatennis.com/news/1414583/potapova-russian-on-the-rise"
-   ],
-   "verified": true,
-   "researchedAt": "2026-09-04T17:16:31+00:00",
-   "factCheck": {
-    "checkedAt": "2026-09-04T21:52:28+00:00",
-    "notes": [
-     "Birth 2001-03-30 Saratov, resides Vienna, Austrian since Dec 2025/2026 season, R-handed/2HBH, 175 cm, 2016 Wimbledon girls' title at 15, junior No. 1, three WTA titles (Istanbul 2022, Linz 2023, Cluj 2025), first lucky loser to reach a WTA 1000 SF (Madrid 2026): confirmed on Wikipedia.",
-     "Dog travels with her in Europe and 'brings me luck': puntodebreak. 'Woosh'/'Boom' storytelling: tennis.com Montreal article. Designer bags/fashion: tennistonic article (page returned 403 to fetch; content confirmed via search excerpt).",
-     "Seed 24 / ranking 25 / opponent Anisimova match schedule.json."
-    ],
-    "changes": [
-     "Fun fact 1: removed unsupported 'little' (dog's size/breed not stated in source).",
-     "Fun fact 4 (grandmother): cited tennis.com article did not mention it; re-sourced to WTA 'Russian On The Rise' and reworded.",
-     "Fun fact 6: 'Vienna feels like home' -> her actual quote is about Austria feeling like home; reworded."
-    ]
-   }
-  },
-  {
-   "slug": "francisco-cerundolo",
-   "name": "Francisco Cerúndolo",
-   "country": "AR",
-   "countryName": "Argentina",
-   "flagEmoji": "🇦🇷",
-   "birthDate": "1998-08-13",
-   "age": 28,
-   "seed": 24,
-   "ranking": 25,
-   "draw": "men",
-   "tier": 1,
-   "plays": "Right-handed, two-handed backhand",
-   "heightCm": 185,
-   "hometown": "Buenos Aires, Argentina",
-   "nicknameOrTagline": "Fran",
-   "intro": "Francisco Cerúndolo is from Buenos Aires, Argentina. Everyone calls him Fran. He is famous for a huge, whip-crack forehand.",
-   "story": "Fran started tennis at age 5. His mom and dad both played tennis. They run a tennis school in Buenos Aires. His little brother Juan Manuel is a pro too. This summer Fran won his biggest title ever, on grass in London.",
-   "funFacts": [
-    {
-     "text": "His secret talent is math. He loves numbers and checking stats.",
-     "source": "https://www.atptour.com/en/players/francisco-cerundolo/c0au/bio"
-    },
-    {
-     "text": "His favorite foods are burgers and asado, Argentine barbecue.",
-     "source": "https://www.atptour.com/en/players/francisco-cerundolo/c0au/bio"
-    },
-    {
-     "text": "He loves to sing. He packs a speaker to play music in every hotel room.",
-     "source": "https://www.atptour.com/en/news/cerundolo-nomadic-life-june-2023"
-    },
-    {
-     "text": "His sister María Constanza won field hockey gold at the Youth Olympics.",
-     "source": "https://www.atptour.com/en/players/francisco-cerundolo/c0au/bio"
-    },
-    {
-     "text": "He and his brother Juan Manuel were in the world top 100 at the same time.",
-     "source": "https://en.wikipedia.org/wiki/Francisco_Cer%C3%BAndolo"
-    },
-    {
-     "text": "His favorite movie is Gladiator. He cheers for the River Plate soccer club.",
-     "source": "https://www.atptour.com/en/players/francisco-cerundolo/c0au/bio"
-    },
-    {
-     "text": "He once lost his passport on a trip and missed his plane.",
-     "source": "https://www.atptour.com/en/news/cerundolo-nomadic-life-june-2023"
-    }
-   ],
-   "watchFor": "Watch him run around his backhand to smack a giant forehand.",
-   "matchTomorrow": {
-    "opponent": "Taylor Fritz",
-    "opponentSlug": "taylor-fritz",
-    "court": "TBD",
-    "session": "TBD",
-    "order": null,
-    "startTimeET": null,
-    "matchId": "m7"
-   },
-   "photo": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Cerundolo_MCM23_%2821%29_%2852883527185%29.jpg",
-    "localPath": "img/players/francisco-cerundolo.jpg",
-    "license": "CC BY-SA 2.0",
-    "author": "si.robi",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ACerundolo_MCM23_%2821%29_%2852883527185%29.jpg",
-    "title": "File:Cerundolo_MCM23_(21)_(52883527185).jpg",
-    "isAvatar": false,
-    "exists": true
-   },
-   "sources": [
-    "https://en.wikipedia.org/wiki/Francisco_Cer%C3%BAndolo",
-    "https://www.atptour.com/en/players/francisco-cerundolo/c0au/bio",
-    "https://www.atptour.com/en/news/cerundolo-nomadic-life-june-2023",
-    "https://lavercup.com/player/francisco-cerundolo"
-   ],
-   "verified": true,
-   "researchedAt": "2026-09-04T17:11:02Z",
-   "factCheck": {
-    "checkedAt": "2026-09-04T21:53:16Z",
-    "notes": [
-     "birthDate/height/plays/hometown: Wikipedia + Laver Cup profile (185 cm). Seed 24 / ranking 25 match schedule.json; Wikipedia table shows him unseeded but usopen.org feed is authoritative.",
-     "ATP bio confirms nickname Fran, math, burgers/asado, Gladiator, River Plate, sister's 2018 Youth Olympic hockey gold, singing. ATP nomadic-life article confirms speaker and passport story. Wikipedia confirms brothers in top 100 (2022) and 2026 Queen's title."
-    ],
-    "changes": [
-     "Story: 'grew up at family academy' rephrased to sourced version (parents run academy in Buenos Aires, started at 5).",
-     "Passport fact: 'sleep at the airport' unsupported; changed to 'missed his plane'."
-    ]
-   }
-  },
-  {
-   "slug": "alejandro-tabilo",
-   "name": "Alejandro Tabilo",
-   "country": "CL",
-   "countryName": "Chile",
-   "flagEmoji": "🇨🇱",
-   "birthDate": "1997-06-02",
-   "age": 29,
-   "seed": 25,
-   "ranking": 28,
-   "draw": "men",
-   "tier": 1,
-   "plays": "Left-handed, two-handed backhand",
-   "heightCm": 188,
-   "hometown": "Santiago, Chile (born in Toronto, Canada)",
-   "nicknameOrTagline": "Jano",
-   "intro": "Alejandro Tabilo is a lefty from Chile. A lefty hits with his left hand. His friends call him Jano.",
-   "story": "Jano started tennis by copying his big brother Sebastian. At 13 he left home to train in Florida. Later he moved to Chile and became its best player. In 2024 he beat superstar Novak Djokovic in Rome. Then he did it again in 2025!",
-   "funFacts": [
-    {
-     "text": "His secret talent is chess.",
-     "source": "https://www.atptour.com/en/players/alejandro-tabilo/te30/bio"
-    },
-    {
-     "text": "His favorite food is popcorn. His favorite treat is ice cream.",
-     "source": "https://www.atptour.com/en/players/alejandro-tabilo/te30/bio"
-    },
-    {
-     "text": "Favorite school subject? Gym class, of course.",
-     "source": "https://www.atptour.com/en/players/alejandro-tabilo/te30/bio"
-    },
-    {
-     "text": "He was born in Toronto, Canada. His parents are both from Chile.",
-     "source": "https://en.wikipedia.org/wiki/Alejandro_Tabilo"
-    },
-    {
-     "text": "He beat world No. 1 Novak Djokovic in Rome in 2024.",
-     "source": "https://en.wikipedia.org/wiki/Alejandro_Tabilo"
-    },
-    {
-     "text": "His favorite shot is the drop shot, a sneaky soft shot. His idol is lefty Rafael Nadal.",
-     "source": "https://www.atptour.com/en/players/alejandro-tabilo/te30/bio"
-    },
-    {
-     "text": "His favorite superhero is Superman.",
-     "source": "https://www.atptour.com/en/players/alejandro-tabilo/te30/bio"
-    }
-   ],
-   "watchFor": "Watch his lefty serve curve out wide, then spot his sneaky drop shot.",
-   "matchTomorrow": {
-    "opponent": "Alexander Zverev",
-    "opponentSlug": "alexander-zverev",
-    "court": "TBD",
-    "session": "TBD",
-    "order": null,
-    "startTimeET": null,
-    "matchId": "m1"
-   },
-   "photo": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Tabilo_RGQ23_%2852942983162%29.jpg",
-    "localPath": "img/players/alejandro-tabilo.jpg",
-    "license": "CC BY-SA 2.0",
-    "author": "si.robi",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ATabilo_RGQ23_%2852942983162%29.jpg",
-    "title": "File:Tabilo_RGQ23_(52942983162).jpg",
-    "exists": true
-   },
-   "sources": [
-    "https://en.wikipedia.org/wiki/Alejandro_Tabilo",
-    "https://www.atptour.com/en/players/alejandro-tabilo/te30/bio",
-    "https://www.tennismajors.com/atp/chile-canada-djokovic-everything-you-always-wanted-to-know-about-alejandro-tabilo-but-never-had-time-to-find-out-760301.html",
-    "https://www.tennis-prose.com/bios/biofile-alejandro-tabilo-interview/"
-   ],
-   "verified": true,
-   "researchedAt": "2026-09-04T17:16:31+00:00",
-   "factCheck": {
-    "checkedAt": "2026-09-04T21:52:28+00:00",
-    "notes": [
-     "Birth 1997-06-02 Toronto, Chilean parents, left-handed/2HBH, 188 cm, beat No. 1 Djokovic Rome 2024 and again Monte Carlo 2025, current Chilean No. 1: confirmed on Wikipedia.",
-     "Nickname Jano, brother Sebastian, left home at 13 for Florida, chess, popcorn, ice cream, gym, drop shot, Nadal idol, Superman: all confirmed on ATP bio page.",
-     "Hometown Santiago: tennismajors interview ('When I was around 18, I moved to Santiago').",
-     "Seed 25 / ranking 28 / opponent Zverev match schedule.json. No text changes needed."
-    ],
-    "changes": []
-   }
-  },
-  {
-   "slug": "marie-bouzkova",
-   "name": "Marie Bouzková",
-   "country": "CZ",
-   "countryName": "Czechia",
-   "flagEmoji": "🇨🇿",
-   "birthDate": "1998-07-21",
-   "age": 28,
-   "seed": 25,
-   "ranking": 26,
-   "draw": "women",
-   "tier": 1,
-   "plays": "Right-handed, two-handed backhand",
-   "heightCm": 180,
-   "hometown": "Prague, Czechia",
-   "nicknameOrTagline": "Defense That Never Quits",
-   "intro": "Marie Bouzková is from Prague, in Czechia. She is a super-fast runner. She chases down every ball, no matter what.",
-   "story": "Marie started at a tennis club her parents owned in Prague. At 16 she won the US Open junior title, right here in New York. Now she lives in Florida and plays on the big tour. This year she won a title on grass. She also reached her best ranking ever.",
-   "funFacts": [
-    {
-     "text": "She speaks four languages: Czech, English, German, and Spanish.",
-     "source": "https://en.wikipedia.org/wiki/Marie_Bouzkov%C3%A1"
-    },
-    {
-     "text": "She follows lots of mountain dog accounts online. She wants one when she retires.",
-     "source": "https://www.tennis.com/baseline/articles/5-minutes-marie-bouzkova-and-ann-li-interview"
-    },
-    {
-     "text": "She listens to Mozart before matches to calm her mind.",
-     "source": "https://www.tennis.com/baseline/articles/5-minutes-marie-bouzkova-and-ann-li-interview"
-    },
-    {
-     "text": "Her favorite emoji on grass courts is the strawberry.",
-     "source": "https://www.tennis.com/baseline/articles/5-minutes-marie-bouzkova-and-ann-li-interview"
-    },
-    {
-     "text": "She finished a college business degree while playing on tour.",
-     "source": "https://en.wikipedia.org/wiki/Marie_Bouzkov%C3%A1"
-    },
-    {
-     "text": "She won the US Open girls' title in 2014, at age 16.",
-     "source": "https://en.wikipedia.org/wiki/Marie_Bouzkov%C3%A1"
-    },
-    {
-     "text": "She loves drawing, reading, and playing Wordle in her free time.",
-     "source": "https://www.tennis.com/baseline/articles/5-minutes-marie-bouzkova-and-ann-li-interview"
-    }
-   ],
-   "watchFor": "Watch her run down shot after shot with defense the tour calls astounding.",
-   "matchTomorrow": {
-    "opponent": "Iga Swiatek",
-    "opponentSlug": "iga-swiatek",
-    "court": "TBD",
-    "session": "TBD",
-    "order": null,
-    "startTimeET": null,
-    "matchId": "m13"
-   },
-   "photo": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Marie_Bouzkov%C3%A1_%282023_US_Open%29_26_%28cropped2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "localPath": "img/players/marie-bouzkova.jpg",
-    "license": "CC BY-SA 4.0",
-    "author": "Hameltion",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AMarie_Bouzkov%C3%A1_%282023_US_Open%29_26_%28cropped2%29.jpg",
-    "title": "File:Marie_Bouzková_(2023_US_Open)_26_(cropped2).jpg",
-    "exists": true
-   },
-   "sources": [
-    "https://en.wikipedia.org/wiki/Marie_Bouzkov%C3%A1",
-    "https://www.tennis.com/baseline/articles/5-minutes-marie-bouzkova-and-ann-li-interview",
-    "https://www.wtatennis.com/players/319143/marie-bouzkova",
-    "https://www.wtatennis.com/videos/4252524/what-astounding-defense-marie-bouzkova-triumphs-in-madrid-lungbuster"
-   ],
-   "verified": true,
-   "researchedAt": "2026-09-04T17:11:02Z",
-   "factCheck": {
-    "checkedAt": "2026-09-04T21:53:16Z",
-    "notes": [
-     "birthDate/height 180/plays/hometown: Wikipedia + WTA profile (ID 320983; the 319143 URL in sources is a different player). WTA profile ranking 26 and career high 21 match schedule (seed 25, rank 26).",
-     "Wikipedia confirms parents' club, 2014 US Open girls' title, four languages, business degree (Indiana University East 2022), Florida residence, 2026 Nottingham grass title, career-high July 2026. tennis.com interview confirms Mozart, strawberry emoji, drawing/reading/Wordle, mountain-dog accounts."
-    ],
-    "changes": [
-     "Tagline 'The Wall from Prague' and intro 'hitting into a wall' unsourced; replaced with WTA-sourced 'astounding defense'.",
-     "watchFor 'big fist pump' unsourced; replaced with WTA-sourced defense/long-rally description.",
-     "Dog fact: source says 'Burmese Mountain Dog' (typo); made breed-neutral.",
-     "Wordle 'every day' -> 'in her free time'."
-    ]
-   }
-  },
-  {
-   "slug": "alexander-blockx",
-   "name": "Alexander Blockx",
-   "country": "BE",
-   "countryName": "Belgium",
-   "flagEmoji": "🇧🇪",
-   "birthDate": "2005-04-08",
-   "age": 21,
-   "seed": 28,
-   "ranking": 34,
-   "draw": "men",
-   "tier": 1,
-   "plays": "Right-handed, two-handed backhand",
-   "heightCm": 193,
-   "hometown": "Antwerp, Belgium",
-   "nicknameOrTagline": "Big Server from Belgium",
-   "intro": "Alexander Blockx is a tall young player from Belgium. He is only 21. He is already the best player in his country.",
-   "story": "Alexander started tennis at age four. He tagged along to his big brother's lessons. The coach asked if he wanted to try. He said yes, and he never stopped! In 2023 he won the junior title at the Australian Open.",
-   "funFacts": [
-    {
-     "text": "His dad was a hurdle runner. His mom was a swimmer.",
-     "source": "https://www.atptour.com/en/news/blockx-saint-tropez-challenger-2024-feature"
-    },
-    {
-     "text": "He is a tennis trivia whiz. He remembers old match scores.",
-     "source": "https://www.atptour.com/en/news/blockx-saint-tropez-challenger-2024-feature"
-    },
-    {
-     "text": "As a kid fan, he got a photo with star Daniil Medvedev. Now they share the stage at events.",
-     "source": "https://www.tennis.com/news/articles/alexander-blockx-full-circle-medvedev-goffin-belgium-roland-garros-interview"
-    },
-    {
-     "text": "He had the same coach from age 4 until this year. That is 16 years!",
-     "source": "https://www.atptour.com/en/players/alexander-blockx/b0pg/bio"
-    },
-    {
-     "text": "He won 42 of 45 matches in under-12 tournaments.",
-     "source": "https://www.atptour.com/en/news/blockx-saint-tropez-challenger-2024-feature"
-    },
-    {
-     "text": "He beat Learner Tien to win the 2023 Australian Open boys' title.",
-     "source": "https://en.wikipedia.org/wiki/Alexander_Blockx"
-    },
-    {
-     "text": "He is 6 feet 4 inches tall. That is a lot of reach!",
-     "source": "https://en.wikipedia.org/wiki/Alexander_Blockx"
-    }
-   ],
-   "watchFor": "Watch his booming serve come down fast and bounce up high.",
-   "matchTomorrow": {
-    "opponent": "Flavio Cobolli",
-    "opponentSlug": "flavio-cobolli",
-    "court": "TBD",
-    "session": "TBD",
-    "order": null,
-    "startTimeET": null,
-    "matchId": "m8"
-   },
-   "photo": {
-    "localPath": "img/players/alexander-blockx.svg",
-    "license": "generated",
-    "author": "site",
-    "sourceUrl": null,
-    "url": null,
-    "isAvatar": true,
-    "exists": true
-   },
-   "sources": [
-    "https://en.wikipedia.org/wiki/Alexander_Blockx",
-    "https://www.atptour.com/en/news/blockx-saint-tropez-challenger-2024-feature",
-    "https://www.atptour.com/en/players/alexander-blockx/b0pg/bio",
-    "https://www.tennis.com/news/articles/alexander-blockx-full-circle-medvedev-goffin-belgium-roland-garros-interview",
-    "https://tennisnow.com/alexander-blockx-former-junior-no-1-is-rising-rapidly-in-madrid/"
-   ],
-   "verified": true,
-   "researchedAt": "2026-09-04T17:16:31+00:00",
-   "factCheck": {
-    "checkedAt": "2026-09-04T21:52:28+00:00",
-    "notes": [
-     "Birth 2005-04-08 Antwerp, R-handed/2HBH, 193 cm, parents Oleg (hurdles) and Natalia (swimmer), 2023 AO boys' title over Learner Tien, junior No. 1, coach Cassiers 2010-Apr 2026, 2026 Madrid SF, Belgian No. 1, started at 4 via brother's lessons: confirmed on Wikipedia.",
-     "Trivia memory, 42 of 45 U12 matches, parents' sports: confirmed in ATP Saint-Tropez feature. Medvedev fan photo (Next Gen Finals) and later sharing a stage (Tecnifibre event RG 2026): confirmed in tennis.com interview.",
-     "Ranking 34 per schedule.json (Wikipedia shows 32 as of late July; schedule feed is authoritative). Seed 28 / opponent Cobolli match."
-    ],
-    "changes": []
-   }
-  },
-  {
-   "slug": "cristina-bucsa",
-   "name": "Cristina Bucșa",
-   "country": "ES",
-   "countryName": "Spain",
-   "flagEmoji": "🇪🇸",
-   "birthDate": "1998-01-01",
-   "age": 28,
-   "seed": null,
-   "ranking": 40,
-   "draw": "women",
-   "tier": 1,
-   "plays": "Right-handed, two-handed backhand",
-   "heightCm": 176,
-   "hometown": "Torrelavega, Spain (born in Chișinău, Moldova)",
-   "nicknameOrTagline": "The Quiet Olympian",
-   "intro": "Cristina Bucșa plays for Spain. She was born in Moldova and moved to Spain at age three. She won an Olympic bronze medal in doubles in 2024.",
-   "story": "Cristina's dad Ion was an Olympic biathlete. That is skiing plus target shooting! He carried Moldova's flag at two Winter Olympics. Now he is her coach. This year she won her first big singles title in Mexico.",
-   "funFacts": [
-    {
-     "text": "Her birthday is January 1. She is a New Year's baby!",
-     "source": "https://en.wikipedia.org/wiki/Cristina_Buc%C8%99a"
-    },
-    {
-     "text": "She speaks four languages: Spanish, Romanian, English and French. She is learning Korean too.",
-     "source": "https://en.wikipedia.org/wiki/Cristina_Buc%C8%99a"
-    },
-    {
-     "text": "She has a blue belt in karate.",
-     "source": "https://www.wtatennis.com/news/4301091/from-no-shoes-to-finding-her-footing-bucsa-is-moving-up-at-wimbledon"
-    },
-    {
-     "text": "She once played Wimbledon in too-big shoes stuffed with socks. She still won!",
-     "source": "https://www.wtatennis.com/news/4301091/from-no-shoes-to-finding-her-footing-bucsa-is-moving-up-at-wimbledon"
-    },
-    {
-     "text": "She has no Instagram or TikTok. She says she is too busy training.",
-     "source": "https://www.claytenis.com/features/cristina-bucsa-when-spains-no-1-doesnt-want-you-to-find-her/"
-    },
-    {
-     "text": "In spring at home she can ski in the morning and swim in the sea after lunch.",
-     "source": "https://www.wtatennis.com/news/4301091/from-no-shoes-to-finding-her-footing-bucsa-is-moving-up-at-wimbledon"
-    },
-    {
-     "text": "She won an Olympic bronze medal in doubles at Paris 2024.",
-     "source": "https://en.wikipedia.org/wiki/Cristina_Buc%C8%99a"
-    }
-   ],
-   "watchFor": "Watch her rush to the net for quick volleys, like a doubles champ.",
-   "matchTomorrow": {
-    "opponent": "Coco Gauff",
-    "opponentSlug": "coco-gauff",
-    "court": "TBD",
-    "session": "TBD",
-    "order": null,
-    "startTimeET": null,
-    "matchId": "m12"
-   },
-   "photo": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Cristina_Buc%C8%99a_%282025_DC_Open%29_03_%28cropped%29.jpg",
-    "localPath": "img/players/cristina-bucsa.jpg",
-    "license": "CC BY-SA 4.0",
-    "author": "Hameltion",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ACristina_Buc%C8%99a_%282025_DC_Open%29_03_%28cropped%29.jpg",
-    "title": "File:Cristina_Bucșa_(2025_DC_Open)_03_(cropped).jpg",
-    "exists": true
-   },
-   "sources": [
-    "https://en.wikipedia.org/wiki/Cristina_Buc%C8%99a",
-    "https://www.wtatennis.com/news/4301091/from-no-shoes-to-finding-her-footing-bucsa-is-moving-up-at-wimbledon",
-    "https://www.claytenis.com/features/cristina-bucsa-when-spains-no-1-doesnt-want-you-to-find-her/"
-   ],
-   "verified": true,
-   "researchedAt": "2026-09-04T17:16:31+00:00",
-   "factCheck": {
-    "checkedAt": "2026-09-04T21:52:28+00:00",
-    "notes": [
-     "Birth 1998-01-01 Chisinau, moved to Cantabria at 3, resides Torrelavega, R-handed/2HBH, 176 cm, father Ion Olympic biathlete and flag bearer 1998/2002 and her coach, Paris 2024 doubles bronze with Sorribes Tormo, first WTA singles title Merida 2026, speaks Spanish/Romanian/English/French: confirmed on Wikipedia.",
-     "Karate blue belt, oversized-shoes Wimbledon qualifying win, studying Korean, no social media: WTA article 4301091. Regional U10 champion at seven: claytenis.",
-     "Unseeded / ranking 40 / opponent Gauff match schedule.json."
-    ],
-    "changes": [
-     "Story: 'Olympic skier and shooter' -> 'Olympic biathlete (skiing and shooting)' per Wikipedia/claytenis.",
-     "Fun fact 2 (languages): four languages sourced to Wikipedia; Korean study remains from WTA article.",
-     "Fun fact 5: reworded to match her quote ('I don't have time. I'm working so hard').",
-     "Fun fact 6 (ski/swim): claytenis did not contain it; re-sourced to WTA article and reworded ('in spring')."
-    ]
-   }
-  },
-  {
-   "slug": "nikola-bartunkova",
-   "name": "Nikola Bartůňková",
-   "country": "CZ",
-   "countryName": "Czechia",
-   "flagEmoji": "🇨🇿",
-   "birthDate": "2006-02-25",
-   "age": 20,
-   "seed": null,
-   "ranking": 34,
-   "draw": "women",
-   "tier": 1,
-   "plays": "Right-handed, two-handed backhand",
-   "heightCm": 184,
-   "hometown": "Prague, Czechia",
-   "nicknameOrTagline": "Drop-Shot Dynamo",
-   "intro": "Nikola Bartůňková is 20 and from Prague, Czechia. She is one of the newest stars in tennis. She loves the drop shot, a sneaky soft shot.",
-   "story": "Nikola's dad is a tennis coach. He put a racket in her hands when she was tiny. As a junior she reached the Wimbledon girls' final. This year she played her first Grand Slam, one of the four biggest tournaments. She beat a top-10 player there!",
-   "funFacts": [
-    {
-     "text": "Her dad is a tennis coach. Her mom learned tennis as a grown-up.",
-     "source": "https://www.babolat.com/gb/heroes-players-blog-nikola-bartunkova/nikola-bartunkova.html"
-    },
-    {
-     "text": "Her big sister played tennis too.",
-     "source": "https://www.babolat.com/gb/heroes-players-blog-nikola-bartunkova/nikola-bartunkova.html"
-    },
-    {
-     "text": "She loves skiing and biking when she has free time.",
-     "source": "https://www.babolat.com/gb/heroes-players-blog-nikola-bartunkova/nikola-bartunkova.html"
-    },
-    {
-     "text": "She loves watching Carlos Alcaraz. Roger Federer and Rafael Nadal are her role models.",
-     "source": "https://www.babolat.com/gb/heroes-players-blog-nikola-bartunkova/nikola-bartunkova.html"
-    },
-    {
-     "text": "She says she plays Federer style, Alcaraz style, with lots of tricks.",
-     "source": "https://ausopen.com/articles/news/bartunkova-making-most-sliding-doors-moment"
-    },
-    {
-     "text": "She is about 6 feet tall and loves reading and Netflix shows.",
-     "source": "https://www.babolat.com/gb/heroes-players-blog-nikola-bartunkova/nikola-bartunkova.html"
-    },
-    {
-     "text": "She says she hates losing, but she has never thought about quitting.",
-     "source": "https://www.babolat.com/gb/heroes-players-blog-nikola-bartunkova/nikola-bartunkova.html"
-    },
-    {
-     "text": "She likes old music best, like ABBA and Michael Jackson.",
-     "source": "https://www.wtatennis.com/news/4501631/get-to-know-nikola-bartunkova-whos-on-a-roll-with-hot-shots-in-rome"
-    }
-   ],
-   "watchFor": "Watch for her sneaky drop shots, then a quick dash to the net.",
-   "matchTomorrow": {
-    "opponent": "Mirra Andreeva",
-    "opponentSlug": "mirra-andreeva",
-    "court": "TBD",
-    "session": "TBD",
-    "order": null,
-    "startTimeET": null,
-    "matchId": "m9"
-   },
-   "photo": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Nikola_Bart%C5%AF%C5%88kov%C3%A1_Birmingham_2026_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "localPath": "img/players/nikola-bartunkova.jpg",
-    "license": "CC BY-SA 4.0",
-    "author": "Daniel Cooper derivative work: Kacir",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ANikola_Bart%C5%AF%C5%88kov%C3%A1_Birmingham_2026_%28cropped%29.jpg",
-    "title": "File:Nikola_Bartůňková_Birmingham_2026_(cropped).jpg",
-    "exists": true
-   },
-   "sources": [
-    "https://en.wikipedia.org/wiki/Nikola_Bart%C5%AF%C5%88kov%C3%A1",
-    "https://www.babolat.com/gb/heroes-players-blog-nikola-bartunkova/nikola-bartunkova.html",
-    "https://ausopen.com/articles/news/bartunkova-making-most-sliding-doors-moment",
-    "https://www.wtatennis.com/players/330364/nikola-bartunkova",
-    "https://www.wtatennis.com/news/4501631/get-to-know-nikola-bartunkova-whos-on-a-roll-with-hot-shots-in-rome"
-   ],
-   "verified": true,
-   "researchedAt": "2026-09-04T17:11:02Z",
-   "factCheck": {
-    "checkedAt": "2026-09-04T21:53:16Z",
-    "notes": [
-     "birthDate 2006-02-25 (Wikipedia + WTA). WTA profile ranking 34 matches schedule; Wikipedia says 38 (Aug 24, stale). Height: WTA profile lists none; Wikipedia 184, Babolat 182 (at age 17). Kept 184 per Wikipedia.",
-     "Wikipedia confirms 2023 Wimbledon girls' final and first-slam top-10 win over Bencic at AO 2026. Babolat confirms dad coach, mom, sister, skiing/biking, reading/Netflix, Alcaraz/Federer/Nadal. ausopen.com confirms 'Federer style, Alcaraz style' and drop shots/net quote."
-    ],
-    "changes": [
-     "Story: removed 'tough stretch and came back stronger' (alludes to a doping suspension; age sweep).",
-     "'Her dad is her coach' -> 'Her dad is a tennis coach' (source only says coach who introduced her).",
-     "Favorite-players fact reworded to match Babolat quotes.",
-     "Motto reworded to match Babolat quote.",
-     "Added WTA-sourced music fun fact."
-    ]
-   }
-  },
-  {
-   "slug": "yuliia-starodubtseva",
-   "name": "Yuliia Starodubtseva",
-   "country": "UA",
-   "countryName": "Ukraine",
-   "flagEmoji": "🇺🇦",
-   "birthDate": "2000-02-17",
-   "age": 26,
-   "seed": null,
-   "ranking": 58,
-   "draw": "women",
-   "tier": 1,
-   "plays": "Right-handed, two-handed backhand",
-   "heightCm": 172,
-   "hometown": "Kakhovka, Ukraine",
-   "nicknameOrTagline": "Tennis Teacher to Tennis Star",
-   "intro": "Yuliia Starodubtseva is from Kakhovka, Ukraine. She once worked as a tennis teacher. Now she beats top players on big stages.",
-   "story": "Yuliia played college tennis in Virginia. Then she taught tennis at a club near New York City. Friends and fans helped her chase her pro dream. It worked! This spring in Paris she beat the star Elena Rybakina, her opponent tomorrow!",
-   "funFacts": [
-    {
-     "text": "She earned two college degrees while she played.",
-     "source": "https://www.wtatennis.com/news/4481787/who-is-yuliia-starodubtseva-get-to-know-the-first-time-finalist-charleston-open"
-    },
-    {
-     "text": "She taught tennis on green clay courts near New York City before turning pro.",
-     "source": "https://www.tennis.com/news/articles/the-best-thing-i-saw-at-roland-garros-today-late-bloomer-yuliia-starodubtseva-pulls-off-rybakina-upset"
-    },
-    {
-     "text": "She loves driving cars and listening to techno music.",
-     "source": "https://www.wtatennis.com/news/4481787/who-is-yuliia-starodubtseva-get-to-know-the-first-time-finalist-charleston-open"
-    },
-    {
-     "text": "She cheers for the Green Bay Packers football team.",
-     "source": "https://www.wtatennis.com/news/4481787/who-is-yuliia-starodubtseva-get-to-know-the-first-time-finalist-charleston-open"
-    },
-    {
-     "text": "In 2024 she won her way into all four Grand Slams, the big four events.",
-     "source": "https://en.wikipedia.org/wiki/Yuliia_Starodubtseva"
-    },
-    {
-     "text": "Her friends and fans pitched in to help her go pro.",
-     "source": "https://www.tennis.com/news/articles/the-best-thing-i-saw-at-roland-garros-today-late-bloomer-yuliia-starodubtseva-pulls-off-rybakina-upset"
-    },
-    {
-     "text": "She picked tennis at age 5, just for fun. It got serious around age 11.",
-     "source": "https://www.wtatennis.com/news/4481787/who-is-yuliia-starodubtseva-get-to-know-the-first-time-finalist-charleston-open"
-    }
-   ],
-   "watchFor": "Count how few mistakes she makes from the back of the court.",
-   "matchTomorrow": {
-    "opponent": "Elena Rybakina",
-    "opponentSlug": "elena-rybakina",
-    "court": "TBD",
-    "session": "TBD",
-    "order": null,
-    "startTimeET": null,
-    "matchId": "m16"
-   },
-   "photo": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Yuliia_Starodubtseva_%282023_US_Open%29_07_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "localPath": "img/players/yuliia-starodubtseva.jpg",
-    "license": "CC BY-SA 4.0",
-    "author": "Hameltion",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AYuliia_Starodubtseva_%282023_US_Open%29_07_%28cropped%29.jpg",
-    "title": "File:Yuliia_Starodubtseva_(2023_US_Open)_07_(cropped).jpg",
-    "exists": true
-   },
-   "sources": [
-    "https://en.wikipedia.org/wiki/Yuliia_Starodubtseva",
-    "https://www.wtatennis.com/news/4481787/who-is-yuliia-starodubtseva-get-to-know-the-first-time-finalist-charleston-open",
-    "https://www.tennis.com/news/articles/the-best-thing-i-saw-at-roland-garros-today-late-bloomer-yuliia-starodubtseva-pulls-off-rybakina-upset",
-    "https://www.wtatennis.com/players/325338/yuliia-starodubtseva",
-    "https://www.rolandgarros.com/en-us/article/2026-edition-r2-rybakina-starodubtseva",
-    "https://www.wtatennis.com/news/4510325/starodubtseva-stuns-no-2-seed-rybakina-in-dramatic-roland-garros-upset"
-   ],
-   "verified": true,
-   "researchedAt": "2026-09-04T17:11:02Z",
-   "factCheck": {
-    "checkedAt": "2026-09-04T21:53:16Z",
-    "notes": [
-     "birthDate/height 172/plays: WTA profile + Wikipedia. WTA profile ranking 58 matches schedule (Wikipedia says 74, stale). Opponent Rybakina (seed 2) matches schedule.",
-     "WTA feature confirms two ODU degrees, cars/techno, Packers, age-5 start, Westchester coaching. tennis.com confirms green clay in Westchester and GoFundMe. Wikipedia confirms 2024 all-four-majors qualifying (first woman in Open Era), Charleston final, RG win over Rybakina."
-    ],
-    "changes": [
-     "'top-3 player' -> 'No. 2 seed' (sourced).",
-     "All-four-slams fact: 'Nobody had done that before' narrowed to 'no woman in the modern era'.",
-     "'New York friends' fund -> 'supporters' (source says supporters/GoFundMe).",
-     "'almost by accident' unsupported; reworded to 'just for fun, serious at 11'.",
-     "watchFor: removed unsourced flags line; replaced with WTA-sourced match description."
-    ]
-   }
+   "matchTier": 1
   },
   {
    "slug": "naomi-osaka",
@@ -1999,7 +1292,8 @@
      "Dropped sportskeeda and thesmartlocal from sources.",
      "Video-game fact: 'playing with her sister Mari' not in source; removed."
     ]
-   }
+   },
+   "matchTier": 2
   },
   {
    "slug": "iva-jovic",
@@ -2092,7 +1386,8 @@
      "Story: removed unverifiable 'top-ranked American teenager'; replaced with ranking No. 14. Sister sentence rewritten to match the Cincinnati interview (practice sets, could not stand losing).",
      "Fun fact 7 made precise: youngest American woman to win a US Open main-draw match since 2000 (Wikipedia wording)."
     ]
-   }
+   },
+   "matchTier": 2
   },
   {
    "slug": "learner-tien",
@@ -2181,7 +1476,8 @@
     "changes": [
      "No content changes needed."
     ]
-   }
+   },
+   "matchTier": 2
   },
   {
    "slug": "alexandra-eala",
@@ -2276,7 +1572,8 @@
      "Fun fact 5 merged cafes/bakeries + foodie quote (both from SportBible).",
      "Added tennis365 source for the age-13 move to Spain."
     ]
-   }
+   },
+   "matchTier": 2
   },
   {
    "slug": "jakub-mensik",
@@ -2376,7 +1673,8 @@
      "Removed 'guitar' (no source; the ATP feature says drums). Split combined food fact: spare ribs (ATP bio), vanilla ice cream (tennis-prose).",
      "Dropped x.com from sources; added ATP feature and usopen.org."
     ]
-   }
+   },
+   "matchTier": 2
   },
   {
    "slug": "luciano-darderi",
@@ -2466,7 +1764,8 @@
      "Story: 'racket at age two' replaced with ATP-sourced 'started playing tennis at age four with his dad'; 'bought his first rackets' -> 'gave him his first racket'.",
      "Added puntodebreak.com source."
     ]
-   }
+   },
+   "matchTier": 2
   },
   {
    "slug": "madison-keys",
@@ -2561,7 +1860,8 @@
      "watchFor 'one of the fastest in tennis' replaced with ESPN-sourced 2016 Wimbledon stat.",
      "Added Yahoo-sourced furniture fun fact."
     ]
-   }
+   },
+   "matchTier": 2
   },
   {
    "slug": "elise-mertens",
@@ -2659,7 +1959,452 @@
      "Added Australian Open 2026 doubles title to story.",
      "Clarified 'four different partners' in doubles fact."
     ]
-   }
+   },
+   "matchTier": 2
+  },
+  {
+   "slug": "anastasia-potapova",
+   "name": "Anastasia Potapova",
+   "country": "AT",
+   "countryName": "Austria",
+   "flagEmoji": "🇦🇹",
+   "birthDate": "2001-03-30",
+   "age": 25,
+   "seed": 24,
+   "ranking": 25,
+   "draw": "women",
+   "tier": 2,
+   "plays": "Right-handed, two-handed backhand",
+   "heightCm": 175,
+   "hometown": "Vienna, Austria (born in Saratov, Russia)",
+   "nicknameOrTagline": "Big Swings, Big Smile",
+   "intro": "Anastasia Potapova plays for Austria and lives in Vienna. She was born in Russia. She swings at every ball with all her might.",
+   "story": "At 15, Anastasia won the junior title at Wimbledon. She became the number 1 junior in the world. This year in Madrid she was a lucky loser. That means she lost her last qualifying match but got a spot anyway. Then she surprised everyone and reached the semifinals!",
+   "funFacts": [
+    {
+     "text": "She travels to tournaments with her dog. She says the dog brings her luck.",
+     "source": "https://www.puntodebreak.com/en/2026/05/24/potapovas-dog-protagonist-at-roland-garros"
+    },
+    {
+     "text": "She loves fashion, especially fancy handbags.",
+     "source": "https://tennistonic.com/tennis-news/1028538/if-im-not-gonna-look-good-on-court-if-im-not-going-to-play-good-potapova-explains-how-self-care-fuels-performance/"
+    },
+    {
+     "text": "She tells stories with sound effects, like Woosh! and Boom!",
+     "source": "https://www.tennis.com/news/articles/anastasia-potapova-burnout-new-coach-coco-gauff-montreal"
+    },
+    {
+     "text": "Her grandma coaches a basketball team in Moscow. She got Anastasia into tennis at age four.",
+     "source": "https://www.wtatennis.com/news/1414583/potapova-russian-on-the-rise"
+    },
+    {
+     "text": "She won the Wimbledon junior girls' title in 2016.",
+     "source": "https://en.wikipedia.org/wiki/Anastasia_Potapova"
+    },
+    {
+     "text": "She says Austria feels like home. Since 2026 she plays for Austria.",
+     "source": "https://www.tennis.com/news/articles/anastasia-potapova-changes-sporting-nationality-to-austria-ahead-of-2026-tennis-season"
+    },
+    {
+     "text": "She won a title in Linz, Austria, in 2023.",
+     "source": "https://en.wikipedia.org/wiki/Anastasia_Potapova"
+    }
+   ],
+   "watchFor": "Watch her wind up big on every forehand and hit it super hard.",
+   "matchTomorrow": {
+    "opponent": "Amanda Anisimova",
+    "opponentSlug": "amanda-anisimova",
+    "court": "TBD",
+    "session": "TBD",
+    "order": null,
+    "startTimeET": null,
+    "matchId": "m10"
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Day_9_-_Transylvania_Open_Women%27s_Singles_Final_ceremony_-_Anna_Potapova_Lucia_Bronzetti_%2854318974077%29.jpg",
+    "localPath": "img/players/anastasia-potapova.jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "Nuță Lucian from Cluj-Napoca, Romania",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ADay_9_-_Transylvania_Open_Women%27s_Singles_Final_ceremony_-_Anna_Potapova_Lucia_Bronzetti_%2854318974077%29.jpg",
+    "title": "File:Day_9_-_Transylvania_Open_Women's_Singles_Final_ceremony_-_Anna_Potapova_Lucia_Bronzetti_(54318974077).jpg",
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Anastasia_Potapova",
+    "https://www.tennis.com/news/articles/anastasia-potapova-changes-sporting-nationality-to-austria-ahead-of-2026-tennis-season",
+    "https://www.puntodebreak.com/en/2026/05/24/potapovas-dog-protagonist-at-roland-garros",
+    "https://tennistonic.com/tennis-news/1028538/if-im-not-gonna-look-good-on-court-if-im-not-going-to-play-good-potapova-explains-how-self-care-fuels-performance/",
+    "https://www.wtatennis.com/news/1414583/potapova-russian-on-the-rise"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-04T17:16:31+00:00",
+   "factCheck": {
+    "checkedAt": "2026-09-04T21:52:28+00:00",
+    "notes": [
+     "Birth 2001-03-30 Saratov, resides Vienna, Austrian since Dec 2025/2026 season, R-handed/2HBH, 175 cm, 2016 Wimbledon girls' title at 15, junior No. 1, three WTA titles (Istanbul 2022, Linz 2023, Cluj 2025), first lucky loser to reach a WTA 1000 SF (Madrid 2026): confirmed on Wikipedia.",
+     "Dog travels with her in Europe and 'brings me luck': puntodebreak. 'Woosh'/'Boom' storytelling: tennis.com Montreal article. Designer bags/fashion: tennistonic article (page returned 403 to fetch; content confirmed via search excerpt).",
+     "Seed 24 / ranking 25 / opponent Anisimova match schedule.json."
+    ],
+    "changes": [
+     "Fun fact 1: removed unsupported 'little' (dog's size/breed not stated in source).",
+     "Fun fact 4 (grandmother): cited tennis.com article did not mention it; re-sourced to WTA 'Russian On The Rise' and reworded.",
+     "Fun fact 6: 'Vienna feels like home' -> her actual quote is about Austria feeling like home; reworded."
+    ]
+   },
+   "matchTier": 1
+  },
+  {
+   "slug": "francisco-cerundolo",
+   "name": "Francisco Cerúndolo",
+   "country": "AR",
+   "countryName": "Argentina",
+   "flagEmoji": "🇦🇷",
+   "birthDate": "1998-08-13",
+   "age": 28,
+   "seed": 24,
+   "ranking": 25,
+   "draw": "men",
+   "tier": 2,
+   "plays": "Right-handed, two-handed backhand",
+   "heightCm": 185,
+   "hometown": "Buenos Aires, Argentina",
+   "nicknameOrTagline": "Fran",
+   "intro": "Francisco Cerúndolo is from Buenos Aires, Argentina. Everyone calls him Fran. He is famous for a huge, whip-crack forehand.",
+   "story": "Fran started tennis at age 5. His mom and dad both played tennis. They run a tennis school in Buenos Aires. His little brother Juan Manuel is a pro too. This summer Fran won his biggest title ever, on grass in London.",
+   "funFacts": [
+    {
+     "text": "His secret talent is math. He loves numbers and checking stats.",
+     "source": "https://www.atptour.com/en/players/francisco-cerundolo/c0au/bio"
+    },
+    {
+     "text": "His favorite foods are burgers and asado, Argentine barbecue.",
+     "source": "https://www.atptour.com/en/players/francisco-cerundolo/c0au/bio"
+    },
+    {
+     "text": "He loves to sing. He packs a speaker to play music in every hotel room.",
+     "source": "https://www.atptour.com/en/news/cerundolo-nomadic-life-june-2023"
+    },
+    {
+     "text": "His sister María Constanza won field hockey gold at the Youth Olympics.",
+     "source": "https://www.atptour.com/en/players/francisco-cerundolo/c0au/bio"
+    },
+    {
+     "text": "He and his brother Juan Manuel were in the world top 100 at the same time.",
+     "source": "https://en.wikipedia.org/wiki/Francisco_Cer%C3%BAndolo"
+    },
+    {
+     "text": "His favorite movie is Gladiator. He cheers for the River Plate soccer club.",
+     "source": "https://www.atptour.com/en/players/francisco-cerundolo/c0au/bio"
+    },
+    {
+     "text": "He once lost his passport on a trip and missed his plane.",
+     "source": "https://www.atptour.com/en/news/cerundolo-nomadic-life-june-2023"
+    }
+   ],
+   "watchFor": "Watch him run around his backhand to smack a giant forehand.",
+   "matchTomorrow": {
+    "opponent": "Taylor Fritz",
+    "opponentSlug": "taylor-fritz",
+    "court": "TBD",
+    "session": "TBD",
+    "order": null,
+    "startTimeET": null,
+    "matchId": "m7"
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Cerundolo_MCM23_%2821%29_%2852883527185%29.jpg",
+    "localPath": "img/players/francisco-cerundolo.jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "si.robi",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ACerundolo_MCM23_%2821%29_%2852883527185%29.jpg",
+    "title": "File:Cerundolo_MCM23_(21)_(52883527185).jpg",
+    "isAvatar": false,
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Francisco_Cer%C3%BAndolo",
+    "https://www.atptour.com/en/players/francisco-cerundolo/c0au/bio",
+    "https://www.atptour.com/en/news/cerundolo-nomadic-life-june-2023",
+    "https://lavercup.com/player/francisco-cerundolo"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-04T17:11:02Z",
+   "factCheck": {
+    "checkedAt": "2026-09-04T21:53:16Z",
+    "notes": [
+     "birthDate/height/plays/hometown: Wikipedia + Laver Cup profile (185 cm). Seed 24 / ranking 25 match schedule.json; Wikipedia table shows him unseeded but usopen.org feed is authoritative.",
+     "ATP bio confirms nickname Fran, math, burgers/asado, Gladiator, River Plate, sister's 2018 Youth Olympic hockey gold, singing. ATP nomadic-life article confirms speaker and passport story. Wikipedia confirms brothers in top 100 (2022) and 2026 Queen's title."
+    ],
+    "changes": [
+     "Story: 'grew up at family academy' rephrased to sourced version (parents run academy in Buenos Aires, started at 5).",
+     "Passport fact: 'sleep at the airport' unsupported; changed to 'missed his plane'."
+    ]
+   },
+   "matchTier": 1
+  },
+  {
+   "slug": "alejandro-tabilo",
+   "name": "Alejandro Tabilo",
+   "country": "CL",
+   "countryName": "Chile",
+   "flagEmoji": "🇨🇱",
+   "birthDate": "1997-06-02",
+   "age": 29,
+   "seed": 25,
+   "ranking": 28,
+   "draw": "men",
+   "tier": 2,
+   "plays": "Left-handed, two-handed backhand",
+   "heightCm": 188,
+   "hometown": "Santiago, Chile (born in Toronto, Canada)",
+   "nicknameOrTagline": "Jano",
+   "intro": "Alejandro Tabilo is a lefty from Chile. A lefty hits with his left hand. His friends call him Jano.",
+   "story": "Jano started tennis by copying his big brother Sebastian. At 13 he left home to train in Florida. Later he moved to Chile and became its best player. In 2024 he beat superstar Novak Djokovic in Rome. Then he did it again in 2025!",
+   "funFacts": [
+    {
+     "text": "His secret talent is chess.",
+     "source": "https://www.atptour.com/en/players/alejandro-tabilo/te30/bio"
+    },
+    {
+     "text": "His favorite food is popcorn. His favorite treat is ice cream.",
+     "source": "https://www.atptour.com/en/players/alejandro-tabilo/te30/bio"
+    },
+    {
+     "text": "Favorite school subject? Gym class, of course.",
+     "source": "https://www.atptour.com/en/players/alejandro-tabilo/te30/bio"
+    },
+    {
+     "text": "He was born in Toronto, Canada. His parents are both from Chile.",
+     "source": "https://en.wikipedia.org/wiki/Alejandro_Tabilo"
+    },
+    {
+     "text": "He beat world No. 1 Novak Djokovic in Rome in 2024.",
+     "source": "https://en.wikipedia.org/wiki/Alejandro_Tabilo"
+    },
+    {
+     "text": "His favorite shot is the drop shot, a sneaky soft shot. His idol is lefty Rafael Nadal.",
+     "source": "https://www.atptour.com/en/players/alejandro-tabilo/te30/bio"
+    },
+    {
+     "text": "His favorite superhero is Superman.",
+     "source": "https://www.atptour.com/en/players/alejandro-tabilo/te30/bio"
+    }
+   ],
+   "watchFor": "Watch his lefty serve curve out wide, then spot his sneaky drop shot.",
+   "matchTomorrow": {
+    "opponent": "Alexander Zverev",
+    "opponentSlug": "alexander-zverev",
+    "court": "TBD",
+    "session": "TBD",
+    "order": null,
+    "startTimeET": null,
+    "matchId": "m1"
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Tabilo_RGQ23_%2852942983162%29.jpg",
+    "localPath": "img/players/alejandro-tabilo.jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "si.robi",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ATabilo_RGQ23_%2852942983162%29.jpg",
+    "title": "File:Tabilo_RGQ23_(52942983162).jpg",
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Alejandro_Tabilo",
+    "https://www.atptour.com/en/players/alejandro-tabilo/te30/bio",
+    "https://www.tennismajors.com/atp/chile-canada-djokovic-everything-you-always-wanted-to-know-about-alejandro-tabilo-but-never-had-time-to-find-out-760301.html",
+    "https://www.tennis-prose.com/bios/biofile-alejandro-tabilo-interview/"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-04T17:16:31+00:00",
+   "factCheck": {
+    "checkedAt": "2026-09-04T21:52:28+00:00",
+    "notes": [
+     "Birth 1997-06-02 Toronto, Chilean parents, left-handed/2HBH, 188 cm, beat No. 1 Djokovic Rome 2024 and again Monte Carlo 2025, current Chilean No. 1: confirmed on Wikipedia.",
+     "Nickname Jano, brother Sebastian, left home at 13 for Florida, chess, popcorn, ice cream, gym, drop shot, Nadal idol, Superman: all confirmed on ATP bio page.",
+     "Hometown Santiago: tennismajors interview ('When I was around 18, I moved to Santiago').",
+     "Seed 25 / ranking 28 / opponent Zverev match schedule.json. No text changes needed."
+    ],
+    "changes": []
+   },
+   "matchTier": 1
+  },
+  {
+   "slug": "marie-bouzkova",
+   "name": "Marie Bouzková",
+   "country": "CZ",
+   "countryName": "Czechia",
+   "flagEmoji": "🇨🇿",
+   "birthDate": "1998-07-21",
+   "age": 28,
+   "seed": 25,
+   "ranking": 26,
+   "draw": "women",
+   "tier": 2,
+   "plays": "Right-handed, two-handed backhand",
+   "heightCm": 180,
+   "hometown": "Prague, Czechia",
+   "nicknameOrTagline": "Defense That Never Quits",
+   "intro": "Marie Bouzková is from Prague, in Czechia. She is a super-fast runner. She chases down every ball, no matter what.",
+   "story": "Marie started at a tennis club her parents owned in Prague. At 16 she won the US Open junior title, right here in New York. Now she lives in Florida and plays on the big tour. This year she won a title on grass. She also reached her best ranking ever.",
+   "funFacts": [
+    {
+     "text": "She speaks four languages: Czech, English, German, and Spanish.",
+     "source": "https://en.wikipedia.org/wiki/Marie_Bouzkov%C3%A1"
+    },
+    {
+     "text": "She follows lots of mountain dog accounts online. She wants one when she retires.",
+     "source": "https://www.tennis.com/baseline/articles/5-minutes-marie-bouzkova-and-ann-li-interview"
+    },
+    {
+     "text": "She listens to Mozart before matches to calm her mind.",
+     "source": "https://www.tennis.com/baseline/articles/5-minutes-marie-bouzkova-and-ann-li-interview"
+    },
+    {
+     "text": "Her favorite emoji on grass courts is the strawberry.",
+     "source": "https://www.tennis.com/baseline/articles/5-minutes-marie-bouzkova-and-ann-li-interview"
+    },
+    {
+     "text": "She finished a college business degree while playing on tour.",
+     "source": "https://en.wikipedia.org/wiki/Marie_Bouzkov%C3%A1"
+    },
+    {
+     "text": "She won the US Open girls' title in 2014, at age 16.",
+     "source": "https://en.wikipedia.org/wiki/Marie_Bouzkov%C3%A1"
+    },
+    {
+     "text": "She loves drawing, reading, and playing Wordle in her free time.",
+     "source": "https://www.tennis.com/baseline/articles/5-minutes-marie-bouzkova-and-ann-li-interview"
+    }
+   ],
+   "watchFor": "Watch her run down shot after shot with defense the tour calls astounding.",
+   "matchTomorrow": {
+    "opponent": "Iga Swiatek",
+    "opponentSlug": "iga-swiatek",
+    "court": "TBD",
+    "session": "TBD",
+    "order": null,
+    "startTimeET": null,
+    "matchId": "m13"
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Marie_Bouzkov%C3%A1_%282023_US_Open%29_26_%28cropped2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "localPath": "img/players/marie-bouzkova.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AMarie_Bouzkov%C3%A1_%282023_US_Open%29_26_%28cropped2%29.jpg",
+    "title": "File:Marie_Bouzková_(2023_US_Open)_26_(cropped2).jpg",
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Marie_Bouzkov%C3%A1",
+    "https://www.tennis.com/baseline/articles/5-minutes-marie-bouzkova-and-ann-li-interview",
+    "https://www.wtatennis.com/players/319143/marie-bouzkova",
+    "https://www.wtatennis.com/videos/4252524/what-astounding-defense-marie-bouzkova-triumphs-in-madrid-lungbuster"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-04T17:11:02Z",
+   "factCheck": {
+    "checkedAt": "2026-09-04T21:53:16Z",
+    "notes": [
+     "birthDate/height 180/plays/hometown: Wikipedia + WTA profile (ID 320983; the 319143 URL in sources is a different player). WTA profile ranking 26 and career high 21 match schedule (seed 25, rank 26).",
+     "Wikipedia confirms parents' club, 2014 US Open girls' title, four languages, business degree (Indiana University East 2022), Florida residence, 2026 Nottingham grass title, career-high July 2026. tennis.com interview confirms Mozart, strawberry emoji, drawing/reading/Wordle, mountain-dog accounts."
+    ],
+    "changes": [
+     "Tagline 'The Wall from Prague' and intro 'hitting into a wall' unsourced; replaced with WTA-sourced 'astounding defense'.",
+     "watchFor 'big fist pump' unsourced; replaced with WTA-sourced defense/long-rally description.",
+     "Dog fact: source says 'Burmese Mountain Dog' (typo); made breed-neutral.",
+     "Wordle 'every day' -> 'in her free time'."
+    ]
+   },
+   "matchTier": 1
+  },
+  {
+   "slug": "alexander-blockx",
+   "name": "Alexander Blockx",
+   "country": "BE",
+   "countryName": "Belgium",
+   "flagEmoji": "🇧🇪",
+   "birthDate": "2005-04-08",
+   "age": 21,
+   "seed": 28,
+   "ranking": 34,
+   "draw": "men",
+   "tier": 2,
+   "plays": "Right-handed, two-handed backhand",
+   "heightCm": 193,
+   "hometown": "Antwerp, Belgium",
+   "nicknameOrTagline": "Big Server from Belgium",
+   "intro": "Alexander Blockx is a tall young player from Belgium. He is only 21. He is already the best player in his country.",
+   "story": "Alexander started tennis at age four. He tagged along to his big brother's lessons. The coach asked if he wanted to try. He said yes, and he never stopped! In 2023 he won the junior title at the Australian Open.",
+   "funFacts": [
+    {
+     "text": "His dad was a hurdle runner. His mom was a swimmer.",
+     "source": "https://www.atptour.com/en/news/blockx-saint-tropez-challenger-2024-feature"
+    },
+    {
+     "text": "He is a tennis trivia whiz. He remembers old match scores.",
+     "source": "https://www.atptour.com/en/news/blockx-saint-tropez-challenger-2024-feature"
+    },
+    {
+     "text": "As a kid fan, he got a photo with star Daniil Medvedev. Now they share the stage at events.",
+     "source": "https://www.tennis.com/news/articles/alexander-blockx-full-circle-medvedev-goffin-belgium-roland-garros-interview"
+    },
+    {
+     "text": "He had the same coach from age 4 until this year. That is 16 years!",
+     "source": "https://www.atptour.com/en/players/alexander-blockx/b0pg/bio"
+    },
+    {
+     "text": "He won 42 of 45 matches in under-12 tournaments.",
+     "source": "https://www.atptour.com/en/news/blockx-saint-tropez-challenger-2024-feature"
+    },
+    {
+     "text": "He beat Learner Tien to win the 2023 Australian Open boys' title.",
+     "source": "https://en.wikipedia.org/wiki/Alexander_Blockx"
+    },
+    {
+     "text": "He is 6 feet 4 inches tall. That is a lot of reach!",
+     "source": "https://en.wikipedia.org/wiki/Alexander_Blockx"
+    }
+   ],
+   "watchFor": "Watch his booming serve come down fast and bounce up high.",
+   "matchTomorrow": {
+    "opponent": "Flavio Cobolli",
+    "opponentSlug": "flavio-cobolli",
+    "court": "TBD",
+    "session": "TBD",
+    "order": null,
+    "startTimeET": null,
+    "matchId": "m8"
+   },
+   "photo": {
+    "localPath": "img/players/alexander-blockx.svg",
+    "license": "generated",
+    "author": "site",
+    "sourceUrl": null,
+    "url": null,
+    "isAvatar": true,
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Alexander_Blockx",
+    "https://www.atptour.com/en/news/blockx-saint-tropez-challenger-2024-feature",
+    "https://www.atptour.com/en/players/alexander-blockx/b0pg/bio",
+    "https://www.tennis.com/news/articles/alexander-blockx-full-circle-medvedev-goffin-belgium-roland-garros-interview",
+    "https://tennisnow.com/alexander-blockx-former-junior-no-1-is-rising-rapidly-in-madrid/"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-04T17:16:31+00:00",
+   "factCheck": {
+    "checkedAt": "2026-09-04T21:52:28+00:00",
+    "notes": [
+     "Birth 2005-04-08 Antwerp, R-handed/2HBH, 193 cm, parents Oleg (hurdles) and Natalia (swimmer), 2023 AO boys' title over Learner Tien, junior No. 1, coach Cassiers 2010-Apr 2026, 2026 Madrid SF, Belgian No. 1, started at 4 via brother's lessons: confirmed on Wikipedia.",
+     "Trivia memory, 42 of 45 U12 matches, parents' sports: confirmed in ATP Saint-Tropez feature. Medvedev fan photo (Next Gen Finals) and later sharing a stage (Tecnifibre event RG 2026): confirmed in tennis.com interview.",
+     "Ranking 34 per schedule.json (Wikipedia shows 32 as of late July; schedule feed is authoritative). Seed 28 / opponent Cobolli match."
+    ],
+    "changes": []
+   },
+   "matchTier": 1
   },
   {
    "slug": "zizou-bergs",
@@ -2752,285 +2497,8 @@
      "Reworded TikTok fact.",
      "Reworded watchFor to a supportable claim."
     ]
-   }
-  },
-  {
-   "slug": "botic-van-de-zandschulp",
-   "name": "Botic van de Zandschulp",
-   "country": "NL",
-   "countryName": "Netherlands",
-   "flagEmoji": "🇳🇱",
-   "birthDate": "1995-10-04",
-   "age": 30,
-   "seed": null,
-   "ranking": 70,
-   "draw": "men",
-   "tier": 2,
-   "plays": "Right-handed, two-handed backhand",
-   "heightCm": 191,
-   "hometown": "Wageningen, Netherlands",
-   "nicknameOrTagline": "The Giant-Slayer",
-   "intro": "Botic van de Zandschulp is a tall player from the Netherlands. Say it BO-tik van de ZAND-skulp. He is famous for beating the biggest stars at the US Open.",
-   "story": "In 2021 Botic came to New York for the very first time. He was a qualifier, so he won three extra matches just to get in. Then he kept winning, all the way to the quarterfinals! In 2024 he beat superstar Carlos Alcaraz here. This week he beat the number six seed, a top-ranked player.",
-   "funFacts": [
-    {
-     "text": "His last name means from a sandy seashell in Dutch.",
-     "source": "https://supersport.com/football/general/news/6d2d6f72-85f6-4748-b96a-e4b8f06b7e49/three-things-to-know-about-botic-van-de-zandschulp"
-    },
-    {
-     "text": "He is a huge soccer fan. His team is Ajax from Amsterdam.",
-     "source": "https://www.atptour.com/en/players/botic-van-de-zandschulp/v812/bio"
-    },
-    {
-     "text": "His favorite movie is Gladiator.",
-     "source": "https://www.atptour.com/en/players/botic-van-de-zandschulp/v812/bio"
-    },
-    {
-     "text": "He has a brother named Melvin.",
-     "source": "https://www.atptour.com/en/players/botic-van-de-zandschulp/v812/bio"
-    },
-    {
-     "text": "His first trip to America ended in the US Open quarterfinals.",
-     "source": "https://www.atptour.com/en/players/botic-van-de-zandschulp/v812/bio"
-    },
-    {
-     "text": "He beat Carlos Alcaraz at the 2024 US Open without losing a set.",
-     "source": "https://en.wikipedia.org/wiki/Botic_van_de_Zandschulp"
-    },
-    {
-     "text": "He was born in Wageningen, a Dutch city known for farming.",
-     "source": "https://supersport.com/football/general/news/6d2d6f72-85f6-4748-b96a-e4b8f06b7e49/three-things-to-know-about-botic-van-de-zandschulp"
-    }
-   ],
-   "watchFor": "Watch his big forehand push players all around the court.",
-   "matchTomorrow": {
-    "opponent": "Zizou Bergs",
-    "opponentSlug": "zizou-bergs",
-    "court": "TBD",
-    "session": "TBD",
-    "order": null,
-    "startTimeET": null,
-    "matchId": "m4"
    },
-   "photo": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Van_de_Zandschulp_MCM22_%2811%29_%2852036444288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "localPath": "img/players/botic-van-de-zandschulp.jpg",
-    "license": "CC BY-SA 2.0",
-    "author": "si.robi",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AVan_de_Zandschulp_MCM22_%2811%29_%2852036444288%29.jpg",
-    "title": "File:Van_de_Zandschulp_MCM22_(11)_(52036444288).jpg",
-    "exists": true
-   },
-   "sources": [
-    "https://en.wikipedia.org/wiki/Botic_van_de_Zandschulp",
-    "https://www.atptour.com/en/players/botic-van-de-zandschulp/v812/bio",
-    "https://supersport.com/football/general/news/6d2d6f72-85f6-4748-b96a-e4b8f06b7e49/three-things-to-know-about-botic-van-de-zandschulp",
-    "https://tenngrand.com/van-de-zandschulp-defeats-de-minaur-in-wide-open-section-of-us-open-draw/",
-    "https://www.abc.net.au/news/2026-09-04/alex-de-minaur-falls-in-straight-sets-at-us-open/107115674"
-   ],
-   "verified": true,
-   "researchedAt": "2026-09-04T17:14:15Z",
-   "factCheck": {
-    "checkedAt": "2026-09-04T18:30:00Z",
-    "notes": [
-     "Birth date, Wageningen, 191 cm, plays, ranking 70, unseeded, opponent Bergs (m4) confirmed via Wikipedia + schedule.json.",
-     "ATP bio confirms Ajax fan, favourite movie Gladiator, brother Melvin, favourite shot forehand, first trip to USA was the 2021 US Open QF run as a qualifier.",
-     "Supersport confirms name meaning ('from a sandy seashell'), started tennis at 4, Wageningen as agricultural city.",
-     "2024 straight-sets win over Alcaraz (6-1 7-5 6-4) and 2026 R2 win over No.6 seed de Minaur (6-4 7-5 6-2) confirmed (Wikipedia, ABC, tenngrand)."
-    ],
-    "changes": [
-     "Reworded 'farm town' to 'a Dutch city known for farming'."
-    ]
-   }
-  },
-  {
-   "slug": "dane-sweeny",
-   "name": "Dane Sweeny",
-   "country": "AU",
-   "countryName": "Australia",
-   "flagEmoji": "🇦🇺",
-   "birthDate": "2001-02-12",
-   "age": 25,
-   "seed": null,
-   "ranking": 123,
-   "draw": "men",
-   "tier": 2,
-   "plays": "Right-handed, two-handed backhand",
-   "heightCm": 170,
-   "hometown": "Sunshine Coast, Australia",
-   "nicknameOrTagline": "Sunshine Coast Scrapper",
-   "intro": "Dane Sweeny is a surprise star from Australia. He is small, but he plays big. This is his best ever Grand Slam, one of the four biggest tournaments.",
-   "story": "Dane grew up on the Sunshine Coast, near the beach. He started hitting balls at age two. His dad Clay is his coach. Dane got into this US Open with a wild card, a special invitation. Then he beat Lorenzo Musetti, one of the seeded, top-ranked stars!",
-   "funFacts": [
-    {
-     "text": "He started hitting at age two with a little plastic racket.",
-     "source": "https://www.tennis.com.au/fan-zone/news/2026/07/22/my-tennis-life--dane-sweeny"
-    },
-    {
-     "text": "His dad Clay is his coach. He sold his cleaning business to travel with Dane.",
-     "source": "https://www.womensweekly.com.au/news/dane-sweeny-tennis/"
-    },
-    {
-     "text": "His tennis life began on the beach at Mooloolaba, hitting balls with his dad.",
-     "source": "https://www.tennis.com.au/fan-zone/news/2026/07/22/my-tennis-life--dane-sweeny"
-    },
-    {
-     "text": "He is 170 cm tall. That is about 5 feet 7 inches.",
-     "source": "https://en.wikipedia.org/wiki/Dane_Sweeny"
-    },
-    {
-     "text": "He uses slow, mindful breathing to stay calm on court.",
-     "source": "https://theowluc.com/story/making-it-is-not-everything-meet-aussie-tennis-player-dane-sweeny/"
-    },
-    {
-     "text": "He says he shows all his feelings out on the court.",
-     "source": "https://theowluc.com/story/making-it-is-not-everything-meet-aussie-tennis-player-dane-sweeny/"
-    },
-    {
-     "text": "This is his very first time playing at the US Open.",
-     "source": "https://www.atptour.com/en/news/sweeny-musetti-us-open-2026-thursday"
-    }
-   ],
-   "watchFor": "Watch him dive for volleys at the net like a superhero.",
-   "matchTomorrow": {
-    "opponent": "Luciano Darderi",
-    "opponentSlug": "luciano-darderi",
-    "court": "TBD",
-    "session": "TBD",
-    "order": null,
-    "startTimeET": null,
-    "matchId": "m2"
-   },
-   "photo": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Sweeny_WMQ23_%2853062168553%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "localPath": "img/players/dane-sweeny.jpg",
-    "license": "CC BY-SA 2.0",
-    "author": "si.robi",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ASweeny_WMQ23_%2853062168553%29.jpg",
-    "title": "File:Sweeny_WMQ23_(53062168553).jpg",
-    "exists": true
-   },
-   "sources": [
-    "https://en.wikipedia.org/wiki/Dane_Sweeny",
-    "https://www.atptour.com/en/news/sweeny-musetti-us-open-2026-thursday",
-    "https://www.abc.net.au/news/2026-09-04/us-open-wildcard-dane-sweeny-into-third-round/107114784",
-    "https://www.womensweekly.com.au/news/dane-sweeny-tennis/",
-    "https://www.tennis.com.au/fan-zone/news/2026/07/22/my-tennis-life--dane-sweeny",
-    "https://theowluc.com/story/making-it-is-not-everything-meet-aussie-tennis-player-dane-sweeny/"
-   ],
-   "verified": true,
-   "researchedAt": "2026-09-04T17:14:15Z",
-   "factCheck": {
-    "checkedAt": "2026-09-04T18:30:00Z",
-    "notes": [
-     "Birth date, 170 cm, plays, ranking 123, unseeded, opponent Darderi (m2), Sunshine Coast (moved there at 3), coach Clay Sweeny confirmed via Wikipedia + schedule.json.",
-     "ATP confirms first US Open appearance, first major third round, 'rollercoaster' quote; ABC confirms wildcard and diving volleys; Women's Weekly confirms dad sold cleaning business.",
-     "Musetti seed: ATP says 13th, ABC says 14th; number removed from story.",
-     "tennis.com.au 'My Tennis Life' page returns 403 to fetchers; totem-tennis racquet at age two and beach start at Mooloolaba are confirmed only via search-engine snippets of that article's own text.",
-     "theowluc confirms meditation, 'mindful breaths', 'heart on my sleeve'."
-    ],
-    "changes": [
-     "Removed Musetti seed number.",
-     "Softened 'one of the shortest players here'.",
-     "Reworded beach fact to match the source wording.",
-     "'slow breathing' -> 'mindful breathing'."
-    ]
-   }
-  },
-  {
-   "slug": "qinwen-zheng",
-   "name": "Zheng Qinwen",
-   "country": "CN",
-   "countryName": "China",
-   "flagEmoji": "🇨🇳",
-   "birthDate": "2002-10-08",
-   "age": 23,
-   "seed": null,
-   "ranking": 121,
-   "draw": "women",
-   "tier": 2,
-   "plays": "Right-handed, two-handed backhand",
-   "heightCm": 178,
-   "hometown": "Shiyan, China",
-   "nicknameOrTagline": "Queen Wen",
-   "intro": "Zheng Qinwen is an Olympic champion from China. In China the family name comes first, so friends call her Qinwen. She won gold at the 2024 Paris Olympics, and fans call her Queen Wen.",
-   "story": "At age eight Qinwen moved away from home to train in a bigger city. At eleven she watched Li Na win the Australian Open on TV. She says Li Na planted dream seeds inside her. This year she was a qualifier, winning extra matches just to get in. Now she says she has found her fire again!",
-   "funFacts": [
-    {
-     "text": "She loves roller coasters. The highest point makes her feel free.",
-     "source": "https://www.tennis.com/baseline/articles/zheng-qinwen-rollercoasters-karaoke-blackpink-coco-gauff-2023-us-open"
-    },
-    {
-     "text": "She loves karaoke. She sings slow Chinese songs and even some Chinese rap.",
-     "source": "https://www.tennis.com/baseline/articles/zheng-qinwen-rollercoasters-karaoke-blackpink-coco-gauff-2023-us-open"
-    },
-    {
-     "text": "She is a big fan of the K-pop group Blackpink.",
-     "source": "https://en.wikipedia.org/wiki/Zheng_Qinwen"
-    },
-    {
-     "text": "She was the first Asian player ever to win Olympic gold in singles.",
-     "source": "https://en.wikipedia.org/wiki/Zheng_Qinwen"
-    },
-    {
-     "text": "Her forehand spun about 2,800 times a minute at one tournament. More than any other woman there!",
-     "source": "https://ausopen.com/articles/news/five-reasons-we-love-zheng-qinwen"
-    },
-    {
-     "text": "She lives and trains in Barcelona, Spain.",
-     "source": "https://en.wikipedia.org/wiki/Zheng_Qinwen"
-    },
-    {
-     "text": "Her hero is Li Na, the first Chinese player to win one of the four biggest tournaments.",
-     "source": "https://ausopen.com/articles/news/five-reasons-we-love-zheng-qinwen"
-    }
-   ],
-   "watchFor": "Watch her huge serve and her heavy-spinning forehand jump up high off the court.",
-   "matchTomorrow": {
-    "opponent": "Madison Keys",
-    "opponentSlug": "madison-keys",
-    "court": "TBD",
-    "session": "TBD",
-    "order": null,
-    "startTimeET": null,
-    "matchId": "m14"
-   },
-   "photo": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Zheng_Qinwen_%282024_US_Open%29_01_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "localPath": "img/players/qinwen-zheng.jpg",
-    "license": "CC BY-SA 4.0",
-    "author": "Hameltion",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AZheng_Qinwen_%282024_US_Open%29_01_%28cropped%29.jpg",
-    "title": "File:Zheng_Qinwen_(2024_US_Open)_01_(cropped).jpg",
-    "bytes": 38171,
-    "width": 459,
-    "height": 600,
-    "exists": true
-   },
-   "sources": [
-    "https://en.wikipedia.org/wiki/Zheng_Qinwen",
-    "https://www.tennis.com/baseline/articles/zheng-qinwen-rollercoasters-karaoke-blackpink-coco-gauff-2023-us-open",
-    "https://gulfnews.com/sport/tennis/china-hails-queen-wen-the-tennis-star-who-fulfilled-a-dream-1.1727600650064",
-    "https://www.philstar.com/sports/2026/09/04/2554000/olympic-champ-zheng-back-hunt-and-us-open-third-round",
-    "https://ausopen.com/articles/news/five-reasons-we-love-zheng-qinwen"
-   ],
-   "verified": true,
-   "researchedAt": "2026-09-04T17:14:15Z",
-   "factCheck": {
-    "checkedAt": "2026-09-04T18:30:00Z",
-    "notes": [
-     "Birth date, Shiyan, 178 cm, plays, ranking 121, unseeded, opponent Keys (m14), move to Wuhan at 8, mother quit job, Barcelona base, Blackpink, first Asian singles Olympic gold all confirmed via Wikipedia + schedule.json.",
-     "2,800 rpm forehand confirmed by ausopen.com (AO 2024, higher than any other woman); source updated.",
-     "Li Na inspiration at age 11 confirmed (2014 AO final, per WTA/ausopen coverage); invented quote 'I want to do that too' replaced with her real 'dream seeds' line.",
-     "Elbow surgery was July 2025 (not 'this year'); kept to one gentle sentence. Qualifying at 2026 US Open and 'found my fire' quote confirmed at philstar.",
-     "Roller coaster and karaoke quotes confirmed at tennis.com."
-    ],
-    "changes": [
-     "Rewrote injury sentence (timing + softened).",
-     "Replaced fabricated Li Na quote.",
-     "Re-sourced and reworded 2,800 rpm fact."
-    ]
-   }
+   "matchTier": 2
   },
   {
    "slug": "arthur-gea",
@@ -3126,7 +2594,8 @@
      "watchFor: removed inferred 'loud fist pumps like his hero Rafael Nadal'; replaced with documented favourite shot (forehand, ATP bio), smiling on court (ATP Los Cabos feature) and Nadal as idol (ATP bio).",
      "Lucky-loser fact: source changed from tennistemple.com (403) to atptour.com."
     ]
-   }
+   },
+   "matchTier": 3
   },
   {
    "slug": "benjamin-bonzi",
@@ -3216,7 +2685,283 @@
     "changes": [
      "Story: 'That is a record!' -> 'That ties the all-time record!' (six Challenger titles in a season ties, not breaks, the record)."
     ]
-   }
+   },
+   "matchTier": 3
+  },
+  {
+   "slug": "botic-van-de-zandschulp",
+   "name": "Botic van de Zandschulp",
+   "country": "NL",
+   "countryName": "Netherlands",
+   "flagEmoji": "🇳🇱",
+   "birthDate": "1995-10-04",
+   "age": 30,
+   "seed": null,
+   "ranking": 70,
+   "draw": "men",
+   "tier": 3,
+   "plays": "Right-handed, two-handed backhand",
+   "heightCm": 191,
+   "hometown": "Wageningen, Netherlands",
+   "nicknameOrTagline": "The Giant-Slayer",
+   "intro": "Botic van de Zandschulp is a tall player from the Netherlands. Say it BO-tik van de ZAND-skulp. He is famous for beating the biggest stars at the US Open.",
+   "story": "In 2021 Botic came to New York for the very first time. He was a qualifier, so he won three extra matches just to get in. Then he kept winning, all the way to the quarterfinals! In 2024 he beat superstar Carlos Alcaraz here. This week he beat the number six seed, a top-ranked player.",
+   "funFacts": [
+    {
+     "text": "His last name means from a sandy seashell in Dutch.",
+     "source": "https://supersport.com/football/general/news/6d2d6f72-85f6-4748-b96a-e4b8f06b7e49/three-things-to-know-about-botic-van-de-zandschulp"
+    },
+    {
+     "text": "He is a huge soccer fan. His team is Ajax from Amsterdam.",
+     "source": "https://www.atptour.com/en/players/botic-van-de-zandschulp/v812/bio"
+    },
+    {
+     "text": "His favorite movie is Gladiator.",
+     "source": "https://www.atptour.com/en/players/botic-van-de-zandschulp/v812/bio"
+    },
+    {
+     "text": "He has a brother named Melvin.",
+     "source": "https://www.atptour.com/en/players/botic-van-de-zandschulp/v812/bio"
+    },
+    {
+     "text": "His first trip to America ended in the US Open quarterfinals.",
+     "source": "https://www.atptour.com/en/players/botic-van-de-zandschulp/v812/bio"
+    },
+    {
+     "text": "He beat Carlos Alcaraz at the 2024 US Open without losing a set.",
+     "source": "https://en.wikipedia.org/wiki/Botic_van_de_Zandschulp"
+    },
+    {
+     "text": "He was born in Wageningen, a Dutch city known for farming.",
+     "source": "https://supersport.com/football/general/news/6d2d6f72-85f6-4748-b96a-e4b8f06b7e49/three-things-to-know-about-botic-van-de-zandschulp"
+    }
+   ],
+   "watchFor": "Watch his big forehand push players all around the court.",
+   "matchTomorrow": {
+    "opponent": "Zizou Bergs",
+    "opponentSlug": "zizou-bergs",
+    "court": "TBD",
+    "session": "TBD",
+    "order": null,
+    "startTimeET": null,
+    "matchId": "m4"
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Van_de_Zandschulp_MCM22_%2811%29_%2852036444288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "localPath": "img/players/botic-van-de-zandschulp.jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "si.robi",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AVan_de_Zandschulp_MCM22_%2811%29_%2852036444288%29.jpg",
+    "title": "File:Van_de_Zandschulp_MCM22_(11)_(52036444288).jpg",
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Botic_van_de_Zandschulp",
+    "https://www.atptour.com/en/players/botic-van-de-zandschulp/v812/bio",
+    "https://supersport.com/football/general/news/6d2d6f72-85f6-4748-b96a-e4b8f06b7e49/three-things-to-know-about-botic-van-de-zandschulp",
+    "https://tenngrand.com/van-de-zandschulp-defeats-de-minaur-in-wide-open-section-of-us-open-draw/",
+    "https://www.abc.net.au/news/2026-09-04/alex-de-minaur-falls-in-straight-sets-at-us-open/107115674"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-04T17:14:15Z",
+   "factCheck": {
+    "checkedAt": "2026-09-04T18:30:00Z",
+    "notes": [
+     "Birth date, Wageningen, 191 cm, plays, ranking 70, unseeded, opponent Bergs (m4) confirmed via Wikipedia + schedule.json.",
+     "ATP bio confirms Ajax fan, favourite movie Gladiator, brother Melvin, favourite shot forehand, first trip to USA was the 2021 US Open QF run as a qualifier.",
+     "Supersport confirms name meaning ('from a sandy seashell'), started tennis at 4, Wageningen as agricultural city.",
+     "2024 straight-sets win over Alcaraz (6-1 7-5 6-4) and 2026 R2 win over No.6 seed de Minaur (6-4 7-5 6-2) confirmed (Wikipedia, ABC, tenngrand)."
+    ],
+    "changes": [
+     "Reworded 'farm town' to 'a Dutch city known for farming'."
+    ]
+   },
+   "matchTier": 2
+  },
+  {
+   "slug": "cristina-bucsa",
+   "name": "Cristina Bucșa",
+   "country": "ES",
+   "countryName": "Spain",
+   "flagEmoji": "🇪🇸",
+   "birthDate": "1998-01-01",
+   "age": 28,
+   "seed": null,
+   "ranking": 40,
+   "draw": "women",
+   "tier": 3,
+   "plays": "Right-handed, two-handed backhand",
+   "heightCm": 176,
+   "hometown": "Torrelavega, Spain (born in Chișinău, Moldova)",
+   "nicknameOrTagline": "The Quiet Olympian",
+   "intro": "Cristina Bucșa plays for Spain. She was born in Moldova and moved to Spain at age three. She won an Olympic bronze medal in doubles in 2024.",
+   "story": "Cristina's dad Ion was an Olympic biathlete. That is skiing plus target shooting! He carried Moldova's flag at two Winter Olympics. Now he is her coach. This year she won her first big singles title in Mexico.",
+   "funFacts": [
+    {
+     "text": "Her birthday is January 1. She is a New Year's baby!",
+     "source": "https://en.wikipedia.org/wiki/Cristina_Buc%C8%99a"
+    },
+    {
+     "text": "She speaks four languages: Spanish, Romanian, English and French. She is learning Korean too.",
+     "source": "https://en.wikipedia.org/wiki/Cristina_Buc%C8%99a"
+    },
+    {
+     "text": "She has a blue belt in karate.",
+     "source": "https://www.wtatennis.com/news/4301091/from-no-shoes-to-finding-her-footing-bucsa-is-moving-up-at-wimbledon"
+    },
+    {
+     "text": "She once played Wimbledon in too-big shoes stuffed with socks. She still won!",
+     "source": "https://www.wtatennis.com/news/4301091/from-no-shoes-to-finding-her-footing-bucsa-is-moving-up-at-wimbledon"
+    },
+    {
+     "text": "She has no Instagram or TikTok. She says she is too busy training.",
+     "source": "https://www.claytenis.com/features/cristina-bucsa-when-spains-no-1-doesnt-want-you-to-find-her/"
+    },
+    {
+     "text": "In spring at home she can ski in the morning and swim in the sea after lunch.",
+     "source": "https://www.wtatennis.com/news/4301091/from-no-shoes-to-finding-her-footing-bucsa-is-moving-up-at-wimbledon"
+    },
+    {
+     "text": "She won an Olympic bronze medal in doubles at Paris 2024.",
+     "source": "https://en.wikipedia.org/wiki/Cristina_Buc%C8%99a"
+    }
+   ],
+   "watchFor": "Watch her rush to the net for quick volleys, like a doubles champ.",
+   "matchTomorrow": {
+    "opponent": "Coco Gauff",
+    "opponentSlug": "coco-gauff",
+    "court": "TBD",
+    "session": "TBD",
+    "order": null,
+    "startTimeET": null,
+    "matchId": "m12"
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Cristina_Buc%C8%99a_%282025_DC_Open%29_03_%28cropped%29.jpg",
+    "localPath": "img/players/cristina-bucsa.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ACristina_Buc%C8%99a_%282025_DC_Open%29_03_%28cropped%29.jpg",
+    "title": "File:Cristina_Bucșa_(2025_DC_Open)_03_(cropped).jpg",
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Cristina_Buc%C8%99a",
+    "https://www.wtatennis.com/news/4301091/from-no-shoes-to-finding-her-footing-bucsa-is-moving-up-at-wimbledon",
+    "https://www.claytenis.com/features/cristina-bucsa-when-spains-no-1-doesnt-want-you-to-find-her/"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-04T17:16:31+00:00",
+   "factCheck": {
+    "checkedAt": "2026-09-04T21:52:28+00:00",
+    "notes": [
+     "Birth 1998-01-01 Chisinau, moved to Cantabria at 3, resides Torrelavega, R-handed/2HBH, 176 cm, father Ion Olympic biathlete and flag bearer 1998/2002 and her coach, Paris 2024 doubles bronze with Sorribes Tormo, first WTA singles title Merida 2026, speaks Spanish/Romanian/English/French: confirmed on Wikipedia.",
+     "Karate blue belt, oversized-shoes Wimbledon qualifying win, studying Korean, no social media: WTA article 4301091. Regional U10 champion at seven: claytenis.",
+     "Unseeded / ranking 40 / opponent Gauff match schedule.json."
+    ],
+    "changes": [
+     "Story: 'Olympic skier and shooter' -> 'Olympic biathlete (skiing and shooting)' per Wikipedia/claytenis.",
+     "Fun fact 2 (languages): four languages sourced to Wikipedia; Korean study remains from WTA article.",
+     "Fun fact 5: reworded to match her quote ('I don't have time. I'm working so hard').",
+     "Fun fact 6 (ski/swim): claytenis did not contain it; re-sourced to WTA article and reworded ('in spring')."
+    ]
+   },
+   "matchTier": 1
+  },
+  {
+   "slug": "dane-sweeny",
+   "name": "Dane Sweeny",
+   "country": "AU",
+   "countryName": "Australia",
+   "flagEmoji": "🇦🇺",
+   "birthDate": "2001-02-12",
+   "age": 25,
+   "seed": null,
+   "ranking": 123,
+   "draw": "men",
+   "tier": 3,
+   "plays": "Right-handed, two-handed backhand",
+   "heightCm": 170,
+   "hometown": "Sunshine Coast, Australia",
+   "nicknameOrTagline": "Sunshine Coast Scrapper",
+   "intro": "Dane Sweeny is a surprise star from Australia. He is small, but he plays big. This is his best ever Grand Slam, one of the four biggest tournaments.",
+   "story": "Dane grew up on the Sunshine Coast, near the beach. He started hitting balls at age two. His dad Clay is his coach. Dane got into this US Open with a wild card, a special invitation. Then he beat Lorenzo Musetti, one of the seeded, top-ranked stars!",
+   "funFacts": [
+    {
+     "text": "He started hitting at age two with a little plastic racket.",
+     "source": "https://www.tennis.com.au/fan-zone/news/2026/07/22/my-tennis-life--dane-sweeny"
+    },
+    {
+     "text": "His dad Clay is his coach. He sold his cleaning business to travel with Dane.",
+     "source": "https://www.womensweekly.com.au/news/dane-sweeny-tennis/"
+    },
+    {
+     "text": "His tennis life began on the beach at Mooloolaba, hitting balls with his dad.",
+     "source": "https://www.tennis.com.au/fan-zone/news/2026/07/22/my-tennis-life--dane-sweeny"
+    },
+    {
+     "text": "He is 170 cm tall. That is about 5 feet 7 inches.",
+     "source": "https://en.wikipedia.org/wiki/Dane_Sweeny"
+    },
+    {
+     "text": "He uses slow, mindful breathing to stay calm on court.",
+     "source": "https://theowluc.com/story/making-it-is-not-everything-meet-aussie-tennis-player-dane-sweeny/"
+    },
+    {
+     "text": "He says he shows all his feelings out on the court.",
+     "source": "https://theowluc.com/story/making-it-is-not-everything-meet-aussie-tennis-player-dane-sweeny/"
+    },
+    {
+     "text": "This is his very first time playing at the US Open.",
+     "source": "https://www.atptour.com/en/news/sweeny-musetti-us-open-2026-thursday"
+    }
+   ],
+   "watchFor": "Watch him dive for volleys at the net like a superhero.",
+   "matchTomorrow": {
+    "opponent": "Luciano Darderi",
+    "opponentSlug": "luciano-darderi",
+    "court": "TBD",
+    "session": "TBD",
+    "order": null,
+    "startTimeET": null,
+    "matchId": "m2"
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Sweeny_WMQ23_%2853062168553%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "localPath": "img/players/dane-sweeny.jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "si.robi",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ASweeny_WMQ23_%2853062168553%29.jpg",
+    "title": "File:Sweeny_WMQ23_(53062168553).jpg",
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Dane_Sweeny",
+    "https://www.atptour.com/en/news/sweeny-musetti-us-open-2026-thursday",
+    "https://www.abc.net.au/news/2026-09-04/us-open-wildcard-dane-sweeny-into-third-round/107114784",
+    "https://www.womensweekly.com.au/news/dane-sweeny-tennis/",
+    "https://www.tennis.com.au/fan-zone/news/2026/07/22/my-tennis-life--dane-sweeny",
+    "https://theowluc.com/story/making-it-is-not-everything-meet-aussie-tennis-player-dane-sweeny/"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-04T17:14:15Z",
+   "factCheck": {
+    "checkedAt": "2026-09-04T18:30:00Z",
+    "notes": [
+     "Birth date, 170 cm, plays, ranking 123, unseeded, opponent Darderi (m2), Sunshine Coast (moved there at 3), coach Clay Sweeny confirmed via Wikipedia + schedule.json.",
+     "ATP confirms first US Open appearance, first major third round, 'rollercoaster' quote; ABC confirms wildcard and diving volleys; Women's Weekly confirms dad sold cleaning business.",
+     "Musetti seed: ATP says 13th, ABC says 14th; number removed from story.",
+     "tennis.com.au 'My Tennis Life' page returns 403 to fetchers; totem-tennis racquet at age two and beach start at Mooloolaba are confirmed only via search-engine snippets of that article's own text.",
+     "theowluc confirms meditation, 'mindful breaths', 'heart on my sleeve'."
+    ],
+    "changes": [
+     "Removed Musetti seed number.",
+     "Softened 'one of the shortest players here'.",
+     "Reworded beach fact to match the source wording.",
+     "'slow breathing' -> 'mindful breathing'."
+    ]
+   },
+   "matchTier": 2
   },
   {
    "slug": "karen-khachanov",
@@ -3308,7 +3053,8 @@
     "changes": [
      "Story: replaced unsourced 'grew up watching big tournaments in Moscow' with 'decided to become a pro player when he was 12' (Wikipedia)."
     ]
-   }
+   },
+   "matchTier": 3
   },
   {
    "slug": "michael-zheng",
@@ -3401,7 +3147,293 @@
      "watchFor: 'fans in Columbia light blue' rewritten to 'Columbia teammates and classmates cheering' (documented by West Side Rag).",
      "Dad/sister fact: source URL changed to ATP Challenger 2025 feature (which has the Federer detail); sister Amy is from the ATP AO 2026 feature."
     ]
-   }
+   },
+   "matchTier": 3
+  },
+  {
+   "slug": "nikola-bartunkova",
+   "name": "Nikola Bartůňková",
+   "country": "CZ",
+   "countryName": "Czechia",
+   "flagEmoji": "🇨🇿",
+   "birthDate": "2006-02-25",
+   "age": 20,
+   "seed": null,
+   "ranking": 34,
+   "draw": "women",
+   "tier": 3,
+   "plays": "Right-handed, two-handed backhand",
+   "heightCm": 184,
+   "hometown": "Prague, Czechia",
+   "nicknameOrTagline": "Drop-Shot Dynamo",
+   "intro": "Nikola Bartůňková is 20 and from Prague, Czechia. She is one of the newest stars in tennis. She loves the drop shot, a sneaky soft shot.",
+   "story": "Nikola's dad is a tennis coach. He put a racket in her hands when she was tiny. As a junior she reached the Wimbledon girls' final. This year she played her first Grand Slam, one of the four biggest tournaments. She beat a top-10 player there!",
+   "funFacts": [
+    {
+     "text": "Her dad is a tennis coach. Her mom learned tennis as a grown-up.",
+     "source": "https://www.babolat.com/gb/heroes-players-blog-nikola-bartunkova/nikola-bartunkova.html"
+    },
+    {
+     "text": "Her big sister played tennis too.",
+     "source": "https://www.babolat.com/gb/heroes-players-blog-nikola-bartunkova/nikola-bartunkova.html"
+    },
+    {
+     "text": "She loves skiing and biking when she has free time.",
+     "source": "https://www.babolat.com/gb/heroes-players-blog-nikola-bartunkova/nikola-bartunkova.html"
+    },
+    {
+     "text": "She loves watching Carlos Alcaraz. Roger Federer and Rafael Nadal are her role models.",
+     "source": "https://www.babolat.com/gb/heroes-players-blog-nikola-bartunkova/nikola-bartunkova.html"
+    },
+    {
+     "text": "She says she plays Federer style, Alcaraz style, with lots of tricks.",
+     "source": "https://ausopen.com/articles/news/bartunkova-making-most-sliding-doors-moment"
+    },
+    {
+     "text": "She is about 6 feet tall and loves reading and Netflix shows.",
+     "source": "https://www.babolat.com/gb/heroes-players-blog-nikola-bartunkova/nikola-bartunkova.html"
+    },
+    {
+     "text": "She says she hates losing, but she has never thought about quitting.",
+     "source": "https://www.babolat.com/gb/heroes-players-blog-nikola-bartunkova/nikola-bartunkova.html"
+    },
+    {
+     "text": "She likes old music best, like ABBA and Michael Jackson.",
+     "source": "https://www.wtatennis.com/news/4501631/get-to-know-nikola-bartunkova-whos-on-a-roll-with-hot-shots-in-rome"
+    }
+   ],
+   "watchFor": "Watch for her sneaky drop shots, then a quick dash to the net.",
+   "matchTomorrow": {
+    "opponent": "Mirra Andreeva",
+    "opponentSlug": "mirra-andreeva",
+    "court": "TBD",
+    "session": "TBD",
+    "order": null,
+    "startTimeET": null,
+    "matchId": "m9"
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Nikola_Bart%C5%AF%C5%88kov%C3%A1_Birmingham_2026_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "localPath": "img/players/nikola-bartunkova.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Daniel Cooper derivative work: Kacir",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ANikola_Bart%C5%AF%C5%88kov%C3%A1_Birmingham_2026_%28cropped%29.jpg",
+    "title": "File:Nikola_Bartůňková_Birmingham_2026_(cropped).jpg",
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Nikola_Bart%C5%AF%C5%88kov%C3%A1",
+    "https://www.babolat.com/gb/heroes-players-blog-nikola-bartunkova/nikola-bartunkova.html",
+    "https://ausopen.com/articles/news/bartunkova-making-most-sliding-doors-moment",
+    "https://www.wtatennis.com/players/330364/nikola-bartunkova",
+    "https://www.wtatennis.com/news/4501631/get-to-know-nikola-bartunkova-whos-on-a-roll-with-hot-shots-in-rome"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-04T17:11:02Z",
+   "factCheck": {
+    "checkedAt": "2026-09-04T21:53:16Z",
+    "notes": [
+     "birthDate 2006-02-25 (Wikipedia + WTA). WTA profile ranking 34 matches schedule; Wikipedia says 38 (Aug 24, stale). Height: WTA profile lists none; Wikipedia 184, Babolat 182 (at age 17). Kept 184 per Wikipedia.",
+     "Wikipedia confirms 2023 Wimbledon girls' final and first-slam top-10 win over Bencic at AO 2026. Babolat confirms dad coach, mom, sister, skiing/biking, reading/Netflix, Alcaraz/Federer/Nadal. ausopen.com confirms 'Federer style, Alcaraz style' and drop shots/net quote."
+    ],
+    "changes": [
+     "Story: removed 'tough stretch and came back stronger' (alludes to a doping suspension; age sweep).",
+     "'Her dad is her coach' -> 'Her dad is a tennis coach' (source only says coach who introduced her).",
+     "Favorite-players fact reworded to match Babolat quotes.",
+     "Motto reworded to match Babolat quote.",
+     "Added WTA-sourced music fun fact."
+    ]
+   },
+   "matchTier": 1
+  },
+  {
+   "slug": "yuliia-starodubtseva",
+   "name": "Yuliia Starodubtseva",
+   "country": "UA",
+   "countryName": "Ukraine",
+   "flagEmoji": "🇺🇦",
+   "birthDate": "2000-02-17",
+   "age": 26,
+   "seed": null,
+   "ranking": 58,
+   "draw": "women",
+   "tier": 3,
+   "plays": "Right-handed, two-handed backhand",
+   "heightCm": 172,
+   "hometown": "Kakhovka, Ukraine",
+   "nicknameOrTagline": "Tennis Teacher to Tennis Star",
+   "intro": "Yuliia Starodubtseva is from Kakhovka, Ukraine. She once worked as a tennis teacher. Now she beats top players on big stages.",
+   "story": "Yuliia played college tennis in Virginia. Then she taught tennis at a club near New York City. Friends and fans helped her chase her pro dream. It worked! This spring in Paris she beat the star Elena Rybakina, her opponent tomorrow!",
+   "funFacts": [
+    {
+     "text": "She earned two college degrees while she played.",
+     "source": "https://www.wtatennis.com/news/4481787/who-is-yuliia-starodubtseva-get-to-know-the-first-time-finalist-charleston-open"
+    },
+    {
+     "text": "She taught tennis on green clay courts near New York City before turning pro.",
+     "source": "https://www.tennis.com/news/articles/the-best-thing-i-saw-at-roland-garros-today-late-bloomer-yuliia-starodubtseva-pulls-off-rybakina-upset"
+    },
+    {
+     "text": "She loves driving cars and listening to techno music.",
+     "source": "https://www.wtatennis.com/news/4481787/who-is-yuliia-starodubtseva-get-to-know-the-first-time-finalist-charleston-open"
+    },
+    {
+     "text": "She cheers for the Green Bay Packers football team.",
+     "source": "https://www.wtatennis.com/news/4481787/who-is-yuliia-starodubtseva-get-to-know-the-first-time-finalist-charleston-open"
+    },
+    {
+     "text": "In 2024 she won her way into all four Grand Slams, the big four events.",
+     "source": "https://en.wikipedia.org/wiki/Yuliia_Starodubtseva"
+    },
+    {
+     "text": "Her friends and fans pitched in to help her go pro.",
+     "source": "https://www.tennis.com/news/articles/the-best-thing-i-saw-at-roland-garros-today-late-bloomer-yuliia-starodubtseva-pulls-off-rybakina-upset"
+    },
+    {
+     "text": "She picked tennis at age 5, just for fun. It got serious around age 11.",
+     "source": "https://www.wtatennis.com/news/4481787/who-is-yuliia-starodubtseva-get-to-know-the-first-time-finalist-charleston-open"
+    }
+   ],
+   "watchFor": "Count how few mistakes she makes from the back of the court.",
+   "matchTomorrow": {
+    "opponent": "Elena Rybakina",
+    "opponentSlug": "elena-rybakina",
+    "court": "TBD",
+    "session": "TBD",
+    "order": null,
+    "startTimeET": null,
+    "matchId": "m16"
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Yuliia_Starodubtseva_%282023_US_Open%29_07_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "localPath": "img/players/yuliia-starodubtseva.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AYuliia_Starodubtseva_%282023_US_Open%29_07_%28cropped%29.jpg",
+    "title": "File:Yuliia_Starodubtseva_(2023_US_Open)_07_(cropped).jpg",
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Yuliia_Starodubtseva",
+    "https://www.wtatennis.com/news/4481787/who-is-yuliia-starodubtseva-get-to-know-the-first-time-finalist-charleston-open",
+    "https://www.tennis.com/news/articles/the-best-thing-i-saw-at-roland-garros-today-late-bloomer-yuliia-starodubtseva-pulls-off-rybakina-upset",
+    "https://www.wtatennis.com/players/325338/yuliia-starodubtseva",
+    "https://www.rolandgarros.com/en-us/article/2026-edition-r2-rybakina-starodubtseva",
+    "https://www.wtatennis.com/news/4510325/starodubtseva-stuns-no-2-seed-rybakina-in-dramatic-roland-garros-upset"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-04T17:11:02Z",
+   "factCheck": {
+    "checkedAt": "2026-09-04T21:53:16Z",
+    "notes": [
+     "birthDate/height 172/plays: WTA profile + Wikipedia. WTA profile ranking 58 matches schedule (Wikipedia says 74, stale). Opponent Rybakina (seed 2) matches schedule.",
+     "WTA feature confirms two ODU degrees, cars/techno, Packers, age-5 start, Westchester coaching. tennis.com confirms green clay in Westchester and GoFundMe. Wikipedia confirms 2024 all-four-majors qualifying (first woman in Open Era), Charleston final, RG win over Rybakina."
+    ],
+    "changes": [
+     "'top-3 player' -> 'No. 2 seed' (sourced).",
+     "All-four-slams fact: 'Nobody had done that before' narrowed to 'no woman in the modern era'.",
+     "'New York friends' fund -> 'supporters' (source says supporters/GoFundMe).",
+     "'almost by accident' unsupported; reworded to 'just for fun, serious at 11'.",
+     "watchFor: removed unsourced flags line; replaced with WTA-sourced match description."
+    ]
+   },
+   "matchTier": 1
+  },
+  {
+   "slug": "qinwen-zheng",
+   "name": "Zheng Qinwen",
+   "country": "CN",
+   "countryName": "China",
+   "flagEmoji": "🇨🇳",
+   "birthDate": "2002-10-08",
+   "age": 23,
+   "seed": null,
+   "ranking": 121,
+   "draw": "women",
+   "tier": 3,
+   "plays": "Right-handed, two-handed backhand",
+   "heightCm": 178,
+   "hometown": "Shiyan, China",
+   "nicknameOrTagline": "Queen Wen",
+   "intro": "Zheng Qinwen is an Olympic champion from China. In China the family name comes first, so friends call her Qinwen. She won gold at the 2024 Paris Olympics, and fans call her Queen Wen.",
+   "story": "At age eight Qinwen moved away from home to train in a bigger city. At eleven she watched Li Na win the Australian Open on TV. She says Li Na planted dream seeds inside her. This year she was a qualifier, winning extra matches just to get in. Now she says she has found her fire again!",
+   "funFacts": [
+    {
+     "text": "She loves roller coasters. The highest point makes her feel free.",
+     "source": "https://www.tennis.com/baseline/articles/zheng-qinwen-rollercoasters-karaoke-blackpink-coco-gauff-2023-us-open"
+    },
+    {
+     "text": "She loves karaoke. She sings slow Chinese songs and even some Chinese rap.",
+     "source": "https://www.tennis.com/baseline/articles/zheng-qinwen-rollercoasters-karaoke-blackpink-coco-gauff-2023-us-open"
+    },
+    {
+     "text": "She is a big fan of the K-pop group Blackpink.",
+     "source": "https://en.wikipedia.org/wiki/Zheng_Qinwen"
+    },
+    {
+     "text": "She was the first Asian player ever to win Olympic gold in singles.",
+     "source": "https://en.wikipedia.org/wiki/Zheng_Qinwen"
+    },
+    {
+     "text": "Her forehand spun about 2,800 times a minute at one tournament. More than any other woman there!",
+     "source": "https://ausopen.com/articles/news/five-reasons-we-love-zheng-qinwen"
+    },
+    {
+     "text": "She lives and trains in Barcelona, Spain.",
+     "source": "https://en.wikipedia.org/wiki/Zheng_Qinwen"
+    },
+    {
+     "text": "Her hero is Li Na, the first Chinese player to win one of the four biggest tournaments.",
+     "source": "https://ausopen.com/articles/news/five-reasons-we-love-zheng-qinwen"
+    }
+   ],
+   "watchFor": "Watch her huge serve and her heavy-spinning forehand jump up high off the court.",
+   "matchTomorrow": {
+    "opponent": "Madison Keys",
+    "opponentSlug": "madison-keys",
+    "court": "TBD",
+    "session": "TBD",
+    "order": null,
+    "startTimeET": null,
+    "matchId": "m14"
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Zheng_Qinwen_%282024_US_Open%29_01_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "localPath": "img/players/qinwen-zheng.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AZheng_Qinwen_%282024_US_Open%29_01_%28cropped%29.jpg",
+    "title": "File:Zheng_Qinwen_(2024_US_Open)_01_(cropped).jpg",
+    "bytes": 38171,
+    "width": 459,
+    "height": 600,
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Zheng_Qinwen",
+    "https://www.tennis.com/baseline/articles/zheng-qinwen-rollercoasters-karaoke-blackpink-coco-gauff-2023-us-open",
+    "https://gulfnews.com/sport/tennis/china-hails-queen-wen-the-tennis-star-who-fulfilled-a-dream-1.1727600650064",
+    "https://www.philstar.com/sports/2026/09/04/2554000/olympic-champ-zheng-back-hunt-and-us-open-third-round",
+    "https://ausopen.com/articles/news/five-reasons-we-love-zheng-qinwen"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-04T17:14:15Z",
+   "factCheck": {
+    "checkedAt": "2026-09-04T18:30:00Z",
+    "notes": [
+     "Birth date, Shiyan, 178 cm, plays, ranking 121, unseeded, opponent Keys (m14), move to Wuhan at 8, mother quit job, Barcelona base, Blackpink, first Asian singles Olympic gold all confirmed via Wikipedia + schedule.json.",
+     "2,800 rpm forehand confirmed by ausopen.com (AO 2024, higher than any other woman); source updated.",
+     "Li Na inspiration at age 11 confirmed (2014 AO final, per WTA/ausopen coverage); invented quote 'I want to do that too' replaced with her real 'dream seeds' line.",
+     "Elbow surgery was July 2025 (not 'this year'); kept to one gentle sentence. Qualifying at 2026 US Open and 'found my fire' quote confirmed at philstar.",
+     "Roller coaster and karaoke quotes confirmed at tennis.com."
+    ],
+    "changes": [
+     "Rewrote injury sentence (timing + softened).",
+     "Replaced fabricated Li Na quote.",
+     "Re-sourced and reworded 2,800 rpm fact."
+    ]
+   },
+   "matchTier": 2
   }
  ]
 }

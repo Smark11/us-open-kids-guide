@@ -11,11 +11,18 @@ players = []
 for f in sorted(glob.glob(os.path.join(ROOT, "data/players/*.json"))):
     p = json.load(open(f))
     s = by_slug.get(p["slug"], {})
-    # schedule is authoritative for seed/ranking/tier/match
-    for k in ("seed", "ranking", "tier", "draw"):
+    # schedule is authoritative for seed/ranking/match
+    for k in ("seed", "ranking", "draw"):
         if k in s: p[k] = s[k]
     mid = s.get("matchId") or p.get("matchTomorrow", {}).get("matchId")
     m = matches.get(mid)
+    # Player tier is the PLAYER's own status (a match tier confused kids in review):
+    # 1 = seed <= 10 or playing on Ashe/Armstrong, 2 = any other seed, 3 = unseeded
+    court = (m or {}).get("court", "") or ""
+    seed = p.get("seed")
+    big_court = any(x in court for x in ("Ashe", "Armstrong"))
+    p["matchTier"] = s.get("tier", 3)
+    p["tier"] = 1 if (seed and seed <= 10) or big_court else (2 if seed else 3)
     if m:
         opp = [x for x in m["players"] if x["slug"] != p["slug"]]
         p["matchTomorrow"] = {"opponent": opp[0]["name"] if opp else None, "opponentSlug": opp[0]["slug"] if opp else None,

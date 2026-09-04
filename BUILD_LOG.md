@@ -12,12 +12,13 @@ Target: Saturday, September 5, 2026 (Day 6, third round). Build started 2026-09-
 | 4 Kid editor | DONE | 1 | 32/32 at FK grade <= 4.5 (max 4.4). 9 content cuts (injury, prize wording, mature game titles, etc). |
 | Gate 1 | PASS (with waiver) | 1 | Coverage 32/32; verified 32/32; 0 inappropriate hits; readability max 4.4; photos: Tier 1 15/16 (93.75%, below the 95% bar), overall 31/32 (96.9%); 6/6 source spot-checks supported; both personas approved 5/5 samples. 7 advisory edits applied by orchestrator. |
 | 5 Design/build | DONE | 1 | "Sticker album on a blue court" (see DESIGN.md). Vanilla HTML/CSS/JS, players.js data bundle, service worker, favorites, hash routing. |
-| 6 Review loop | RUNNING | 1 | design-critic + qa-engineer started on the build; kid-ux-tester waits for Node 4 prose. |
+| 6 Review loop | RUNNING | 1 | Iter 1: design-critic FAIL (4 blocking: ball/kicker overlap, title wrap, tall match cards bury player grid, sticky filter fade), qa-engineer FAIL (2 blocking: SW precaches 0 photos, deep-link close leaves site), kid-ux-tester FAIL (3 blocking: cards buried, tier labels contradict seed lesson, sticky hover flip glitch). Builder fix pass + content mini-pass running. |
 | Gate 2 | pending | | |
 | 7 Deploy | pending | | |
 | 8 Wrap | pending | | |
 
 ## Decisions
+- Tier is now a PLAYER property (seed <=10 or Ashe/Armstrong = Superstars; other seeds = Seeded; unseeded = Underdogs). The original match-level tier confused the kid persona ("Seeds" filter showed unseeded players). Match-level tier kept as `matchTier`.
 - Russian players (Andreeva, Khachanov) are shown with a 🎾 in place of a flag and "Plays without a flag", matching how the tournament lists them. No commentary on why; that's a parent conversation.
 - Zheng Qinwen displayed family-name-first, as she is known on tour.
 - Kid name is "Nora" (user confirmed mid-build). Stored in `data/config.json` as `kidName`; hero renders "Nora's US Open Guide".

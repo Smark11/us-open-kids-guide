@@ -18,6 +18,6 @@ Target: Saturday, September 5, 2026 (Day 6, third round). Build started 2026-09-
 | 8 Wrap | pending | | |
 
 ## Decisions
-- Prompt used the placeholder "[DAUGHTER_NAME]". Autonomous run, so the kid's name lives in `data/config.json` (`kidName`). If empty, hero reads "My US Open Guide". Set it in one line Saturday morning (see scripts/refresh.md).
+- Kid name is "Nora" (user confirmed mid-build). Stored in `data/config.json` as `kidName`; hero renders "Nora's US Open Guide".
 
 ## Open issues

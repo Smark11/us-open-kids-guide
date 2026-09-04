@@ -13,24 +13,24 @@
   "plays": "Right-handed, two-handed backhand",
   "heightCm": 193,
   "hometown": "Antwerp, Belgium",
-  "nicknameOrTagline": "Belgium's Big Server",
-  "intro": "Alexander Blockx is a tall young player from Antwerp, Belgium. He is only 21. He is already the best player in his country.",
-  "story": "Alexander started tennis at age four. He tagged along to his big brother's lessons. The coach asked if the little guy wanted to try. He said yes. He never stopped. In 2023 he won the Australian Open junior title. This year he made the semifinals of a big event in Madrid.",
+  "nicknameOrTagline": "Big Server from Belgium",
+  "intro": "Alexander Blockx is a tall young player from Belgium. He is only 21. He is already the best player in his country.",
+  "story": "Alexander started tennis at age four. He tagged along to his big brother's lessons. The coach asked if he wanted to try. He said yes, and he never stopped! In 2023 he won the junior title at the Australian Open.",
   "funFacts": [
     {
       "text": "His dad was a hurdle runner. His mom was a swimmer.",
       "source": "https://www.atptour.com/en/news/blockx-saint-tropez-challenger-2024-feature"
     },
     {
-      "text": "He is a tennis trivia whiz. He can recall old match scores from memory.",
+      "text": "He is a tennis trivia whiz. He remembers old match scores.",
       "source": "https://www.atptour.com/en/news/blockx-saint-tropez-challenger-2024-feature"
     },
     {
-      "text": "As a kid fan, he got a photo with Daniil Medvedev. Now they share stages.",
+      "text": "As a kid fan, he got a photo with star Daniil Medvedev. Now they share the stage at events.",
       "source": "https://www.tennis.com/news/articles/alexander-blockx-full-circle-medvedev-goffin-belgium-roland-garros-interview"
     },
     {
-      "text": "He had the same coach from age 4 until this year. That's 16 years!",
+      "text": "He had the same coach from age 4 until this year. That is 16 years!",
       "source": "https://www.atptour.com/en/players/alexander-blockx/b0pg/bio"
     },
     {
@@ -42,11 +42,11 @@
       "source": "https://en.wikipedia.org/wiki/Alexander_Blockx"
     },
     {
-      "text": "He is 6 feet 4 inches tall. That's a lot of reach!",
+      "text": "He is 6 feet 4 inches tall. That is a lot of reach!",
       "source": "https://en.wikipedia.org/wiki/Alexander_Blockx"
     }
   ],
-  "watchFor": "Watch his booming serve. He is very tall. The ball comes down fast and bounces high.",
+  "watchFor": "Watch his booming serve come down fast and bounce up high.",
   "matchTomorrow": {
     "opponent": "Flavio Cobolli",
     "opponentSlug": "flavio-cobolli",

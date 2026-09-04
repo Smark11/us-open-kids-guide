@@ -13,12 +13,12 @@
   "plays": "Right-handed, two-handed backhand",
   "heightCm": 191,
   "hometown": "Wageningen, Netherlands",
-  "nicknameOrTagline": "The giant-slayer",
-  "intro": "Botic van de Zandschulp is a tall player from the Netherlands. He is 30. He is famous for beating the biggest stars at the US Open. Say his name BO-tik van de ZAND-skulp.",
-  "story": "Botic started tennis at age four. He took a long time to get famous. In 2021 he came to New York for the very first time. He had to win three matches just to get in. Then he kept winning, all the way to the quarterfinals! In 2024 he beat superstar Carlos Alcaraz here. This week he beat the number six seed. New York is his lucky city.",
+  "nicknameOrTagline": "The Giant-Slayer",
+  "intro": "Botic van de Zandschulp is a tall player from the Netherlands. Say it BO-tik van de ZAND-skulp. He is famous for beating the biggest stars at the US Open.",
+  "story": "In 2021 Botic came to New York for the very first time. He was a qualifier, so he won three extra matches just to get in. Then he kept winning, all the way to the quarterfinals! In 2024 he beat superstar Carlos Alcaraz here. This week he beat the number six seed, a top-ranked player.",
   "funFacts": [
     {
-      "text": "His last name means 'from a sandy seashell' in Dutch.",
+      "text": "His last name means from a sandy seashell in Dutch.",
       "source": "https://supersport.com/football/general/news/6d2d6f72-85f6-4748-b96a-e4b8f06b7e49/three-things-to-know-about-botic-van-de-zandschulp"
     },
     {
@@ -46,7 +46,7 @@
       "source": "https://supersport.com/football/general/news/6d2d6f72-85f6-4748-b96a-e4b8f06b7e49/three-things-to-know-about-botic-van-de-zandschulp"
     }
   ],
-  "watchFor": "Watch his big forehand. It is his favorite shot, and he uses it to push players around.",
+  "watchFor": "Watch his big forehand push players all around the court.",
   "matchTomorrow": {
     "opponent": "Zizou Bergs",
     "opponentSlug": "zizou-bergs",

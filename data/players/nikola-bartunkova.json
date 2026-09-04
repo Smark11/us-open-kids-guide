@@ -13,9 +13,9 @@
   "plays": "Right-handed, two-handed backhand",
   "heightCm": 184,
   "hometown": "Prague, Czechia",
-  "nicknameOrTagline": "Drop-shot dynamo",
-  "intro": "Nikola Bartůňková is a 20-year-old from Prague, Czechia. She is one of the newest stars in tennis. She loves tricky drop shots and rushing to the net.",
-  "story": "Nikola's dad is a tennis coach. He put a racket in her hands when she was tiny. As a junior she reached the Wimbledon girls' final. This year she beat a top-10 player at her very first Grand Slam. Now she is in the top 40.",
+  "nicknameOrTagline": "Drop-Shot Dynamo",
+  "intro": "Nikola Bartůňková is 20 and from Prague, Czechia. She is one of the newest stars in tennis. She loves the drop shot, a sneaky soft shot.",
+  "story": "Nikola's dad is a tennis coach. He put a racket in her hands when she was tiny. As a junior she reached the Wimbledon girls' final. This year she played her first Grand Slam, one of the four biggest tournaments. She beat a top-10 player there!",
   "funFacts": [
     {
       "text": "Her dad is a tennis coach. Her mom learned tennis as a grown-up.",
@@ -34,7 +34,7 @@
       "source": "https://www.babolat.com/gb/heroes-players-blog-nikola-bartunkova/nikola-bartunkova.html"
     },
     {
-      "text": "She says she plays 'Federer style, Alcaraz style' with lots of tricks.",
+      "text": "She says she plays Federer style, Alcaraz style, with lots of tricks.",
       "source": "https://ausopen.com/articles/news/bartunkova-making-most-sliding-doors-moment"
     },
     {
@@ -42,7 +42,7 @@
       "source": "https://www.babolat.com/gb/heroes-players-blog-nikola-bartunkova/nikola-bartunkova.html"
     },
     {
-      "text": "She says 'I hate defeat,' but she has never once thought about quitting tennis.",
+      "text": "She says she hates losing, but she has never thought about quitting.",
       "source": "https://www.babolat.com/gb/heroes-players-blog-nikola-bartunkova/nikola-bartunkova.html"
     },
     {
@@ -50,7 +50,7 @@
       "source": "https://www.wtatennis.com/news/4501631/get-to-know-nikola-bartunkova-whos-on-a-roll-with-hot-shots-in-rome"
     }
   ],
-  "watchFor": "Watch for her sneaky drop shots, then a dash to the net for a volley.",
+  "watchFor": "Watch for her sneaky drop shots, then a quick dash to the net.",
   "matchTomorrow": {
     "opponent": "Mirra Andreeva",
     "opponentSlug": "mirra-andreeva",

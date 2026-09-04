@@ -13,16 +13,16 @@
   "plays": "Right-handed, two-handed backhand",
   "heightCm": 180,
   "hometown": "Prague, Czechia",
-  "nicknameOrTagline": "Defense that never quits",
-  "intro": "Marie Bouzková is from Prague, in Czechia. She is a super-fast runner who chases down everything. Even the WTA Tour calls her defense astounding.",
-  "story": "Marie started at a tennis club her parents owned in Prague. At 16 she won the US Open junior title, right here in New York. Now she lives in Florida and plays on the big tour. This year she won a title on grass and reached her best ranking ever.",
+  "nicknameOrTagline": "Defense That Never Quits",
+  "intro": "Marie Bouzková is from Prague, in Czechia. She is a super-fast runner. She chases down every ball, no matter what.",
+  "story": "Marie started at a tennis club her parents owned in Prague. At 16 she won the US Open junior title, right here in New York. Now she lives in Florida and plays on the big tour. This year she won a title on grass. She also reached her best ranking ever.",
   "funFacts": [
     {
       "text": "She speaks four languages: Czech, English, German, and Spanish.",
       "source": "https://en.wikipedia.org/wiki/Marie_Bouzkov%C3%A1"
     },
     {
-      "text": "She follows lots of mountain dog accounts online. She wants one after she retires.",
+      "text": "She follows lots of mountain dog accounts online. She wants one when she retires.",
       "source": "https://www.tennis.com/baseline/articles/5-minutes-marie-bouzkova-and-ann-li-interview"
     },
     {
@@ -46,7 +46,7 @@
       "source": "https://www.tennis.com/baseline/articles/5-minutes-marie-bouzkova-and-ann-li-interview"
     }
   ],
-  "watchFor": "Watch her chase down shot after shot in long rallies. Her defense is so good the WTA called it astounding.",
+  "watchFor": "Watch her run down shot after shot with defense the tour calls astounding.",
   "matchTomorrow": {
     "opponent": "Iga Swiatek",
     "opponentSlug": "iga-swiatek",

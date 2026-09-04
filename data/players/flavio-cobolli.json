@@ -14,11 +14,11 @@
   "heightCm": 183,
   "hometown": "Rome, Italy",
   "nicknameOrTagline": "The Gladiator",
-  "intro": "Flavio Cobolli is an Italian player who lives in Rome. He was born in Florence. He reached the French Open final this year and is ranked No. 6 in the world.",
-  "story": "As a kid, Flavio played soccer for the famous club AS Roma. At 14 he had to choose: soccer or tennis. He picked tennis! His dad Stefano was a tennis pro. Now he is Flavio's coach. Flavio also helped Italy win the Davis Cup team trophy in 2025.",
+  "intro": "Flavio Cobolli is an Italian player who lives in Rome. He reached the French Open final this year. He is ranked number 6 in the world.",
+  "story": "As a kid, Flavio played soccer for the famous club AS Roma. At 14 he had to choose: soccer or tennis. He picked tennis! His dad Stefano was a tennis pro, and now he is Flavio's coach. Flavio also helped Italy win the Davis Cup team trophy in 2025.",
   "funFacts": [
     {
-      "text": "He played soccer in the AS Roma youth academy until age 14.",
+      "text": "He played soccer for AS Roma's kids' teams until age 14.",
       "source": "https://www.tennismajors.com/atp/italy-the-gladiator-roland-garros-juniors-as-roma-everything-you-always-wanted-to-know-about-flavio-cobolli-but-never-had-the-time-to-find-out-updated-after-australian-open-2025-806104.html"
     },
     {
@@ -30,7 +30,7 @@
       "source": "https://www.nss-sports.com/en/lifestyle/42543/extratime-flavio-cobolli-interview"
     },
     {
-      "text": "His nickname on the UTS tour is The Gladiator, like ancient Rome.",
+      "text": "His nickname on one tour is The Gladiator, like in ancient Rome.",
       "source": "https://www.tennismajors.com/atp/italy-the-gladiator-roland-garros-juniors-as-roma-everything-you-always-wanted-to-know-about-flavio-cobolli-but-never-had-the-time-to-find-out-updated-after-australian-open-2025-806104.html"
     },
     {
@@ -46,7 +46,7 @@
       "source": "https://en.wikipedia.org/wiki/Flavio_Cobolli"
     }
   ],
-  "watchFor": "Look for his tattoos on his arms and his speedy footwork. He chases every ball like a soccer player.",
+  "watchFor": "Look for the tattoos on his arms and his speedy soccer-player footwork.",
   "matchTomorrow": {
     "opponent": "Alexander Blockx",
     "opponentSlug": "alexander-blockx",

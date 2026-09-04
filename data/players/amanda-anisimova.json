@@ -14,15 +14,15 @@
   "heightCm": 180,
   "hometown": "Freehold Township, New Jersey, United States",
   "nicknameOrTagline": "The Comeback Painter",
-  "intro": "Amanda Anisimova is an American star from New Jersey. She hits one of the hardest backhands in tennis. Last year she reached the US Open final in New York!",
-  "story": "Amanda started tennis at age five. She copied her big sister Maria. At 17 she reached the semifinals of the French Open. Then she took a break from tennis to rest her mind. She came back stronger than ever and climbed to No. 3 in the world.",
+  "intro": "Amanda Anisimova is an American star from New Jersey. She hits one of the hardest backhands in tennis. Last year she reached the US Open final, right here!",
+  "story": "Amanda started tennis at age five. She copied her big sister Maria. At 17 she made the semifinals of the French Open. Then she took a break from tennis to rest. She came back stronger and climbed to number 3 in the world.",
   "funFacts": [
     {
       "text": "She won the US Open junior title in 2017. She beat Coco Gauff in the final!",
       "source": "https://en.wikipedia.org/wiki/Amanda_Anisimova"
     },
     {
-      "text": "She loves to paint. She showed her paintings at a New York gallery and gives the money to charities.",
+      "text": "She loves to paint. She showed her paintings at a gallery in New York.",
       "source": "https://www.tennis-prose.com/articles/anisimova-unveils-her-new-art-in-nyc/"
     },
     {
@@ -30,11 +30,11 @@
       "source": "https://www.insidetennis.com/2025/07/amanda-for-all-seasons/"
     },
     {
-      "text": "During her break, she volunteered at a dog shelter and took trips with friends.",
+      "text": "During her break, she helped at a dog shelter and took trips with friends.",
       "source": "https://www.espn.com/tennis/story/_/id/39331295/australian-open-amanda-anisimova-refreshed-2023-break"
     },
     {
-      "text": "During her time off, she went to college in Florida for a semester.",
+      "text": "She also went to college in Florida for one semester.",
       "source": "https://www.wtatennis.com/news/3844595/amanda-anisimova"
     },
     {
@@ -46,7 +46,7 @@
       "source": "https://en.wikipedia.org/wiki/Amanda_Anisimova"
     }
   ],
-  "watchFor": "Watch her two-handed backhand. She crushes it flat and hard. It often lands right on the line.",
+  "watchFor": "Watch her two-handed backhand, hit flat, hard, and right on the line.",
   "matchTomorrow": {
     "opponent": "Anastasia Potapova",
     "opponentSlug": "anastasia-potapova",

@@ -14,8 +14,8 @@
   "heightCm": 183,
   "hometown": "Villa Gesell, Argentina",
   "nicknameOrTagline": "Luli",
-  "intro": "Luciano Darderi plays for Italy but was born in Argentina. He is 24 and a clay-court king with five titles. His dad is his coach.",
-  "story": "Luciano's grandpa moved from Italy to Argentina long ago. Luciano started playing tennis at age four with his dad. His grandma Elisa gave him his first racket and traveled to his tournaments. He moved to Italy to chase his dream. This spring he beat Alexander Zverev in Rome. He saved four match points to do it!",
+  "intro": "Luciano Darderi plays for Italy, but he was born in Argentina. He is 24 and has five titles, all on clay courts. His dad is his coach.",
+  "story": "Luciano began tennis at age four with his dad. His grandma Elisa gave him his first racket. Later he moved to Italy to chase his dream. This spring he beat the star Alexander Zverev in Rome. He was one point from losing four times, and still won!",
   "funFacts": [
     {
       "text": "He was born on Valentine's Day.",
@@ -30,7 +30,7 @@
       "source": "https://www.atptour.com/en/players/luciano-darderi/d0fj/bio"
     },
     {
-      "text": "His favorite food is barbecue. His guilty pleasure is chocolate.",
+      "text": "His favorite food is barbecue. His favorite treat is chocolate.",
       "source": "https://www.atptour.com/en/players/luciano-darderi/d0fj/bio"
     },
     {
@@ -38,15 +38,15 @@
       "source": "https://www.atptour.com/en/players/luciano-darderi/d0fj/bio"
     },
     {
-      "text": "His little brother Vito was an Italian under-12 tennis champion.",
+      "text": "His little brother Vito was a kids' tennis champ in Italy.",
       "source": "https://en.wikipedia.org/wiki/Luciano_Darderi"
     },
     {
-      "text": "He has his grandma's name tattooed on his right wrist.",
+      "text": "His grandma's name is tattooed on his right wrist.",
       "source": "https://www.claytenis.com/features/a-promise-with-cobolli-and-his-grandmothers-help-darderi-wins-in-santiago/"
     }
   ],
-  "watchFor": "After a big point, watch him kiss his right wrist, where his grandma's name is tattooed.",
+  "watchFor": "Watch him kiss the tattoo on his right wrist after big points.",
   "matchTomorrow": {
     "opponent": "Dane Sweeny",
     "opponentSlug": "dane-sweeny",

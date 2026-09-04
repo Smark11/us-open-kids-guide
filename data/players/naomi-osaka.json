@@ -13,16 +13,16 @@
   "plays": "Right-handed, two-handed backhand",
   "heightCm": 180,
   "hometown": "Osaka, Japan",
-  "nicknameOrTagline": "Four-time Grand Slam champ",
-  "intro": "Naomi Osaka was born in Osaka, Japan, and grew up in New York and Florida. She has won four Grand Slams, including the US Open twice. She was the first Asian player ever ranked No. 1 in the world.",
-  "story": "Naomi's dad taught her and her big sister Mari to play on public courts. Her serve has been clocked at 124 miles per hour. She lit the Olympic flame at the Tokyo Games. In 2023 she became a mom to a girl named Shai. Then she came back and climbed right back into the top 15.",
+  "nicknameOrTagline": "Four-Time Grand Slam Champ",
+  "intro": "Naomi Osaka was born in Japan and grew up in New York and Florida. She has won four Grand Slams, the biggest tournaments in tennis. Two of them were right here at the US Open!",
+  "story": "Naomi's dad taught her and her big sister Mari on public courts. She was the first Asian player ever ranked number 1 in the world. She lit the Olympic flame at the Tokyo Games. In 2023 she became a mom to a girl named Shai. Then she came right back into the top 15.",
   "funFacts": [
     {
-      "text": "Her comfort show is the anime Naruto. Her favorite character is lazy-but-brilliant Shikamaru.",
+      "text": "Her comfort show is the anime Naruto. Her favorite character is lazy but brilliant Shikamaru.",
       "source": "https://hypebeast.com/2026/2/naomi-osaka-loves-anime-and-japan-interview"
     },
     {
-      "text": "She loves video games. Her go-to game is Skyrim, and she plays Overwatch too.",
+      "text": "She loves playing video games.",
       "source": "https://hypebeast.com/2026/2/naomi-osaka-loves-anime-and-japan-interview"
     },
     {
@@ -30,7 +30,7 @@
       "source": "https://www.tennis.com/news/articles/mother-no-drama-osaka-shows-off-her-precious-new-puppy"
     },
     {
-      "text": "She once quoted the Pokémon theme song in an interview: 'to be the very best.'",
+      "text": "She once quoted the Pokémon theme song in an interview: to be the very best.",
       "source": "https://www.si.com/extra-mustard/2016/01/22/australian-open-naomi-osaka-pokemon-theme"
     },
     {
@@ -38,7 +38,7 @@
       "source": "https://en.wikipedia.org/wiki/Naomi_Osaka"
     },
     {
-      "text": "She lit the Olympic cauldron at the Tokyo 2020 Olympics.",
+      "text": "She lit the Olympic flame at the Tokyo 2020 Olympics.",
       "source": "https://en.wikipedia.org/wiki/Naomi_Osaka"
     },
     {
@@ -46,7 +46,7 @@
       "source": "https://en.wikipedia.org/wiki/Naomi_Osaka"
     }
   ],
-  "watchFor": "Watch her walk on court in a special custom outfit, then listen for the boom of her serve.",
+  "watchFor": "Look for her special walk-on outfit, then listen for her booming serve.",
   "matchTomorrow": {
     "opponent": "Elise Mertens",
     "opponentSlug": "elise-mertens",

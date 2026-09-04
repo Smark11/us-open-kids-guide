@@ -13,16 +13,16 @@
   "plays": "Right-handed, two-handed backhand",
   "heightCm": 178,
   "hometown": "Rock Island, Illinois, USA",
-  "nicknameOrTagline": "Kindness wins",
-  "intro": "Madison Keys is an American from Rock Island, Illinois. She hits some of the hardest shots in tennis. In 2025 she finally won her first Grand Slam, the Australian Open.",
-  "story": "At age 4, Madison saw Venus Williams on TV in a white tennis dress. She begged for the same dress. Her parents said yes, if she learned tennis. She did! She reached the US Open final in 2017 and won the Australian Open in 2025. She also started a charity called Kindness Wins.",
+  "nicknameOrTagline": "Kindness Wins",
+  "intro": "Madison Keys is an American from Rock Island, Illinois. She hits some of the hardest shots in tennis. In 2025 she won her first Grand Slam, one of the four biggest tournaments.",
+  "story": "At age 4, Madison saw Venus Williams on TV in a white tennis dress. She begged for the same dress. Her parents said yes, if she learned tennis. She did! In 2025 she won the Australian Open.",
   "funFacts": [
     {
       "text": "She started tennis because she wanted a white dress like Venus Williams.",
       "source": "https://en.wikipedia.org/wiki/Madison_Keys"
     },
     {
-      "text": "She has three sisters: Sydney, Montana, and Hunter. None play tennis.",
+      "text": "She has three sisters: Sydney, Montana, and Hunter. None of them play tennis.",
       "source": "https://en.wikipedia.org/wiki/Madison_Keys"
     },
     {
@@ -34,7 +34,7 @@
       "source": "https://www.wtatennis.com/players/316959/madison-keys"
     },
     {
-      "text": "She started Kindness Wins, a charity that spreads kindness, especially to kids.",
+      "text": "She started Kindness Wins, a group that spreads kindness, especially to kids.",
       "source": "https://glorioussport.com/articles/madison-keys-tennis-kindness-foundation-interview/"
     },
     {
@@ -46,11 +46,11 @@
       "source": "https://en.wikipedia.org/wiki/Madison_Keys"
     },
     {
-      "text": "At 13, her mom found her rearranging her bedroom furniture in the middle of the night.",
+      "text": "At 13, her mom found her moving her bedroom furniture in the middle of the night.",
       "source": "https://sports.yahoo.com/madison-keys-mom-made-huge-164800595.html"
     }
   ],
-  "watchFor": "Listen for the loud pop of her forehand. At Wimbledon in 2016, hers was the fastest forehand measured.",
+  "watchFor": "Listen for the loud pop of her forehand, once the fastest measured at Wimbledon.",
   "matchTomorrow": {
     "opponent": "Qinwen Zheng",
     "opponentSlug": "qinwen-zheng",

@@ -14,8 +14,8 @@
   "heightCm": 175,
   "hometown": "Delray Beach, Florida, United States",
   "nicknameOrTagline": "Coco",
-  "intro": "Coco Gauff is one of America's favorite tennis stars. She grew up in Florida and won this very tournament in 2023. She is famous for running down every ball.",
-  "story": "Coco's real name is Cori. Her dad played college basketball. Her mom ran track. They quit their jobs to help her dream. At age six she picked up a racket. At 19 she won the US Open in front of a roaring crowd. In 2025 she won the French Open too. The home crowd will be loud tomorrow!",
+  "intro": "Coco Gauff is one of America's favorite tennis stars. She grew up in Florida. She won this very tournament in 2023!",
+  "story": "Coco's real name is Cori. Her dad played college basketball, and her mom ran track. They quit their jobs to help her dream. At 19 she won the US Open in front of a roaring crowd. In 2025 she won the French Open too.",
   "funFacts": [
     {
       "text": "Her real first name is Cori. Everyone calls her Coco.",
@@ -34,7 +34,7 @@
       "source": "https://www.purewow.com/entertainment/coco-gauff-us-open-2026"
     },
     {
-      "text": "She was homeschooled. As a teen she studied French and said she read it better than she spoke it.",
+      "text": "She was homeschooled. As a teen she studied French.",
       "source": "https://www.tennis.com/news/articles/gauff-unveils-new-hobbies-and-skills-with-mattek-sands"
     },
     {
@@ -42,11 +42,11 @@
       "source": "https://en.wikipedia.org/wiki/Coco_Gauff"
     },
     {
-      "text": "As a 16-year-old she loved TikTok dances, ping-pong, and cornhole at home.",
+      "text": "At 16 she loved TikTok dances, ping-pong, and cornhole at home.",
       "source": "https://www.tennis.com/news/articles/gauff-unveils-new-hobbies-and-skills-with-mattek-sands"
     }
   ],
-  "watchFor": "Watch how fast she runs: she chases down balls nobody else could reach and turns defense into offense.",
+  "watchFor": "Watch how fast she runs, chasing down balls nobody else could reach.",
   "matchTomorrow": {
     "opponent": "Cristina Bucsa",
     "opponentSlug": "cristina-bucsa",

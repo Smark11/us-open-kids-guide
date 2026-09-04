@@ -14,15 +14,15 @@
   "heightCm": 196,
   "hometown": "Prostějov, Czechia",
   "nicknameOrTagline": "Menimal",
-  "intro": "Jakub Menšík is a very tall player from Czechia. He stands 6 feet 5 inches. At 19 he won the Miami Open, beating his hero Novak Djokovic.",
-  "story": "Jakub grew up right next to tennis courts. He watched other kids play, then joined in at age five. After the 2022 Australian Open, his idol Djokovic invited him to Belgrade to practice together. In 2025 Jakub beat Djokovic in the Miami final. This year he reached the French Open semifinals. He also just won the US Open mixed doubles title with Karolína Muchová.",
+  "intro": "Jakub Menšík is a very tall player from Czechia. He stands 6 feet 5 inches. At 19 he won a big title in Miami, beating his hero Novak Djokovic.",
+  "story": "Jakub grew up right next to tennis courts. He watched other kids play, then joined in at age five. Later his idol Djokovic invited him to practice together. In 2025 Jakub beat Djokovic in the Miami final! He also just won a doubles title right here at the US Open.",
   "funFacts": [
     {
-      "text": "He turned 21 just four days ago, on September 1.",
+      "text": "He just turned 21. His birthday is September 1.",
       "source": "https://en.wikipedia.org/wiki/Jakub_Menšík"
     },
     {
-      "text": "Off the court he loves golf, and his favorite ice cream is vanilla.",
+      "text": "Off the court he loves golf. His favorite ice cream is vanilla.",
       "source": "https://www.tennis-prose.com/bios/biofile-jakub-mensik-interview/"
     },
     {
@@ -46,7 +46,7 @@
       "source": "https://www.atptour.com/en/news/mensik-cap-cana-challenger-2025-feature"
     }
   ],
-  "watchFor": "Watch his rocket first serve, then his high-kicking second serve that bounces over heads.",
+  "watchFor": "Watch his rocket first serve, then his second serve that kicks up high.",
   "matchTomorrow": {
     "opponent": "Learner Tien",
     "opponentSlug": "learner-tien",

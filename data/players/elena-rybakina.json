@@ -14,19 +14,19 @@
   "heightCm": 184,
   "hometown": "Moscow, Russia · plays for Kazakhstan",
   "nicknameOrTagline": "Ice Queen",
-  "intro": "Elena Rybakina plays for Kazakhstan and is the number 2 seed. She is six feet tall and has one of the biggest serves in women's tennis. Fans call her the Ice Queen because she stays so calm.",
-  "story": "As a little girl, Elena did gymnastics and ice skating. Then she grew too tall for those sports! So she tried tennis instead. Good choice. In 2022 she won Wimbledon. In 2026 she won the Australian Open. She was the first player from Kazakhstan ever to win a Grand Slam.",
+  "intro": "Elena Rybakina plays for Kazakhstan. She is the number 2 seed, a ranking badge for top players. Fans call her the Ice Queen because she stays so calm.",
+  "story": "As a little girl, Elena did gymnastics and ice skating. Then she grew too tall, so she tried tennis instead! In 2022 she won Wimbledon, and in 2026 the Australian Open. Those are Grand Slams, the four biggest tournaments. She was the first player from Kazakhstan ever to win one.",
   "funFacts": [
     {
       "text": "Her serve can zoom at 127 miles per hour. That is faster than a car on the highway.",
       "source": "https://en.wikipedia.org/wiki/Elena_Rybakina"
     },
     {
-      "text": "She hit 516 aces in 2025. Nobody had hit 500 in one season for nine years!",
+      "text": "She hit 516 aces in 2025. An ace is a serve nobody even touches!",
       "source": "https://en.wikipedia.org/wiki/Elena_Rybakina"
     },
     {
-      "text": "She has a beagle named Mulia and has visited animal shelters to help pets find homes.",
+      "text": "She has a beagle named Mulia. She has visited animal shelters to help pets find homes.",
       "source": "https://www.scmp.com/magazines/style/celebrity/article/3185022/meet-elena-rybakina-calm-23-year-old-who-won-wimbledon"
     },
     {
@@ -46,7 +46,7 @@
       "source": "https://www.scmp.com/magazines/style/celebrity/article/3185022/meet-elena-rybakina-calm-23-year-old-who-won-wimbledon"
     }
   ],
-  "watchFor": "Watch her face after a big point: she almost never celebrates, just a calm little nod.",
+  "watchFor": "Watch her face after a big point, just a calm little nod.",
   "matchTomorrow": {
     "opponent": "Yuliia Starodubtseva",
     "opponentSlug": "yuliia-starodubtseva",

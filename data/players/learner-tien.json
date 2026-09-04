@@ -14,8 +14,8 @@
   "heightCm": 180,
   "hometown": "Irvine, California, United States",
   "nicknameOrTagline": "The Quiet Problem Solver",
-  "intro": "Learner Tien is a lefty from Irvine, California. He is 20 and already a top-15 player. He is quiet, calm, and very hard to beat in long rallies.",
-  "story": "Learner first held a racket when he was one and a half. His dad was his first coach on Irvine's community courts. He started high school at 11. He played one semester of college tennis, then turned pro. This year he reached the Australian Open quarterfinals. His coach is former champion Michael Chang.",
+  "intro": "Learner Tien is a lefty from Irvine, California. A lefty hits with his left hand. He is 20, calm, and very hard to beat in long rallies.",
+  "story": "Learner first held a racket at one and a half. His dad was his first coach, on public courts in Irvine. He started high school at 11! He played one semester of college tennis, then turned pro. His coach now is former champ Michael Chang.",
   "funFacts": [
     {
       "text": "His mom was a math teacher, so his parents named him Learner.",
@@ -30,7 +30,7 @@
       "source": "https://www.tennis.com/news/articles/learner-tien-19-rafael-nadal-australian-open"
     },
     {
-      "text": "His guilty pleasure is candy. His favorite school subject was English.",
+      "text": "His favorite treat is candy. His favorite school subject was English.",
       "source": "https://www.atptour.com/en/news/learner-tien-us-open-2023-five-things-to-know"
     },
     {
@@ -42,11 +42,11 @@
       "source": "https://www.atptour.com/en/news/learner-tien-us-open-2023-five-things-to-know"
     },
     {
-      "text": "He once beat Daniil Medvedev in a match that ended around 3 a.m.",
+      "text": "He once beat Daniil Medvedev in a match that ended around 3 in the morning.",
       "source": "https://www.tennis.com/news/articles/learner-tien-19-rafael-nadal-australian-open"
     }
   ],
-  "watchFor": "Watch how calm he stays: smooth lefty shots and sneaky slice forehands that slide low.",
+  "watchFor": "Watch his smooth lefty shots and sneaky slice forehands that skid low.",
   "matchTomorrow": {
     "opponent": "Jakub Mensik",
     "opponentSlug": "jakub-mensik",

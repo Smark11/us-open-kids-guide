@@ -14,8 +14,8 @@
   "heightCm": 176,
   "hometown": "Raszyn, Poland",
   "nicknameOrTagline": "Queen of Clay",
-  "intro": "Iga Świątek is a champion from Poland. She has won six Grand Slam titles. That includes this tournament, the US Open, in 2022.",
-  "story": "Iga's dad rowed in the Olympics for Poland. She wanted to be a champion too. She picked tennis and worked very hard. She has been the world number 1 for 125 weeks in total. She wins so many 6-0 sets that fans call it Iga's Bakery. Why? A 6-0 set is called a bagel!",
+  "intro": "Iga Świątek is a champion from Poland. She has won six Grand Slam titles, the biggest trophies in tennis. One was right here at the US Open in 2022.",
+  "story": "Iga's dad rowed in the Olympics for Poland. She picked tennis and worked very hard. She has been world number 1 for 125 weeks in total. She wins lots of 6-0 sets, which fans call bagels. So they call her Iga's Bakery!",
   "funFacts": [
     {
       "text": "Her favorite meal is pasta with strawberries. Yes, really!",
@@ -46,7 +46,7 @@
       "source": "https://en.wikipedia.org/wiki/Iga_%C5%9Awi%C4%85tek"
     }
   ],
-  "watchFor": "Watch her forehand: it has so much spin the ball dips and jumps up high off the court.",
+  "watchFor": "Watch her spinny forehand dip, then jump up high off the court.",
   "matchTomorrow": {
     "opponent": "Marie Bouzkova",
     "opponentSlug": "marie-bouzkova",

@@ -14,11 +14,11 @@
   "heightCm": 183,
   "hometown": "Nîmes, France",
   "nicknameOrTagline": "La Bonz",
-  "intro": "Benjamin Bonzi is a tennis player from the south of France. His friends call him 'La Bonz.' He is known for big upsets and a super backhand.",
-  "story": "Benjamin grew up just 400 meters from a tennis club. He walked there to play when he was tiny. In 2021 he won six smaller tournaments in one year. That ties the all-time record! Last year he beat star Daniil Medvedev here in New York. Now he is back in the third round again.",
+  "intro": "Benjamin Bonzi is from the south of France. His friends call him La Bonz. He is known for beating big stars and for a super backhand.",
+  "story": "Benjamin grew up 400 meters from a tennis club. He walked there to play when he was tiny. In 2021 he won six smaller tournaments in one year. That ties the all-time record! Last year he beat star Daniil Medvedev right here in New York.",
   "funFacts": [
     {
-      "text": "He won his first trophy at age 10. The prize was a big bag of candy.",
+      "text": "He won his first trophy at age 10. He got a big bag of candy!",
       "source": "https://wearetennis.bnpparibas/fr/actualites-tennis/portrait-interview/4466-tout-vous-saurez-tout-sur-benjamin-bonzi"
     },
     {
@@ -38,7 +38,7 @@
       "source": "https://www.atptour.com/en/players/benjamin-bonzi/bm95/bio"
     },
     {
-      "text": "He won six Challenger titles in one year, 2021. Almost nobody has done that.",
+      "text": "In 2021 he won six smaller pro tournaments. Almost nobody has done that!",
       "source": "https://en.wikipedia.org/wiki/Benjamin_Bonzi"
     },
     {
@@ -46,7 +46,7 @@
       "source": "https://en.wikipedia.org/wiki/Benjamin_Bonzi"
     }
   ],
-  "watchFor": "Watch for him rushing to the net to hit a volley. It is his favorite shot.",
+  "watchFor": "Watch for him rushing to the net to hit a volley, his favorite shot.",
   "matchTomorrow": {
     "opponent": "Karen Khachanov",
     "opponentSlug": "karen-khachanov",

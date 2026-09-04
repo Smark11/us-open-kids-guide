@@ -13,9 +13,9 @@
   "plays": "Right-handed, two-handed backhand",
   "heightCm": 179,
   "hometown": "Hamont-Achel, Belgium",
-  "nicknameOrTagline": "Belgium's doubles queen",
-  "intro": "Elise Mertens is a tennis star from Belgium. She is 30 years old. She has won ten singles titles and six Grand Slam doubles titles. She has been the world's number one doubles player.",
-  "story": "Elise's big sister Lauren put a racket in her hand at age four. Lauren is now an airline pilot! Elise grew up watching Belgian champions Justine Henin and Kim Clijsters. Later she trained at Kim Clijsters' own tennis school. Last summer she won a title in the Netherlands after saving eleven match points in one match. That means she was one point from losing eleven times, and still won. This January she won the Australian Open doubles title with Zhang Shuai.",
+  "nicknameOrTagline": "Doubles Queen of Belgium",
+  "intro": "Elise Mertens is a tennis star from Belgium. She has won ten singles titles. In doubles she has been the number one player in the whole world.",
+  "story": "Elise's big sister Lauren put a racket in her hand at age four. Lauren is now an airline pilot! Later Elise trained at the tennis school of Belgian champ Kim Clijsters. Last summer she won a title after saving eleven match points. That means she was one point from losing eleven times, and still won!",
   "funFacts": [
     {
       "text": "She has a house full of rescue dogs. She wants to be a voice for shelter animals.",
@@ -38,7 +38,7 @@
       "source": "https://en.wikipedia.org/wiki/Elise_Mertens"
     },
     {
-      "text": "She has won six Grand Slam doubles titles with four different partners.",
+      "text": "She has won six doubles titles at Grand Slams, the four biggest tournaments.",
       "source": "https://en.wikipedia.org/wiki/Elise_Mertens"
     },
     {
@@ -46,7 +46,7 @@
       "source": "https://osakaworld.com/en-gb/blogs/athletes/elise-mertens"
     }
   ],
-  "watchFor": "Watch her left wrist as she tosses the ball to serve. Her little green tattoo gives her strength.",
+  "watchFor": "Watch for the tiny green tattoo on her left wrist as she serves.",
   "matchTomorrow": {
     "opponent": "Naomi Osaka",
     "opponentSlug": "naomi-osaka",

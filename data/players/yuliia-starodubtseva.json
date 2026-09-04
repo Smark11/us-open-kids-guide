@@ -13,12 +13,12 @@
   "plays": "Right-handed, two-handed backhand",
   "heightCm": 172,
   "hometown": "Kakhovka, Ukraine",
-  "nicknameOrTagline": "From tennis teacher to tennis star",
-  "intro": "Yuliia Starodubtseva is from Kakhovka, Ukraine. She went to college in Virginia and once worked as a tennis teacher. Now she beats top players on the biggest stages.",
-  "story": "Yuliia played college tennis at Old Dominion University in Virginia. After school, she taught tennis lessons at a club near New York City. Friends and supporters helped her chase her pro dream. It worked! This spring she reached her first big final, and she beat the No. 2 seed in Paris.",
+  "nicknameOrTagline": "Tennis Teacher to Tennis Star",
+  "intro": "Yuliia Starodubtseva is from Kakhovka, Ukraine. She once worked as a tennis teacher. Now she beats top players on big stages.",
+  "story": "Yuliia played college tennis in Virginia. Then she taught tennis at a club near New York City. Friends and fans helped her chase her pro dream. It worked! This spring in Paris she beat the star Elena Rybakina, her opponent tomorrow!",
   "funFacts": [
     {
-      "text": "She has two college degrees, one in communication and one in sport management.",
+      "text": "She earned two college degrees while she played.",
       "source": "https://www.wtatennis.com/news/4481787/who-is-yuliia-starodubtseva-get-to-know-the-first-time-finalist-charleston-open"
     },
     {
@@ -34,11 +34,11 @@
       "source": "https://www.wtatennis.com/news/4481787/who-is-yuliia-starodubtseva-get-to-know-the-first-time-finalist-charleston-open"
     },
     {
-      "text": "In 2024 she qualified for all four Grand Slams. No woman had done that in the modern era.",
+      "text": "In 2024 she won her way into all four Grand Slams, the big four events.",
       "source": "https://en.wikipedia.org/wiki/Yuliia_Starodubtseva"
     },
     {
-      "text": "Her supporters set up a fund to help her chase her pro dream.",
+      "text": "Her friends and fans pitched in to help her go pro.",
       "source": "https://www.tennis.com/news/articles/the-best-thing-i-saw-at-roland-garros-today-late-bloomer-yuliia-starodubtseva-pulls-off-rybakina-upset"
     },
     {
@@ -46,7 +46,7 @@
       "source": "https://www.wtatennis.com/news/4481787/who-is-yuliia-starodubtseva-get-to-know-the-first-time-finalist-charleston-open"
     }
   ],
-  "watchFor": "Watch how steady she is from the baseline. When she beat the No. 2 seed in Paris, she made far fewer mistakes than her opponent.",
+  "watchFor": "Count how few mistakes she makes from the back of the court.",
   "matchTomorrow": {
     "opponent": "Elena Rybakina",
     "opponentSlug": "elena-rybakina",

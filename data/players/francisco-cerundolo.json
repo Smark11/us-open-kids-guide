@@ -15,7 +15,7 @@
   "hometown": "Buenos Aires, Argentina",
   "nicknameOrTagline": "Fran",
   "intro": "Francisco Cerúndolo is from Buenos Aires, Argentina. Everyone calls him Fran. He is famous for a huge, whip-crack forehand.",
-  "story": "Fran started tennis at age 5. His mom and dad both played tennis, and they run a tennis academy in Buenos Aires. His little brother Juan Manuel is a pro too. His sister won a gold medal in field hockey! This summer Fran won his biggest title ever, on grass at Queen's Club in London.",
+  "story": "Fran started tennis at age 5. His mom and dad both played tennis. They run a tennis school in Buenos Aires. His little brother Juan Manuel is a pro too. This summer Fran won his biggest title ever, on grass in London.",
   "funFacts": [
     {
       "text": "His secret talent is math. He loves numbers and checking stats.",
@@ -26,7 +26,7 @@
       "source": "https://www.atptour.com/en/players/francisco-cerundolo/c0au/bio"
     },
     {
-      "text": "He loves to sing. He packs a speaker so he can play music in every hotel room.",
+      "text": "He loves to sing. He packs a speaker to play music in every hotel room.",
       "source": "https://www.atptour.com/en/news/cerundolo-nomadic-life-june-2023"
     },
     {
@@ -34,7 +34,7 @@
       "source": "https://www.atptour.com/en/players/francisco-cerundolo/c0au/bio"
     },
     {
-      "text": "He and his brother Juan Manuel were both in the world top 100 at the same time.",
+      "text": "He and his brother Juan Manuel were in the world top 100 at the same time.",
       "source": "https://en.wikipedia.org/wiki/Francisco_Cer%C3%BAndolo"
     },
     {
@@ -46,7 +46,7 @@
       "source": "https://www.atptour.com/en/news/cerundolo-nomadic-life-june-2023"
     }
   ],
-  "watchFor": "Watch him run around his backhand to smack a giant forehand. It is his favorite shot.",
+  "watchFor": "Watch him run around his backhand to smack a giant forehand.",
   "matchTomorrow": {
     "opponent": "Taylor Fritz",
     "opponentSlug": "taylor-fritz",

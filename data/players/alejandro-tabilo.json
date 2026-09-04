@@ -14,15 +14,15 @@
   "heightCm": 188,
   "hometown": "Santiago, Chile (born in Toronto, Canada)",
   "nicknameOrTagline": "Jano",
-  "intro": "Alejandro Tabilo is a lefty from Chile. His friends call him Jano. He was born in Canada. He plays for Chile, his parents' home.",
-  "story": "Jano started tennis by copying his big brother Sebastian. At 13 he left home to train in Florida. Later he moved to Chile and became the country's best player. In 2024 he shocked the world by beating Novak Djokovic in Rome. He did it again in 2025!",
+  "intro": "Alejandro Tabilo is a lefty from Chile. A lefty hits with his left hand. His friends call him Jano.",
+  "story": "Jano started tennis by copying his big brother Sebastian. At 13 he left home to train in Florida. Later he moved to Chile and became its best player. In 2024 he beat superstar Novak Djokovic in Rome. Then he did it again in 2025!",
   "funFacts": [
     {
       "text": "His secret talent is chess.",
       "source": "https://www.atptour.com/en/players/alejandro-tabilo/te30/bio"
     },
     {
-      "text": "His favorite food is popcorn. His guilty pleasure is ice cream.",
+      "text": "His favorite food is popcorn. His favorite treat is ice cream.",
       "source": "https://www.atptour.com/en/players/alejandro-tabilo/te30/bio"
     },
     {
@@ -38,7 +38,7 @@
       "source": "https://en.wikipedia.org/wiki/Alejandro_Tabilo"
     },
     {
-      "text": "His favorite shot is the drop shot. His idol is lefty Rafael Nadal.",
+      "text": "His favorite shot is the drop shot, a sneaky soft shot. His idol is lefty Rafael Nadal.",
       "source": "https://www.atptour.com/en/players/alejandro-tabilo/te30/bio"
     },
     {
@@ -46,7 +46,7 @@
       "source": "https://www.atptour.com/en/players/alejandro-tabilo/te30/bio"
     }
   ],
-  "watchFor": "He is a lefty! Watch his serve curve out wide. Then spot his sneaky drop shot.",
+  "watchFor": "Watch his lefty serve curve out wide, then spot his sneaky drop shot.",
   "matchTomorrow": {
     "opponent": "Alexander Zverev",
     "opponentSlug": "alexander-zverev",

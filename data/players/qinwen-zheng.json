@@ -14,8 +14,8 @@
   "heightCm": 178,
   "hometown": "Shiyan, China",
   "nicknameOrTagline": "Queen Wen",
-  "intro": "Zheng Qinwen is an Olympic champion from China. She is 23. In China her family name comes first, so friends call her Qinwen. She won the gold medal at the 2024 Paris Olympics. Fans call her Queen Wen.",
-  "story": "Qinwen grew up in a city called Shiyan. At age eight she moved away from home to train in a bigger city. Her mom quit her job to help her. At eleven she watched Li Na win the Australian Open on TV. She says Li Na planted dream seeds inside her. Last year she hurt her elbow and could not play for many months. Her ranking dropped, so she had to play qualifying just to get into this US Open. Now she is in the third round. She says she found her fire again.",
+  "intro": "Zheng Qinwen is an Olympic champion from China. In China the family name comes first, so friends call her Qinwen. She won gold at the 2024 Paris Olympics, and fans call her Queen Wen.",
+  "story": "At age eight Qinwen moved away from home to train in a bigger city. At eleven she watched Li Na win the Australian Open on TV. She says Li Na planted dream seeds inside her. This year she was a qualifier, winning extra matches just to get in. Now she says she has found her fire again!",
   "funFacts": [
     {
       "text": "She loves roller coasters. The highest point makes her feel free.",
@@ -34,7 +34,7 @@
       "source": "https://en.wikipedia.org/wiki/Zheng_Qinwen"
     },
     {
-      "text": "Her forehand spun about 2,800 times a minute at the 2024 Australian Open. More than any other woman there.",
+      "text": "Her forehand spun about 2,800 times a minute at one tournament. More than any other woman there!",
       "source": "https://ausopen.com/articles/news/five-reasons-we-love-zheng-qinwen"
     },
     {
@@ -42,11 +42,11 @@
       "source": "https://en.wikipedia.org/wiki/Zheng_Qinwen"
     },
     {
-      "text": "Her hero is Li Na, the first Chinese player to win a Grand Slam.",
+      "text": "Her hero is Li Na, the first Chinese player to win one of the four biggest tournaments.",
       "source": "https://ausopen.com/articles/news/five-reasons-we-love-zheng-qinwen"
     }
   ],
-  "watchFor": "Watch her huge serve and her heavy-spinning forehand. When the ball lands, it jumps up high.",
+  "watchFor": "Watch her huge serve and her heavy-spinning forehand jump up high off the court.",
   "matchTomorrow": {
     "opponent": "Madison Keys",
     "opponentSlug": "madison-keys",

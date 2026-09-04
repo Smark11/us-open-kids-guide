@@ -14,8 +14,8 @@
   "heightCm": 175,
   "hometown": "Vienna, Austria (born in Saratov, Russia)",
   "nicknameOrTagline": "Big Swings, Big Smile",
-  "intro": "Anastasia Potapova plays for Austria and lives in Vienna. She was born in Russia. She swings at the ball with all her might.",
-  "story": "At 15, Anastasia won the junior title at Wimbledon. She became the No. 1 junior in the world. As a pro she has won three titles. This year she got into a big Madrid event as a lucky loser. Then she surprised everyone by reaching the semifinals!",
+  "intro": "Anastasia Potapova plays for Austria and lives in Vienna. She was born in Russia. She swings at every ball with all her might.",
+  "story": "At 15, Anastasia won the junior title at Wimbledon. She became the number 1 junior in the world. This year in Madrid she was a lucky loser. That means she lost her last qualifying match but got a spot anyway. Then she surprised everyone and reached the semifinals!",
   "funFacts": [
     {
       "text": "She travels to tournaments with her dog. She says the dog brings her luck.",
@@ -26,19 +26,19 @@
       "source": "https://tennistonic.com/tennis-news/1028538/if-im-not-gonna-look-good-on-court-if-im-not-going-to-play-good-potapova-explains-how-self-care-fuels-performance/"
     },
     {
-      "text": "She tells stories with sound effects, like 'Woosh!' and 'Boom!'",
+      "text": "She tells stories with sound effects, like Woosh! and Boom!",
       "source": "https://www.tennis.com/news/articles/anastasia-potapova-burnout-new-coach-coco-gauff-montreal"
     },
     {
-      "text": "Her grandmother coaches a basketball team in Moscow. She got Anastasia into tennis at age four.",
+      "text": "Her grandma coaches a basketball team in Moscow. She got Anastasia into tennis at age four.",
       "source": "https://www.wtatennis.com/news/1414583/potapova-russian-on-the-rise"
     },
     {
-      "text": "She won Wimbledon's junior girls' title in 2016.",
+      "text": "She won the Wimbledon junior girls' title in 2016.",
       "source": "https://en.wikipedia.org/wiki/Anastasia_Potapova"
     },
     {
-      "text": "She says Austria feels like home. Starting in 2026 she plays for Austria.",
+      "text": "She says Austria feels like home. Since 2026 she plays for Austria.",
       "source": "https://www.tennis.com/news/articles/anastasia-potapova-changes-sporting-nationality-to-austria-ahead-of-2026-tennis-season"
     },
     {
@@ -46,7 +46,7 @@
       "source": "https://en.wikipedia.org/wiki/Anastasia_Potapova"
     }
   ],
-  "watchFor": "Watch her giant swings. She winds up big on every forehand. Then she hits it super hard.",
+  "watchFor": "Watch her wind up big on every forehand and hit it super hard.",
   "matchTomorrow": {
     "opponent": "Amanda Anisimova",
     "opponentSlug": "amanda-anisimova",

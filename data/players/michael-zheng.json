@@ -13,28 +13,28 @@
   "plays": "Right-handed, two-handed backhand",
   "heightCm": 188,
   "hometown": "Montville, New Jersey, United States",
-  "nicknameOrTagline": "The Ivy League Ace",
+  "nicknameOrTagline": "New Jersey College Champ",
   "intro": "Michael Zheng is an American from New Jersey. He just finished college at Columbia in New York City. He is the local kid in this tournament.",
-  "story": "Michael's parents came to America from China. As a kid he rode a bus and subway to practice in Queens. He won the college national title two years in a row. This year he played all four Grand Slams. He got a special invite to the US Open, and he has won twice so far.",
+  "story": "As a kid, Michael rode a bus and subway to practice in Queens. He won the college national title two years in a row. This year he played all four Grand Slams, the biggest tournaments. He got into the US Open with a wild card, a special invitation. He has won twice so far!",
   "funFacts": [
     {
-      "text": "He won the college national title twice. Columbia's first since 1906!",
+      "text": "He won the college national title twice. His school's first since 1906!",
       "source": "https://en.wikipedia.org/wiki/Michael_Zheng"
     },
     {
-      "text": "He studied psychology at Columbia and kept great grades while playing pro tennis.",
+      "text": "He kept great grades in college while playing pro tennis.",
       "source": "https://www.atptour.com/en/news/zheng-australian-open-2026-feature"
     },
     {
-      "text": "He once flew overnight after winning a tournament to take a test the next morning.",
+      "text": "He once flew overnight after a tournament, then took a test the next morning.",
       "source": "https://www.atptour.com/en/news/zheng-australian-open-2026-feature"
     },
     {
-      "text": "In middle school he traveled 90 minutes by bus and subway to train in Queens.",
+      "text": "In middle school he rode a bus and subway 90 minutes to train in Queens.",
       "source": "https://www.atptour.com/en/news/zheng-challenger-2025-feature"
     },
     {
-      "text": "His dad Joe is a big Roger Federer fan. His older sister Amy plays tennis too.",
+      "text": "His dad Joe is a big Roger Federer fan. His big sister Amy plays tennis too.",
       "source": "https://www.atptour.com/en/news/zheng-challenger-2025-feature"
     },
     {
@@ -46,7 +46,7 @@
       "source": "https://www.atptour.com/en/news/zheng-australian-open-2026-feature"
     }
   ],
-  "watchFor": "Look for his Columbia teammates and classmates cheering in the stands, and his calm face after every point.",
+  "watchFor": "Look for his college friends cheering, and his calm face after every point.",
   "matchTomorrow": {
     "opponent": "Arthur Géa",
     "opponentSlug": "arthur-gea",

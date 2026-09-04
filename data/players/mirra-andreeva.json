@@ -2,8 +2,8 @@
   "slug": "mirra-andreeva",
   "name": "Mirra Andreeva",
   "country": "RU",
-  "countryName": "Russia",
-  "flagEmoji": "🇷🇺",
+  "countryName": "Plays without a flag",
+  "flagEmoji": "🎾",
   "birthDate": "2007-04-29",
   "age": 19,
   "seed": 5,
@@ -13,12 +13,12 @@
   "plays": "Right-handed, two-handed backhand",
   "heightCm": 175,
   "hometown": "Krasnoyarsk, Russia",
-  "nicknameOrTagline": "The teen who beat everyone",
-  "intro": "Mirra Andreeva is only 19, and she is already a Grand Slam champion. She grew up in Siberia, where winters are freezing cold. Now she is one of the best players in the world.",
-  "story": "Mirra started tennis at six. Her big sister Erika plays pro tennis too. At 17 she won two huge tournaments in a row. In 2026 she won the French Open. She is the youngest French Open champion in more than 30 years. Her coach is Conchita Martínez, who won Wimbledon herself.",
+  "nicknameOrTagline": "The Teen Who Beat Everyone",
+  "intro": "Mirra Andreeva is only 19. She already won a Grand Slam, one of the four biggest tournaments. She grew up in Siberia, where winters are freezing cold.",
+  "story": "Mirra started tennis at six. Her big sister Erika plays pro tennis too. At 17 she won two huge tournaments in a row. In 2026 she won the French Open. She is the youngest French Open champ in more than 30 years.",
   "funFacts": [
     {
-      "text": "Her big sister Erika is a pro tennis player too. They have played each other!",
+      "text": "Her big sister Erika is a pro too. They have played each other!",
       "source": "https://www.wtatennis.com/news/4146478/tough-for-both-of-us-erika-andreeva-defeats-sister-mirra-in-wuhan"
     },
     {
@@ -26,7 +26,7 @@
       "source": "https://tennishead.net/id-like-to-thank-me-mirra-andreeva-historic-dubai-triumph/"
     },
     {
-      "text": "She speaks Russian and English, and she is learning French and Spanish.",
+      "text": "She speaks Russian and English. She is learning French and Spanish.",
       "source": "https://www.tennismajors.com/wta-tour-news/madrid-erika-russia-everything-you-always-wanted-to-know-about-mirra-andreeva-but-never-had-time-to-find-out-677483.html"
     },
     {
@@ -42,11 +42,11 @@
       "source": "https://www.essentiallysports.com/wta-tennis-news-meet-mirra-andreeva-career-education-achievements-parents-siblings-net-worth-and-more/"
     },
     {
-      "text": "At 17 she became the youngest player ever to win a WTA 1000 tournament.",
+      "text": "At 17 she was the youngest ever to win one of the tour's biggest events.",
       "source": "https://tennishead.net/id-like-to-thank-me-mirra-andreeva-historic-dubai-triumph/"
     }
   ],
-  "watchFor": "Watch her backhand down the line: it is her favorite shot, and she hits it right on the line.",
+  "watchFor": "Watch her favorite shot, a backhand hit right down the line.",
   "matchTomorrow": {
     "opponent": "Nikola Bartunkova",
     "opponentSlug": "nikola-bartunkova",

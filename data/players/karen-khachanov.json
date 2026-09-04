@@ -2,8 +2,8 @@
   "slug": "karen-khachanov",
   "name": "Karen Khachanov",
   "country": "RU",
-  "countryName": "Russia",
-  "flagEmoji": "🇷🇺",
+  "countryName": "Plays without a flag",
+  "flagEmoji": "🎾",
   "birthDate": "1996-05-21",
   "age": 30,
   "seed": null,
@@ -14,11 +14,11 @@
   "heightCm": 198,
   "hometown": "Moscow, Russia",
   "nicknameOrTagline": "The Gentle Giant",
-  "intro": "Karen Khachanov is a tall tennis player from Moscow, Russia. He stands 6 feet 6 inches. He is famous for his huge serve and calm, quiet style.",
-  "story": "Karen started tennis at age three in a kindergarten class. He decided to become a pro player when he was 12. In 2018 he won the Paris Masters and beat Novak Djokovic in the final. He won a silver medal at the Tokyo Olympics. This week he beat the No. 3 seed to reach the third round.",
+  "intro": "Karen Khachanov is a tall player from Moscow. He stands 6 feet 6 inches. He is famous for his huge serve and calm, quiet style.",
+  "story": "Karen started tennis at age three in a kindergarten class. He decided to become a pro when he was 12. In 2018 he beat Novak Djokovic in a big final in Paris. He won a silver medal at the Tokyo Olympics. This week he beat the number 3 seed, one of the top-ranked players.",
   "funFacts": [
     {
-      "text": "He started playing tennis at age three in a kindergarten class.",
+      "text": "He started tennis at age three in a kindergarten class.",
       "source": "https://www.atptour.com/en/players/karen-khachanov/ke29/bio"
     },
     {
@@ -26,7 +26,7 @@
       "source": "https://www.atptour.com/en/players/karen-khachanov/ke29/bio"
     },
     {
-      "text": "He loved chemistry in school. He said the formulas 'danced around nicely' in his head.",
+      "text": "He loved chemistry in school. He said the formulas danced around in his head.",
       "source": "https://libema-open.nl/en/2024/06/12/interview-khachanov-my-teachers-looked-weird-about-it/"
     },
     {
@@ -46,7 +46,7 @@
       "source": "https://en.wikipedia.org/wiki/Karen_Khachanov"
     }
   ],
-  "watchFor": "Watch his booming serve: he is 6 feet 6, so the ball comes down from way up high.",
+  "watchFor": "Watch his booming serve come down from way up high.",
   "matchTomorrow": {
     "opponent": "Benjamin Bonzi",
     "opponentSlug": "benjamin-bonzi",

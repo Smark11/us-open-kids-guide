@@ -13,9 +13,9 @@
   "plays": "Right-handed, two-handed backhand",
   "heightCm": 196,
   "hometown": "Rancho Santa Fe, California, United States",
-  "nicknameOrTagline": "America's big server",
+  "nicknameOrTagline": "Big-Serving American",
   "intro": "Taylor Fritz is one of the top American men in tennis. He comes from sunny California. He is known for a booming serve and a rocket forehand.",
-  "story": "Taylor was born to play tennis. His mom was a top-10 player. His dad was a pro and a coach. In 2024, Taylor reached the US Open final right here in New York. He also won an Olympic bronze medal in doubles. This summer he won the big tournament in Washington, D.C. Tomorrow the home crowd will cheer for him.",
+  "story": "His mom was a top-10 player. His dad was a pro and a coach. In 2024 Taylor reached the US Open final, right here in New York. He also won an Olympic bronze medal in doubles. This summer he won the big tournament in Washington, D.C.",
   "funFacts": [
     {
       "text": "He is 6 feet 5 inches tall.",
@@ -50,7 +50,7 @@
       "source": "https://www.atptour.com/en/news/fritz-jodar-washington-2026-monday-final"
     }
   ],
-  "watchFor": "Watch his huge serve: count how many aces he hits!",
+  "watchFor": "Count his aces, the serves nobody even touches!",
   "matchTomorrow": {
     "opponent": "Francisco Cerundolo",
     "opponentSlug": "francisco-cerundolo",

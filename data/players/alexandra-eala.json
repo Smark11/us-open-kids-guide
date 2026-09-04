@@ -13,12 +13,12 @@
   "plays": "Left-handed, two-handed backhand",
   "heightCm": 175,
   "hometown": "Quezon City, Philippines",
-  "nicknameOrTagline": "Alex, the Pride of the Philippines",
-  "intro": "Alex Eala is a lefty from the Philippines. She is the first Filipino player ever to crack the top 20. Huge crowds of fans follow her, waving flags and shouting her name.",
-  "story": "Alex started tennis at age four. Her grandpa was her first coach. At 13 she moved to Spain to train at Rafael Nadal's academy. In 2022 she won the US Open junior title. That was right here in New York! This summer she won her first big WTA trophy in Washington.",
+  "nicknameOrTagline": "Pride of the Philippines",
+  "intro": "Alex Eala is a lefty from the Philippines. A lefty hits with her left hand. She is the first player from her country to reach the top 20.",
+  "story": "Alex started tennis at age four. Her grandpa was her first coach. At 13 she moved to Spain to train at Rafael Nadal's tennis school. In 2022 she won the US Open junior title, right here in New York! This summer she won her first big trophy in Washington.",
   "funFacts": [
     {
-      "text": "Her mom was a swimmer who won a bronze medal for the Philippines.",
+      "text": "Her mom was a swimmer. She won a bronze medal for the Philippines.",
       "source": "https://en.wikipedia.org/wiki/Alexandra_Eala"
     },
     {
@@ -34,7 +34,7 @@
       "source": "https://en.wikipedia.org/wiki/Alexandra_Eala"
     },
     {
-      "text": "She calls herself a foodie who loves cafes and bakeries. She says it is the Filipino in her.",
+      "text": "She calls herself a foodie. She loves cafes and bakeries.",
       "source": "https://www.sportbible.com/tennis/alex-eala-intriguing-insight-life-outside-of-tennis-us-open-572937-20260829"
     },
     {
@@ -46,7 +46,7 @@
       "source": "https://en.wikipedia.org/wiki/Alexandra_Eala"
     }
   ],
-  "watchFor": "Listen for fans chanting \"Alex! Alex!\" and watch her spinny lefty forehand yank opponents wide.",
+  "watchFor": "Listen for the fans chanting her name, then watch her spinny lefty forehand.",
   "matchTomorrow": {
     "opponent": "Iva Jovic",
     "opponentSlug": "iva-jovic",

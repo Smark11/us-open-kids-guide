@@ -15,10 +15,10 @@
   "hometown": "Velleron, France",
   "nicknameOrTagline": "Lucky Loser, Big Winner",
   "intro": "Arthur Géa is a young player from a tiny village in France. He almost did not get into this tournament. Now he is one of its best stories.",
-  "story": "Arthur lost in the last round of qualifying. Then another player got hurt, so Arthur took his spot. That is called a 'lucky loser.' He won a five-set match in round one. Then he won again. His whole village is cheering back home.",
+  "story": "Arthur lost in qualifying, the extra matches you play to get in. Then another player dropped out, so Arthur took his spot. That is called a lucky loser! He won a five-set match in round one, then won again. His whole village is cheering back home.",
   "funFacts": [
     {
-      "text": "He got into the US Open as a 'lucky loser' after another player pulled out.",
+      "text": "He got into the US Open as a lucky loser after another player pulled out.",
       "source": "https://www.atptour.com/en/news/ruud-us-open-2026-withdrawal"
     },
     {
@@ -30,7 +30,7 @@
       "source": "https://www.atptour.com/en/players/arthur-gea/g0ix/bio"
     },
     {
-      "text": "His hobby is taking ice baths. His guilty pleasure is pasta.",
+      "text": "His hobby is taking ice baths. His favorite treat is pasta.",
       "source": "https://www.atptour.com/en/players/arthur-gea/g0ix/bio"
     },
     {
@@ -46,7 +46,7 @@
       "source": "https://www.atptour.com/en/news/arthur-gea-los-cabos-2026-first-time-winner"
     }
   ],
-  "watchFor": "Watch his big forehand, his favorite shot. He says he smiles a lot on court, and his tennis idol is Rafael Nadal.",
+  "watchFor": "Watch his big forehand, his favorite shot, and count how often he smiles.",
   "matchTomorrow": {
     "opponent": "Michael Zheng",
     "opponentSlug": "michael-zheng",

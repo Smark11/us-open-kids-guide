@@ -13,12 +13,12 @@
   "plays": "Right-handed, two-handed backhand",
   "heightCm": 173,
   "hometown": "Torrance, California, United States",
-  "nicknameOrTagline": "California Beach Kid, Big Backhand",
-  "intro": "Iva Jovic is an 18-year-old from Torrance, California. She is the youngest player in the WTA top 20. She reached the quarterfinals of the Australian Open this year.",
-  "story": "Iva started tennis at age five. She also swam and played soccer as a kid. She and her big sister Mia battled in practice sets, and Iva could not stand losing! In 2024 she won two junior Grand Slam doubles titles. Now she is ranked No. 14 in the world.",
+  "nicknameOrTagline": "California Beach Kid",
+  "intro": "Iva Jovic is 18 and from Torrance, California. She is the youngest player in the top 20. She reached the quarterfinals of the Australian Open this year.",
+  "story": "Iva started tennis at age five. She also swam and played soccer as a kid. She and her big sister Mia battled in practice sets. Iva could not stand losing! In 2024 she won two big junior doubles titles.",
   "funFacts": [
     {
-      "text": "She lives near the beach and loves surfing, boogie boarding, and paddleboarding.",
+      "text": "She lives near the beach. She loves surfing, boogie boarding, and paddleboarding.",
       "source": "https://cincinnatiopen.com/news/iva-jovic-17-shares-parents-emigration-story-and-menace-memories/"
     },
     {
@@ -42,11 +42,11 @@
       "source": "https://www.rolandgarros.com/en-us/article/wta-interview-iva-jovic-rise-ambitions-career-clay-court-family-values"
     },
     {
-      "text": "She was the youngest American woman to win a US Open match since the year 2000.",
+      "text": "She was the youngest American woman to win a US Open match since 2000.",
       "source": "https://en.wikipedia.org/wiki/Iva_Jovic"
     }
   ],
-  "watchFor": "Watch her two-handed backhand: she hits it early and flips it cross-court in a flash.",
+  "watchFor": "Watch her two-handed backhand flip cross-court in a flash.",
   "matchTomorrow": {
     "opponent": "Alexandra Eala",
     "opponentSlug": "alexandra-eala",

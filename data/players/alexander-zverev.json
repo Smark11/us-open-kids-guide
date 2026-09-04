@@ -14,15 +14,15 @@
   "heightCm": 198,
   "hometown": "Hamburg, Germany",
   "nicknameOrTagline": "Sascha",
-  "intro": "Alexander Zverev is a super-tall tennis star from Hamburg, Germany. His friends call him Sascha. He is the number 1 seed here, and he has a giant serve.",
-  "story": "Sascha comes from a tennis family. His mom and dad were both pro players. His big brother Mischa was a pro too. His dad has coached him since he was a little boy. In 2026, Sascha finally won his first Grand Slam title at the French Open. He also has an Olympic gold medal from Tokyo.",
+  "intro": "Alexander Zverev is a super-tall star from Germany. His friends call him Sascha. He is the number 1 seed, the top ranking badge here.",
+  "story": "Sascha comes from a tennis family. His mom, dad, and big brother Mischa were all pros. His dad has coached him since he was little. In 2026 he finally won the French Open. That is a Grand Slam, one of the four biggest tournaments.",
   "funFacts": [
     {
-      "text": "He is 6 feet 6 inches tall. That is taller than most doorways feel!",
+      "text": "He is 6 feet 6 inches tall. That is really, really tall!",
       "source": "https://en.wikipedia.org/wiki/Alexander_Zverev"
     },
     {
-      "text": "He travels with a little grey poodle named Lovik. Lovik has even had his own tournament pass.",
+      "text": "He travels with a little grey poodle named Lovik. Lovik even had his own tournament pass!",
       "source": "https://www.rolandgarros.com/en-us/article/the-a-z-of-alexander-zverev"
     },
     {
@@ -38,7 +38,7 @@
       "source": "https://en.wikipedia.org/wiki/Alexander_Zverev"
     },
     {
-      "text": "He won the Olympic gold medal in Tokyo in 2021.",
+      "text": "He won Olympic gold in Tokyo in 2021.",
       "source": "https://en.wikipedia.org/wiki/Alexander_Zverev"
     },
     {
@@ -46,7 +46,7 @@
       "source": "https://www.rolandgarros.com/en-us/article/the-a-z-of-alexander-zverev"
     }
   ],
-  "watchFor": "Watch his serve: he tosses the ball way up high, then hits it so fast it is a blur.",
+  "watchFor": "Watch his sky-high ball toss, then a serve so fast it is a blur.",
   "matchTomorrow": {
     "opponent": "Alejandro Tabilo",
     "opponentSlug": "alejandro-tabilo",

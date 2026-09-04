@@ -13,16 +13,16 @@
   "plays": "Right-handed, two-handed backhand",
   "heightCm": 185,
   "hometown": "Lommel, Belgium",
-  "nicknameOrTagline": "Where is the party?",
-  "intro": "Zizou Bergs is a fun-loving player from Belgium. He is 27. This summer he became the first Belgian man to win a title on grass. He loves to get the crowd cheering.",
-  "story": "Zizou's parents thought they were having a girl. When a boy came, they needed a name fast. His dad's soccer nickname was Zizou, after the French star Zinedine Zidane. So Zizou it was! He started tennis lessons at age three. His grandpa traveled to his tournaments and helped him plan for matches. At the French Open he led the crowd in a chant. He yelled, Where is the party? The fans yelled back, Here is the party!",
+  "nicknameOrTagline": "Where Is the Party?",
+  "intro": "Zizou Bergs is a fun-loving player from Belgium. This summer he became the first Belgian man to win a title on grass. He loves to get the crowd cheering.",
+  "story": "Zizou's parents thought they were having a girl. When a boy came, they needed a name fast! His dad's soccer nickname was Zizou, after French star Zinedine Zidane. At the French Open he got the whole crowd chanting: Where is the party? Here is the party!",
   "funFacts": [
     {
       "text": "He is named after soccer legend Zinedine Zidane, whose nickname is Zizou.",
       "source": "https://www.atptour.com/en/news/bergs-roland-garros-2024-feature"
     },
     {
-      "text": "His parents expected a girl, so they had no boy names ready when he was born.",
+      "text": "His parents expected a girl, so they had no boy names ready.",
       "source": "https://www.atptour.com/en/news/bergs-roland-garros-2024-feature"
     },
     {
@@ -38,7 +38,7 @@
       "source": "https://en.wikipedia.org/wiki/Zizou_Bergs"
     },
     {
-      "text": "French fans cheer for him because they loved the first Zizou, Zinedine Zidane.",
+      "text": "French fans cheer for him because they loved the first Zizou.",
       "source": "https://www.tennis.com/baseline/articles/watch-zizou-bergs-where-is-party-roland-garros-breakthrough-zinedine-zidane-nickname"
     },
     {
@@ -46,7 +46,7 @@
       "source": "https://en.wikipedia.org/wiki/Zizou_Bergs"
     }
   ],
-  "watchFor": "Watch how he fires up the crowd after big points. He might even get them chanting.",
+  "watchFor": "Watch him fire up the crowd after big points, maybe even start a chant.",
   "matchTomorrow": {
     "opponent": "Botic van de Zandschulp",
     "opponentSlug": "botic-van-de-zandschulp",

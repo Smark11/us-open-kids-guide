@@ -1,0 +1,90 @@
+{
+  "slug": "taylor-townsend",
+  "name": "Taylor Townsend",
+  "country": "US",
+  "countryName": "United States",
+  "flagEmoji": "🇺🇸",
+  "birthDate": "1996-04-16",
+  "age": 30,
+  "seed": null,
+  "ranking": 96,
+  "draw": "women",
+  "tier": 1,
+  "plays": "Left-handed, two-handed backhand",
+  "heightCm": 170,
+  "hometown": "Chicago, Illinois, United States",
+  "nicknameOrTagline": "The Net-Rushing Lefty Mom",
+  "intro": "Taylor Townsend is a lefty from Chicago with a huge smile. A lefty plays with the left hand. She loves to charge the net.",
+  "story": "At 16, Taylor was the No. 1 junior in the world. She has won three Grand Slam doubles titles, the biggest tournaments in tennis. In 2025 she became the first mom ever ranked No. 1 in doubles. On Friday she rushed the net 44 times and beat the 15th seed. A seed is a top-ranked player, so that was huge!",
+  "funFacts": [
+    {
+      "text": "Her son AJ is five. He gives her tips: hit it where she isn't!",
+      "source": "https://www.profootballnetwork.com/tennis/coached-by-son-taylor-townsend-gets-real-motherhood-austin/"
+    },
+    {
+      "text": "She grew up on the South Side of Chicago in a big tennis family.",
+      "source": "https://sports.yahoo.com/article/12-interesting-facts-know-tennis-201114412.html"
+    },
+    {
+      "text": "She eats and writes with her left hand, and plays lefty too.",
+      "source": "https://www.revolt.tv/article/interesting-facts-about-taylor-townsend-tennis-champion"
+    },
+    {
+      "text": "She taught rapper Cardi B how to play tennis on a TV show.",
+      "source": "https://sports.yahoo.com/article/12-interesting-facts-know-tennis-201114412.html"
+    },
+    {
+      "text": "Her mom played college tennis. Her sister Symone did too.",
+      "source": "https://sports.yahoo.com/article/12-interesting-facts-know-tennis-201114412.html"
+    },
+    {
+      "text": "Her tennis hero is lefty legend Martina Navratilova.",
+      "source": "https://sports.yahoo.com/article/12-interesting-facts-know-tennis-201114412.html"
+    },
+    {
+      "text": "She has won Wimbledon, the Australian Open, and the French Open in doubles.",
+      "source": "https://en.wikipedia.org/wiki/Taylor_Townsend"
+    }
+  ],
+  "watchFor": "Watch her serve and sprint to the net, a move almost nobody does anymore.",
+  "matchTomorrow": {
+    "opponent": "Aryna Sabalenka",
+    "opponentSlug": "aryna-sabalenka",
+    "court": "Arthur Ashe Stadium",
+    "session": "day",
+    "matchId": "m21"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Taylor_Townsend_%282025_DC_Open%29_10_%28cropped%29.jpg",
+    "localPath": "img/players/taylor-townsend.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ATaylor_Townsend_%282025_DC_Open%29_10_%28cropped%29.jpg",
+    "title": "File:Taylor_Townsend_(2025_DC_Open)_10_(cropped).jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Taylor_Townsend",
+    "https://sports.yahoo.com/article/12-interesting-facts-know-tennis-201114412.html",
+    "https://www.profootballnetwork.com/tennis/coached-by-son-taylor-townsend-gets-real-motherhood-austin/",
+    "https://www.wtatennis.com/news/4572273/taylor-townsend-beats-diana-shnaider-to-reach-fourth-round-of-us-open",
+    "https://bleacherreport.com/articles/25496089-us-open-tennis-2026-results-winners-losers-and-highlights-fridays-bracket",
+    "https://www.revolt.tv/article/interesting-facts-about-taylor-townsend-tennis-champion"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-05T15:30:00Z",
+  "factCheck": {
+    "checkedAt": "2026-09-05T18:00:00Z",
+    "notes": [
+      "Bio (birth 1996-04-16, Chicago, 170 cm, lefty two-handed backhand) verified vs Wikipedia; ranking 96/unseeded and opponent Aryna Sabalenka (m21, Ashe day) match schedule.json.",
+      "2012 ITF junior world champion at 16, 3 Slam doubles titles with Siniakova (2024 Wimbledon, 2025 AO, 2026 RG), first mother to reach No. 1 (July 2025): Wikipedia + Yahoo.",
+      "Friday R3: beat No. 15 Diana Shnaider 6-2 6-7(3) 6-3 with 44 net approaches (wtatennis.com + Bleacher Report).",
+      "Son Adyn 'AJ' born 2021-03-14 (Wikipedia) -> age 5 on match day; 'hit it where she's not' tip from profootballnetwork article.",
+      "Left-handed eating/writing quote, South Side, Cardi B, Navratilova: Revolt/Yahoo 12-facts article; mother Sheila (Lincoln University) and sister Symone (Florida A&M) college tennis: Yahoo + Wikipedia."
+    ],
+    "changes": [
+      "Intro: 'doubles world champion' -> 'Grand Slam doubles champion'.",
+      "Story: removed the 2012 fitness/USTA controversy sentences (age-appropriateness).",
+      "Fixed sources on two fun facts (left-hand quote -> Revolt article; mother/sister -> Yahoo)."
+    ]
+  }
+}

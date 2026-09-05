@@ -1,0 +1,90 @@
+{
+  "slug": "marta-kostyuk",
+  "name": "Marta Kostyuk",
+  "country": "UA",
+  "countryName": "Ukraine",
+  "flagEmoji": "🇺🇦",
+  "birthDate": "2002-06-28",
+  "age": 24,
+  "seed": 11,
+  "ranking": 11,
+  "draw": "women",
+  "tier": 1,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 175,
+  "hometown": "Kyiv, Ukraine",
+  "nicknameOrTagline": "The Backflip Champ",
+  "intro": "Marta Kostyuk is a fierce player from Kyiv, Ukraine. She has been winning since she was a kid. This year she won the biggest trophy of her life in Madrid.",
+  "story": "Marta comes from a tennis family. Her mom was a pro player and taught her the game. At 14 she won the junior Australian Open. This spring she won 12 clay matches in a row, ending in Madrid. On Friday she won in straight sets, so she plays again Sunday.",
+  "funFacts": [
+    {
+      "text": "After winning in Madrid, she did a backflip on the court!",
+      "source": "https://gulfnews.com/sport/tennis/marta-kostyuk-wins-madrid-open-2026-title-with-a-perfect-10-backflip-finish-1.500527386"
+    },
+    {
+      "text": "Nadia Comaneci, a famous gymnast, gave the backflip a perfect 10.",
+      "source": "https://gulfnews.com/sport/tennis/marta-kostyuk-wins-madrid-open-2026-title-with-a-perfect-10-backflip-finish-1.500527386"
+    },
+    {
+      "text": "She packs a sleep mask and lavender spray for her pillow.",
+      "source": "https://www.elitedaily.com/lifestyle/marta-kostyuk-tennis-match-day-routine"
+    },
+    {
+      "text": "On tournament nights she stays in, orders food, and watches Netflix.",
+      "source": "https://www.elitedaily.com/lifestyle/marta-kostyuk-tennis-match-day-routine"
+    },
+    {
+      "text": "She loves to try a new restaurant in each city.",
+      "source": "https://www.elitedaily.com/lifestyle/marta-kostyuk-tennis-match-day-routine"
+    },
+    {
+      "text": "Her mom, Talina, was a pro tennis player. Her uncle played for Ukraine too.",
+      "source": "https://en.wikipedia.org/wiki/Marta_Kostyuk"
+    },
+    {
+      "text": "At 15 she played at the Australian Open. She was the youngest there in years.",
+      "source": "https://en.wikipedia.org/wiki/Marta_Kostyuk"
+    }
+  ],
+  "watchFor": "Spot her cool outfit, then stay to see if she does a backflip!",
+  "matchTomorrow": {
+    "opponent": "Linda Nosková",
+    "opponentSlug": "linda-noskova",
+    "court": "Louis Armstrong Stadium",
+    "session": "day",
+    "matchId": "m22"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Marta_Kostyuk_%282023_US_Open%29_20_%28cropped%29.jpg",
+    "localPath": "img/players/marta-kostyuk.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AMarta_Kostyuk_%282023_US_Open%29_20_%28cropped%29.jpg",
+    "title": "File:Marta_Kostyuk_(2023_US_Open)_20_(cropped).jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Marta_Kostyuk",
+    "https://www.wtatennis.com/news/4497140/kostyuk-breaks-through-for-first-wta-1000-title-in-madrid",
+    "https://gulfnews.com/sport/tennis/marta-kostyuk-wins-madrid-open-2026-title-with-a-perfect-10-backflip-finish-1.500527386",
+    "https://www.elitedaily.com/lifestyle/marta-kostyuk-tennis-match-day-routine",
+    "https://www.rolandgarros.com/en-us/article/2026-edition-sf-kostyuk-andreeva",
+    "https://www.wtatennis.com/tournaments/wimbledon/scores/LS72320484",
+    "https://www.espn.com/tennis/story/_/id/49306654/marta-kostyuk-linda-noskova-advance-wimbledon-semifinals"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-05T17:46:49Z",
+  "factCheck": {
+    "checkedAt": "2026-09-05T17:52:00Z",
+    "notes": [
+      "Bio (DOB 2002-06-28, Kyiv, 175cm, right/2HBH, No.11, mother Talina Beiko pro, uncle Taras Beiko played for Ukraine, 2017 junior AO at 14, 2018 AO main draw at 15y6m youngest since 2005) confirmed via Wikipedia REST; seed 11 / rank 11 / opponent Noskova match schedule.json m22.",
+      "Madrid 2026 title d. Andreeva, backflip, Comaneci '#perfect10' post: Gulf News + WTA. WTA: 12 matches undefeated on clay (Rouen + Madrid).",
+      "RG 2026 SF (lost to Andreeva) and Wimbledon 2026 SF (lost to Noskova 6-4 6-4): confirmed via rolandgarros.com, WTA, ESPN.",
+      "R3 d. Alexandrova 6-3 6-2 in straight sets confirmed. Elite Daily routine facts confirmed verbatim.",
+      "No war/politics content present."
+    ],
+    "changes": [
+      "Story: streak sentence reworded ('12 clay-court matches in a row, lifting trophies in Rouen and then Madrid') to match WTA source; removed inaccurate 'run ended with Madrid'.",
+      "watchFor: replaced generic fist-pump with documented Madrid backflip; 'bold, bright' softened to 'eye-catching' per Elite Daily."
+    ]
+  }
+}

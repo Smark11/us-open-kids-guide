@@ -1,0 +1,94 @@
+{
+  "slug": "tommy-paul",
+  "name": "Tommy Paul",
+  "country": "US",
+  "countryName": "United States",
+  "flagEmoji": "🇺🇸",
+  "birthDate": "1997-05-17",
+  "age": 29,
+  "seed": 20,
+  "ranking": 21,
+  "draw": "men",
+  "tier": 1,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 185,
+  "hometown": "Greenville, North Carolina, United States",
+  "nicknameOrTagline": "TP",
+  "intro": "Tommy Paul is a speedy American from North Carolina. Fans call him TP. He chases down every ball.",
+  "story": "Tommy grew up on clay courts in Greenville, North Carolina. As a junior he won the French Open boys' title. He beat his pal Taylor Fritz in that final. In 2024 they won an Olympic bronze medal together in doubles. On Friday he was down two sets to one, then came back to win.",
+  "funFacts": [
+    {
+      "text": "He loves deep-sea fishing. He says it clears his mind.",
+      "source": "https://www.tennis.com/news/articles/tommy-paul-unlocks-happy-medium-taking-job-seriously-having-fun-interview-top-10"
+    },
+    {
+      "text": "As a kid he fished every summer weekend in North Carolina.",
+      "source": "https://www.tennis.com/news/articles/behind-the-camo-tommy-paul-talks-style-sailing-and-the-search-for-the-third-man"
+    },
+    {
+      "text": "He wears camo clothes a lot. He calls himself an outdoor guy.",
+      "source": "https://www.tennis.com/news/articles/behind-the-camo-tommy-paul-talks-style-sailing-and-the-search-for-the-third-man"
+    },
+    {
+      "text": "His other hobbies are surfing, basketball, golf, and dirt bikes.",
+      "source": "https://www.atptour.com/en/players/tommy-paul/pl56/bio"
+    },
+    {
+      "text": "He is a big Philadelphia Eagles football fan.",
+      "source": "https://www.atptour.com/en/players/tommy-paul/pl56/bio"
+    },
+    {
+      "text": "His favorite tournament is the US Open.",
+      "source": "https://www.atptour.com/en/players/tommy-paul/pl56/bio"
+    },
+    {
+      "text": "He has beaten Carlos Alcaraz twice, and Rafael Nadal too.",
+      "source": "https://en.wikipedia.org/wiki/Tommy_Paul_(tennis)"
+    }
+  ],
+  "watchFor": "Watch him spin his racket on his fingers between points, like a toy.",
+  "matchTomorrow": {
+    "opponent": "Carlos Alcaraz",
+    "opponentSlug": "carlos-alcaraz",
+    "court": "Arthur Ashe Stadium",
+    "session": "day",
+    "matchId": "m20"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Tommy_Paul_at_the_2026_Delray_Beach_Open.jpg",
+    "localPath": "img/players/tommy-paul.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Gatorfan252525",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ATommy_Paul_at_the_2026_Delray_Beach_Open.jpg",
+    "title": "File:Tommy_Paul_at_the_2026_Delray_Beach_Open.jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tommy_Paul_(tennis)",
+    "https://www.atptour.com/en/players/tommy-paul/pl56/bio",
+    "https://www.tennis.com/news/articles/behind-the-camo-tommy-paul-talks-style-sailing-and-the-search-for-the-third-man",
+    "https://www.tennis.com/news/articles/tommy-paul-unlocks-happy-medium-taking-job-seriously-having-fun-interview-top-10",
+    "https://www.si.com/onsi/serve/interviews/tommy-paul-talks-yellowfin-favorite-fishing-spots-atp-tour",
+    "https://bleacherreport.com/articles/25496089-us-open-tennis-2026-results-winners-losers-and-highlights-fridays-bracket",
+    "https://www.atptour.com/en/news/matthew-mcconaughey-tommy-paul-rome-2024",
+    "https://www.sportskeeda.com/tennis/news-best-i-seen-since-andre-agassi-tommy-paul-s-racket-spinning-skills-impresses-brad-gilbert",
+    "https://www.espn.com/tennis/story/_/id/28534524/former-youth-sensation-tommy-paul-beginning-realize-potential-australian-open",
+    "https://www.indiatvnews.com/sports/tennis/carlos-alcaraz-vs-tommy-paul-head-to-head-record-ahead-of-australian-open-2026-clash-2026-01-23-1027183"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-05T15:30:00Z",
+  "factCheck": {
+    "checkedAt": "2026-09-05T18:00:00Z",
+    "notes": [
+      "Bio (birth 1997-05-17, 185 cm, righty two-handed backhand) verified vs Wikipedia; born Voorhees NJ but ATP bio says he moved at 3 months and grew up on clay courts in Greenville NC, so hometown kept.",
+      "Seed 20 / ranking 21 and opponent Carlos Alcaraz (m20, Ashe day) match schedule.json.",
+      "2015 RG boys' title over Fritz (Wikipedia + ATP), 2024 Olympic doubles bronze with Fritz (Wikipedia). Friday R3: beat No. 15 Bublik 6-4 3-6 6-7(4) 6-1 6-3 (Bleacher Report) - came back from 2-1 down, correct.",
+      "Racket-spinning habit: Wikipedia plus Brad Gilbert quote reported by Sportskeeda (2023); source added.",
+      "'TP' nickname: ATP article quotes Matthew McConaughey's 'Looking good TP'; intro softened from 'Friends' to 'Fans'.",
+      "Fishing/camo facts confirmed in the two cited tennis.com articles; hobbies/Eagles/US Open favorite confirmed on ATP bio; two Alcaraz wins (2022, 2023 Canadian Open) and Nadal win (2022 Paris) per Wikipedia, consistent with 6-2 H2H reported Jan 2026."
+    ],
+    "changes": [
+      "Intro: 'Friends call him TP' -> 'Fans call him TP'; replaced unsourced 'big forehand' with ESPN-supported 'nimble athlete'.",
+      "watchFor: kept racket spinning, added Brad Gilbert/Agassi comparison with Sportskeeda source."
+    ]
+  }
+}

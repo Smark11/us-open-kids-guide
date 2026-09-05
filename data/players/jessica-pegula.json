@@ -1,0 +1,86 @@
+{
+  "slug": "jessica-pegula",
+  "name": "Jessica Pegula",
+  "country": "US",
+  "countryName": "United States",
+  "flagEmoji": "🇺🇸",
+  "birthDate": "1994-02-24",
+  "age": 32,
+  "seed": 3,
+  "ranking": 3,
+  "draw": "women",
+  "tier": 1,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 170,
+  "hometown": "Buffalo, New York, United States",
+  "nicknameOrTagline": "Buffalo's Steady Star",
+  "intro": "Jessica Pegula is an American star from Buffalo, New York. She is ranked No. 3 in the world. She is also a huge dog lover.",
+  "story": "Jessica took the slow road to the top. She did not crack the top 10 until she was 28. Then she just kept climbing. She has won 11 titles and made the final here in 2024. On Friday she lost the first set, then roared back to win.",
+  "funFacts": [
+    {
+      "text": "Her parents own the Buffalo Bills football team and the Buffalo Sabres hockey team.",
+      "source": "https://en.wikipedia.org/wiki/Jessica_Pegula"
+    },
+    {
+      "text": "Her dog Maddie, a mini Australian shepherd, joined her on stage after a win.",
+      "source": "https://www.tennis.com/news/articles/never-judge-just-love-jessica-pegula-and-her-dogs-have-been-a-winning-pair"
+    },
+    {
+      "text": "She started a charity called A Lending Paw. It helps rescue dogs.",
+      "source": "https://www.tennis.com/news/articles/never-judge-just-love-jessica-pegula-and-her-dogs-have-been-a-winning-pair"
+    },
+    {
+      "text": "She started her own skincare company called Ready 24.",
+      "source": "https://en.wikipedia.org/wiki/Jessica_Pegula"
+    },
+    {
+      "text": "Her mom is Korean-American, so Jessica is part Korean.",
+      "source": "https://en.wikipedia.org/wiki/Jessica_Pegula"
+    },
+    {
+      "text": "She was world No. 1 in doubles in 2023. That is tennis with a teammate.",
+      "source": "https://en.wikipedia.org/wiki/Jessica_Pegula"
+    },
+    {
+      "text": "She has reached the fourth round here five years in a row.",
+      "source": "https://bleacherreport.com/articles/25496089-us-open-tennis-2026-results-winners-losers-and-highlights-fridays-bracket"
+    }
+  ],
+  "watchFor": "Watch her flat, laser-straight backhand skim just over the net.",
+  "matchTomorrow": {
+    "opponent": "Sorana Cirstea",
+    "opponentSlug": "sorana-cirstea",
+    "court": "Louis Armstrong Stadium",
+    "session": "day",
+    "matchId": "m23"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Jessica_Pegula_%282025_DC_Open%29_01_%28cropped%29.jpg",
+    "localPath": "img/players/jessica-pegula.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AJessica_Pegula_%282025_DC_Open%29_01_%28cropped%29.jpg",
+    "title": "File:Jessica_Pegula_(2025_DC_Open)_01_(cropped).jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jessica_Pegula",
+    "https://www.tennis.com/news/articles/never-judge-just-love-jessica-pegula-and-her-dogs-have-been-a-winning-pair",
+    "https://www.essentiallysports.com/wta-tennis-news-dog-mom-jessica-pegula-reveals-how-she-balances-her-tennis-journey-while-caring-for-her-furry-companions/",
+    "https://bleacherreport.com/articles/25496089-us-open-tennis-2026-results-winners-losers-and-highlights-fridays-bracket",
+    "https://en.wikipedia.org/wiki/Terry_Pegula",
+    "https://www.wtatennis.com/news/4482273/pegula-goes-back-to-back-in-charleston-for-second-title-of-2026"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-05T17:46:19+00:00",
+  "factCheck": {
+    "checkedAt": "2026-09-05T17:50:09+00:00",
+    "notes": [
+      "First top-10 entry June 2022 (born Feb 1994 = age 28) per Wikipedia; corrected from 27. 11 WTA singles titles confirmed (Dubai 2026 = 10th, Charleston 2026 = 11th per WTA news). Doubles No. 1 Sept 2023, 2024 US Open final, Ready 24 skincare, Korean mother: Wikipedia. Parents own Bills and Sabres: Terry Pegula Wikipedia. Maddie (mini Australian shepherd) on stage at Charleston trophy ceremony and A Lending Paw charity: tennis.com. Fifth straight fourth round and Friday comeback vs Fernandez 1-6 6-4 6-3: Bleacher Report.",
+      "Birth date, height 170, plays, hometown Buffalo, seed 3 / rank 3, opponent Sorana Cirstea (m23) match sources and schedule.json."
+    ],
+    "changes": [
+      "Corrected 'until age 27' to 'until she was 28'.",
+      "Rewrote charity fact: A Lending Paw supports dog rescue/rehabilitation, not service-dog training."
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "slug": "alex-michelsen",
+  "name": "Alex Michelsen",
+  "country": "US",
+  "countryName": "United States",
+  "flagEmoji": "🇺🇸",
+  "birthDate": "2004-08-25",
+  "age": 22,
+  "seed": null,
+  "ranking": 46,
+  "draw": "men",
+  "tier": 2,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 193,
+  "hometown": "Aliso Viejo, California, United States",
+  "nicknameOrTagline": "The Garage Backhand Kid",
+  "intro": "Alex Michelsen is a tall young American from California. He just turned 22. He has a rock-solid backhand and a big serve.",
+  "story": "At age three, Alex hit backhands against the family garage door. His mom hit with him almost every day. He says she is like a wall! At 18 he skipped college and reached a pro final right away. On Friday he won in straight sets, so he plays again Sunday.",
+  "funFacts": [
+    {
+      "text": "He learned tennis by hitting backhands in his garage at age three.",
+      "source": "https://www.atptour.com/en/players/alex-michelsen/m0qi/bio"
+    },
+    {
+      "text": "Both his parents played college tennis. His mom hit with him almost every day.",
+      "source": "https://tennisnow.com/orange-rush-michelsen-stuns-fritz-for-indian-wells-round-of-16/"
+    },
+    {
+      "text": "His favorite movie is Star Wars. His favorite book is Harry Potter.",
+      "source": "https://www.atptour.com/en/players/alex-michelsen/m0qi/bio"
+    },
+    {
+      "text": "He loves video games. He plays them against his pal Learner Tien, another player.",
+      "source": "https://www.atptour.com/en/news/michelsen-tien-toronto-2025-fierce-feuds"
+    },
+    {
+      "text": "He plays basketball for fun and cheers for the Lakers.",
+      "source": "https://www.atptour.com/en/players/alex-michelsen/m0qi/bio"
+    },
+    {
+      "text": "His favorite ice cream flavor is plain vanilla.",
+      "source": "https://www.tennis-prose.com/articles/biofile-alex-michelsen-interview/"
+    },
+    {
+      "text": "He won the Wimbledon boys' doubles title in 2022 with his friend Sebastian.",
+      "source": "https://en.wikipedia.org/wiki/Alex_Michelsen"
+    }
+  ],
+  "watchFor": "Watch his two-handed backhand rip straight down the line for a winner!",
+  "matchTomorrow": {
+    "opponent": "Tomás Martín Etcheverry",
+    "opponentSlug": "tomas-martin-etcheverry",
+    "court": "Grandstand",
+    "session": "day",
+    "matchId": "m18"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Alex_Michelsen_%282023_US_Open%29_25_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "localPath": "img/players/alex-michelsen.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AAlex_Michelsen_%282023_US_Open%29_25_%28cropped%29.jpg",
+    "title": "File:Alex_Michelsen_(2023_US_Open)_25_(cropped).jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Alex_Michelsen",
+    "https://www.atptour.com/en/players/alex-michelsen/m0qi/bio",
+    "https://www.atptour.com/en/news/michelsen-australian-open-2025-feature",
+    "https://www.tennis-prose.com/articles/biofile-alex-michelsen-interview/",
+    "https://www.tennismajors.com/atp/breaking-through-get-to-know-alex-michelsen-one-of-the-rising-stars-of-mens-tennis-806885.html",
+    "https://tennisnow.com/orange-rush-michelsen-stuns-fritz-for-indian-wells-round-of-16/",
+    "https://www.atptour.com/en/news/michelsen-tien-toronto-2025-fierce-feuds",
+    "https://bleacherreport.com/articles/25496089-us-open-tennis-2026-results-winners-losers-and-highlights-fridays-bracket"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-05T17:51:19Z",
+  "factCheck": {
+    "checkedAt": "2026-09-05T19:30:00Z",
+    "notes": [
+      "Bio (born 25 Aug 2004 Aliso Viejo CA, 6'4\"/193 cm, right-handed/two-handed backhand, turned pro 2023 forgoing Georgia, first ATP final at 18, 2022 Wimbledon boys' doubles with Sebastian Gorzny, wins over top-10 players) verified on Wikipedia. Age 22 correct as of 2026-09-05 ('just turned 22' is accurate).",
+      "Unseeded / ranking 46 and Sunday opponent Etcheverry (m18, Grandstand day) match data/schedule.json.",
+      "Friday straight-sets win over Daniel Merida Aguilar verified via Bleacher Report.",
+      "Hometown: Wikipedia gives birthplace Aliso Viejo; ATP feature says the family home is in Irvine (both Orange County). Kept Aliso Viejo (birthplace); intro says 'Southern California'.",
+      "Garage backhands at three, parents (father All-American at Redlands, mother San Diego State), Star Wars, Harry Potter, basketball/Lakers verified on ATP bio; vanilla ice cream verified at tennis-prose Biofile."
+    ],
+    "changes": [
+      "'Mom was hitting partner until he was 16' could not be found in the cited ATP AO 2025 feature; rewrote to the Tennis Now-sourced version (hit with him nearly daily from age four, 'She's a wall').",
+      "Fortnite/Clash of Clans: Wikipedia only references an ATP article about Fortnite with Learner Tien; dropped Clash of Clans and re-sourced the fact to that ATP article."
+    ]
+  }
+}

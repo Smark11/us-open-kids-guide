@@ -1,0 +1,93 @@
+{
+  "slug": "sorana-cirstea",
+  "name": "Sorana Cîrstea",
+  "country": "RO",
+  "countryName": "Romania",
+  "flagEmoji": "🇷🇴",
+  "birthDate": "1990-04-07",
+  "age": 36,
+  "seed": 16,
+  "ranking": 17,
+  "draw": "women",
+  "tier": 1,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 176,
+  "hometown": "Bucharest, Romania",
+  "nicknameOrTagline": "Romania's Comeback Queen",
+  "intro": "Sorana Cîrstea is a tennis veteran from Romania. She has played on tour for 20 years. At 36, she is playing the best tennis of her life!",
+  "story": "Her mom put a racket in her hand at age four. She reached the French Open quarterfinals way back in 2009. This year she did it again, 17 years later! This is her last season on tour, so cheer extra loud! On Friday she beat the 19th seed, a top-ranked player, in straight sets.",
+  "funFacts": [
+    {
+      "text": "Her favorite ice cream flavor is coconut. Sweet!",
+      "source": "https://www.tennis-prose.com/articles/sorana-cirstea-biofile/"
+    },
+    {
+      "text": "She speaks Romanian, English, and Spanish. Now she is learning French.",
+      "source": "https://www.wtatennis.com/players/312469/sorana-cirstea"
+    },
+    {
+      "text": "She loves reading books and doing crossword puzzles on the road.",
+      "source": "https://www.wtatennis.com/players/312469/sorana-cirstea"
+    },
+    {
+      "text": "New York is one of her two favorite cities in the world.",
+      "source": "https://www.wtatennis.com/players/312469/sorana-cirstea"
+    },
+    {
+      "text": "She has a younger brother named Mihnea.",
+      "source": "https://en.wikipedia.org/wiki/Sorana_C%C3%AErstea"
+    },
+    {
+      "text": "Her tennis hero is Steffi Graf. Seeing Steffi on TV made her want to play.",
+      "source": "https://www.tennis-prose.com/articles/sorana-cirstea-biofile/"
+    },
+    {
+      "text": "In February she won a title at home in Romania without losing a set.",
+      "source": "https://www.tennis.com/news/articles/in-final-year-on-tour-sorana-cirstea-wins-home-title-over-emma-raducanu-in-cluj-napoca"
+    }
+  ],
+  "watchFor": "Watch her big forehand, her favorite shot, crack winners from way back.",
+  "matchTomorrow": {
+    "opponent": "Jessica Pegula",
+    "opponentSlug": "jessica-pegula",
+    "court": "Louis Armstrong Stadium",
+    "session": "day",
+    "matchId": "m23"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Transylvania_Open_2026_Final_-_Sorana_C%C3%AErstea_vs_Emma_R%C4%83ducanu_6%E2%80%930%2C_6%E2%80%932_07.02.2026_%28cropped2%29.jpg",
+    "localPath": "img/players/sorana-cirstea.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Nuță Lucian from Cluj-Napoca, Romania",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ATransylvania_Open_2026_Final_-_Sorana_C%C3%AErstea_vs_Emma_R%C4%83ducanu_6%E2%80%930%2C_6%E2%80%932_07.02.2026_%28cropped2%29.jpg",
+    "title": "File:Transylvania_Open_2026_Final_-_Sorana_Cîrstea_vs_Emma_Răducanu_6–0,_6–2_07.02.2026_(cropped2).jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sorana_C%C3%AErstea",
+    "https://www.wtatennis.com/players/312469/sorana-cirstea",
+    "https://www.tennis.com/news/articles/in-final-year-on-tour-sorana-cirstea-wins-home-title-over-emma-raducanu-in-cluj-napoca",
+    "https://bleacherreport.com/articles/25496089-us-open-tennis-2026-results-winners-losers-and-highlights-fridays-bracket",
+    "https://www.tennis-prose.com/articles/sorana-cirstea-biofile/",
+    "https://www.wtatennis.com/news/4505424/rankings-watch-cirstea-36-becomes-oldest-player-to-make-top-20-debut",
+    "https://www.wtatennis.com/news/4512048/by-the-numbers-cirstea-sets-open-era-record-with-17-year-gap-between-roland-garros-quarterfinals"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-05T15:30:00Z",
+  "factCheck": {
+    "checkedAt": "2026-09-05T18:00:00Z",
+    "notes": [
+      "Bio (birth 1990-04-07, 176 cm, righty two-handed backhand) verified vs Wikipedia + WTA profile; seed 16 / ranking 17 and opponent Jessica Pegula (m23, Armstrong day) match schedule.json.",
+      "Born in Bucharest per both Wikipedia and WTA; Targoviste appears only as family residence on Wikipedia/derivative sites, so hometown changed to Bucharest.",
+      "RG QF 2009 and 2026 (17-year gap, Open Era record) confirmed by wtatennis.com; career-high No. 17 confirmed on WTA profile; oldest Top 20 debut at 36 confirmed by wtatennis.com/tennis.com (May 2026).",
+      "20 years on tour, retiring after 2026, Cluj title over Raducanu without dropping a set: tennis.com. Friday R3: beat No. 19 Paolini 6-3 6-3 (Bleacher Report).",
+      "Languages, reading/crosswords, New York favorite city, forehand favorite shot, mom at age 4: WTA profile. Brother Mihnea: Wikipedia + WTA profile.",
+      "Ice cream factory claim only on Wikipedia and sites copying it; replaced with sourced favorite-flavor fact. Federer as hero only on Wikipedia; WTA/Tennis-Prose name Graf only."
+    ],
+    "changes": [
+      "hometown Targoviste -> Bucharest.",
+      "Fun fact 1: 'dad runs an ice cream factory' -> 'favorite ice cream flavor is coconut' (Tennis-Prose).",
+      "Fun fact 6: dropped Federer, kept Steffi Graf with Tennis-Prose source.",
+      "Story: retirement line rewritten to 'last season... last US Open, so cheer extra loud'."
+    ]
+  }
+}

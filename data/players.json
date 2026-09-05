@@ -440,7 +440,9 @@
    "round": "Third round",
    "day": "2026-09-05",
    "startTimeNote": "Follows previous match on this court",
-   "status": "scheduled"
+   "status": "in_progress",
+   "winnerSlug": null,
+   "score": null
   },
   {
    "id": "m14",
@@ -808,7 +810,7 @@
    ]
   }
  ],
- "generatedAt": "2026-09-05T13:42:00",
+ "generatedAt": "2026-09-05T14:01:46",
  "players": [
   {
    "slug": "alexander-zverev",
@@ -1347,7 +1349,7 @@
     "matchId": "m13",
     "round": "Third round",
     "day": "2026-09-05",
-    "status": "scheduled",
+    "status": "in_progress",
     "winnerSlug": null,
     "score": null
    },
@@ -2936,7 +2938,7 @@
     "matchId": "m13",
     "round": "Third round",
     "day": "2026-09-05",
-    "status": "scheduled",
+    "status": "in_progress",
     "winnerSlug": null,
     "score": null
    },
@@ -3978,6 +3980,1626 @@
    "matchTier": 2,
    "playsSaturday": true,
    "round": "Third round"
+  },
+  {
+   "slug": "aryna-sabalenka",
+   "name": "Aryna Sabalenka",
+   "country": "BY",
+   "countryName": "Plays without a flag",
+   "flagEmoji": "🎾",
+   "birthDate": "1998-05-05",
+   "age": 28,
+   "seed": 1,
+   "ranking": 1,
+   "draw": "women",
+   "tier": 1,
+   "plays": "Right-handed, two-handed backhand",
+   "heightCm": 182,
+   "hometown": "Minsk, Belarus",
+   "nicknameOrTagline": "The Tiger",
+   "intro": "Aryna Sabalenka is the world No. 1 in women's tennis. People call her The Tiger. She hits the ball very, very hard.",
+   "story": "Aryna found tennis by accident. At age six, her dad drove past some courts and said, let's try it. Now she has won four Grand Slams, the biggest tournaments in tennis. Two of those wins were right here at the US Open! On Friday she beat Kamilla Rakhimova, and she plays again Sunday.",
+   "funFacts": [
+    {
+     "text": "She has a tiger tattoo on her arm. She was born in the Year of the Tiger.",
+     "source": "https://www.yardbarker.com/tennis/articles/aryna_sabalenka_finally_opens_up_on_the_meaning_behind_her_infamous_tiger_tattoo/s1_17460_42390044"
+    },
+    {
+     "text": "She has a sweet tooth. Candy is her favorite gift.",
+     "source": "https://www.wtatennis.com/players/320760/aryna-sabalenka"
+    },
+    {
+     "text": "Her favorite food is her grandma's pancakes.",
+     "source": "https://www.wtatennis.com/players/320760/aryna-sabalenka"
+    },
+    {
+     "text": "She loves reading. Her favorite book is The Count of Monte Cristo.",
+     "source": "https://www.wtatennis.com/players/320760/aryna-sabalenka"
+    },
+    {
+     "text": "Her dad was an ice hockey player.",
+     "source": "https://en.wikipedia.org/wiki/Aryna_Sabalenka"
+    },
+    {
+     "text": "This spring she won Indian Wells and Miami back to back. Fans call that the Sunshine Double.",
+     "source": "https://www.wtatennis.com/news/4478904/with-sunshine-double-sweep-sabalenka-moves-atop-pif-race-to-the-finals-leaderboard"
+    },
+    {
+     "text": "She has been world No. 1 in doubles too. That is tennis with a teammate.",
+     "source": "https://en.wikipedia.org/wiki/Aryna_Sabalenka"
+    }
+   ],
+   "watchFor": "Listen for her big grunt on every serve as the ball rockets past.",
+   "matchTomorrow": {
+    "opponent": "Taylor Townsend",
+    "opponentSlug": "taylor-townsend",
+    "court": "Arthur Ashe Stadium",
+    "session": "day",
+    "order": 1,
+    "startTimeET": "11:30",
+    "matchId": "m21",
+    "round": "Fourth round",
+    "day": "2026-09-06",
+    "status": "scheduled",
+    "winnerSlug": null,
+    "score": null
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Aryna_Sabalenka_Miami_Open_Final.jpg",
+    "localPath": "img/players/aryna-sabalenka.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Rick Munroe",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AAryna_Sabalenka_Miami_Open_Final.jpg",
+    "title": "File:Aryna_Sabalenka_Miami_Open_Final.jpg",
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Aryna_Sabalenka",
+    "https://www.wtatennis.com/players/320760/aryna-sabalenka",
+    "https://www.yardbarker.com/tennis/articles/aryna_sabalenka_finally_opens_up_on_the_meaning_behind_her_infamous_tiger_tattoo/s1_17460_42390044",
+    "https://www.wtatennis.com/news/4478904/with-sunshine-double-sweep-sabalenka-moves-atop-pif-race-to-the-finals-leaderboard",
+    "https://www.tennis365.com/tennis-news/tennis-grunting-carlos-alcaraz-aryna-sabalenka-tennis-grunts",
+    "https://bleacherreport.com/articles/25496089-us-open-tennis-2026-results-winners-losers-and-highlights-fridays-bracket"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-05T17:46:19+00:00",
+   "factCheck": {
+    "checkedAt": "2026-09-05T17:50:09+00:00",
+    "notes": [
+     "Grand Slam count is FOUR (AO 2023, AO 2024, USO 2024, USO 2025) per Wikipedia; corrected from five. Two US Open titles confirmed.",
+     "Nickname The Tiger, sweet tooth, grandma's pancakes, Count of Monte Cristo, started at 6 when father drove past courts: WTA profile. Father ice hockey player: Wikipedia. Tiger tattoo / Year of the Tiger 1998: Yardbarker. Sunshine Double 2026: WTA news article (dated Mar 30, 2026). Former doubles No. 1 (Feb 2021): Wikipedia.",
+     "Birth date, height 182, plays, seed 1 / rank 1, opponent Taylor Townsend (m21) match sources and schedule.json. Neutral-flag settings kept."
+    ],
+    "changes": [
+     "Corrected 'five Grand Slams' to 'four' in story.",
+     "Softened 'harder than almost anyone' to 'very hard' (unsourced superlative)."
+    ]
+   },
+   "matchTier": 1,
+   "playsSaturday": false,
+   "round": "Fourth round"
+  },
+  {
+   "slug": "carlos-alcaraz",
+   "name": "Carlos Alcaraz",
+   "country": "ES",
+   "countryName": "Spain",
+   "flagEmoji": "🇪🇸",
+   "birthDate": "2003-05-05",
+   "age": 23,
+   "seed": 2,
+   "ranking": 3,
+   "draw": "men",
+   "tier": 1,
+   "plays": "Right-handed, two-handed backhand",
+   "heightCm": 183,
+   "hometown": "El Palmar, Murcia, Spain",
+   "nicknameOrTagline": "Carlitos",
+   "intro": "Carlos Alcaraz is a tennis superstar from Spain. His friends call him Carlitos. He won this tournament last year!",
+   "story": "Carlos started playing at age four. His dad was a tennis coach. At 19 he became the youngest world No. 1 ever. He has won seven Grand Slams, the biggest tournaments in tennis. On Friday he beat Yibing Wu, and he plays again Sunday.",
+   "funFacts": [
+    {
+     "text": "He has three brothers: Alvaro, Sergio and Jaime. Alvaro helps coach him.",
+     "source": "https://en.wikipedia.org/wiki/Carlos_Alcaraz"
+    },
+    {
+     "text": "He loves golf and soccer. His favorite team is Real Madrid.",
+     "source": "https://www.atptour.com/en/players/carlos-alcaraz/a0e2/bio"
+    },
+    {
+     "text": "He eats lots of kebabs at home in Murcia. He loves sushi too.",
+     "source": "https://www.atptour.com/en/news/alcaraz-food-court-may-2022"
+    },
+    {
+     "text": "His favorite movie is Rocky Balboa. His favorite actor is Will Smith.",
+     "source": "https://www.atptour.com/en/players/carlos-alcaraz/a0e2/bio"
+    },
+    {
+     "text": "This year he played doubles with Serena Williams. They giggled through their first win!",
+     "source": "https://www.aljazeera.com/sports/2026/8/26/serena-williams-carlos-alcaraz-fall-in-us-open-mixed-doubles-quarterfinal"
+    },
+    {
+     "text": "He became world No. 1 at 19. Nobody has ever done it younger.",
+     "source": "https://en.wikipedia.org/wiki/Carlos_Alcaraz"
+    },
+    {
+     "text": "His tennis hero is Rafael Nadal, another champion from Spain.",
+     "source": "https://www.atptour.com/en/players/carlos-alcaraz/a0e2/bio"
+    }
+   ],
+   "watchFor": "Watch his drop shot, a sneaky soft shot, then his giant grin.",
+   "matchTomorrow": {
+    "opponent": "Tommy Paul",
+    "opponentSlug": "tommy-paul",
+    "court": "Arthur Ashe Stadium",
+    "session": "day",
+    "order": 2,
+    "startTimeET": "14:00",
+    "matchId": "m20",
+    "round": "Fourth round",
+    "day": "2026-09-06",
+    "status": "scheduled",
+    "winnerSlug": null,
+    "score": null
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Carlos_Alcaraz_-_240422_192324_%28cropped%29.jpg",
+    "localPath": "img/players/carlos-alcaraz.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Barcex",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3A25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Carlos_Alcaraz_-_240422_192324_%28cropped%29.jpg",
+    "title": "File:25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Carlos_Alcaraz_-_240422_192324_(cropped).jpg",
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Carlos_Alcaraz",
+    "https://en.wikipedia.org/wiki/2026_Carlos_Alcaraz_tennis_season",
+    "https://www.atptour.com/en/players/carlos-alcaraz/a0e2/bio",
+    "https://www.atptour.com/en/news/alcaraz-food-court-may-2022",
+    "https://www.aljazeera.com/sports/2026/8/26/serena-williams-carlos-alcaraz-fall-in-us-open-mixed-doubles-quarterfinal",
+    "https://bleacherreport.com/articles/25496089-us-open-tennis-2026-results-winners-losers-and-highlights-fridays-bracket",
+    "https://www.tennis365.com/tennis-news/carlos-alcaraz-nickname-carlitos-interview-press-conference"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-05T17:46:19+00:00",
+   "factCheck": {
+    "checkedAt": "2026-09-05T17:50:09+00:00",
+    "notes": [
+     "Seven Grand Slams confirmed via Wikipedia title list (USO 2022, W 2023, RG 2024, W 2024, RG 2025, USO 2025, AO 2026). 2025 US Open champion confirmed.",
+     "Youngest No. 1 at 19y130d, family, age-4 start, father coach: Wikipedia. Golf/football/Real Madrid, Rocky Balboa/Will Smith, Nadal idol: ATP bio. Kebabs/sushi: ATP food article. Serena mixed doubles first-round win and 'giggled': Al Jazeera. 'Carlitos' nickname: tennis365.",
+     "Birth date, height 183, plays, hometown, seed 2 / rank 3, opponent Tommy Paul (m20) all match sources and schedule.json."
+    ],
+    "changes": [
+     "Softened wrist-injury sentence in story to 'away from tennis for a few months' (age-appropriateness).",
+     "Added tennis365 source for Carlitos nickname."
+    ]
+   },
+   "matchTier": 1,
+   "playsSaturday": false,
+   "round": "Fourth round"
+  },
+  {
+   "slug": "jessica-pegula",
+   "name": "Jessica Pegula",
+   "country": "US",
+   "countryName": "United States",
+   "flagEmoji": "🇺🇸",
+   "birthDate": "1994-02-24",
+   "age": 32,
+   "seed": 3,
+   "ranking": 3,
+   "draw": "women",
+   "tier": 1,
+   "plays": "Right-handed, two-handed backhand",
+   "heightCm": 170,
+   "hometown": "Buffalo, New York, United States",
+   "nicknameOrTagline": "Buffalo's Steady Star",
+   "intro": "Jessica Pegula is an American star from Buffalo, New York. She is ranked No. 3 in the world. She is also a huge dog lover.",
+   "story": "Jessica took the slow road to the top. She did not crack the top 10 until she was 28. Then she just kept climbing. She has won 11 titles and made the final here in 2024. On Friday she lost the first set, then roared back to win.",
+   "funFacts": [
+    {
+     "text": "Her parents own the Buffalo Bills football team and the Buffalo Sabres hockey team.",
+     "source": "https://en.wikipedia.org/wiki/Jessica_Pegula"
+    },
+    {
+     "text": "Her dog Maddie, a mini Australian shepherd, joined her on stage after a win.",
+     "source": "https://www.tennis.com/news/articles/never-judge-just-love-jessica-pegula-and-her-dogs-have-been-a-winning-pair"
+    },
+    {
+     "text": "She started a charity called A Lending Paw. It helps rescue dogs.",
+     "source": "https://www.tennis.com/news/articles/never-judge-just-love-jessica-pegula-and-her-dogs-have-been-a-winning-pair"
+    },
+    {
+     "text": "She started her own skincare company called Ready 24.",
+     "source": "https://en.wikipedia.org/wiki/Jessica_Pegula"
+    },
+    {
+     "text": "Her mom is Korean-American, so Jessica is part Korean.",
+     "source": "https://en.wikipedia.org/wiki/Jessica_Pegula"
+    },
+    {
+     "text": "She was world No. 1 in doubles in 2023. That is tennis with a teammate.",
+     "source": "https://en.wikipedia.org/wiki/Jessica_Pegula"
+    },
+    {
+     "text": "She has reached the fourth round here five years in a row.",
+     "source": "https://bleacherreport.com/articles/25496089-us-open-tennis-2026-results-winners-losers-and-highlights-fridays-bracket"
+    }
+   ],
+   "watchFor": "Watch her flat, laser-straight backhand skim just over the net.",
+   "matchTomorrow": {
+    "opponent": "Sorana Cirstea",
+    "opponentSlug": "sorana-cirstea",
+    "court": "Louis Armstrong Stadium",
+    "session": "day",
+    "order": 4,
+    "startTimeET": null,
+    "matchId": "m23",
+    "round": "Fourth round",
+    "day": "2026-09-06",
+    "status": "scheduled",
+    "winnerSlug": null,
+    "score": null
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Jessica_Pegula_%282025_DC_Open%29_01_%28cropped%29.jpg",
+    "localPath": "img/players/jessica-pegula.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AJessica_Pegula_%282025_DC_Open%29_01_%28cropped%29.jpg",
+    "title": "File:Jessica_Pegula_(2025_DC_Open)_01_(cropped).jpg",
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Jessica_Pegula",
+    "https://www.tennis.com/news/articles/never-judge-just-love-jessica-pegula-and-her-dogs-have-been-a-winning-pair",
+    "https://www.essentiallysports.com/wta-tennis-news-dog-mom-jessica-pegula-reveals-how-she-balances-her-tennis-journey-while-caring-for-her-furry-companions/",
+    "https://bleacherreport.com/articles/25496089-us-open-tennis-2026-results-winners-losers-and-highlights-fridays-bracket",
+    "https://en.wikipedia.org/wiki/Terry_Pegula",
+    "https://www.wtatennis.com/news/4482273/pegula-goes-back-to-back-in-charleston-for-second-title-of-2026"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-05T17:46:19+00:00",
+   "factCheck": {
+    "checkedAt": "2026-09-05T17:50:09+00:00",
+    "notes": [
+     "First top-10 entry June 2022 (born Feb 1994 = age 28) per Wikipedia; corrected from 27. 11 WTA singles titles confirmed (Dubai 2026 = 10th, Charleston 2026 = 11th per WTA news). Doubles No. 1 Sept 2023, 2024 US Open final, Ready 24 skincare, Korean mother: Wikipedia. Parents own Bills and Sabres: Terry Pegula Wikipedia. Maddie (mini Australian shepherd) on stage at Charleston trophy ceremony and A Lending Paw charity: tennis.com. Fifth straight fourth round and Friday comeback vs Fernandez 1-6 6-4 6-3: Bleacher Report.",
+     "Birth date, height 170, plays, hometown Buffalo, seed 3 / rank 3, opponent Sorana Cirstea (m23) match sources and schedule.json."
+    ],
+    "changes": [
+     "Corrected 'until age 27' to 'until she was 28'.",
+     "Rewrote charity fact: A Lending Paw supports dog rescue/rehabilitation, not service-dog training."
+    ]
+   },
+   "matchTier": 1,
+   "playsSaturday": false,
+   "round": "Fourth round"
+  },
+  {
+   "slug": "linda-noskova",
+   "name": "Linda Nosková",
+   "country": "CZ",
+   "countryName": "Czechia",
+   "flagEmoji": "🇨🇿",
+   "birthDate": "2004-11-17",
+   "age": 21,
+   "seed": 6,
+   "ranking": 6,
+   "draw": "women",
+   "tier": 1,
+   "plays": "Right-handed, two-handed backhand",
+   "heightCm": 179,
+   "hometown": "Bystřička, Czechia",
+   "nicknameOrTagline": "Wimbledon's New Queen",
+   "intro": "Linda Nosková is a tall, hard-hitting player from Czechia. She just won Wimbledon this summer! That is a Grand Slam, one of the four biggest tournaments.",
+   "story": "Linda grew up in a tiny village surrounded by forest. Her mom and dad played tennis just for fun. Her dad put a racket in her hands at about age six. This July she won her first Grand Slam at Wimbledon. On Friday she won a tough three-set match, so she plays again Sunday.",
+   "funFacts": [
+    {
+     "text": "As a kid she tried gymnastics, horse riding, and running before picking tennis.",
+     "source": "https://www.tennismajors.com/australian-open-news/czech-swiatek-australian-open-everything-you-always-wanted-to-know-about-linda-noskova-but-never-had-the-time-to-find-out-739003.html"
+    },
+    {
+     "text": "She has loved pro wrestling since age 14. WWE star Charlotte Flair cheered for her this week!",
+     "source": "https://www.wtatennis.com/news/4571829/linda-noskova-wwe-star-charlotte-flair-meet-at-us-open"
+    },
+    {
+     "text": "Her favorite player growing up was Serena Williams.",
+     "source": "https://www.tennismajors.com/australian-open-news/czech-swiatek-australian-open-everything-you-always-wanted-to-know-about-linda-noskova-but-never-had-the-time-to-find-out-739003.html"
+    },
+    {
+     "text": "She spent a week helping at a school in Zanzibar, an island in Africa.",
+     "source": "https://en.wikipedia.org/wiki/Linda_Nosková"
+    },
+    {
+     "text": "She wears a small nose ring. She says it brings good luck.",
+     "source": "https://www.tennismajors.com/australian-open-news/czech-swiatek-australian-open-everything-you-always-wanted-to-know-about-linda-noskova-but-never-had-the-time-to-find-out-739003.html"
+    },
+    {
+     "text": "At Wimbledon she was the youngest champion in 15 years.",
+     "source": "https://www.olympics.com/en/news/wimbledon-2026-womens-singles-final-results-karolina-muchova-linda-noskova"
+    },
+    {
+     "text": "She beat world No. 1 Iga Swiatek when she was only 19.",
+     "source": "https://en.wikipedia.org/wiki/Linda_Nosková"
+    }
+   ],
+   "watchFor": "Count how many winners she cracks past her opponent with that booming forehand.",
+   "matchTomorrow": {
+    "opponent": "Marta Kostyuk",
+    "opponentSlug": "marta-kostyuk",
+    "court": "Louis Armstrong Stadium",
+    "session": "day",
+    "order": 2,
+    "startTimeET": "12:30",
+    "matchId": "m22",
+    "round": "Fourth round",
+    "day": "2026-09-06",
+    "status": "scheduled",
+    "winnerSlug": null,
+    "score": null
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Linda_Noskov%C3%A1_%282023_US_Open%29_01_%28cropped2%29.jpg",
+    "localPath": "img/players/linda-noskova.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ALinda_Noskov%C3%A1_%282023_US_Open%29_01_%28cropped2%29.jpg",
+    "title": "File:Linda_Nosková_(2023_US_Open)_01_(cropped2).jpg",
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Linda_Nosková",
+    "https://www.tennismajors.com/australian-open-news/czech-swiatek-australian-open-everything-you-always-wanted-to-know-about-linda-noskova-but-never-had-the-time-to-find-out-739003.html",
+    "https://www.olympics.com/en/news/wimbledon-2026-womens-singles-final-results-karolina-muchova-linda-noskova",
+    "https://www.wtatennis.com/news/4571829/linda-noskova-wwe-star-charlotte-flair-meet-at-us-open",
+    "https://www.wtatennis.com/news/4533700/at-21-linda-noskova-caps-brilliant-fortnight-to-become-youngest-wimbledon-champion-in-15-years-defeats-karolina-muchova",
+    "https://en.tennistemple.com/actu/us-open-noskova-survives-ann-li-scare-svitolina/nCMj"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-05T17:46:49Z",
+   "factCheck": {
+    "checkedAt": "2026-09-05T17:52:00Z",
+    "notes": [
+     "Bio (DOB 2004-11-17, born Vsetin, hometown Bystricka, 179cm, right/2HBH, No.6, 2021 junior RG at 16, beat No.1 Swiatek at 2024 AO aged 19, Zanzibar school Nov 2025) confirmed via Wikipedia REST; seed 6 / rank 6 / opponent Kostyuk match schedule.json m22.",
+     "Wimbledon 2026 champion d. Muchova 6-2 5-7 6-3, youngest since Kvitova 2011 (15 years): WTA + olympics.com.",
+     "Wrestling fandom: elite23.net was unsourced, but WTA article (Charlotte Flair at US Open) confirms fan since 14; fact rewritten and re-sourced.",
+     "Nose ring: Tennis Majors confirms septum piercing she says brings good luck ('tiny' softened to 'small').",
+     "Gymnastics/horse riding/track, Serena idol, parents played for fun, forest village: Tennis Majors. R3 d. Ann Li 6-2 6-7 6-2 confirmed."
+    ],
+    "changes": [
+     "Story: replaced unsourced 'ran around the court until she got a racket' with sourced 'dad put a racket in her hands at about six'.",
+     "Fun fact: wrestling rewritten with WTA source (Charlotte Flair visit).",
+     "Fun fact: nose ring wording adjusted.",
+     "Dropped elite23.net from sources."
+    ]
+   },
+   "matchTier": 1,
+   "playsSaturday": false,
+   "round": "Fourth round"
+  },
+  {
+   "slug": "daniil-medvedev",
+   "name": "Daniil Medvedev",
+   "country": "RU",
+   "countryName": "Plays without a flag",
+   "flagEmoji": "🎾",
+   "birthDate": "1996-02-11",
+   "age": 30,
+   "seed": 7,
+   "ranking": 8,
+   "draw": "men",
+   "tier": 1,
+   "plays": "Right-handed, two-handed backhand",
+   "heightCm": 198,
+   "hometown": "Moscow, Russia",
+   "nicknameOrTagline": "The Bear",
+   "intro": "Daniil Medvedev is a very tall player from Moscow. He is 6 feet 6 inches! His name means bear in Russian.",
+   "story": "Daniil almost became a swimmer. At the pool he saw a sign for tennis lessons instead. He was a math whiz at school too. He won this tournament in 2021 and became world No. 1 in 2022. On Friday he beat Arthur Rinderknech, and he plays again Sunday.",
+   "funFacts": [
+    {
+     "text": "His biggest hobby is PlayStation. He even played in video game contests.",
+     "source": "https://www.atptour.com/en/players/daniil-medvedev/mm58/bio"
+    },
+    {
+     "text": "He loves chess and reading books.",
+     "source": "https://www.atptour.com/en/players/daniil-medvedev/mm58/bio"
+    },
+    {
+     "text": "He speaks three languages: Russian, English and French.",
+     "source": "https://www.atptour.com/en/players/daniil-medvedev/mm58/bio"
+    },
+    {
+     "text": "When he won here in 2021, he flopped down like a video game celebration.",
+     "source": "https://www.newsweek.com/l2-plus-left-daniil-medvedev-usa-open-tennis-dead-fish-fifa-celebration-explained-djokovic-1628336"
+    },
+    {
+     "text": "He has two little daughters, Alisa and Vika.",
+     "source": "https://en.wikipedia.org/wiki/Daniil_Medvedev"
+    },
+    {
+     "text": "He finished two years of math school in one year!",
+     "source": "https://www.atptour.com/en/players/daniil-medvedev/mm58/bio"
+    },
+    {
+     "text": "His favorite shot is the return of serve. Players call him the Octopus because he reaches every ball.",
+     "source": "https://www.tennis.com/baseline/articles/quote-of-day-daniil-medvedev-embraces-iga-swiatek-pretzel-nickname-i-can-see-why"
+    }
+   ],
+   "watchFor": "Watch how far back he stands to return serve, almost at the wall.",
+   "matchTomorrow": {
+    "opponent": "Frances Tiafoe",
+    "opponentSlug": "frances-tiafoe",
+    "court": "Louis Armstrong Stadium",
+    "session": "day",
+    "order": 3,
+    "startTimeET": "15:00",
+    "matchId": "m17",
+    "round": "Fourth round",
+    "day": "2026-09-06",
+    "status": "scheduled",
+    "winnerSlug": null,
+    "score": null
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Daniil_Medvedev_%282025_DC_Open%29_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "localPath": "img/players/daniil-medvedev.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ADaniil_Medvedev_%282025_DC_Open%29_05.jpg",
+    "title": "File:Daniil Medvedev (2025 DC Open) 05.jpg",
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Daniil_Medvedev",
+    "https://www.atptour.com/en/players/daniil-medvedev/mm58/bio",
+    "https://www.newsweek.com/l2-plus-left-daniil-medvedev-usa-open-tennis-dead-fish-fifa-celebration-explained-djokovic-1628336",
+    "https://www.atptour.com/en/news/medvedev-infosys-beyond-the-numbers-august-2023",
+    "https://bleacherreport.com/articles/25496089-us-open-tennis-2026-results-winners-losers-and-highlights-fridays-bracket",
+    "https://www.tennis.com/baseline/articles/quote-of-day-daniil-medvedev-embraces-iga-swiatek-pretzel-nickname-i-can-see-why"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-05T17:46:19+00:00",
+   "factCheck": {
+    "checkedAt": "2026-09-05T17:50:09+00:00",
+    "notes": [
+     "Bear nickname / surname from 'medved', PlayStation and national video game contests, chess and reading, Russian/English/French, physics-math lyceum finishing final 2 grades in 1 year, swimming-pool tennis sign, favorite shot = return: ATP bio. 2021 US Open title, No. 1 on Feb 28 2022, daughters Alisa and Vika, height 198: Wikipedia. Dead-fish FIFA celebration: Newsweek. Deep return position: ATP Infosys article. Octopus nickname (coined by Rublev; Medvedev embraces it): tennis.com.",
+     "Age at tennis start conflicts between sources (Wikipedia says 6, ATP bio says 9), so the age was removed from the story.",
+     "Birth date, plays, seed 7 / rank 8, opponent Frances Tiafoe (m17) match sources and schedule.json. Neutral-flag settings kept."
+    ],
+    "changes": [
+     "Removed 'at age nine' from story (sources disagree).",
+     "Rewrote Octopus fun fact and re-sourced it to tennis.com (ATP Infosys article did not mention the nickname)."
+    ]
+   },
+   "matchTier": 1,
+   "playsSaturday": false,
+   "round": "Fourth round"
+  },
+  {
+   "slug": "ben-shelton",
+   "name": "Ben Shelton",
+   "country": "US",
+   "countryName": "United States",
+   "flagEmoji": "🇺🇸",
+   "birthDate": "2002-10-09",
+   "age": 23,
+   "seed": 8,
+   "ranking": 9,
+   "draw": "men",
+   "tier": 1,
+   "plays": "Left-handed, two-handed backhand",
+   "heightCm": 193,
+   "hometown": "Atlanta, Georgia, United States",
+   "nicknameOrTagline": "Dialed In",
+   "intro": "Ben Shelton is a big, smiling lefty from Atlanta, Georgia. A lefty hits with the left hand. His serve can zoom past 150 miles per hour!",
+   "story": "Ben did not travel the world as a kid. He went to college in Florida and won the national title there. His dad, Bryan, was a pro player and is now his coach. This year Ben won trophies on hard courts, clay, and grass. On Friday night he beat Denis Shapovalov, so he plays again Sunday.",
+   "funFacts": [
+    {
+     "text": "His serve can hit 150 miles per hour. That is faster than a car on the highway!",
+     "source": "https://www.atptour.com/en/news/shelton-serve-indian-wells-2025-saturday"
+    },
+    {
+     "text": "Before tennis, his first love was American football.",
+     "source": "https://www.on.com/en-us/stories/meet-the-real-ben-shelton"
+    },
+    {
+     "text": "He loves movie theater slushies and popcorn.",
+     "source": "https://www.on.com/en-us/stories/meet-the-real-ben-shelton"
+    },
+    {
+     "text": "He has never been to a concert in his life. He likes quiet nights in.",
+     "source": "https://www.on.com/en-us/stories/meet-the-real-ben-shelton"
+    },
+    {
+     "text": "He won the college national championship for the Florida Gators in 2022.",
+     "source": "https://www.espn.com/tennis/story/_/id/34448493/ncaa-tennis-champ-ben-shelton-turns-pro-accepts-us-open-invitation"
+    },
+    {
+     "text": "His sister Emma played college tennis too. His mom was a top junior player.",
+     "source": "https://www.aol.com/articles/ben-shelton-parents-former-tennis-170306000.html"
+    },
+    {
+     "text": "He won the big Canada tournament two years in a row. Rafael Nadal was the last to do that.",
+     "source": "https://www.atptour.com/en/news/shelton-nakashima-montreal-2026-thursday-final"
+    }
+   ],
+   "watchFor": "Look for his phone move, when he pretends to hang up an old phone.",
+   "matchTomorrow": {
+    "opponent": "Stefanos Tsitsipas",
+    "opponentSlug": "stefanos-tsitsipas",
+    "court": "Arthur Ashe Stadium",
+    "session": "night",
+    "order": 1,
+    "startTimeET": "19:00",
+    "matchId": "m19",
+    "round": "Fourth round",
+    "day": "2026-09-06",
+    "status": "scheduled",
+    "winnerSlug": null,
+    "score": null
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ben_Shelton%2C_media_conference%2C_Swiss_Indoors_Basel_2025_%28cropped%29.jpg",
+    "localPath": "img/players/ben-shelton.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Skyscraper2010",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ABen_Shelton%2C_media_conference%2C_Swiss_Indoors_Basel_2025_%28cropped%29.jpg",
+    "title": "File:Ben_Shelton,_media_conference,_Swiss_Indoors_Basel_2025_(cropped).jpg",
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ben_Shelton",
+    "https://www.on.com/en-us/stories/meet-the-real-ben-shelton",
+    "https://www.yahoo.com/news/ben-shelton-phone-celebration-u-183941214.html",
+    "https://www.sportskeeda.com/tennis/news-it-s-kind-like-i-m-saying-i-m-dialed-in-ben-shelton-explains-post-match-celebration-sealing-sf-spot-vs-novak-djokovic-us-open-2023",
+    "https://www.atptour.com/en/news/shelton-serve-indian-wells-2025-saturday",
+    "https://www.atptour.com/en/news/shelton-nakashima-montreal-2026-thursday-final",
+    "https://www.atptour.com/en/news/shelton-fritz-stuttgart-2026-final",
+    "https://www.wruf.com/headlines/2026/06/15/ben-shelton-captures-stuttgart-title-ahead-of-wimbledon-2026/",
+    "https://en.wikipedia.org/wiki/2026_BMW_Open_%E2%80%93_Singles",
+    "https://en.wikipedia.org/wiki/2026_Dallas_Open_%E2%80%93_Singles",
+    "https://www.atptour.com/en/news/ben-shelton-bryan-shelton-june-2023-feature",
+    "https://www.tennismajors.com/us-open-news/nowhere-near-my-best-shelton-serves-for-the-second-set-twice-loses-it-and-finishes-at-215am-860293.html",
+    "https://www.aol.com/articles/ben-shelton-parents-former-tennis-170306000.html"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-05T17:46:49Z",
+   "factCheck": {
+    "checkedAt": "2026-09-05T17:52:00Z",
+    "notes": [
+     "Bio (DOB 2002-10-09, Atlanta, 193cm, lefty/2HBH, No.9) confirmed via Wikipedia REST; seed 8 / rank 9 / opponent Tsitsipas match schedule.json m19.",
+     "150 mph serve: second source ATP Tour (Indian Wells 2025 vs Navone).",
+     "Back-to-back Canada 2025-26, last since Nadal 2018-19: second source ATP Tour final report.",
+     "2026 titles Dallas (hard), Munich (clay), Stuttgart (grass), Montreal (hard): confirmed via ATP/WRUF/Wikipedia tournament pages.",
+     "R3 win over Shapovalov 7-6 6-7 6-3 6-4 (finished 2:15am Sat) confirmed via Tennis Majors; story says 'Friday night'.",
+     "On.com facts (football, slushies, no concerts) and phone celebration (Yahoo) confirmed verbatim."
+    ],
+    "changes": [
+     "Story: 'On Friday' -> 'On Friday night' (match ended after midnight).",
+     "Replaced Wikipedia-only sources on serve speed, NCAA title, family, Canada facts with ATP/ESPN/AOL sources."
+    ]
+   },
+   "matchTier": 1,
+   "playsSaturday": false,
+   "round": "Fourth round"
+  },
+  {
+   "slug": "frances-tiafoe",
+   "name": "Frances Tiafoe",
+   "country": "US",
+   "countryName": "United States",
+   "flagEmoji": "🇺🇸",
+   "birthDate": "1998-01-20",
+   "age": 28,
+   "seed": 11,
+   "ranking": 12,
+   "draw": "men",
+   "tier": 1,
+   "plays": "Right-handed, two-handed backhand",
+   "heightCm": 188,
+   "hometown": "Hyattsville, Maryland, United States",
+   "nicknameOrTagline": "Big Foe",
+   "intro": "Frances Tiafoe is a high-energy American from Maryland. Fans call him Big Foe. He loves a loud crowd, and New York loves him back.",
+   "story": "Frances grew up at a tennis center near Washington, D.C. His dad worked there, and the family lived there for years. He and his twin brother started lessons at age four. He has reached the semifinals here twice. On Friday he won in straight sets, so he plays again Sunday.",
+   "funFacts": [
+    {
+     "text": "He has a twin brother named Franklin. Franklin played college tennis too.",
+     "source": "https://en.wikipedia.org/wiki/Frances_Tiafoe"
+    },
+    {
+     "text": "His parents came to America from Sierra Leone, a country in West Africa.",
+     "source": "https://en.wikipedia.org/wiki/Frances_Tiafoe"
+    },
+    {
+     "text": "He started hitting tennis balls at age four.",
+     "source": "https://www.olympics.com/en/news/tennis-frances-tiafoe-son-sierra-leonean-immigrants-2024-us-open"
+    },
+    {
+     "text": "His favorite childhood food is peanut butter stew. A famous chef cooked it for him.",
+     "source": "https://lobandsmash.com/frances-tiafoe-talks-peanut-butter-stew-us-open-hopes-exclusive-interview"
+    },
+    {
+     "text": "If he wins, he wants to eat Oreos, Hershey's, and milkshakes.",
+     "source": "https://lobandsmash.com/frances-tiafoe-talks-peanut-butter-stew-us-open-hopes-exclusive-interview"
+    },
+    {
+     "text": "He is a huge basketball fan. He even played in an NBA celebrity game.",
+     "source": "https://en.wikipedia.org/wiki/Frances_Tiafoe"
+    },
+    {
+     "text": "He cheers for all the Washington, D.C. teams, like the Wizards and Commanders.",
+     "source": "https://www.sportskeeda.com/tennis/news-frances-tiafoe-s-connection-washington-dc-why-citi-dc-open-american-s-home-tournament-commanders-inspired-outfit-2025"
+    }
+   ],
+   "watchFor": "Watch his funny forehand windup, arm above the racket, then a heavy spinning whip.",
+   "matchTomorrow": {
+    "opponent": "Daniil Medvedev",
+    "opponentSlug": "daniil-medvedev",
+    "court": "Louis Armstrong Stadium",
+    "session": "day",
+    "order": 3,
+    "startTimeET": "15:00",
+    "matchId": "m17",
+    "round": "Fourth round",
+    "day": "2026-09-06",
+    "status": "scheduled",
+    "winnerSlug": null,
+    "score": null
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/FrancesTiafo.jpg",
+    "localPath": "img/players/frances-tiafoe.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Rickmunroe01",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AFrancesTiafo.jpg",
+    "title": "File:FrancesTiafo.jpg",
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Frances_Tiafoe",
+    "https://lobandsmash.com/frances-tiafoe-talks-peanut-butter-stew-us-open-hopes-exclusive-interview",
+    "https://www.tennismajors.com/atp/tiafoe-becomes-the-first-american-to-win-halle-ending-his-long-wait-against-fritz-853858.html",
+    "https://www.olympics.com/en/news/tennis-frances-tiafoe-son-sierra-leonean-immigrants-2024-us-open",
+    "https://www.tennis.com/baseline/articles/tech-talk-frances-tiafoe-s-unorthodox-forehand-is-a-game-changing-weapon",
+    "https://www.sportskeeda.com/tennis/news-frances-tiafoe-s-connection-washington-dc-why-citi-dc-open-american-s-home-tournament-commanders-inspired-outfit-2025",
+    "https://larrybrownsports.com/football/frances-tiafoe-commanders-shoutout-win/640334",
+    "https://sports.yahoo.com/articles/frances-tiafoe-looks-dominant-third-024714417.html"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-05T17:46:49Z",
+   "factCheck": {
+    "checkedAt": "2026-09-05T17:52:00Z",
+    "notes": [
+     "Bio (DOB 1998-01-20, Hyattsville, 188cm, right/2HBH, No.12, twin Franklin at Salisbury, parents from Sierra Leone, US Open SF 2022 & 2024, 2023 NBA Celebrity Game) confirmed via Wikipedia REST; seed 11 / rank 12 / opponent Medvedev match schedule.json m17.",
+     "Age-four start: second source olympics.com. Halle 2026 title (d. Fritz 6-4 6-4, first American): Tennis Majors.",
+     "R3 win over Vacherot 6-4 6-2 6-4 Friday night confirmed via Yahoo Sports.",
+     "DC teams (Wizards, Commanders) confirmed via Sportskeeda + Larry Brown Sports. Lob and Smash food quotes confirmed verbatim.",
+     "Wikipedia summary oddly said 'lost in third round' for 2026 US Open; contradicted by official schedule and news reports, ignored."
+    ],
+    "changes": [
+     "Story: removed unsourced 'watched the big kids and copied them'; added sourced 'lived there for years' and age-four lessons.",
+     "watchFor: replaced 'lasso' paraphrase and unsourced crowd-pumping with Tennis.com's documented forehand description (arm higher than racket on takeback, heavy topspin)."
+    ]
+   },
+   "matchTier": 1,
+   "playsSaturday": false,
+   "round": "Fourth round"
+  },
+  {
+   "slug": "marta-kostyuk",
+   "name": "Marta Kostyuk",
+   "country": "UA",
+   "countryName": "Ukraine",
+   "flagEmoji": "🇺🇦",
+   "birthDate": "2002-06-28",
+   "age": 24,
+   "seed": 11,
+   "ranking": 11,
+   "draw": "women",
+   "tier": 1,
+   "plays": "Right-handed, two-handed backhand",
+   "heightCm": 175,
+   "hometown": "Kyiv, Ukraine",
+   "nicknameOrTagline": "The Backflip Champ",
+   "intro": "Marta Kostyuk is a fierce player from Kyiv, Ukraine. She has been winning since she was a kid. This year she won the biggest trophy of her life in Madrid.",
+   "story": "Marta comes from a tennis family. Her mom was a pro player and taught her the game. At 14 she won the junior Australian Open. This spring she won 12 clay matches in a row, ending in Madrid. On Friday she won in straight sets, so she plays again Sunday.",
+   "funFacts": [
+    {
+     "text": "After winning in Madrid, she did a backflip on the court!",
+     "source": "https://gulfnews.com/sport/tennis/marta-kostyuk-wins-madrid-open-2026-title-with-a-perfect-10-backflip-finish-1.500527386"
+    },
+    {
+     "text": "Nadia Comaneci, a famous gymnast, gave the backflip a perfect 10.",
+     "source": "https://gulfnews.com/sport/tennis/marta-kostyuk-wins-madrid-open-2026-title-with-a-perfect-10-backflip-finish-1.500527386"
+    },
+    {
+     "text": "She packs a sleep mask and lavender spray for her pillow.",
+     "source": "https://www.elitedaily.com/lifestyle/marta-kostyuk-tennis-match-day-routine"
+    },
+    {
+     "text": "On tournament nights she stays in, orders food, and watches Netflix.",
+     "source": "https://www.elitedaily.com/lifestyle/marta-kostyuk-tennis-match-day-routine"
+    },
+    {
+     "text": "She loves to try a new restaurant in each city.",
+     "source": "https://www.elitedaily.com/lifestyle/marta-kostyuk-tennis-match-day-routine"
+    },
+    {
+     "text": "Her mom, Talina, was a pro tennis player. Her uncle played for Ukraine too.",
+     "source": "https://en.wikipedia.org/wiki/Marta_Kostyuk"
+    },
+    {
+     "text": "At 15 she played at the Australian Open. She was the youngest there in years.",
+     "source": "https://en.wikipedia.org/wiki/Marta_Kostyuk"
+    }
+   ],
+   "watchFor": "Spot her cool outfit, then stay to see if she does a backflip!",
+   "matchTomorrow": {
+    "opponent": "Linda Noskova",
+    "opponentSlug": "linda-noskova",
+    "court": "Louis Armstrong Stadium",
+    "session": "day",
+    "order": 2,
+    "startTimeET": "12:30",
+    "matchId": "m22",
+    "round": "Fourth round",
+    "day": "2026-09-06",
+    "status": "scheduled",
+    "winnerSlug": null,
+    "score": null
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Marta_Kostyuk_%282023_US_Open%29_20_%28cropped%29.jpg",
+    "localPath": "img/players/marta-kostyuk.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AMarta_Kostyuk_%282023_US_Open%29_20_%28cropped%29.jpg",
+    "title": "File:Marta_Kostyuk_(2023_US_Open)_20_(cropped).jpg",
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Marta_Kostyuk",
+    "https://www.wtatennis.com/news/4497140/kostyuk-breaks-through-for-first-wta-1000-title-in-madrid",
+    "https://gulfnews.com/sport/tennis/marta-kostyuk-wins-madrid-open-2026-title-with-a-perfect-10-backflip-finish-1.500527386",
+    "https://www.elitedaily.com/lifestyle/marta-kostyuk-tennis-match-day-routine",
+    "https://www.rolandgarros.com/en-us/article/2026-edition-sf-kostyuk-andreeva",
+    "https://www.wtatennis.com/tournaments/wimbledon/scores/LS72320484",
+    "https://www.espn.com/tennis/story/_/id/49306654/marta-kostyuk-linda-noskova-advance-wimbledon-semifinals"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-05T17:46:49Z",
+   "factCheck": {
+    "checkedAt": "2026-09-05T17:52:00Z",
+    "notes": [
+     "Bio (DOB 2002-06-28, Kyiv, 175cm, right/2HBH, No.11, mother Talina Beiko pro, uncle Taras Beiko played for Ukraine, 2017 junior AO at 14, 2018 AO main draw at 15y6m youngest since 2005) confirmed via Wikipedia REST; seed 11 / rank 11 / opponent Noskova match schedule.json m22.",
+     "Madrid 2026 title d. Andreeva, backflip, Comaneci '#perfect10' post: Gulf News + WTA. WTA: 12 matches undefeated on clay (Rouen + Madrid).",
+     "RG 2026 SF (lost to Andreeva) and Wimbledon 2026 SF (lost to Noskova 6-4 6-4): confirmed via rolandgarros.com, WTA, ESPN.",
+     "R3 d. Alexandrova 6-3 6-2 in straight sets confirmed. Elite Daily routine facts confirmed verbatim.",
+     "No war/politics content present."
+    ],
+    "changes": [
+     "Story: streak sentence reworded ('12 clay-court matches in a row, lifting trophies in Rouen and then Madrid') to match WTA source; removed inaccurate 'run ended with Madrid'.",
+     "watchFor: replaced generic fist-pump with documented Madrid backflip; 'bold, bright' softened to 'eye-catching' per Elite Daily."
+    ]
+   },
+   "matchTier": 1,
+   "playsSaturday": false,
+   "round": "Fourth round"
+  },
+  {
+   "slug": "sorana-cirstea",
+   "name": "Sorana Cîrstea",
+   "country": "RO",
+   "countryName": "Romania",
+   "flagEmoji": "🇷🇴",
+   "birthDate": "1990-04-07",
+   "age": 36,
+   "seed": 16,
+   "ranking": 17,
+   "draw": "women",
+   "tier": 1,
+   "plays": "Right-handed, two-handed backhand",
+   "heightCm": 176,
+   "hometown": "Bucharest, Romania",
+   "nicknameOrTagline": "Romania's Comeback Queen",
+   "intro": "Sorana Cîrstea is a tennis veteran from Romania. She has played on tour for 20 years. At 36, she is playing the best tennis of her life!",
+   "story": "Her mom put a racket in her hand at age four. She reached the French Open quarterfinals way back in 2009. This year she did it again, 17 years later! This is her last season on tour, so cheer extra loud! On Friday she beat the 19th seed, a top-ranked player, in straight sets.",
+   "funFacts": [
+    {
+     "text": "Her favorite ice cream flavor is coconut. Sweet!",
+     "source": "https://www.tennis-prose.com/articles/sorana-cirstea-biofile/"
+    },
+    {
+     "text": "She speaks Romanian, English, and Spanish. Now she is learning French.",
+     "source": "https://www.wtatennis.com/players/312469/sorana-cirstea"
+    },
+    {
+     "text": "She loves reading books and doing crossword puzzles on the road.",
+     "source": "https://www.wtatennis.com/players/312469/sorana-cirstea"
+    },
+    {
+     "text": "New York is one of her two favorite cities in the world.",
+     "source": "https://www.wtatennis.com/players/312469/sorana-cirstea"
+    },
+    {
+     "text": "She has a younger brother named Mihnea.",
+     "source": "https://en.wikipedia.org/wiki/Sorana_C%C3%AErstea"
+    },
+    {
+     "text": "Her tennis hero is Steffi Graf. Seeing Steffi on TV made her want to play.",
+     "source": "https://www.tennis-prose.com/articles/sorana-cirstea-biofile/"
+    },
+    {
+     "text": "In February she won a title at home in Romania without losing a set.",
+     "source": "https://www.tennis.com/news/articles/in-final-year-on-tour-sorana-cirstea-wins-home-title-over-emma-raducanu-in-cluj-napoca"
+    }
+   ],
+   "watchFor": "Watch her big forehand, her favorite shot, crack winners from way back.",
+   "matchTomorrow": {
+    "opponent": "Jessica Pegula",
+    "opponentSlug": "jessica-pegula",
+    "court": "Louis Armstrong Stadium",
+    "session": "day",
+    "order": 4,
+    "startTimeET": null,
+    "matchId": "m23",
+    "round": "Fourth round",
+    "day": "2026-09-06",
+    "status": "scheduled",
+    "winnerSlug": null,
+    "score": null
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Transylvania_Open_2026_Final_-_Sorana_C%C3%AErstea_vs_Emma_R%C4%83ducanu_6%E2%80%930%2C_6%E2%80%932_07.02.2026_%28cropped2%29.jpg",
+    "localPath": "img/players/sorana-cirstea.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Nuță Lucian from Cluj-Napoca, Romania",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ATransylvania_Open_2026_Final_-_Sorana_C%C3%AErstea_vs_Emma_R%C4%83ducanu_6%E2%80%930%2C_6%E2%80%932_07.02.2026_%28cropped2%29.jpg",
+    "title": "File:Transylvania_Open_2026_Final_-_Sorana_Cîrstea_vs_Emma_Răducanu_6–0,_6–2_07.02.2026_(cropped2).jpg",
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Sorana_C%C3%AErstea",
+    "https://www.wtatennis.com/players/312469/sorana-cirstea",
+    "https://www.tennis.com/news/articles/in-final-year-on-tour-sorana-cirstea-wins-home-title-over-emma-raducanu-in-cluj-napoca",
+    "https://bleacherreport.com/articles/25496089-us-open-tennis-2026-results-winners-losers-and-highlights-fridays-bracket",
+    "https://www.tennis-prose.com/articles/sorana-cirstea-biofile/",
+    "https://www.wtatennis.com/news/4505424/rankings-watch-cirstea-36-becomes-oldest-player-to-make-top-20-debut",
+    "https://www.wtatennis.com/news/4512048/by-the-numbers-cirstea-sets-open-era-record-with-17-year-gap-between-roland-garros-quarterfinals"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-05T15:30:00Z",
+   "factCheck": {
+    "checkedAt": "2026-09-05T18:00:00Z",
+    "notes": [
+     "Bio (birth 1990-04-07, 176 cm, righty two-handed backhand) verified vs Wikipedia + WTA profile; seed 16 / ranking 17 and opponent Jessica Pegula (m23, Armstrong day) match schedule.json.",
+     "Born in Bucharest per both Wikipedia and WTA; Targoviste appears only as family residence on Wikipedia/derivative sites, so hometown changed to Bucharest.",
+     "RG QF 2009 and 2026 (17-year gap, Open Era record) confirmed by wtatennis.com; career-high No. 17 confirmed on WTA profile; oldest Top 20 debut at 36 confirmed by wtatennis.com/tennis.com (May 2026).",
+     "20 years on tour, retiring after 2026, Cluj title over Raducanu without dropping a set: tennis.com. Friday R3: beat No. 19 Paolini 6-3 6-3 (Bleacher Report).",
+     "Languages, reading/crosswords, New York favorite city, forehand favorite shot, mom at age 4: WTA profile. Brother Mihnea: Wikipedia + WTA profile.",
+     "Ice cream factory claim only on Wikipedia and sites copying it; replaced with sourced favorite-flavor fact. Federer as hero only on Wikipedia; WTA/Tennis-Prose name Graf only."
+    ],
+    "changes": [
+     "hometown Targoviste -> Bucharest.",
+     "Fun fact 1: 'dad runs an ice cream factory' -> 'favorite ice cream flavor is coconut' (Tennis-Prose).",
+     "Fun fact 6: dropped Federer, kept Steffi Graf with Tennis-Prose source.",
+     "Story: retirement line rewritten to 'last season... last US Open, so cheer extra loud'."
+    ]
+   },
+   "matchTier": 1,
+   "playsSaturday": false,
+   "round": "Fourth round"
+  },
+  {
+   "slug": "tommy-paul",
+   "name": "Tommy Paul",
+   "country": "US",
+   "countryName": "United States",
+   "flagEmoji": "🇺🇸",
+   "birthDate": "1997-05-17",
+   "age": 29,
+   "seed": 20,
+   "ranking": 21,
+   "draw": "men",
+   "tier": 1,
+   "plays": "Right-handed, two-handed backhand",
+   "heightCm": 185,
+   "hometown": "Greenville, North Carolina, United States",
+   "nicknameOrTagline": "TP",
+   "intro": "Tommy Paul is a speedy American from North Carolina. Fans call him TP. He chases down every ball.",
+   "story": "Tommy grew up on clay courts in Greenville, North Carolina. As a junior he won the French Open boys' title. He beat his pal Taylor Fritz in that final. In 2024 they won an Olympic bronze medal together in doubles. On Friday he was down two sets to one, then came back to win.",
+   "funFacts": [
+    {
+     "text": "He loves deep-sea fishing. He says it clears his mind.",
+     "source": "https://www.tennis.com/news/articles/tommy-paul-unlocks-happy-medium-taking-job-seriously-having-fun-interview-top-10"
+    },
+    {
+     "text": "As a kid he fished every summer weekend in North Carolina.",
+     "source": "https://www.tennis.com/news/articles/behind-the-camo-tommy-paul-talks-style-sailing-and-the-search-for-the-third-man"
+    },
+    {
+     "text": "He wears camo clothes a lot. He calls himself an outdoor guy.",
+     "source": "https://www.tennis.com/news/articles/behind-the-camo-tommy-paul-talks-style-sailing-and-the-search-for-the-third-man"
+    },
+    {
+     "text": "His other hobbies are surfing, basketball, golf, and dirt bikes.",
+     "source": "https://www.atptour.com/en/players/tommy-paul/pl56/bio"
+    },
+    {
+     "text": "He is a big Philadelphia Eagles football fan.",
+     "source": "https://www.atptour.com/en/players/tommy-paul/pl56/bio"
+    },
+    {
+     "text": "His favorite tournament is the US Open.",
+     "source": "https://www.atptour.com/en/players/tommy-paul/pl56/bio"
+    },
+    {
+     "text": "He has beaten Carlos Alcaraz twice, and Rafael Nadal too.",
+     "source": "https://en.wikipedia.org/wiki/Tommy_Paul_(tennis)"
+    }
+   ],
+   "watchFor": "Watch him spin his racket on his fingers between points, like a toy.",
+   "matchTomorrow": {
+    "opponent": "Carlos Alcaraz",
+    "opponentSlug": "carlos-alcaraz",
+    "court": "Arthur Ashe Stadium",
+    "session": "day",
+    "order": 2,
+    "startTimeET": "14:00",
+    "matchId": "m20",
+    "round": "Fourth round",
+    "day": "2026-09-06",
+    "status": "scheduled",
+    "winnerSlug": null,
+    "score": null
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Tommy_Paul_at_the_2026_Delray_Beach_Open.jpg",
+    "localPath": "img/players/tommy-paul.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Gatorfan252525",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ATommy_Paul_at_the_2026_Delray_Beach_Open.jpg",
+    "title": "File:Tommy_Paul_at_the_2026_Delray_Beach_Open.jpg",
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Tommy_Paul_(tennis)",
+    "https://www.atptour.com/en/players/tommy-paul/pl56/bio",
+    "https://www.tennis.com/news/articles/behind-the-camo-tommy-paul-talks-style-sailing-and-the-search-for-the-third-man",
+    "https://www.tennis.com/news/articles/tommy-paul-unlocks-happy-medium-taking-job-seriously-having-fun-interview-top-10",
+    "https://www.si.com/onsi/serve/interviews/tommy-paul-talks-yellowfin-favorite-fishing-spots-atp-tour",
+    "https://bleacherreport.com/articles/25496089-us-open-tennis-2026-results-winners-losers-and-highlights-fridays-bracket",
+    "https://www.atptour.com/en/news/matthew-mcconaughey-tommy-paul-rome-2024",
+    "https://www.sportskeeda.com/tennis/news-best-i-seen-since-andre-agassi-tommy-paul-s-racket-spinning-skills-impresses-brad-gilbert",
+    "https://www.espn.com/tennis/story/_/id/28534524/former-youth-sensation-tommy-paul-beginning-realize-potential-australian-open",
+    "https://www.indiatvnews.com/sports/tennis/carlos-alcaraz-vs-tommy-paul-head-to-head-record-ahead-of-australian-open-2026-clash-2026-01-23-1027183"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-05T15:30:00Z",
+   "factCheck": {
+    "checkedAt": "2026-09-05T18:00:00Z",
+    "notes": [
+     "Bio (birth 1997-05-17, 185 cm, righty two-handed backhand) verified vs Wikipedia; born Voorhees NJ but ATP bio says he moved at 3 months and grew up on clay courts in Greenville NC, so hometown kept.",
+     "Seed 20 / ranking 21 and opponent Carlos Alcaraz (m20, Ashe day) match schedule.json.",
+     "2015 RG boys' title over Fritz (Wikipedia + ATP), 2024 Olympic doubles bronze with Fritz (Wikipedia). Friday R3: beat No. 15 Bublik 6-4 3-6 6-7(4) 6-1 6-3 (Bleacher Report) - came back from 2-1 down, correct.",
+     "Racket-spinning habit: Wikipedia plus Brad Gilbert quote reported by Sportskeeda (2023); source added.",
+     "'TP' nickname: ATP article quotes Matthew McConaughey's 'Looking good TP'; intro softened from 'Friends' to 'Fans'.",
+     "Fishing/camo facts confirmed in the two cited tennis.com articles; hobbies/Eagles/US Open favorite confirmed on ATP bio; two Alcaraz wins (2022, 2023 Canadian Open) and Nadal win (2022 Paris) per Wikipedia, consistent with 6-2 H2H reported Jan 2026."
+    ],
+    "changes": [
+     "Intro: 'Friends call him TP' -> 'Fans call him TP'; replaced unsourced 'big forehand' with ESPN-supported 'nimble athlete'.",
+     "watchFor: kept racket spinning, added Brad Gilbert/Agassi comparison with Sportskeeda source."
+    ]
+   },
+   "matchTier": 1,
+   "playsSaturday": false,
+   "round": "Fourth round"
+  },
+  {
+   "slug": "anna-kalinskaya",
+   "name": "Anna Kalinskaya",
+   "country": "RU",
+   "countryName": "Plays without a flag",
+   "flagEmoji": "🎾",
+   "birthDate": "1998-12-02",
+   "age": 27,
+   "seed": 21,
+   "ranking": 23,
+   "draw": "women",
+   "tier": 1,
+   "plays": "Right-handed, two-handed backhand",
+   "heightCm": 175,
+   "hometown": "Moscow, Russia",
+   "nicknameOrTagline": "Bella's Best Friend",
+   "intro": "Anna Kalinskaya grew up in Moscow and now trains in Miami. She plays smart, tricky tennis full of surprises. Her tiny dog Bella is her biggest fan.",
+   "story": "Anna started tennis at age five after watching her cousin play. Both her parents were pro badminton players! This year she reached her first French Open quarterfinal. On Friday she beat the No. 9 seed in three sets. A seed is a top-ranked player, so that was a big win.",
+   "funFacts": [
+    {
+     "text": "Her dog Bella is a cream-colored dachshund. Bella travels to tournaments with her.",
+     "source": "https://en.wikipedia.org/wiki/Anna_Kalinskaya"
+    },
+    {
+     "text": "Bella once ran onto the court after a win to get pets. Bella even got her own badge!",
+     "source": "https://www.si.com/tennis/anna-kalinskaya-adorable-dog-steals-show-washington-open"
+    },
+    {
+     "text": "Her mom and dad were both pro badminton players.",
+     "source": "https://en.wikipedia.org/wiki/Anna_Kalinskaya"
+    },
+    {
+     "text": "Her brother Nikolay is a pro soccer player.",
+     "source": "https://en.wikipedia.org/wiki/Anna_Kalinskaya"
+    },
+    {
+     "text": "She loves cooking, shopping, and watching basketball in her free time.",
+     "source": "https://www.wtatennis.com/players/323942/anna-kalinskaya"
+    },
+    {
+     "text": "She started tennis at five after watching her cousin play at Grandma's house.",
+     "source": "https://www.ibtimes.com.au/anna-kalinskaya-rising-star-wta-tour-1875038"
+    },
+    {
+     "text": "She won the Australian Open girls' doubles title in 2016.",
+     "source": "https://en.wikipedia.org/wiki/Anna_Kalinskaya"
+    }
+   ],
+   "watchFor": "Watch for her drop shot, a sneaky soft ball that barely hops the net!",
+   "matchTomorrow": {
+    "opponent": "Emma Navarro",
+    "opponentSlug": "emma-navarro",
+    "court": "Arthur Ashe Stadium",
+    "session": "night",
+    "order": 2,
+    "startTimeET": null,
+    "matchId": "m24",
+    "round": "Fourth round",
+    "day": "2026-09-06",
+    "status": "scheduled",
+    "winnerSlug": null,
+    "score": null
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Anna_Kalinskaya_%282025_DC_Open%29_01_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "localPath": "img/players/anna-kalinskaya.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AAnna_Kalinskaya_%282025_DC_Open%29_01_%28cropped%29.jpg",
+    "title": "File:Anna_Kalinskaya_(2025_DC_Open)_01_(cropped).jpg",
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Anna_Kalinskaya",
+    "https://www.wtatennis.com/players/323942/anna-kalinskaya",
+    "https://www.ibtimes.com.au/anna-kalinskaya-rising-star-wta-tour-1875038",
+    "https://www.si.com/tennis/anna-kalinskaya-adorable-dog-steals-show-washington-open",
+    "https://www.wtatennis.com/videos/4387477/hot-shot-kalinskaya-foils-shnaider-with-unexpected-drop-shot-in-tokyo",
+    "https://bleacherreport.com/articles/25496089-us-open-tennis-2026-results-winners-losers-and-highlights-fridays-bracket"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-05T17:51:19Z",
+   "factCheck": {
+    "checkedAt": "2026-09-05T19:30:00Z",
+    "notes": [
+     "Bio (born 2 Dec 1998 Moscow, 175 cm, right-handed/two-handed backhand, trains in Miami, parents pro badminton players, brother Nikolay Kalinsky footballer, 2016 AO girls' doubles, win over world No. 1 Swiatek Dubai 2024, first Roland Garros QF in 2026) verified on Wikipedia; WTA profile confirms birth date, height, parents, cousin/grandmother story, hobbies.",
+     "Seed 21 / ranking 23 and Sunday opponent Navarro (m24, Ashe night) match data/schedule.json.",
+     "Friday win over No. 9 Svitolina 6-3 2-6 6-3 verified via Bleacher Report Friday results.",
+     "Dog: Wikipedia and SI (2025 DC Open) both say Bella, English cream dachshund, travels with her, ran onto court, got a badge. The older WTA profile bio mentions a Pomsky named Kobe; kept the double-sourced, more recent Bella.",
+     "Drop-shot watchFor is supported by the cited WTA 'Hot shot: Kalinskaya foils Shnaider with unexpected drop shot in Tokyo' video.",
+     "Neutral-flag settings (countryName 'Plays without a flag', tennis-ball emoji) left unchanged."
+    ],
+    "changes": [
+     "Fixed 'playing basketball' to 'watching basketball' (WTA profile + ibtimes both say watching) and re-pointed the source to the WTA profile.",
+     "Removed speculative 'peek at her box for Bella' from watchFor."
+    ]
+   },
+   "matchTier": 1,
+   "playsSaturday": false,
+   "round": "Fourth round"
+  },
+  {
+   "slug": "emma-navarro",
+   "name": "Emma Navarro",
+   "country": "US",
+   "countryName": "United States",
+   "flagEmoji": "🇺🇸",
+   "birthDate": "2001-05-18",
+   "age": 25,
+   "seed": 26,
+   "ranking": 27,
+   "draw": "women",
+   "tier": 1,
+   "plays": "Right-handed, two-handed backhand",
+   "heightCm": 170,
+   "hometown": "Charleston, South Carolina, United States",
+   "nicknameOrTagline": "The Bullet",
+   "intro": "Emma Navarro is an American from Charleston, South Carolina. She was born right here in New York City! She is famous for staying calm and never giving up.",
+   "story": "Emma started tennis at age four at a playground in Charleston. Sometimes she rode a RipStik board to practice! In college she won the national title in her first year. In 2024 she made the final four here. On Friday she beat the No. 7 seed, a top-ranked player.",
+   "funFacts": [
+    {
+     "text": "Her family dog is a Bernedoodle named Marti. Marti even visits the tennis court!",
+     "source": "https://charlestonmag.com/features/match_maker_charleston_s_own_emma_navarro_has_become_one_of_the_most_relentless_and"
+    },
+    {
+     "text": "Her high school teammates called her the bullet.",
+     "source": "https://charlestonmag.com/features/match_maker_charleston_s_own_emma_navarro_has_become_one_of_the_most_relentless_and"
+    },
+    {
+     "text": "She has two big brothers and a little sister. Her sister plays college tennis.",
+     "source": "https://charlestonmag.com/features/match_maker_charleston_s_own_emma_navarro_has_become_one_of_the_most_relentless_and"
+    },
+    {
+     "text": "She was born in New York City. Her family moved to Charleston when she was little.",
+     "source": "https://en.wikipedia.org/wiki/Emma_Navarro"
+    },
+    {
+     "text": "She won the college national championship in her very first year at Virginia.",
+     "source": "https://en.wikipedia.org/wiki/Emma_Navarro"
+    },
+    {
+     "text": "She has driven a real Formula One race car. She plays golf for fun too.",
+     "source": "https://www.profootballnetwork.com/tennis/emma-navarro-shares-bits-from-her-off-season-golf-f1-outings-family/"
+    },
+    {
+     "text": "Her sister says Emma is the funniest one in the family. At school she was the class clown.",
+     "source": "https://charlestonmag.com/features/match_maker_charleston_s_own_emma_navarro_has_become_one_of_the_most_relentless_and"
+    }
+   ],
+   "watchFor": "Watch every ball come back, because fans call her a human backboard!",
+   "matchTomorrow": {
+    "opponent": "Anna Kalinskaya",
+    "opponentSlug": "anna-kalinskaya",
+    "court": "Arthur Ashe Stadium",
+    "session": "night",
+    "order": 2,
+    "startTimeET": null,
+    "matchId": "m24",
+    "round": "Fourth round",
+    "day": "2026-09-06",
+    "status": "scheduled",
+    "winnerSlug": null,
+    "score": null
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/EmmaNavarro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "localPath": "img/players/emma-navarro.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "SaidSimmons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AEmmaNavarro.jpg",
+    "title": "File:EmmaNavarro.jpg",
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Emma_Navarro",
+    "https://www.wtatennis.com/players/325410/emma-navarro",
+    "https://charlestonmag.com/features/match_maker_charleston_s_own_emma_navarro_has_become_one_of_the_most_relentless_and",
+    "https://www.profootballnetwork.com/tennis/emma-navarro-shares-bits-from-her-off-season-golf-f1-outings-family/",
+    "https://www.wtatennis.com/news/4052147/chilled-out-navarro-brings-positive-energy-into-wimbledon-second-week",
+    "https://lastwordonsports.com/tennis/2024/07/08/why-emma-navarros-rise-is-great-for-womens-tennis/",
+    "https://bleacherreport.com/articles/25496089-us-open-tennis-2026-results-winners-losers-and-highlights-fridays-bracket"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-05T17:51:19Z",
+   "factCheck": {
+    "checkedAt": "2026-09-05T19:30:00Z",
+    "notes": [
+     "Bio (birth date, NYC birthplace, 170 cm, right-handed/two-handed backhand, Charleston residence, 2021 NCAA title as freshman, 2024 US Open SF) verified on Wikipedia + WTA profile.",
+     "Seed 26 / ranking 27 and Sunday opponent Kalinskaya (m24, Ashe night) match data/schedule.json.",
+     "Friday win over No. 7 Muchova 6-3 7-5 verified via Bleacher Report Friday results.",
+     "'The bullet' nickname is from high-school teammates at Ashley Hall (Charleston Magazine) and the fun fact says so. RipStik, playground start at four, siblings, class clown/funniest, Marti the Bernedoodle all verified verbatim in Charleston Magazine.",
+     "F1 car (Red Bull, Las Vegas GP 2025) and golf pro-am verified at cited profootballnetwork article.",
+     "WTA article 'chilled-out Navarro' supports the calm demeanor claim."
+    ],
+    "changes": [
+     "Removed unsourced 'They go kayaking together' from the Marti fun fact; replaced with sourced 'Marti even visits the tennis court' (Charleston Magazine: Marti 'on and off the court').",
+     "Replaced unsourced drop-shot watchFor with the Charleston Magazine 'human backboard' description.",
+     "Softened story to 'Sometimes she rode a RipStik' (source quote: 'We'd walk or RipStik over')."
+    ]
+   },
+   "matchTier": 1,
+   "playsSaturday": false,
+   "round": "Fourth round"
+  },
+  {
+   "slug": "stefanos-tsitsipas",
+   "name": "Stefanos Tsitsipas",
+   "country": "GR",
+   "countryName": "Greece",
+   "flagEmoji": "🇬🇷",
+   "birthDate": "1998-08-12",
+   "age": 28,
+   "seed": null,
+   "ranking": 53,
+   "draw": "men",
+   "tier": 1,
+   "plays": "Right-handed, one-handed backhand",
+   "heightCm": 193,
+   "hometown": "Athens, Greece",
+   "nicknameOrTagline": "The Greek God of Tennis",
+   "intro": "Stefanos Tsitsipas is a tall tennis star from Athens, Greece. He has long, flowing hair. He has played in two Grand Slam finals, the biggest tournaments in tennis.",
+   "story": "His mom was a pro player. His dad is his coach. At 21 he won the big year-end ATP Finals. He has won the Monte Carlo tournament three times. On Friday he lost the first set, then roared back to win in four.",
+   "funFacts": [
+    {
+     "text": "He speaks three languages: Greek, English, and Russian.",
+     "source": "https://www.atptour.com/en/players/stefanos-tsitsipas/te51/bio"
+    },
+    {
+     "text": "He makes YouTube travel videos and edits them himself.",
+     "source": "https://www.tennis.com/baseline/articles/tsitsipas-launches-new-vlog-umentary-dear-fans"
+    },
+    {
+     "text": "He loves photography and always has a camera on the road.",
+     "source": "https://www.atptour.com/en/players/stefanos-tsitsipas/te51/bio"
+    },
+    {
+     "text": "He has two brothers and a sister. They all play tennis too!",
+     "source": "https://www.atptour.com/en/players/stefanos-tsitsipas/te51/bio"
+    },
+    {
+     "text": "His grandpa won an Olympic gold medal in soccer in 1956.",
+     "source": "https://www.atptour.com/en/players/stefanos-tsitsipas/te51/bio"
+    },
+    {
+     "text": "He shares a birthday with tennis legend Pete Sampras.",
+     "source": "https://www.atptour.com/en/players/stefanos-tsitsipas/te51/bio"
+    },
+    {
+     "text": "He cheers for the Milwaukee Bucks basketball team.",
+     "source": "https://www.atptour.com/en/players/stefanos-tsitsipas/te51/bio"
+    }
+   ],
+   "watchFor": "Watch his rare one-handed backhand, swung with one arm like a sword.",
+   "matchTomorrow": {
+    "opponent": "Ben Shelton",
+    "opponentSlug": "ben-shelton",
+    "court": "Arthur Ashe Stadium",
+    "session": "night",
+    "order": 1,
+    "startTimeET": "19:00",
+    "matchId": "m19",
+    "round": "Fourth round",
+    "day": "2026-09-06",
+    "status": "scheduled",
+    "winnerSlug": null,
+    "score": null
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Tsitsipas_S._MCM22_%28cropped%29.jpg",
+    "localPath": "img/players/stefanos-tsitsipas.jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "si.robi",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ATsitsipas_S._MCM22_%28cropped%29.jpg",
+    "title": "File:Tsitsipas_S._MCM22_(cropped).jpg",
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Stefanos_Tsitsipas",
+    "https://www.atptour.com/en/players/stefanos-tsitsipas/te51/bio",
+    "https://www.tennis.com/baseline/articles/tsitsipas-launches-new-vlog-umentary-dear-fans",
+    "https://bleacherreport.com/articles/25496089-us-open-tennis-2026-results-winners-losers-and-highlights-fridays-bracket",
+    "https://www.tennis365.com/tennis-news/stefanos-tsitsipas-proves-he-is-the-greek-god"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-05T15:30:00Z",
+   "factCheck": {
+    "checkedAt": "2026-09-05T18:00:00Z",
+    "notes": [
+     "Bio (birth 1998-08-12, Athens, 193 cm, righty one-handed backhand) verified vs Wikipedia + ATP bio; ranking 53/unseeded and opponent Ben Shelton (m19, Ashe night) match schedule.json.",
+     "Mother Julia Apostoli/Salnikova was a WTA pro, father Apostolos coach, 2019 ATP Finals at 21 (born Aug 1998), 3 Monte Carlo titles (2021/22/24), 2 Slam finals: Wikipedia + ATP.",
+     "Friday R3: beat No. 18 Jiri Lehecka 2-6 6-1 7-6(3) 6-1 (Bleacher Report) - 'lost first set, won in four' correct.",
+     "All 7 fun facts confirmed on ATP bio (languages Greek/English/Russian, YouTube vlogging + video editing, photography, 3 siblings all play, grandfather Sergei 1956 Olympic football gold, Sampras birthday, Bucks fan); tennis.com confirms he directs/edits his own videos.",
+     "'Greek God' tagline is a widely used media nickname (tennis365, Tennis Majors, SCMP); source added."
+    ],
+    "changes": [
+     "Added tennis365 source for the 'Greek God' nickname. No text changes."
+    ]
+   },
+   "matchTier": 1,
+   "playsSaturday": false,
+   "round": "Fourth round"
+  },
+  {
+   "slug": "taylor-townsend",
+   "name": "Taylor Townsend",
+   "country": "US",
+   "countryName": "United States",
+   "flagEmoji": "🇺🇸",
+   "birthDate": "1996-04-16",
+   "age": 30,
+   "seed": null,
+   "ranking": 96,
+   "draw": "women",
+   "tier": 1,
+   "plays": "Left-handed, two-handed backhand",
+   "heightCm": 170,
+   "hometown": "Chicago, Illinois, United States",
+   "nicknameOrTagline": "The Net-Rushing Lefty Mom",
+   "intro": "Taylor Townsend is a lefty from Chicago with a huge smile. A lefty plays with the left hand. She loves to charge the net.",
+   "story": "At 16, Taylor was the No. 1 junior in the world. She has won three Grand Slam doubles titles, the biggest tournaments in tennis. In 2025 she became the first mom ever ranked No. 1 in doubles. On Friday she rushed the net 44 times and beat the 15th seed. A seed is a top-ranked player, so that was huge!",
+   "funFacts": [
+    {
+     "text": "Her son AJ is five. He gives her tips: hit it where she isn't!",
+     "source": "https://www.profootballnetwork.com/tennis/coached-by-son-taylor-townsend-gets-real-motherhood-austin/"
+    },
+    {
+     "text": "She grew up on the South Side of Chicago in a big tennis family.",
+     "source": "https://sports.yahoo.com/article/12-interesting-facts-know-tennis-201114412.html"
+    },
+    {
+     "text": "She eats and writes with her left hand, and plays lefty too.",
+     "source": "https://www.revolt.tv/article/interesting-facts-about-taylor-townsend-tennis-champion"
+    },
+    {
+     "text": "She taught rapper Cardi B how to play tennis on a TV show.",
+     "source": "https://sports.yahoo.com/article/12-interesting-facts-know-tennis-201114412.html"
+    },
+    {
+     "text": "Her mom played college tennis. Her sister Symone did too.",
+     "source": "https://sports.yahoo.com/article/12-interesting-facts-know-tennis-201114412.html"
+    },
+    {
+     "text": "Her tennis hero is lefty legend Martina Navratilova.",
+     "source": "https://sports.yahoo.com/article/12-interesting-facts-know-tennis-201114412.html"
+    },
+    {
+     "text": "She has won Wimbledon, the Australian Open, and the French Open in doubles.",
+     "source": "https://en.wikipedia.org/wiki/Taylor_Townsend"
+    }
+   ],
+   "watchFor": "Watch her serve and sprint to the net, a move almost nobody does anymore.",
+   "matchTomorrow": {
+    "opponent": "Aryna Sabalenka",
+    "opponentSlug": "aryna-sabalenka",
+    "court": "Arthur Ashe Stadium",
+    "session": "day",
+    "order": 1,
+    "startTimeET": "11:30",
+    "matchId": "m21",
+    "round": "Fourth round",
+    "day": "2026-09-06",
+    "status": "scheduled",
+    "winnerSlug": null,
+    "score": null
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Taylor_Townsend_%282025_DC_Open%29_10_%28cropped%29.jpg",
+    "localPath": "img/players/taylor-townsend.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ATaylor_Townsend_%282025_DC_Open%29_10_%28cropped%29.jpg",
+    "title": "File:Taylor_Townsend_(2025_DC_Open)_10_(cropped).jpg",
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Taylor_Townsend",
+    "https://sports.yahoo.com/article/12-interesting-facts-know-tennis-201114412.html",
+    "https://www.profootballnetwork.com/tennis/coached-by-son-taylor-townsend-gets-real-motherhood-austin/",
+    "https://www.wtatennis.com/news/4572273/taylor-townsend-beats-diana-shnaider-to-reach-fourth-round-of-us-open",
+    "https://bleacherreport.com/articles/25496089-us-open-tennis-2026-results-winners-losers-and-highlights-fridays-bracket",
+    "https://www.revolt.tv/article/interesting-facts-about-taylor-townsend-tennis-champion"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-05T15:30:00Z",
+   "factCheck": {
+    "checkedAt": "2026-09-05T18:00:00Z",
+    "notes": [
+     "Bio (birth 1996-04-16, Chicago, 170 cm, lefty two-handed backhand) verified vs Wikipedia; ranking 96/unseeded and opponent Aryna Sabalenka (m21, Ashe day) match schedule.json.",
+     "2012 ITF junior world champion at 16, 3 Slam doubles titles with Siniakova (2024 Wimbledon, 2025 AO, 2026 RG), first mother to reach No. 1 (July 2025): Wikipedia + Yahoo.",
+     "Friday R3: beat No. 15 Diana Shnaider 6-2 6-7(3) 6-3 with 44 net approaches (wtatennis.com + Bleacher Report).",
+     "Son Adyn 'AJ' born 2021-03-14 (Wikipedia) -> age 5 on match day; 'hit it where she's not' tip from profootballnetwork article.",
+     "Left-handed eating/writing quote, South Side, Cardi B, Navratilova: Revolt/Yahoo 12-facts article; mother Sheila (Lincoln University) and sister Symone (Florida A&M) college tennis: Yahoo + Wikipedia."
+    ],
+    "changes": [
+     "Intro: 'doubles world champion' -> 'Grand Slam doubles champion'.",
+     "Story: removed the 2012 fitness/USTA controversy sentences (age-appropriateness).",
+     "Fixed sources on two fun facts (left-hand quote -> Revolt article; mother/sister -> Yahoo)."
+    ]
+   },
+   "matchTier": 1,
+   "playsSaturday": false,
+   "round": "Fourth round"
+  },
+  {
+   "slug": "tomas-martin-etcheverry",
+   "name": "Tomás Martín Etcheverry",
+   "country": "AR",
+   "countryName": "Argentina",
+   "flagEmoji": "🇦🇷",
+   "birthDate": "1999-07-18",
+   "age": 27,
+   "seed": 27,
+   "ranking": 32,
+   "draw": "men",
+   "tier": 2,
+   "plays": "Right-handed, two-handed backhand",
+   "heightCm": 196,
+   "hometown": "La Plata, Argentina",
+   "nicknameOrTagline": "Tomy",
+   "intro": "Tomás Martín Etcheverry is a giant from La Plata, Argentina. He is almost six and a half feet tall! Friends call him Tomy.",
+   "story": "Tomy started tennis at age five with a paddle from the beach. At nine, one loss made him cry so hard his parents almost quit tennis! Now he is Argentina's No. 2 player. This year he won his first big tour title in Rio. On Friday he won in straight sets, so he plays again Sunday.",
+   "funFacts": [
+    {
+     "text": "His nickname is Tomy. His dog is named Roland Garros, after the French Open!",
+     "source": "https://www.atptour.com/en/players/tomas-martin-etcheverry/ea24/bio"
+    },
+    {
+     "text": "In 2023 he said he had never broken a racket in his whole life. Not once!",
+     "source": "https://www.atptour.com/en/news/etcheverry-rome-2023-feature"
+    },
+    {
+     "text": "His favorite food is milanesa, a crispy breaded cutlet from Argentina.",
+     "source": "https://www.atptour.com/en/players/tomas-martin-etcheverry/ea24/bio"
+    },
+    {
+     "text": "He plays soccer in a fun league with friends back home. He loves PlayStation too.",
+     "source": "https://www.atptour.com/en/players/tomas-martin-etcheverry/ea24/bio"
+    },
+    {
+     "text": "As a kid he won a 6-kilometer running race in his hometown.",
+     "source": "https://www.atptour.com/en/players/tomas-martin-etcheverry/ea24/bio"
+    },
+    {
+     "text": "His mom and dad are both lawyers. He has two siblings and two step-siblings.",
+     "source": "https://www.atptour.com/en/players/tomas-martin-etcheverry/ea24/bio"
+    },
+    {
+     "text": "His favorite city on tour is Rome, for the pasta and pizza.",
+     "source": "https://www.atptour.com/en/players/tomas-martin-etcheverry/ea24/bio"
+    }
+   ],
+   "watchFor": "Watch him run around his backhand to smash a giant forehand.",
+   "matchTomorrow": {
+    "opponent": "Alex Michelsen",
+    "opponentSlug": "alex-michelsen",
+    "court": "Grandstand",
+    "session": "day",
+    "order": 3,
+    "startTimeET": "14:30",
+    "matchId": "m18",
+    "round": "Fourth round",
+    "day": "2026-09-06",
+    "status": "scheduled",
+    "winnerSlug": null,
+    "score": null
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Tom%C3%A1s_Martin_Etcheverry_-_2024_Olympics_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "localPath": "img/players/tomas-martin-etcheverry.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Kuberzog",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ATom%C3%A1s_Martin_Etcheverry_-_2024_Olympics_%28cropped%29.jpg",
+    "title": "File:Tomás_Martin_Etcheverry_-_2024_Olympics_(cropped).jpg",
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Tom%C3%A1s_Mart%C3%ADn_Etcheverry",
+    "https://www.atptour.com/en/players/tomas-martin-etcheverry/ea24/bio",
+    "https://www.atptour.com/en/news/etcheverry-rome-2023-feature",
+    "https://www.tennis.com/news/articles/open-up-player-portrait-tomas-martin-etcheverry-argentina-labels-legion-clay-hard-courts-goals",
+    "https://www.atptour.com/en/video/hot-shot-etcheverry-unloads-on-forehand-in-buenos-aires-2026",
+    "https://bleacherreport.com/articles/25496089-us-open-tennis-2026-results-winners-losers-and-highlights-fridays-bracket"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-05T17:51:19Z",
+   "factCheck": {
+    "checkedAt": "2026-09-05T19:30:00Z",
+    "notes": [
+     "Bio (born 18 Jul 1999 La Plata, 196 cm, right-handed/two-handed backhand, maiden ATP title Rio 2026 over Tabilo, 'currently the No. 2 singles player from Argentina' as of Aug 2026) verified on Wikipedia. Age 27 correct.",
+     "Seed 27 / ranking 32 and Sunday opponent Michelsen (m18, Grandstand day) match data/schedule.json (Wikipedia shows No. 31 as of Aug 2026; schedule value kept per brief).",
+     "Friday straight-sets win over Mariano Navone 6-4 6-4 6-3 verified via Bleacher Report.",
+     "ATP bio verifies: nickname Tomy, dog Roland Garros, milanesa, amateur football league + PlayStation, 6 km race win, parents both lawyers, two siblings + two step-siblings, favorite city Rome, started at five with a beach paddle.",
+     "ATP Rome 2023 feature verifies the crying-at-nine story and the quote 'I've never broken or hit a racquet in my life.'",
+     "Forehand watchFor supported by the cited ATP Hot Shot (Buenos Aires 2026)."
+    ],
+    "changes": [
+     "Softened 'never broken a racket' to a dated 2023 statement.",
+     "Removed unverifiable 'wears a white headband' from watchFor; replaced with sourced height."
+    ]
+   },
+   "matchTier": 2,
+   "playsSaturday": false,
+   "round": "Fourth round"
+  },
+  {
+   "slug": "alex-michelsen",
+   "name": "Alex Michelsen",
+   "country": "US",
+   "countryName": "United States",
+   "flagEmoji": "🇺🇸",
+   "birthDate": "2004-08-25",
+   "age": 22,
+   "seed": null,
+   "ranking": 46,
+   "draw": "men",
+   "tier": 3,
+   "plays": "Right-handed, two-handed backhand",
+   "heightCm": 193,
+   "hometown": "Aliso Viejo, California, United States",
+   "nicknameOrTagline": "The Garage Backhand Kid",
+   "intro": "Alex Michelsen is a tall young American from California. He just turned 22. He has a rock-solid backhand and a big serve.",
+   "story": "At age three, Alex hit backhands against the family garage door. His mom hit with him almost every day. He says she is like a wall! At 18 he skipped college and reached a pro final right away. On Friday he won in straight sets, so he plays again Sunday.",
+   "funFacts": [
+    {
+     "text": "He learned tennis by hitting backhands in his garage at age three.",
+     "source": "https://www.atptour.com/en/players/alex-michelsen/m0qi/bio"
+    },
+    {
+     "text": "Both his parents played college tennis. His mom hit with him almost every day.",
+     "source": "https://tennisnow.com/orange-rush-michelsen-stuns-fritz-for-indian-wells-round-of-16/"
+    },
+    {
+     "text": "His favorite movie is Star Wars. His favorite book is Harry Potter.",
+     "source": "https://www.atptour.com/en/players/alex-michelsen/m0qi/bio"
+    },
+    {
+     "text": "He loves video games. He plays them against his pal Learner Tien, another player.",
+     "source": "https://www.atptour.com/en/news/michelsen-tien-toronto-2025-fierce-feuds"
+    },
+    {
+     "text": "He plays basketball for fun and cheers for the Lakers.",
+     "source": "https://www.atptour.com/en/players/alex-michelsen/m0qi/bio"
+    },
+    {
+     "text": "His favorite ice cream flavor is plain vanilla.",
+     "source": "https://www.tennis-prose.com/articles/biofile-alex-michelsen-interview/"
+    },
+    {
+     "text": "He won the Wimbledon boys' doubles title in 2022 with his friend Sebastian.",
+     "source": "https://en.wikipedia.org/wiki/Alex_Michelsen"
+    }
+   ],
+   "watchFor": "Watch his two-handed backhand rip straight down the line for a winner!",
+   "matchTomorrow": {
+    "opponent": "Tomas Martin Etcheverry",
+    "opponentSlug": "tomas-martin-etcheverry",
+    "court": "Grandstand",
+    "session": "day",
+    "order": 3,
+    "startTimeET": "14:30",
+    "matchId": "m18",
+    "round": "Fourth round",
+    "day": "2026-09-06",
+    "status": "scheduled",
+    "winnerSlug": null,
+    "score": null
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Alex_Michelsen_%282023_US_Open%29_25_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "localPath": "img/players/alex-michelsen.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AAlex_Michelsen_%282023_US_Open%29_25_%28cropped%29.jpg",
+    "title": "File:Alex_Michelsen_(2023_US_Open)_25_(cropped).jpg",
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Alex_Michelsen",
+    "https://www.atptour.com/en/players/alex-michelsen/m0qi/bio",
+    "https://www.atptour.com/en/news/michelsen-australian-open-2025-feature",
+    "https://www.tennis-prose.com/articles/biofile-alex-michelsen-interview/",
+    "https://www.tennismajors.com/atp/breaking-through-get-to-know-alex-michelsen-one-of-the-rising-stars-of-mens-tennis-806885.html",
+    "https://tennisnow.com/orange-rush-michelsen-stuns-fritz-for-indian-wells-round-of-16/",
+    "https://www.atptour.com/en/news/michelsen-tien-toronto-2025-fierce-feuds",
+    "https://bleacherreport.com/articles/25496089-us-open-tennis-2026-results-winners-losers-and-highlights-fridays-bracket"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-05T17:51:19Z",
+   "factCheck": {
+    "checkedAt": "2026-09-05T19:30:00Z",
+    "notes": [
+     "Bio (born 25 Aug 2004 Aliso Viejo CA, 6'4\"/193 cm, right-handed/two-handed backhand, turned pro 2023 forgoing Georgia, first ATP final at 18, 2022 Wimbledon boys' doubles with Sebastian Gorzny, wins over top-10 players) verified on Wikipedia. Age 22 correct as of 2026-09-05 ('just turned 22' is accurate).",
+     "Unseeded / ranking 46 and Sunday opponent Etcheverry (m18, Grandstand day) match data/schedule.json.",
+     "Friday straight-sets win over Daniel Merida Aguilar verified via Bleacher Report.",
+     "Hometown: Wikipedia gives birthplace Aliso Viejo; ATP feature says the family home is in Irvine (both Orange County). Kept Aliso Viejo (birthplace); intro says 'Southern California'.",
+     "Garage backhands at three, parents (father All-American at Redlands, mother San Diego State), Star Wars, Harry Potter, basketball/Lakers verified on ATP bio; vanilla ice cream verified at tennis-prose Biofile."
+    ],
+    "changes": [
+     "'Mom was hitting partner until he was 16' could not be found in the cited ATP AO 2025 feature; rewrote to the Tennis Now-sourced version (hit with him nearly daily from age four, 'She's a wall').",
+     "Fortnite/Clash of Clans: Wikipedia only references an ATP article about Fortnite with Learner Tien; dropped Clash of Clans and re-sourced the fact to that ATP article."
+    ]
+   },
+   "matchTier": 2,
+   "playsSaturday": false,
+   "round": "Fourth round"
   }
  ]
 }

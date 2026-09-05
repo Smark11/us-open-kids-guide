@@ -1,0 +1,91 @@
+{
+  "slug": "frances-tiafoe",
+  "name": "Frances Tiafoe",
+  "country": "US",
+  "countryName": "United States",
+  "flagEmoji": "🇺🇸",
+  "birthDate": "1998-01-20",
+  "age": 28,
+  "seed": 11,
+  "ranking": 12,
+  "draw": "men",
+  "tier": 1,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 188,
+  "hometown": "Hyattsville, Maryland, United States",
+  "nicknameOrTagline": "Big Foe",
+  "intro": "Frances Tiafoe is a high-energy American from Maryland. Fans call him Big Foe. He loves a loud crowd, and New York loves him back.",
+  "story": "Frances grew up at a tennis center near Washington, D.C. His dad worked there, and the family lived there for years. He and his twin brother started lessons at age four. He has reached the semifinals here twice. On Friday he won in straight sets, so he plays again Sunday.",
+  "funFacts": [
+    {
+      "text": "He has a twin brother named Franklin. Franklin played college tennis too.",
+      "source": "https://en.wikipedia.org/wiki/Frances_Tiafoe"
+    },
+    {
+      "text": "His parents came to America from Sierra Leone, a country in West Africa.",
+      "source": "https://en.wikipedia.org/wiki/Frances_Tiafoe"
+    },
+    {
+      "text": "He started hitting tennis balls at age four.",
+      "source": "https://www.olympics.com/en/news/tennis-frances-tiafoe-son-sierra-leonean-immigrants-2024-us-open"
+    },
+    {
+      "text": "His favorite childhood food is peanut butter stew. A famous chef cooked it for him.",
+      "source": "https://lobandsmash.com/frances-tiafoe-talks-peanut-butter-stew-us-open-hopes-exclusive-interview"
+    },
+    {
+      "text": "If he wins, he wants to eat Oreos, Hershey's, and milkshakes.",
+      "source": "https://lobandsmash.com/frances-tiafoe-talks-peanut-butter-stew-us-open-hopes-exclusive-interview"
+    },
+    {
+      "text": "He is a huge basketball fan. He even played in an NBA celebrity game.",
+      "source": "https://en.wikipedia.org/wiki/Frances_Tiafoe"
+    },
+    {
+      "text": "He cheers for all the Washington, D.C. teams, like the Wizards and Commanders.",
+      "source": "https://www.sportskeeda.com/tennis/news-frances-tiafoe-s-connection-washington-dc-why-citi-dc-open-american-s-home-tournament-commanders-inspired-outfit-2025"
+    }
+  ],
+  "watchFor": "Watch his funny forehand windup, arm above the racket, then a heavy spinning whip.",
+  "matchTomorrow": {
+    "opponent": "Daniil Medvedev",
+    "opponentSlug": "daniil-medvedev",
+    "court": "Louis Armstrong Stadium",
+    "session": "day",
+    "matchId": "m17"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/FrancesTiafo.jpg",
+    "localPath": "img/players/frances-tiafoe.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Rickmunroe01",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AFrancesTiafo.jpg",
+    "title": "File:FrancesTiafo.jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Frances_Tiafoe",
+    "https://lobandsmash.com/frances-tiafoe-talks-peanut-butter-stew-us-open-hopes-exclusive-interview",
+    "https://www.tennismajors.com/atp/tiafoe-becomes-the-first-american-to-win-halle-ending-his-long-wait-against-fritz-853858.html",
+    "https://www.olympics.com/en/news/tennis-frances-tiafoe-son-sierra-leonean-immigrants-2024-us-open",
+    "https://www.tennis.com/baseline/articles/tech-talk-frances-tiafoe-s-unorthodox-forehand-is-a-game-changing-weapon",
+    "https://www.sportskeeda.com/tennis/news-frances-tiafoe-s-connection-washington-dc-why-citi-dc-open-american-s-home-tournament-commanders-inspired-outfit-2025",
+    "https://larrybrownsports.com/football/frances-tiafoe-commanders-shoutout-win/640334",
+    "https://sports.yahoo.com/articles/frances-tiafoe-looks-dominant-third-024714417.html"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-05T17:46:49Z",
+  "factCheck": {
+    "checkedAt": "2026-09-05T17:52:00Z",
+    "notes": [
+      "Bio (DOB 1998-01-20, Hyattsville, 188cm, right/2HBH, No.12, twin Franklin at Salisbury, parents from Sierra Leone, US Open SF 2022 & 2024, 2023 NBA Celebrity Game) confirmed via Wikipedia REST; seed 11 / rank 12 / opponent Medvedev match schedule.json m17.",
+      "Age-four start: second source olympics.com. Halle 2026 title (d. Fritz 6-4 6-4, first American): Tennis Majors.",
+      "R3 win over Vacherot 6-4 6-2 6-4 Friday night confirmed via Yahoo Sports.",
+      "DC teams (Wizards, Commanders) confirmed via Sportskeeda + Larry Brown Sports. Lob and Smash food quotes confirmed verbatim.",
+      "Wikipedia summary oddly said 'lost in third round' for 2026 US Open; contradicted by official schedule and news reports, ignored."
+    ],
+    "changes": [
+      "Story: removed unsourced 'watched the big kids and copied them'; added sourced 'lived there for years' and age-four lessons.",
+      "watchFor: replaced 'lasso' paraphrase and unsourced crowd-pumping with Tennis.com's documented forehand description (arm higher than racket on takeback, heavy topspin)."
+    ]
+  }
+}

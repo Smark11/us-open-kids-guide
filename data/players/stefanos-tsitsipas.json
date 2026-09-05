@@ -1,0 +1,87 @@
+{
+  "slug": "stefanos-tsitsipas",
+  "name": "Stefanos Tsitsipas",
+  "country": "GR",
+  "countryName": "Greece",
+  "flagEmoji": "🇬🇷",
+  "birthDate": "1998-08-12",
+  "age": 28,
+  "seed": null,
+  "ranking": 53,
+  "draw": "men",
+  "tier": 1,
+  "plays": "Right-handed, one-handed backhand",
+  "heightCm": 193,
+  "hometown": "Athens, Greece",
+  "nicknameOrTagline": "The Greek God of Tennis",
+  "intro": "Stefanos Tsitsipas is a tall tennis star from Athens, Greece. He has long, flowing hair. He has played in two Grand Slam finals, the biggest tournaments in tennis.",
+  "story": "His mom was a pro player. His dad is his coach. At 21 he won the big year-end ATP Finals. He has won the Monte Carlo tournament three times. On Friday he lost the first set, then roared back to win in four.",
+  "funFacts": [
+    {
+      "text": "He speaks three languages: Greek, English, and Russian.",
+      "source": "https://www.atptour.com/en/players/stefanos-tsitsipas/te51/bio"
+    },
+    {
+      "text": "He makes YouTube travel videos and edits them himself.",
+      "source": "https://www.tennis.com/baseline/articles/tsitsipas-launches-new-vlog-umentary-dear-fans"
+    },
+    {
+      "text": "He loves photography and always has a camera on the road.",
+      "source": "https://www.atptour.com/en/players/stefanos-tsitsipas/te51/bio"
+    },
+    {
+      "text": "He has two brothers and a sister. They all play tennis too!",
+      "source": "https://www.atptour.com/en/players/stefanos-tsitsipas/te51/bio"
+    },
+    {
+      "text": "His grandpa won an Olympic gold medal in soccer in 1956.",
+      "source": "https://www.atptour.com/en/players/stefanos-tsitsipas/te51/bio"
+    },
+    {
+      "text": "He shares a birthday with tennis legend Pete Sampras.",
+      "source": "https://www.atptour.com/en/players/stefanos-tsitsipas/te51/bio"
+    },
+    {
+      "text": "He cheers for the Milwaukee Bucks basketball team.",
+      "source": "https://www.atptour.com/en/players/stefanos-tsitsipas/te51/bio"
+    }
+  ],
+  "watchFor": "Watch his rare one-handed backhand, swung with one arm like a sword.",
+  "matchTomorrow": {
+    "opponent": "Ben Shelton",
+    "opponentSlug": "ben-shelton",
+    "court": "Arthur Ashe Stadium",
+    "session": "night",
+    "matchId": "m19"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Tsitsipas_S._MCM22_%28cropped%29.jpg",
+    "localPath": "img/players/stefanos-tsitsipas.jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "si.robi",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ATsitsipas_S._MCM22_%28cropped%29.jpg",
+    "title": "File:Tsitsipas_S._MCM22_(cropped).jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Stefanos_Tsitsipas",
+    "https://www.atptour.com/en/players/stefanos-tsitsipas/te51/bio",
+    "https://www.tennis.com/baseline/articles/tsitsipas-launches-new-vlog-umentary-dear-fans",
+    "https://bleacherreport.com/articles/25496089-us-open-tennis-2026-results-winners-losers-and-highlights-fridays-bracket",
+    "https://www.tennis365.com/tennis-news/stefanos-tsitsipas-proves-he-is-the-greek-god"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-05T15:30:00Z",
+  "factCheck": {
+    "checkedAt": "2026-09-05T18:00:00Z",
+    "notes": [
+      "Bio (birth 1998-08-12, Athens, 193 cm, righty one-handed backhand) verified vs Wikipedia + ATP bio; ranking 53/unseeded and opponent Ben Shelton (m19, Ashe night) match schedule.json.",
+      "Mother Julia Apostoli/Salnikova was a WTA pro, father Apostolos coach, 2019 ATP Finals at 21 (born Aug 1998), 3 Monte Carlo titles (2021/22/24), 2 Slam finals: Wikipedia + ATP.",
+      "Friday R3: beat No. 18 Jiri Lehecka 2-6 6-1 7-6(3) 6-1 (Bleacher Report) - 'lost first set, won in four' correct.",
+      "All 7 fun facts confirmed on ATP bio (languages Greek/English/Russian, YouTube vlogging + video editing, photography, 3 siblings all play, grandfather Sergei 1956 Olympic football gold, Sampras birthday, Bucks fan); tennis.com confirms he directs/edits his own videos.",
+      "'Greek God' tagline is a widely used media nickname (tennis365, Tennis Majors, SCMP); source added."
+    ],
+    "changes": [
+      "Added tennis365 source for the 'Greek God' nickname. No text changes."
+    ]
+  }
+}

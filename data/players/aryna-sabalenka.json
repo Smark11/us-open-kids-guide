@@ -1,0 +1,87 @@
+{
+  "slug": "aryna-sabalenka",
+  "name": "Aryna Sabalenka",
+  "country": "BY",
+  "countryName": "Plays without a flag",
+  "flagEmoji": "🎾",
+  "birthDate": "1998-05-05",
+  "age": 28,
+  "seed": 1,
+  "ranking": 1,
+  "draw": "women",
+  "tier": 1,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 182,
+  "hometown": "Minsk, Belarus",
+  "nicknameOrTagline": "The Tiger",
+  "intro": "Aryna Sabalenka is the world No. 1 in women's tennis. People call her The Tiger. She hits the ball very, very hard.",
+  "story": "Aryna found tennis by accident. At age six, her dad drove past some courts and said, let's try it. Now she has won four Grand Slams, the biggest tournaments in tennis. Two of those wins were right here at the US Open! On Friday she beat Kamilla Rakhimova, and she plays again Sunday.",
+  "funFacts": [
+    {
+      "text": "She has a tiger tattoo on her arm. She was born in the Year of the Tiger.",
+      "source": "https://www.yardbarker.com/tennis/articles/aryna_sabalenka_finally_opens_up_on_the_meaning_behind_her_infamous_tiger_tattoo/s1_17460_42390044"
+    },
+    {
+      "text": "She has a sweet tooth. Candy is her favorite gift.",
+      "source": "https://www.wtatennis.com/players/320760/aryna-sabalenka"
+    },
+    {
+      "text": "Her favorite food is her grandma's pancakes.",
+      "source": "https://www.wtatennis.com/players/320760/aryna-sabalenka"
+    },
+    {
+      "text": "She loves reading. Her favorite book is The Count of Monte Cristo.",
+      "source": "https://www.wtatennis.com/players/320760/aryna-sabalenka"
+    },
+    {
+      "text": "Her dad was an ice hockey player.",
+      "source": "https://en.wikipedia.org/wiki/Aryna_Sabalenka"
+    },
+    {
+      "text": "This spring she won Indian Wells and Miami back to back. Fans call that the Sunshine Double.",
+      "source": "https://www.wtatennis.com/news/4478904/with-sunshine-double-sweep-sabalenka-moves-atop-pif-race-to-the-finals-leaderboard"
+    },
+    {
+      "text": "She has been world No. 1 in doubles too. That is tennis with a teammate.",
+      "source": "https://en.wikipedia.org/wiki/Aryna_Sabalenka"
+    }
+  ],
+  "watchFor": "Listen for her big grunt on every serve as the ball rockets past.",
+  "matchTomorrow": {
+    "opponent": "Taylor Townsend",
+    "opponentSlug": "taylor-townsend",
+    "court": "Arthur Ashe Stadium",
+    "session": "day",
+    "matchId": "m21"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Aryna_Sabalenka_Miami_Open_Final.jpg",
+    "localPath": "img/players/aryna-sabalenka.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Rick Munroe",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AAryna_Sabalenka_Miami_Open_Final.jpg",
+    "title": "File:Aryna_Sabalenka_Miami_Open_Final.jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aryna_Sabalenka",
+    "https://www.wtatennis.com/players/320760/aryna-sabalenka",
+    "https://www.yardbarker.com/tennis/articles/aryna_sabalenka_finally_opens_up_on_the_meaning_behind_her_infamous_tiger_tattoo/s1_17460_42390044",
+    "https://www.wtatennis.com/news/4478904/with-sunshine-double-sweep-sabalenka-moves-atop-pif-race-to-the-finals-leaderboard",
+    "https://www.tennis365.com/tennis-news/tennis-grunting-carlos-alcaraz-aryna-sabalenka-tennis-grunts",
+    "https://bleacherreport.com/articles/25496089-us-open-tennis-2026-results-winners-losers-and-highlights-fridays-bracket"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-05T17:46:19+00:00",
+  "factCheck": {
+    "checkedAt": "2026-09-05T17:50:09+00:00",
+    "notes": [
+      "Grand Slam count is FOUR (AO 2023, AO 2024, USO 2024, USO 2025) per Wikipedia; corrected from five. Two US Open titles confirmed.",
+      "Nickname The Tiger, sweet tooth, grandma's pancakes, Count of Monte Cristo, started at 6 when father drove past courts: WTA profile. Father ice hockey player: Wikipedia. Tiger tattoo / Year of the Tiger 1998: Yardbarker. Sunshine Double 2026: WTA news article (dated Mar 30, 2026). Former doubles No. 1 (Feb 2021): Wikipedia.",
+      "Birth date, height 182, plays, seed 1 / rank 1, opponent Taylor Townsend (m21) match sources and schedule.json. Neutral-flag settings kept."
+    ],
+    "changes": [
+      "Corrected 'five Grand Slams' to 'four' in story.",
+      "Softened 'harder than almost anyone' to 'very hard' (unsourced superlative)."
+    ]
+  }
+}

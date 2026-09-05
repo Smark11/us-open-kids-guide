@@ -1,0 +1,90 @@
+{
+  "slug": "anna-kalinskaya",
+  "name": "Anna Kalinskaya",
+  "country": "RU",
+  "countryName": "Plays without a flag",
+  "flagEmoji": "🎾",
+  "birthDate": "1998-12-02",
+  "age": 27,
+  "seed": 21,
+  "ranking": 23,
+  "draw": "women",
+  "tier": 1,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 175,
+  "hometown": "Moscow, Russia",
+  "nicknameOrTagline": "Bella's Best Friend",
+  "intro": "Anna Kalinskaya grew up in Moscow and now trains in Miami. She plays smart, tricky tennis full of surprises. Her tiny dog Bella is her biggest fan.",
+  "story": "Anna started tennis at age five after watching her cousin play. Both her parents were pro badminton players! This year she reached her first French Open quarterfinal. On Friday she beat the No. 9 seed in three sets. A seed is a top-ranked player, so that was a big win.",
+  "funFacts": [
+    {
+      "text": "Her dog Bella is a cream-colored dachshund. Bella travels to tournaments with her.",
+      "source": "https://en.wikipedia.org/wiki/Anna_Kalinskaya"
+    },
+    {
+      "text": "Bella once ran onto the court after a win to get pets. Bella even got her own badge!",
+      "source": "https://www.si.com/tennis/anna-kalinskaya-adorable-dog-steals-show-washington-open"
+    },
+    {
+      "text": "Her mom and dad were both pro badminton players.",
+      "source": "https://en.wikipedia.org/wiki/Anna_Kalinskaya"
+    },
+    {
+      "text": "Her brother Nikolay is a pro soccer player.",
+      "source": "https://en.wikipedia.org/wiki/Anna_Kalinskaya"
+    },
+    {
+      "text": "She loves cooking, shopping, and watching basketball in her free time.",
+      "source": "https://www.wtatennis.com/players/323942/anna-kalinskaya"
+    },
+    {
+      "text": "She started tennis at five after watching her cousin play at Grandma's house.",
+      "source": "https://www.ibtimes.com.au/anna-kalinskaya-rising-star-wta-tour-1875038"
+    },
+    {
+      "text": "She won the Australian Open girls' doubles title in 2016.",
+      "source": "https://en.wikipedia.org/wiki/Anna_Kalinskaya"
+    }
+  ],
+  "watchFor": "Watch for her drop shot, a sneaky soft ball that barely hops the net!",
+  "matchTomorrow": {
+    "opponent": "Emma Navarro",
+    "opponentSlug": "emma-navarro",
+    "court": "Arthur Ashe Stadium",
+    "session": "night",
+    "matchId": "m24"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Anna_Kalinskaya_%282025_DC_Open%29_01_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "localPath": "img/players/anna-kalinskaya.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AAnna_Kalinskaya_%282025_DC_Open%29_01_%28cropped%29.jpg",
+    "title": "File:Anna_Kalinskaya_(2025_DC_Open)_01_(cropped).jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Anna_Kalinskaya",
+    "https://www.wtatennis.com/players/323942/anna-kalinskaya",
+    "https://www.ibtimes.com.au/anna-kalinskaya-rising-star-wta-tour-1875038",
+    "https://www.si.com/tennis/anna-kalinskaya-adorable-dog-steals-show-washington-open",
+    "https://www.wtatennis.com/videos/4387477/hot-shot-kalinskaya-foils-shnaider-with-unexpected-drop-shot-in-tokyo",
+    "https://bleacherreport.com/articles/25496089-us-open-tennis-2026-results-winners-losers-and-highlights-fridays-bracket"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-05T17:51:19Z",
+  "factCheck": {
+    "checkedAt": "2026-09-05T19:30:00Z",
+    "notes": [
+      "Bio (born 2 Dec 1998 Moscow, 175 cm, right-handed/two-handed backhand, trains in Miami, parents pro badminton players, brother Nikolay Kalinsky footballer, 2016 AO girls' doubles, win over world No. 1 Swiatek Dubai 2024, first Roland Garros QF in 2026) verified on Wikipedia; WTA profile confirms birth date, height, parents, cousin/grandmother story, hobbies.",
+      "Seed 21 / ranking 23 and Sunday opponent Navarro (m24, Ashe night) match data/schedule.json.",
+      "Friday win over No. 9 Svitolina 6-3 2-6 6-3 verified via Bleacher Report Friday results.",
+      "Dog: Wikipedia and SI (2025 DC Open) both say Bella, English cream dachshund, travels with her, ran onto court, got a badge. The older WTA profile bio mentions a Pomsky named Kobe; kept the double-sourced, more recent Bella.",
+      "Drop-shot watchFor is supported by the cited WTA 'Hot shot: Kalinskaya foils Shnaider with unexpected drop shot in Tokyo' video.",
+      "Neutral-flag settings (countryName 'Plays without a flag', tennis-ball emoji) left unchanged."
+    ],
+    "changes": [
+      "Fixed 'playing basketball' to 'watching basketball' (WTA profile + ibtimes both say watching) and re-pointed the source to the WTA profile.",
+      "Removed speculative 'peek at her box for Bella' from watchFor."
+    ]
+  }
+}

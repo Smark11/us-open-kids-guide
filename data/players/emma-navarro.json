@@ -1,0 +1,92 @@
+{
+  "slug": "emma-navarro",
+  "name": "Emma Navarro",
+  "country": "US",
+  "countryName": "United States",
+  "flagEmoji": "🇺🇸",
+  "birthDate": "2001-05-18",
+  "age": 25,
+  "seed": 26,
+  "ranking": 27,
+  "draw": "women",
+  "tier": 1,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 170,
+  "hometown": "Charleston, South Carolina, United States",
+  "nicknameOrTagline": "The Bullet",
+  "intro": "Emma Navarro is an American from Charleston, South Carolina. She was born right here in New York City! She is famous for staying calm and never giving up.",
+  "story": "Emma started tennis at age four at a playground in Charleston. Sometimes she rode a RipStik board to practice! In college she won the national title in her first year. In 2024 she made the final four here. On Friday she beat the No. 7 seed, a top-ranked player.",
+  "funFacts": [
+    {
+      "text": "Her family dog is a Bernedoodle named Marti. Marti even visits the tennis court!",
+      "source": "https://charlestonmag.com/features/match_maker_charleston_s_own_emma_navarro_has_become_one_of_the_most_relentless_and"
+    },
+    {
+      "text": "Her high school teammates called her the bullet.",
+      "source": "https://charlestonmag.com/features/match_maker_charleston_s_own_emma_navarro_has_become_one_of_the_most_relentless_and"
+    },
+    {
+      "text": "She has two big brothers and a little sister. Her sister plays college tennis.",
+      "source": "https://charlestonmag.com/features/match_maker_charleston_s_own_emma_navarro_has_become_one_of_the_most_relentless_and"
+    },
+    {
+      "text": "She was born in New York City. Her family moved to Charleston when she was little.",
+      "source": "https://en.wikipedia.org/wiki/Emma_Navarro"
+    },
+    {
+      "text": "She won the college national championship in her very first year at Virginia.",
+      "source": "https://en.wikipedia.org/wiki/Emma_Navarro"
+    },
+    {
+      "text": "She has driven a real Formula One race car. She plays golf for fun too.",
+      "source": "https://www.profootballnetwork.com/tennis/emma-navarro-shares-bits-from-her-off-season-golf-f1-outings-family/"
+    },
+    {
+      "text": "Her sister says Emma is the funniest one in the family. At school she was the class clown.",
+      "source": "https://charlestonmag.com/features/match_maker_charleston_s_own_emma_navarro_has_become_one_of_the_most_relentless_and"
+    }
+  ],
+  "watchFor": "Watch every ball come back, because fans call her a human backboard!",
+  "matchTomorrow": {
+    "opponent": "Anna Kalinskaya",
+    "opponentSlug": "anna-kalinskaya",
+    "court": "Arthur Ashe Stadium",
+    "session": "night",
+    "matchId": "m24"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/EmmaNavarro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "localPath": "img/players/emma-navarro.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "SaidSimmons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AEmmaNavarro.jpg",
+    "title": "File:EmmaNavarro.jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Emma_Navarro",
+    "https://www.wtatennis.com/players/325410/emma-navarro",
+    "https://charlestonmag.com/features/match_maker_charleston_s_own_emma_navarro_has_become_one_of_the_most_relentless_and",
+    "https://www.profootballnetwork.com/tennis/emma-navarro-shares-bits-from-her-off-season-golf-f1-outings-family/",
+    "https://www.wtatennis.com/news/4052147/chilled-out-navarro-brings-positive-energy-into-wimbledon-second-week",
+    "https://lastwordonsports.com/tennis/2024/07/08/why-emma-navarros-rise-is-great-for-womens-tennis/",
+    "https://bleacherreport.com/articles/25496089-us-open-tennis-2026-results-winners-losers-and-highlights-fridays-bracket"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-05T17:51:19Z",
+  "factCheck": {
+    "checkedAt": "2026-09-05T19:30:00Z",
+    "notes": [
+      "Bio (birth date, NYC birthplace, 170 cm, right-handed/two-handed backhand, Charleston residence, 2021 NCAA title as freshman, 2024 US Open SF) verified on Wikipedia + WTA profile.",
+      "Seed 26 / ranking 27 and Sunday opponent Kalinskaya (m24, Ashe night) match data/schedule.json.",
+      "Friday win over No. 7 Muchova 6-3 7-5 verified via Bleacher Report Friday results.",
+      "'The bullet' nickname is from high-school teammates at Ashley Hall (Charleston Magazine) and the fun fact says so. RipStik, playground start at four, siblings, class clown/funniest, Marti the Bernedoodle all verified verbatim in Charleston Magazine.",
+      "F1 car (Red Bull, Las Vegas GP 2025) and golf pro-am verified at cited profootballnetwork article.",
+      "WTA article 'chilled-out Navarro' supports the calm demeanor claim."
+    ],
+    "changes": [
+      "Removed unsourced 'They go kayaking together' from the Marti fun fact; replaced with sourced 'Marti even visits the tennis court' (Charleston Magazine: Marti 'on and off the court').",
+      "Replaced unsourced drop-shot watchFor with the Charleston Magazine 'human backboard' description.",
+      "Softened story to 'Sometimes she rode a RipStik' (source quote: 'We'd walk or RipStik over')."
+    ]
+  }
+}

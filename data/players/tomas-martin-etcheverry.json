@@ -1,0 +1,90 @@
+{
+  "slug": "tomas-martin-etcheverry",
+  "name": "Tomás Martín Etcheverry",
+  "country": "AR",
+  "countryName": "Argentina",
+  "flagEmoji": "🇦🇷",
+  "birthDate": "1999-07-18",
+  "age": 27,
+  "seed": 27,
+  "ranking": 32,
+  "draw": "men",
+  "tier": 2,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 196,
+  "hometown": "La Plata, Argentina",
+  "nicknameOrTagline": "Tomy",
+  "intro": "Tomás Martín Etcheverry is a giant from La Plata, Argentina. He is almost six and a half feet tall! Friends call him Tomy.",
+  "story": "Tomy started tennis at age five with a paddle from the beach. At nine, one loss made him cry so hard his parents almost quit tennis! Now he is Argentina's No. 2 player. This year he won his first big tour title in Rio. On Friday he won in straight sets, so he plays again Sunday.",
+  "funFacts": [
+    {
+      "text": "His nickname is Tomy. His dog is named Roland Garros, after the French Open!",
+      "source": "https://www.atptour.com/en/players/tomas-martin-etcheverry/ea24/bio"
+    },
+    {
+      "text": "In 2023 he said he had never broken a racket in his whole life. Not once!",
+      "source": "https://www.atptour.com/en/news/etcheverry-rome-2023-feature"
+    },
+    {
+      "text": "His favorite food is milanesa, a crispy breaded cutlet from Argentina.",
+      "source": "https://www.atptour.com/en/players/tomas-martin-etcheverry/ea24/bio"
+    },
+    {
+      "text": "He plays soccer in a fun league with friends back home. He loves PlayStation too.",
+      "source": "https://www.atptour.com/en/players/tomas-martin-etcheverry/ea24/bio"
+    },
+    {
+      "text": "As a kid he won a 6-kilometer running race in his hometown.",
+      "source": "https://www.atptour.com/en/players/tomas-martin-etcheverry/ea24/bio"
+    },
+    {
+      "text": "His mom and dad are both lawyers. He has two siblings and two step-siblings.",
+      "source": "https://www.atptour.com/en/players/tomas-martin-etcheverry/ea24/bio"
+    },
+    {
+      "text": "His favorite city on tour is Rome, for the pasta and pizza.",
+      "source": "https://www.atptour.com/en/players/tomas-martin-etcheverry/ea24/bio"
+    }
+  ],
+  "watchFor": "Watch him run around his backhand to smash a giant forehand.",
+  "matchTomorrow": {
+    "opponent": "Alex Michelsen",
+    "opponentSlug": "alex-michelsen",
+    "court": "Grandstand",
+    "session": "day",
+    "matchId": "m18"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Tom%C3%A1s_Martin_Etcheverry_-_2024_Olympics_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "localPath": "img/players/tomas-martin-etcheverry.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Kuberzog",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ATom%C3%A1s_Martin_Etcheverry_-_2024_Olympics_%28cropped%29.jpg",
+    "title": "File:Tomás_Martin_Etcheverry_-_2024_Olympics_(cropped).jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tom%C3%A1s_Mart%C3%ADn_Etcheverry",
+    "https://www.atptour.com/en/players/tomas-martin-etcheverry/ea24/bio",
+    "https://www.atptour.com/en/news/etcheverry-rome-2023-feature",
+    "https://www.tennis.com/news/articles/open-up-player-portrait-tomas-martin-etcheverry-argentina-labels-legion-clay-hard-courts-goals",
+    "https://www.atptour.com/en/video/hot-shot-etcheverry-unloads-on-forehand-in-buenos-aires-2026",
+    "https://bleacherreport.com/articles/25496089-us-open-tennis-2026-results-winners-losers-and-highlights-fridays-bracket"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-05T17:51:19Z",
+  "factCheck": {
+    "checkedAt": "2026-09-05T19:30:00Z",
+    "notes": [
+      "Bio (born 18 Jul 1999 La Plata, 196 cm, right-handed/two-handed backhand, maiden ATP title Rio 2026 over Tabilo, 'currently the No. 2 singles player from Argentina' as of Aug 2026) verified on Wikipedia. Age 27 correct.",
+      "Seed 27 / ranking 32 and Sunday opponent Michelsen (m18, Grandstand day) match data/schedule.json (Wikipedia shows No. 31 as of Aug 2026; schedule value kept per brief).",
+      "Friday straight-sets win over Mariano Navone 6-4 6-4 6-3 verified via Bleacher Report.",
+      "ATP bio verifies: nickname Tomy, dog Roland Garros, milanesa, amateur football league + PlayStation, 6 km race win, parents both lawyers, two siblings + two step-siblings, favorite city Rome, started at five with a beach paddle.",
+      "ATP Rome 2023 feature verifies the crying-at-nine story and the quote 'I've never broken or hit a racquet in my life.'",
+      "Forehand watchFor supported by the cited ATP Hot Shot (Buenos Aires 2026)."
+    ],
+    "changes": [
+      "Softened 'never broken a racket' to a dated 2023 statement.",
+      "Removed unverifiable 'wears a white headband' from watchFor; replaced with sourced height."
+    ]
+  }
+}

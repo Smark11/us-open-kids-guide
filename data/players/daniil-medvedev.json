@@ -1,0 +1,87 @@
+{
+  "slug": "daniil-medvedev",
+  "name": "Daniil Medvedev",
+  "country": "RU",
+  "countryName": "Plays without a flag",
+  "flagEmoji": "🎾",
+  "birthDate": "1996-02-11",
+  "age": 30,
+  "seed": 7,
+  "ranking": 8,
+  "draw": "men",
+  "tier": 1,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 198,
+  "hometown": "Moscow, Russia",
+  "nicknameOrTagline": "The Bear",
+  "intro": "Daniil Medvedev is a very tall player from Moscow. He is 6 feet 6 inches! His name means bear in Russian.",
+  "story": "Daniil almost became a swimmer. At the pool he saw a sign for tennis lessons instead. He was a math whiz at school too. He won this tournament in 2021 and became world No. 1 in 2022. On Friday he beat Arthur Rinderknech, and he plays again Sunday.",
+  "funFacts": [
+    {
+      "text": "His biggest hobby is PlayStation. He even played in video game contests.",
+      "source": "https://www.atptour.com/en/players/daniil-medvedev/mm58/bio"
+    },
+    {
+      "text": "He loves chess and reading books.",
+      "source": "https://www.atptour.com/en/players/daniil-medvedev/mm58/bio"
+    },
+    {
+      "text": "He speaks three languages: Russian, English and French.",
+      "source": "https://www.atptour.com/en/players/daniil-medvedev/mm58/bio"
+    },
+    {
+      "text": "When he won here in 2021, he flopped down like a video game celebration.",
+      "source": "https://www.newsweek.com/l2-plus-left-daniil-medvedev-usa-open-tennis-dead-fish-fifa-celebration-explained-djokovic-1628336"
+    },
+    {
+      "text": "He has two little daughters, Alisa and Vika.",
+      "source": "https://en.wikipedia.org/wiki/Daniil_Medvedev"
+    },
+    {
+      "text": "He finished two years of math school in one year!",
+      "source": "https://www.atptour.com/en/players/daniil-medvedev/mm58/bio"
+    },
+    {
+      "text": "His favorite shot is the return of serve. Players call him the Octopus because he reaches every ball.",
+      "source": "https://www.tennis.com/baseline/articles/quote-of-day-daniil-medvedev-embraces-iga-swiatek-pretzel-nickname-i-can-see-why"
+    }
+  ],
+  "watchFor": "Watch how far back he stands to return serve, almost at the wall.",
+  "matchTomorrow": {
+    "opponent": "Frances Tiafoe",
+    "opponentSlug": "frances-tiafoe",
+    "court": "Louis Armstrong Stadium",
+    "session": "day",
+    "matchId": "m17"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Daniil_Medvedev_%282025_DC_Open%29_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "localPath": "img/players/daniil-medvedev.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ADaniil_Medvedev_%282025_DC_Open%29_05.jpg",
+    "title": "File:Daniil Medvedev (2025 DC Open) 05.jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Daniil_Medvedev",
+    "https://www.atptour.com/en/players/daniil-medvedev/mm58/bio",
+    "https://www.newsweek.com/l2-plus-left-daniil-medvedev-usa-open-tennis-dead-fish-fifa-celebration-explained-djokovic-1628336",
+    "https://www.atptour.com/en/news/medvedev-infosys-beyond-the-numbers-august-2023",
+    "https://bleacherreport.com/articles/25496089-us-open-tennis-2026-results-winners-losers-and-highlights-fridays-bracket",
+    "https://www.tennis.com/baseline/articles/quote-of-day-daniil-medvedev-embraces-iga-swiatek-pretzel-nickname-i-can-see-why"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-05T17:46:19+00:00",
+  "factCheck": {
+    "checkedAt": "2026-09-05T17:50:09+00:00",
+    "notes": [
+      "Bear nickname / surname from 'medved', PlayStation and national video game contests, chess and reading, Russian/English/French, physics-math lyceum finishing final 2 grades in 1 year, swimming-pool tennis sign, favorite shot = return: ATP bio. 2021 US Open title, No. 1 on Feb 28 2022, daughters Alisa and Vika, height 198: Wikipedia. Dead-fish FIFA celebration: Newsweek. Deep return position: ATP Infosys article. Octopus nickname (coined by Rublev; Medvedev embraces it): tennis.com.",
+      "Age at tennis start conflicts between sources (Wikipedia says 6, ATP bio says 9), so the age was removed from the story.",
+      "Birth date, plays, seed 7 / rank 8, opponent Frances Tiafoe (m17) match sources and schedule.json. Neutral-flag settings kept."
+    ],
+    "changes": [
+      "Removed 'at age nine' from story (sources disagree).",
+      "Rewrote Octopus fun fact and re-sourced it to tennis.com (ATP Infosys article did not mention the nickname)."
+    ]
+  }
+}

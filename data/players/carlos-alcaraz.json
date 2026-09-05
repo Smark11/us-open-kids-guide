@@ -1,0 +1,88 @@
+{
+  "slug": "carlos-alcaraz",
+  "name": "Carlos Alcaraz",
+  "country": "ES",
+  "countryName": "Spain",
+  "flagEmoji": "🇪🇸",
+  "birthDate": "2003-05-05",
+  "age": 23,
+  "seed": 2,
+  "ranking": 3,
+  "draw": "men",
+  "tier": 1,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 183,
+  "hometown": "El Palmar, Murcia, Spain",
+  "nicknameOrTagline": "Carlitos",
+  "intro": "Carlos Alcaraz is a tennis superstar from Spain. His friends call him Carlitos. He won this tournament last year!",
+  "story": "Carlos started playing at age four. His dad was a tennis coach. At 19 he became the youngest world No. 1 ever. He has won seven Grand Slams, the biggest tournaments in tennis. On Friday he beat Yibing Wu, and he plays again Sunday.",
+  "funFacts": [
+    {
+      "text": "He has three brothers: Alvaro, Sergio and Jaime. Alvaro helps coach him.",
+      "source": "https://en.wikipedia.org/wiki/Carlos_Alcaraz"
+    },
+    {
+      "text": "He loves golf and soccer. His favorite team is Real Madrid.",
+      "source": "https://www.atptour.com/en/players/carlos-alcaraz/a0e2/bio"
+    },
+    {
+      "text": "He eats lots of kebabs at home in Murcia. He loves sushi too.",
+      "source": "https://www.atptour.com/en/news/alcaraz-food-court-may-2022"
+    },
+    {
+      "text": "His favorite movie is Rocky Balboa. His favorite actor is Will Smith.",
+      "source": "https://www.atptour.com/en/players/carlos-alcaraz/a0e2/bio"
+    },
+    {
+      "text": "This year he played doubles with Serena Williams. They giggled through their first win!",
+      "source": "https://www.aljazeera.com/sports/2026/8/26/serena-williams-carlos-alcaraz-fall-in-us-open-mixed-doubles-quarterfinal"
+    },
+    {
+      "text": "He became world No. 1 at 19. Nobody has ever done it younger.",
+      "source": "https://en.wikipedia.org/wiki/Carlos_Alcaraz"
+    },
+    {
+      "text": "His tennis hero is Rafael Nadal, another champion from Spain.",
+      "source": "https://www.atptour.com/en/players/carlos-alcaraz/a0e2/bio"
+    }
+  ],
+  "watchFor": "Watch his drop shot, a sneaky soft shot, then his giant grin.",
+  "matchTomorrow": {
+    "opponent": "Tommy Paul",
+    "opponentSlug": "tommy-paul",
+    "court": "Arthur Ashe Stadium",
+    "session": "day",
+    "matchId": "m20"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Carlos_Alcaraz_-_240422_192324_%28cropped%29.jpg",
+    "localPath": "img/players/carlos-alcaraz.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Barcex",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3A25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Carlos_Alcaraz_-_240422_192324_%28cropped%29.jpg",
+    "title": "File:25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Carlos_Alcaraz_-_240422_192324_(cropped).jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Carlos_Alcaraz",
+    "https://en.wikipedia.org/wiki/2026_Carlos_Alcaraz_tennis_season",
+    "https://www.atptour.com/en/players/carlos-alcaraz/a0e2/bio",
+    "https://www.atptour.com/en/news/alcaraz-food-court-may-2022",
+    "https://www.aljazeera.com/sports/2026/8/26/serena-williams-carlos-alcaraz-fall-in-us-open-mixed-doubles-quarterfinal",
+    "https://bleacherreport.com/articles/25496089-us-open-tennis-2026-results-winners-losers-and-highlights-fridays-bracket",
+    "https://www.tennis365.com/tennis-news/carlos-alcaraz-nickname-carlitos-interview-press-conference"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-05T17:46:19+00:00",
+  "factCheck": {
+    "checkedAt": "2026-09-05T17:50:09+00:00",
+    "notes": [
+      "Seven Grand Slams confirmed via Wikipedia title list (USO 2022, W 2023, RG 2024, W 2024, RG 2025, USO 2025, AO 2026). 2025 US Open champion confirmed.",
+      "Youngest No. 1 at 19y130d, family, age-4 start, father coach: Wikipedia. Golf/football/Real Madrid, Rocky Balboa/Will Smith, Nadal idol: ATP bio. Kebabs/sushi: ATP food article. Serena mixed doubles first-round win and 'giggled': Al Jazeera. 'Carlitos' nickname: tennis365.",
+      "Birth date, height 183, plays, hometown, seed 2 / rank 3, opponent Tommy Paul (m20) all match sources and schedule.json."
+    ],
+    "changes": [
+      "Softened wrist-injury sentence in story to 'away from tennis for a few months' (age-appropriateness).",
+      "Added tennis365 source for Carlitos nickname."
+    ]
+  }
+}

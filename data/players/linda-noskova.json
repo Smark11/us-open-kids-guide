@@ -1,0 +1,91 @@
+{
+  "slug": "linda-noskova",
+  "name": "Linda Nosková",
+  "country": "CZ",
+  "countryName": "Czechia",
+  "flagEmoji": "🇨🇿",
+  "birthDate": "2004-11-17",
+  "age": 21,
+  "seed": 6,
+  "ranking": 6,
+  "draw": "women",
+  "tier": 1,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 179,
+  "hometown": "Bystřička, Czechia",
+  "nicknameOrTagline": "Wimbledon's New Queen",
+  "intro": "Linda Nosková is a tall, hard-hitting player from Czechia. She just won Wimbledon this summer! That is a Grand Slam, one of the four biggest tournaments.",
+  "story": "Linda grew up in a tiny village surrounded by forest. Her mom and dad played tennis just for fun. Her dad put a racket in her hands at about age six. This July she won her first Grand Slam at Wimbledon. On Friday she won a tough three-set match, so she plays again Sunday.",
+  "funFacts": [
+    {
+      "text": "As a kid she tried gymnastics, horse riding, and running before picking tennis.",
+      "source": "https://www.tennismajors.com/australian-open-news/czech-swiatek-australian-open-everything-you-always-wanted-to-know-about-linda-noskova-but-never-had-the-time-to-find-out-739003.html"
+    },
+    {
+      "text": "She has loved pro wrestling since age 14. WWE star Charlotte Flair cheered for her this week!",
+      "source": "https://www.wtatennis.com/news/4571829/linda-noskova-wwe-star-charlotte-flair-meet-at-us-open"
+    },
+    {
+      "text": "Her favorite player growing up was Serena Williams.",
+      "source": "https://www.tennismajors.com/australian-open-news/czech-swiatek-australian-open-everything-you-always-wanted-to-know-about-linda-noskova-but-never-had-the-time-to-find-out-739003.html"
+    },
+    {
+      "text": "She spent a week helping at a school in Zanzibar, an island in Africa.",
+      "source": "https://en.wikipedia.org/wiki/Linda_Nosková"
+    },
+    {
+      "text": "She wears a small nose ring. She says it brings good luck.",
+      "source": "https://www.tennismajors.com/australian-open-news/czech-swiatek-australian-open-everything-you-always-wanted-to-know-about-linda-noskova-but-never-had-the-time-to-find-out-739003.html"
+    },
+    {
+      "text": "At Wimbledon she was the youngest champion in 15 years.",
+      "source": "https://www.olympics.com/en/news/wimbledon-2026-womens-singles-final-results-karolina-muchova-linda-noskova"
+    },
+    {
+      "text": "She beat world No. 1 Iga Swiatek when she was only 19.",
+      "source": "https://en.wikipedia.org/wiki/Linda_Nosková"
+    }
+  ],
+  "watchFor": "Count how many winners she cracks past her opponent with that booming forehand.",
+  "matchTomorrow": {
+    "opponent": "Marta Kostyuk",
+    "opponentSlug": "marta-kostyuk",
+    "court": "Louis Armstrong Stadium",
+    "session": "day",
+    "matchId": "m22"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Linda_Noskov%C3%A1_%282023_US_Open%29_01_%28cropped2%29.jpg",
+    "localPath": "img/players/linda-noskova.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ALinda_Noskov%C3%A1_%282023_US_Open%29_01_%28cropped2%29.jpg",
+    "title": "File:Linda_Nosková_(2023_US_Open)_01_(cropped2).jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Linda_Nosková",
+    "https://www.tennismajors.com/australian-open-news/czech-swiatek-australian-open-everything-you-always-wanted-to-know-about-linda-noskova-but-never-had-the-time-to-find-out-739003.html",
+    "https://www.olympics.com/en/news/wimbledon-2026-womens-singles-final-results-karolina-muchova-linda-noskova",
+    "https://www.wtatennis.com/news/4571829/linda-noskova-wwe-star-charlotte-flair-meet-at-us-open",
+    "https://www.wtatennis.com/news/4533700/at-21-linda-noskova-caps-brilliant-fortnight-to-become-youngest-wimbledon-champion-in-15-years-defeats-karolina-muchova",
+    "https://en.tennistemple.com/actu/us-open-noskova-survives-ann-li-scare-svitolina/nCMj"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-05T17:46:49Z",
+  "factCheck": {
+    "checkedAt": "2026-09-05T17:52:00Z",
+    "notes": [
+      "Bio (DOB 2004-11-17, born Vsetin, hometown Bystricka, 179cm, right/2HBH, No.6, 2021 junior RG at 16, beat No.1 Swiatek at 2024 AO aged 19, Zanzibar school Nov 2025) confirmed via Wikipedia REST; seed 6 / rank 6 / opponent Kostyuk match schedule.json m22.",
+      "Wimbledon 2026 champion d. Muchova 6-2 5-7 6-3, youngest since Kvitova 2011 (15 years): WTA + olympics.com.",
+      "Wrestling fandom: elite23.net was unsourced, but WTA article (Charlotte Flair at US Open) confirms fan since 14; fact rewritten and re-sourced.",
+      "Nose ring: Tennis Majors confirms septum piercing she says brings good luck ('tiny' softened to 'small').",
+      "Gymnastics/horse riding/track, Serena idol, parents played for fun, forest village: Tennis Majors. R3 d. Ann Li 6-2 6-7 6-2 confirmed."
+    ],
+    "changes": [
+      "Story: replaced unsourced 'ran around the court until she got a racket' with sourced 'dad put a racket in her hands at about six'.",
+      "Fun fact: wrestling rewritten with WTA source (Charlotte Flair visit).",
+      "Fun fact: nose ring wording adjusted.",
+      "Dropped elite23.net from sources."
+    ]
+  }
+}

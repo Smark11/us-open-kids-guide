@@ -1,0 +1,97 @@
+{
+  "slug": "ben-shelton",
+  "name": "Ben Shelton",
+  "country": "US",
+  "countryName": "United States",
+  "flagEmoji": "🇺🇸",
+  "birthDate": "2002-10-09",
+  "age": 23,
+  "seed": 8,
+  "ranking": 9,
+  "draw": "men",
+  "tier": 1,
+  "plays": "Left-handed, two-handed backhand",
+  "heightCm": 193,
+  "hometown": "Atlanta, Georgia, United States",
+  "nicknameOrTagline": "Dialed In",
+  "intro": "Ben Shelton is a big, smiling lefty from Atlanta, Georgia. A lefty hits with the left hand. His serve can zoom past 150 miles per hour!",
+  "story": "Ben did not travel the world as a kid. He went to college in Florida and won the national title there. His dad, Bryan, was a pro player and is now his coach. This year Ben won trophies on hard courts, clay, and grass. On Friday night he beat Denis Shapovalov, so he plays again Sunday.",
+  "funFacts": [
+    {
+      "text": "His serve can hit 150 miles per hour. That is faster than a car on the highway!",
+      "source": "https://www.atptour.com/en/news/shelton-serve-indian-wells-2025-saturday"
+    },
+    {
+      "text": "Before tennis, his first love was American football.",
+      "source": "https://www.on.com/en-us/stories/meet-the-real-ben-shelton"
+    },
+    {
+      "text": "He loves movie theater slushies and popcorn.",
+      "source": "https://www.on.com/en-us/stories/meet-the-real-ben-shelton"
+    },
+    {
+      "text": "He has never been to a concert in his life. He likes quiet nights in.",
+      "source": "https://www.on.com/en-us/stories/meet-the-real-ben-shelton"
+    },
+    {
+      "text": "He won the college national championship for the Florida Gators in 2022.",
+      "source": "https://www.espn.com/tennis/story/_/id/34448493/ncaa-tennis-champ-ben-shelton-turns-pro-accepts-us-open-invitation"
+    },
+    {
+      "text": "His sister Emma played college tennis too. His mom was a top junior player.",
+      "source": "https://www.aol.com/articles/ben-shelton-parents-former-tennis-170306000.html"
+    },
+    {
+      "text": "He won the big Canada tournament two years in a row. Rafael Nadal was the last to do that.",
+      "source": "https://www.atptour.com/en/news/shelton-nakashima-montreal-2026-thursday-final"
+    }
+  ],
+  "watchFor": "Look for his phone move, when he pretends to hang up an old phone.",
+  "matchTomorrow": {
+    "opponent": "Stefanos Tsitsipas",
+    "opponentSlug": "stefanos-tsitsipas",
+    "court": "Arthur Ashe Stadium",
+    "session": "night",
+    "matchId": "m19"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ben_Shelton%2C_media_conference%2C_Swiss_Indoors_Basel_2025_%28cropped%29.jpg",
+    "localPath": "img/players/ben-shelton.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Skyscraper2010",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ABen_Shelton%2C_media_conference%2C_Swiss_Indoors_Basel_2025_%28cropped%29.jpg",
+    "title": "File:Ben_Shelton,_media_conference,_Swiss_Indoors_Basel_2025_(cropped).jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ben_Shelton",
+    "https://www.on.com/en-us/stories/meet-the-real-ben-shelton",
+    "https://www.yahoo.com/news/ben-shelton-phone-celebration-u-183941214.html",
+    "https://www.sportskeeda.com/tennis/news-it-s-kind-like-i-m-saying-i-m-dialed-in-ben-shelton-explains-post-match-celebration-sealing-sf-spot-vs-novak-djokovic-us-open-2023",
+    "https://www.atptour.com/en/news/shelton-serve-indian-wells-2025-saturday",
+    "https://www.atptour.com/en/news/shelton-nakashima-montreal-2026-thursday-final",
+    "https://www.atptour.com/en/news/shelton-fritz-stuttgart-2026-final",
+    "https://www.wruf.com/headlines/2026/06/15/ben-shelton-captures-stuttgart-title-ahead-of-wimbledon-2026/",
+    "https://en.wikipedia.org/wiki/2026_BMW_Open_%E2%80%93_Singles",
+    "https://en.wikipedia.org/wiki/2026_Dallas_Open_%E2%80%93_Singles",
+    "https://www.atptour.com/en/news/ben-shelton-bryan-shelton-june-2023-feature",
+    "https://www.tennismajors.com/us-open-news/nowhere-near-my-best-shelton-serves-for-the-second-set-twice-loses-it-and-finishes-at-215am-860293.html",
+    "https://www.aol.com/articles/ben-shelton-parents-former-tennis-170306000.html"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-05T17:46:49Z",
+  "factCheck": {
+    "checkedAt": "2026-09-05T17:52:00Z",
+    "notes": [
+      "Bio (DOB 2002-10-09, Atlanta, 193cm, lefty/2HBH, No.9) confirmed via Wikipedia REST; seed 8 / rank 9 / opponent Tsitsipas match schedule.json m19.",
+      "150 mph serve: second source ATP Tour (Indian Wells 2025 vs Navone).",
+      "Back-to-back Canada 2025-26, last since Nadal 2018-19: second source ATP Tour final report.",
+      "2026 titles Dallas (hard), Munich (clay), Stuttgart (grass), Montreal (hard): confirmed via ATP/WRUF/Wikipedia tournament pages.",
+      "R3 win over Shapovalov 7-6 6-7 6-3 6-4 (finished 2:15am Sat) confirmed via Tennis Majors; story says 'Friday night'.",
+      "On.com facts (football, slushies, no concerts) and phone celebration (Yahoo) confirmed verbatim."
+    ],
+    "changes": [
+      "Story: 'On Friday' -> 'On Friday night' (match ended after midnight).",
+      "Replaced Wikipedia-only sources on serve speed, NCAA title, family, Canada facts with ATP/ESPN/AOL sources."
+    ]
+  }
+}

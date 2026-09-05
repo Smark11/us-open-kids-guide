@@ -55,3 +55,18 @@ Target: Saturday, September 5, 2026 (Day 6, third round). Build started 2026-09-
 - 'Botic van de…' truncates in the prev/next pill on phone.
 - Doubles and juniors not included (singles only, per priority rules).
 - Detail-sheet photo is a ~1.6x upscale of the 480px source on DPR2 phones (soft, not blocky).
+
+## v2 — Saturday Sept 5 (user request: "add all the other players still in it")
+| Step | Status | Notes |
+|---|---|---|
+| Schedule refresh | DONE | Saturday OOP published 8:47 AM; courts/sessions/times filled for all 16 matches; pushed live at ~1:50 PM. Friday's 16 third-round winners + their Sunday R4 matches (m17–m24) added. |
+| Research (16 players) | DONE | 4 batches × 4. 16/16 CC-licensed Commons photos (Medvedev swapped for a closer DC Open 2025 crop). |
+| Fact check | DONE | 16/16 verified. Notable corrections: Sabalenka 5 → 4 Grand Slams; Pegula top-10 at 28 not 27; Kostyuk clay streak wording; Cirstea hometown Bucharest; Townsend 2012 controversy removed. |
+| Kid editor | DONE | 48/48 at FK grade <= 4.5 (max 4.4). Cut: injury hint (Alcaraz), Fortnite by name, partner wording, Agassi comparison. |
+| UI v2 | DONE | Day toggle (Today / Sunday / All), Sunday chip, live status chips (Done / On now / Up next) with winner + score, court·session·time in detail, "Sunday's 4th-round matches" block. SW v5. |
+| Status tool | DONE | `tools/refresh_status.py` pulls status/winner/score from usopen.org day feeds by usopenMatchId (see scripts/refresh.md). |
+| Gate (content, 16 new) | RUNNING | |
+| QA (48 players) | RUNNING | |
+| Deploy | pending | |
+
+Decisions: Sabalenka, Medvedev, Kalinskaya shown with 🎾 / "Plays without a flag" like Andreeva and Khachanov. Session web-search budget hit 200/200 during batch I fact-check; remaining agents use direct fetch only.

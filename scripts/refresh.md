@@ -1,4 +1,12 @@
-# Saturday-morning refresh (order of play, courts, sessions)
+# Refreshing the guide (scores, order of play, new rounds)
+
+## Live scores / winners (any time, ~10 seconds)
+```
+python3 tools/refresh_status.py && python3 tools/merge.py && git add -A && git commit -m "scores" && git push
+```
+This pulls status, winner and score for every match from the official usopen.org day feeds (joined on `usopenMatchId`), regenerates the data bundle, and publishes. Bump `VERSION` in `sw.js` if phones seem stuck on old data.
+
+## Order of play (done Saturday morning)
 
 The official order of play for Sat Sept 5 was **not published** when this site was built (Friday afternoon).
 Every match currently shows court/session **TBD**. Once usopen.org posts it (usually Friday evening ET), do this:

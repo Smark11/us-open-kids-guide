@@ -14,7 +14,7 @@ Target: Saturday, September 5, 2026 (Day 6, third round). Build started 2026-09-
 | 5 Design/build | DONE | 1 | "Sticker album on a blue court" (see DESIGN.md). Vanilla HTML/CSS/JS, players.js data bundle, service worker, favorites, hash routing. |
 | 6 Review loop | RUNNING | 1 | Iter 1: design-critic FAIL (4 blocking: ball/kicker overlap, title wrap, tall match cards bury player grid, sticky filter fade), qa-engineer FAIL (2 blocking: SW precaches 0 photos, deep-link close leaves site), kid-ux-tester FAIL (3 blocking: cards buried, tier labels contradict seed lesson, sticky hover flip glitch). Fix pass 1 done (builder cut off by a 2nd API session limit at ~18:40 ET, reset 22:40; code was complete, orchestrator smoke-tested: 0 console errors both origins, grid at y=617). Content mini-pass: 19 facts replaced, 6 watchFor rewritten. Iter 2: design-critic PASS (14/15 items fixed, 1 partial), qa-engineer PASS (all blocking fixed; SW cache verified 39 entries; noted 910KB first load), kid-ux-tester PASS (all blocking fixed; ~9 players have a fact that repeats the story). Orchestrator re-encoded photos 1223KB -> 671KB. |
 | Gate 2 | SHIP | 1 | 122 scripted checks passed on file:// and subpath at 390/768; 0 console errors; 32/32 cards; SW v3 39 entries; credits 31/31. 3 cosmetic fixes applied after (tagline 2-line clamp, capped sheet photo height, nowrap date). |
-| 7 Deploy | RUNNING | 1 | |
+| 7 Deploy | LIVE | 2 | https://smark11.github.io/us-open-kids-guide/ — repo github.com/Smark11/us-open-kids-guide, Pages from main:/ (legacy). First attempt failed on SSH push + a shell-globbed Pages arg; fixed by switching the remote to HTTPS via `gh auth setup-git` and quoting `source[branch]`. Live QA running. |
 | 8 Wrap | pending | | |
 
 ## Decisions
@@ -32,3 +32,26 @@ Target: Saturday, September 5, 2026 (Day 6, third round). Build started 2026-09-
 ## Open issues
 - API session limit hit twice (~17:20 ET, reset 17:50; ~18:40 ET, reset 22:40). Lost work was relaunched/recovered each time. Wall-clock budget blown by the outages, not by the build.
 - Order of play for Sat Sept 5 not yet released. Re-run schedule scout Friday evening (see scripts/refresh.md).
+
+## Final stats (2026-09-04 23:25 ET)
+| Metric | Value |
+|---|---|
+| Players | 32 (Superstars 8, Seeded 14, Underdogs 10) |
+| Matches | 16 (8 men, 8 women), all court/session TBD until OOP drops |
+| Verified | 32/32 |
+| Fun facts | 225 total, every one with a source URL |
+| Source URLs | 153 |
+| Readability | max FK grade 4.4, target <= 4.5 |
+| Licensed photos | 31/32 (1 SVG avatar: Blockx) — 671KB total, max 27KB |
+| Site payload | 152KB (HTML+CSS+JS+data), 0 external JS, Google Fonts optional |
+| Review iterations | 2 (all three reviewers PASS on iter 2); Gate 2 SHIP |
+| Live | https://smark11.github.io/us-open-kids-guide/ |
+
+## Known gaps / follow-ups
+- Order of play not published at build time: every match shows "Court: coming Saturday morning!". Run `scripts/refresh.md` once usopen.org posts it; courts, sessions, Ashe/Armstrong tier promotion and "Who's playing where" grouping all switch on automatically.
+- Alexander Blockx: no free-licensed photo exists; avatar used (Gate 1 waiver).
+- Rankings are the usopen.org feed snapshot (a few differ by 1-15 spots from live ATP/WTA lists).
+- ~9 players still have one fun fact that overlaps their story paragraph (cosmetic; kid-ux-tester iter 2).
+- 'Botic van de…' truncates in the prev/next pill on phone.
+- Doubles and juniors not included (singles only, per priority rules).
+- Detail-sheet photo is a ~1.6x upscale of the 480px source on DPR2 phones (soft, not blocky).

@@ -30,6 +30,7 @@
   function tierInfo(t) { return TIER[t] || TIER[3]; }
   function tierTag(t) { return '<span class="tag t' + t + '">' + tierInfo(t).emoji + ' ' + tierInfo(t).label + '</span>'; }
   function courtIcon(court) { return /ashe/i.test(court) ? '🏟️' : /armstrong/i.test(court) ? '🎪' : /grandstand/i.test(court) ? '🎡' : '🎾'; }
+  function fmtTime(t) { var m = /^(\d{1,2}):(\d{2})$/.exec(String(t || '')); if (!m) return t; var h = +m[1]; return (h % 12 || 12) + ':' + m[2] + (h < 12 ? ' AM' : ' PM'); }
   function sessionLabel(s) { return s === 'night' ? '🌙 Night' : s === 'day' ? '☀️ Day' : 'Session: TBD'; }
   function courtRank(c) { var i = COURT_ORDER.indexOf(c); if (i >= 0) return i; var n = parseInt(String(c).replace(/\D/g, ''), 10); return 10 + (isNaN(n) ? 99 : n); }
   function hometownOf(p) {
@@ -171,22 +172,27 @@
   }
 
   /* ---------- matches ---------- */
-  function playerBtn(mp, right) {
+  function playerBtn(mp, right, m) {
+    if (!mp || !mp.slug) return '<span class="match-player' + (right ? ' right' : '') + '"><span class="nm">TBD</span></span>';
     var p = bySlug[mp.slug] || mp;
     var fav = favorites.has(mp.slug) ? ' <span class="fav-dot" aria-label="favorite">⭐</span>' : '';
-    return '<button type="button" class="match-player' + (right ? ' right' : '') + '" data-open="' + esc(mp.slug) + '" aria-label="Open ' + esc(p.name) + '">' +
+    var won = m && m.winnerSlug === mp.slug;
+    return '<button type="button" class="match-player' + (right ? ' right' : '') + (won ? ' won' : '') + '" data-open="' + esc(mp.slug) + '" aria-label="Open ' + esc(p.name) + (won ? ', winner' : '') + '">' +
       '<span class="flag" aria-hidden="true">' + flagOf(p) + '</span>' + seedBadge(mp.seed) +
-      '<span class="nm">' + esc(p.name) + fav + '</span></button>';
+      '<span class="nm">' + esc(p.name) + (won ? ' <span class="won-dot" aria-hidden="true">🏆</span>' : '') + fav + '</span></button>';
   }
-  function matchCard(m) {
+  function matchCard(m, compact) {
     var meta = '<span class="tag">' + (m.draw === 'women' ? "👩 Women's" : "👨 Men's") + '</span>';
+    if (compact) meta += isTBD(m.court) ? '<span class="tag">🏟️ Court &amp; time: coming soon</span>' : '<span class="tag">' + courtIcon(m.court) + ' ' + esc(shortCourt(m.court)) + '</span>';
     if (!isTBD(m.session)) meta += '<span class="tag ' + esc(m.session) + '">' + sessionLabel(m.session) + '</span>';
-    if (m.order) meta += '<span class="tag">Match ' + m.order + (m.startTimeET ? ' · ' + esc(m.startTimeET) + ' ET' : '') + '</span>';
-    else if (m.startTimeET) meta += '<span class="tag">' + esc(m.startTimeET) + ' ET</span>';
-    var a = bySlug[m.players[0].slug] || m.players[0], b = bySlug[m.players[1].slug] || m.players[1];
-    return '<article class="match" aria-label="' + esc(a.name) + ' versus ' + esc(b.name) + '">' +
+    if (m.order) meta += '<span class="tag">Match ' + m.order + (m.startTimeET ? ' · ' + esc(fmtTime(m.startTimeET)) + ' ET' : '') + '</span>';
+    else if (m.startTimeET) meta += '<span class="tag">' + esc(fmtTime(m.startTimeET)) + ' ET</span>';
+    meta += statusChip(m);
+    if (m.status === 'completed' && m.score) meta += '<span class="tag">' + esc(m.score) + '</span>';
+    var ps = m.players || [], a = bySlug[(ps[0] || {}).slug] || ps[0] || {}, b = bySlug[(ps[1] || {}).slug] || ps[1] || {};
+    return '<article class="match' + (compact ? ' compact' : '') + '" aria-label="' + esc(a.name || 'TBD') + ' versus ' + esc(b.name || 'TBD') + '">' +
       '<div class="match-meta">' + meta + '</div>' +
-      '<div class="match-row">' + playerBtn(m.players[0]) + '<span class="vs" aria-hidden="true">vs</span>' + playerBtn(m.players[1], true) + '</div></article>';
+      '<div class="match-row">' + playerBtn(ps[0], false, m) + '<span class="vs" aria-hidden="true">vs</span>' + playerBtn(ps[1], true, m) + '</div></article>';
   }
   function matchVisible(m) {
     if (filters.draw && m.draw !== filters.draw) return false;
@@ -198,36 +204,46 @@
   }
   function renderMatches() {
     var banner = $('oop-banner'), list = $('matches-list');
-    var visible = MATCHES.filter(matchVisible);
-    var anyCourt = MATCHES.some(function (m) { return !isTBD(m.court); });
+    var visible = TODAY_MATCHES.filter(matchVisible), html;
+    var anyCourt = TODAY_MATCHES.some(function (m) { return !isTBD(m.court); });
     if (!OOP || !anyCourt) {
       $('matches-title').textContent = "Saturday's Matches";
       banner.hidden = false;
       banner.innerHTML = '<span class="big" aria-hidden="true">📣</span><span>Courts and times get announced <strong>Saturday morning</strong> — check back! Here is everyone playing.</span>';
-      list.innerHTML = '<div class="match-cards">' + visible.map(matchCard).join('') + '</div>';
+      html = '<div class="match-cards">' + visible.map(function (m) { return matchCard(m); }).join('') + '</div>';
     } else {
       $('matches-title').textContent = "Who's playing where";
       banner.hidden = true;
       var groups = {};
       visible.forEach(function (m) { var c = isTBD(m.court) ? 'Court TBD' : m.court; (groups[c] = groups[c] || []).push(m); });
       var courts = Object.keys(groups).sort(function (a, b) { return courtRank(a) - courtRank(b); });
-      list.innerHTML = courts.map(function (c) {
-        var ms = groups[c].sort(function (a, b) {
-          var sa = a.session === 'night' ? 1 : 0, sb = b.session === 'night' ? 1 : 0;
-          return sa - sb || (a.order || 99) - (b.order || 99);
-        });
-        return '<section class="court-group" aria-label="' + esc(c) + '"><h3 class="court-head"><span class="court-icon" aria-hidden="true">' + courtIcon(c) + '</span>' + esc(c) + '</h3><div class="match-cards">' + ms.map(matchCard).join('') + '</div></section>';
+      html = courts.map(function (c) {
+        var ms = groups[c].sort(bySlot);
+        return '<section class="court-group" aria-label="' + esc(c) + '"><h3 class="court-head"><span class="court-icon" aria-hidden="true">' + courtIcon(c) + '</span>' + esc(c) + '</h3><div class="match-cards">' + ms.map(function (m) { return matchCard(m); }).join('') + '</div></section>';
       }).join('');
     }
-    if (!visible.length) list.innerHTML = '<div class="empty"><p class="empty-big">No matches match!</p><p>Try another filter.</p></div>';
+    if (!visible.length) html = '<div class="empty"><p class="empty-big">No matches match!</p><p>Try another filter.</p></div>';
+    // Sunday's matches: compact rows; court/session pills describe today's order of play, so they hide this block
+    if (LATER_MATCHES.length && !filters.court && !filters.session) {
+      var later = LATER_MATCHES.filter(matchVisible);
+      html += '<section class="court-group later" aria-label="Sunday\'s matches"><h3 class="court-head"><span class="court-icon" aria-hidden="true">📅</span>Sunday\'s 4th-round matches</h3>' +
+        (later.length ? '<div class="match-cards">' + later.map(function (m) { return matchCard(m, true); }).join('') + '</div>' : '<p class="filter-note">No Sunday matches match this filter.</p>') + '</section>';
+    }
+    list.innerHTML = html;
   }
 
   /* ---------- player grid ---------- */
+  function cardChip(p) {
+    if (!playsToday(p)) return '<span class="tag chip sun">📅 Sun</span>';
+    var c = courtOf(p); if (isTBD(c)) return '';
+    var st = (matchOf(p) || {}).status;
+    return '<span class="tag chip' + (st === 'in_progress' ? ' live' : st === 'completed' ? ' done' : '') + '">' + courtIcon(c) + ' ' + esc(shortCourt(c)) + (st === 'in_progress' ? ' · On now' : st === 'completed' ? ' · Done' : '') + '</span>';
+  }
   function playerCard(p) {
     return '<div class="card-wrap">' +
       '<button type="button" class="card" data-open="' + esc(p.slug) + '" aria-label="Open ' + esc(p.name) + ' card">' +
         '<div class="card-photo">' + photoHTML(p) +
-          '<span class="flag-big" aria-hidden="true">' + flagOf(p) + '</span>' + seedBadge(p.seed) + '</div>' +
+          '<span class="flag-big" aria-hidden="true">' + flagOf(p) + '</span>' + seedBadge(p.seed) + cardChip(p) + '</div>' +
         '<div class="card-body"><h3 class="card-name">' + esc(p.name) + '</h3>' +
           '<p class="card-tag">' + esc(p.nicknameOrTagline || p.countryName || '') + '</p>' +
           '<span class="card-tier">' + tierTag(p.tier) + '</span>' +
@@ -236,7 +252,11 @@
   function renderCount() {
     var n = PLAYERS.filter(matchesFilters).length;
     var favs = favorites.size ? ' · ⭐ ' + favorites.size + ' collected' : '';
-    $('count').textContent = (n === PLAYERS.length ? 'All ' + n + ' players' : n + ' of ' + PLAYERS.length + ' players') + favs;
+    var plain = !filters.draw && !filters.tier && !filters.court && !filters.session && !filters.fav;
+    var txt = plain && filters.day === 'sat' && SUN.length ? SAT.length + ' today · ' + SUN.length + ' more still in it'
+      : plain && filters.day === 'sun' ? n + ' playing Sunday'
+      : n === PLAYERS.length ? 'All ' + n + ' players' : n + ' of ' + PLAYERS.length + ' players';
+    $('count').textContent = txt + favs;
   }
   function renderGrid() {
     var list = PLAYERS.filter(matchesFilters);
@@ -265,9 +285,13 @@
     var mt = p.matchTomorrow || {}; var m = matchOf(p) || mt;
     var court = m.court, session = m.session;
     var opp = mt.opponentSlug && bySlug[mt.opponentSlug];
-    var courtTxt = isTBD(court) ? '🏟️ Court: coming Saturday morning!' : courtIcon(court) + ' ' + esc(court);
+    var today = playsToday(p);
+    var courtTxt = isTBD(court) ? (today ? '🏟️ Court and time: coming soon!' : '🏟️ Court and time: announced Saturday evening!')
+      : courtIcon(court) + ' ' + esc(court) + (isTBD(session) ? '' : ' · ' + sessionLabel(session) + ' session') + (m.startTimeET ? ' · ' + esc(fmtTime(m.startTimeET)) : m.startTimeNote ? ' · ' + esc(m.startTimeNote) : '');
     var sessTxt = isTBD(session) ? '' : '<span class="tag ' + esc(session) + '">' + sessionLabel(session) + '</span>';
-    var timeTxt = m.order ? '<span class="tag">Match ' + m.order + (m.startTimeET ? ' · ' + esc(m.startTimeET) + ' ET' : '') + '</span>' : '';
+    var timeTxt = m.order ? '<span class="tag">Match ' + m.order + (isTBD(court) && m.startTimeET ? ' · ' + esc(fmtTime(m.startTimeET)) + ' ET' : '') + '</span>' : '';
+    var result = m.status === 'completed' ? '<p class="result">' + (m.winnerSlug === p.slug ? '✅ Won!' + (m.score ? ' ' + esc(m.score) : '') : m.winnerSlug ? '💪 Played a great match today!' : '🏁 Match finished!') + '</p>'
+      : m.status === 'in_progress' ? '<p class="result">🔴 On court right now!</p>' : '';
     var idx = PLAYERS.indexOf(p);
     var prev = PLAYERS[(idx - 1 + PLAYERS.length) % PLAYERS.length], next = PLAYERS[(idx + 1) % PLAYERS.length];
     var facts = (p.funFacts || []).map(function (f, i) {
@@ -291,7 +315,7 @@
           stat('Height', p.heightCm ? feetIn(p.heightCm) + '<small>' + p.heightCm + ' cm</small>' : '') +
           stat('Hits with', handOf(p) ? '<small style="font-size:20px">' + handOf(p) + '</small>' : '') +
         '</div>' +
-        '<section class="box match-box" aria-label="Saturday match"><h3>🎾 Saturday\'s match</h3>' +
+        '<section class="box match-box" aria-label="' + (today ? "Today's match" : "Sunday's match") + '"><h3>' + (today ? "🎾 Today's match" : "📅 Sunday's match (" + esc(roundShort(mt.round || p.round)) + ')') + '</h3>' + result +
           (mt.opponent ? '<p>vs</p><button type="button" class="opp" data-open="' + esc(mt.opponentSlug || '') + '"' + (opp ? '' : ' disabled') + '>' + (opp ? flagOf(opp) + ' ' : '') + esc(opp ? opp.name : mt.opponent) + (opp ? ' ▸' : '') + '</button>' : '<p>Opponent coming soon!</p>') +
           '<p>' + courtTxt + '</p><div class="tags">' + tierTag(p.tier) + sessTxt + timeTxt + '</div></section>' +
         (p.watchFor ? '<section class="box watch"><h3>Watch for this! 👀</h3><p>' + esc(p.watchFor) + '</p></section>' : '') +

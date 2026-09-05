@@ -65,8 +65,8 @@ Target: Saturday, September 5, 2026 (Day 6, third round). Build started 2026-09-
 | Kid editor | DONE | 48/48 at FK grade <= 4.5 (max 4.4). Cut: injury hint (Alcaraz), Fortnite by name, partner wording, Agassi comparison. |
 | UI v2 | DONE | Day toggle (Today / Sunday / All), Sunday chip, live status chips (Done / On now / Up next) with winner + score, court·session·time in detail, "Sunday's 4th-round matches" block. SW v5. |
 | Status tool | DONE | `tools/refresh_status.py` pulls status/winner/score from usopen.org day feeds by usopenMatchId (see scripts/refresh.md). |
-| Gate (content, 16 new) | RUNNING | |
-| QA (48 players) | RUNNING | |
-| Deploy | pending | |
+| Gate (content, 16 new) | PASS | 16/16 verified, readability max 4.4, 0 inappropriate hits, 5/6 spot-checks supported (1 age/source mismatch fixed), personas 5/5. 8 advisory edits applied. |
+| QA (48 players) | PASS | 0 console errors, 48/48 cards, day toggle 32/16/48, SW v5 55 entries, credits 47/47. |
+| Deploy | LIVE | 48 players, scores refreshed at push time; SW v6. |
 
 Decisions: Sabalenka, Medvedev, Kalinskaya shown with 🎾 / "Plays without a flag" like Andreeva and Khachanov. Session web-search budget hit 200/200 during batch I fact-check; remaining agents use direct fetch only.

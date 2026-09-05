@@ -1,7 +1,7 @@
 /* Service worker for Nora's US Open Guide. Registered with a relative path so it works on a GitHub Pages subpath.
    - precaches the app shell + data + every player photo listed in data/players.js
    - images: cache-first; data + shell: network-first with cache fallback */
-var VERSION = 'nora-usopen-v5';
+var VERSION = 'nora-usopen-v6';
 var SHELL = ['./', './index.html', './styles/main.css', './scripts/app.js', './data/players.js', './manifest.webmanifest', './img/icon.svg'];
 
 function photoList() {

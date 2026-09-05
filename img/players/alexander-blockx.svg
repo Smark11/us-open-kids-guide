@@ -4,5 +4,4 @@
 <path d="M95 95 Q200 200 95 305" fill="none" stroke="#0369A1" stroke-width="10" stroke-linecap="round"/>
 <path d="M305 95 Q200 200 305 305" fill="none" stroke="#0369A1" stroke-width="10" stroke-linecap="round"/>
 <text x="200" y="228" font-family="Arial Black, Arial, sans-serif" font-size="112" font-weight="900" text-anchor="middle" fill="#0369A1">AB</text>
-<text x="330" y="90" font-size="72" text-anchor="middle">🇧🇪</text>
 </svg>

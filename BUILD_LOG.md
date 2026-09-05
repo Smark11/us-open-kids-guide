@@ -12,7 +12,7 @@ Target: Saturday, September 5, 2026 (Day 6, third round). Build started 2026-09-
 | 4 Kid editor | DONE | 1 | 32/32 at FK grade <= 4.5 (max 4.4). 9 content cuts (injury, prize wording, mature game titles, etc). |
 | Gate 1 | PASS (with waiver) | 1 | Coverage 32/32; verified 32/32; 0 inappropriate hits; readability max 4.4; photos: Tier 1 15/16 (93.75%, below the 95% bar), overall 31/32 (96.9%); 6/6 source spot-checks supported; both personas approved 5/5 samples. 7 advisory edits applied by orchestrator. |
 | 5 Design/build | DONE | 1 | "Sticker album on a blue court" (see DESIGN.md). Vanilla HTML/CSS/JS, players.js data bundle, service worker, favorites, hash routing. |
-| 6 Review loop | RUNNING | 1 | Iter 1: design-critic FAIL (4 blocking: ball/kicker overlap, title wrap, tall match cards bury player grid, sticky filter fade), qa-engineer FAIL (2 blocking: SW precaches 0 photos, deep-link close leaves site), kid-ux-tester FAIL (3 blocking: cards buried, tier labels contradict seed lesson, sticky hover flip glitch). Builder fix pass + content mini-pass running. |
+| 6 Review loop | RUNNING | 1 | Iter 1: design-critic FAIL (4 blocking: ball/kicker overlap, title wrap, tall match cards bury player grid, sticky filter fade), qa-engineer FAIL (2 blocking: SW precaches 0 photos, deep-link close leaves site), kid-ux-tester FAIL (3 blocking: cards buried, tier labels contradict seed lesson, sticky hover flip glitch). Fix pass 1 done (builder cut off by a 2nd API session limit at ~18:40 ET, reset 22:40; code was complete, orchestrator smoke-tested: 0 console errors both origins, grid at y=617). Content mini-pass: 19 facts replaced, 6 watchFor rewritten. Iter 2 reviews running. |
 | Gate 2 | pending | | |
 | 7 Deploy | pending | | |
 | 8 Wrap | pending | | |
@@ -30,5 +30,5 @@ Target: Saturday, September 5, 2026 (Day 6, third round). Build started 2026-09-
 - Alexander Blockx has no free-licensed photo on Wikimedia Commons as of 2026-09-04 (gatekeeper re-searched). SVG avatar (flag + initials) used, which is compliant. Tier 1 photo coverage 93.75% vs 95% target; waived per the gate's own recommendation.
 
 ## Open issues
-- API session limit hit at ~17:20 ET (reset 17:50). Lost: fact-check B/C/D, designer mid-review. All relaunched.
+- API session limit hit twice (~17:20 ET, reset 17:50; ~18:40 ET, reset 22:40). Lost work was relaunched/recovered each time. Wall-clock budget blown by the outages, not by the build.
 - Order of play for Sat Sept 5 not yet released. Re-run schedule scout Friday evening (see scripts/refresh.md).

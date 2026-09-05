@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Generate a stylized SVG avatar: flag emoji + initials on a bold colored ball.
-Usage: python3 tools/avatar.py <slug> "<Full Name>" <flagEmoji>
+Usage: python3 tools/avatar.py <slug> "<Full Name>" <flagEmoji>   (flag is accepted but no longer drawn; the card shows it)
 Writes img/players/<slug>.svg and prints the local path."""
 import hashlib, os, sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -17,7 +17,6 @@ def main():
 <path d="M95 95 Q200 200 95 305" fill="none" stroke="{bg}" stroke-width="10" stroke-linecap="round"/>
 <path d="M305 95 Q200 200 305 305" fill="none" stroke="{bg}" stroke-width="10" stroke-linecap="round"/>
 <text x="200" y="228" font-family="Arial Black, Arial, sans-serif" font-size="112" font-weight="900" text-anchor="middle" fill="{bg}">{initials}</text>
-<text x="330" y="90" font-size="72" text-anchor="middle">{flag}</text>
 </svg>'''
     out = os.path.join(ROOT, "img", "players", slug + ".svg")
     with open(out, "w") as f:

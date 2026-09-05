@@ -1,4 +1,4 @@
-/* Nora's US Open Guide — vanilla ES2017, no build step. Data comes from data/players.js (window.PLAYERS_DATA). */
+/* Nora's US Open Guide — vanilla ES2017, no build step. Data comes from data/players.js (self.PLAYERS_DATA). */
 (function () {
   'use strict';
   var DATA = window.PLAYERS_DATA || { config: {}, schedule: {}, matches: [], players: [] };
@@ -9,7 +9,7 @@
   var bySlug = {};
   PLAYERS.forEach(function (p) { bySlug[p.slug] = p; });
   var FAV_KEY = 'nora-favorites';
-  var TIER = { 1: { label: 'Superstars', emoji: '🔥' }, 2: { label: 'Seeds', emoji: '🌱' }, 3: { label: 'Rising Stars', emoji: '🚀' } };
+  var TIER = { 1: { label: 'Superstars', emoji: '⭐' }, 2: { label: 'Seeded', emoji: '🌱' }, 3: { label: 'Underdogs', emoji: '🐶' } };
   var COURT_ORDER = ['Arthur Ashe Stadium', 'Louis Armstrong Stadium', 'Grandstand'];
   var $ = function (id) { return document.getElementById(id); };
 
@@ -21,15 +21,23 @@
     if (c.length !== 2) return '🎾';
     return String.fromCodePoint(0x1F1E6 + c.charCodeAt(0) - 65, 0x1F1E6 + c.charCodeAt(1) - 65);
   }
+  function firstName(name) { return String(name || '').split(' ')[0]; }
   function initials(name) { var parts = String(name || '?').split(/\s+/).filter(Boolean); return ((parts[0] || '?')[0] + (parts.length > 1 ? parts[parts.length - 1][0] : '')).toUpperCase(); }
   function feetIn(cm) { if (!cm) return ''; var inches = Math.round(cm / 2.54); return Math.floor(inches / 12) + "'" + (inches % 12) + '"'; }
   function isTBD(v) { return v == null || v === '' || String(v).toUpperCase() === 'TBD'; }
   function hasPhoto(p) { return !!(p.photo && p.photo.localPath && p.photo.exists !== false); }
   function isAvatarPhoto(p) { return !!(p.photo && p.photo.isAvatar); }
   function tierInfo(t) { return TIER[t] || TIER[3]; }
+  function tierTag(t) { return '<span class="tag t' + t + '">' + tierInfo(t).emoji + ' ' + tierInfo(t).label + '</span>'; }
   function courtIcon(court) { return /ashe/i.test(court) ? '🏟️' : /armstrong/i.test(court) ? '🎪' : /grandstand/i.test(court) ? '🎡' : '🎾'; }
   function sessionLabel(s) { return s === 'night' ? '🌙 Night' : s === 'day' ? '☀️ Day' : 'Session: TBD'; }
   function courtRank(c) { var i = COURT_ORDER.indexOf(c); if (i >= 0) return i; var n = parseInt(String(c).replace(/\D/g, ''), 10); return 10 + (isNaN(n) ? 99 : n); }
+  function hometownOf(p) {
+    var h = String(p.hometown || ''), cn = p.countryName || '';
+    if (cn && h.slice(-cn.length - 2).toLowerCase() === (', ' + cn).toLowerCase()) h = h.slice(0, -cn.length - 2);
+    return h;
+  }
+  function handOf(p) { var s = String(p.plays || ''); return /left/i.test(s) ? '🤚 Lefty!' : /right/i.test(s) ? '✋ Righty' : ''; }
   var AVATAR_COLORS = [['#1D4ED8', '#FDE047'], ['#0F766E', '#FDE68A'], ['#BE123C', '#FBCFE8'], ['#7C3AED', '#DDD6FE'], ['#EA580C', '#FFEDD5'], ['#0369A1', '#BAE6FD'], ['#15803D', '#BBF7D0'], ['#B45309', '#FEF3C7']];
   function avatarSVG(p) {
     var h = 0; for (var i = 0; i < p.slug.length; i++) h = (h * 31 + p.slug.charCodeAt(i)) >>> 0;
@@ -38,16 +46,15 @@
       '<rect width="400" height="400" fill="' + c[0] + '"/><circle cx="200" cy="200" r="150" fill="' + c[1] + '"/>' +
       '<path d="M95 95 Q200 200 95 305" fill="none" stroke="' + c[0] + '" stroke-width="10" stroke-linecap="round"/>' +
       '<path d="M305 95 Q200 200 305 305" fill="none" stroke="' + c[0] + '" stroke-width="10" stroke-linecap="round"/>' +
-      '<text x="200" y="236" font-size="112" font-weight="900" text-anchor="middle" fill="' + c[0] + '">' + esc(initials(p.name)) + '</text>' +
-      '<text x="330" y="90" font-size="64" text-anchor="middle">' + flagOf(p) + '</text></svg>';
+      '<text x="200" y="236" font-size="112" font-weight="900" text-anchor="middle" fill="' + c[0] + '">' + esc(initials(p.name)) + '</text></svg>';
   }
-  function photoHTML(p, cls) {
+  function photoHTML(p) {
     if (!hasPhoto(p)) return avatarSVG(p);
-    return '<img src="' + esc(p.photo.localPath) + '" alt="' + esc(p.name) + '" loading="lazy" decoding="async" data-slug="' + esc(p.slug) + '"' + (cls ? ' class="' + cls + '"' : '') + '>';
+    return '<img src="' + esc(p.photo.localPath) + '" alt="' + esc(p.name) + '" loading="lazy" decoding="async" data-slug="' + esc(p.slug) + '">';
   }
-  function seedBadge(seed, big) {
+  function seedBadge(seed) {
     if (seed) return '<span class="seed" title="Seed ' + seed + '" aria-label="Seed ' + seed + '">' + seed + '</span>';
-    return '<span class="seed none" aria-label="Not seeded">' + (big ? 'un-<br>seeded' : '—') + '</span>';
+    return '<span class="seed none" title="Not seeded" aria-label="Not seeded">🎾</span>';
   }
   function matchOf(p) { var m = p.matchTomorrow; if (!m) return null; return MATCHES.filter(function (x) { return x.id === m.matchId; })[0] || null; }
   function courtOf(p) { var m = matchOf(p); return m ? m.court : (p.matchTomorrow && p.matchTomorrow.court); }
@@ -57,15 +64,20 @@
   var favorites = new Set();
   try { var raw = localStorage.getItem(FAV_KEY); if (raw) JSON.parse(raw).forEach(function (s) { favorites.add(s); }); } catch (e) { /* private mode etc. */ }
   function saveFavs() { try { localStorage.setItem(FAV_KEY, JSON.stringify(Array.from(favorites))); } catch (e) { /* ignore */ } }
+  function favButton(p, big) {
+    var on = favorites.has(p.slug);
+    return '<button type="button" class="fav" data-fav="' + esc(p.slug) + '" aria-pressed="' + on + '" aria-label="' + (on ? 'Remove ' : 'Add ') + esc(p.name) + (on ? ' from favorites' : ' to favorites') + '">' + (on ? '⭐' : '☆') + '</button>';
+  }
   function toggleFav(slug) {
     if (favorites.has(slug)) favorites.delete(slug); else favorites.add(slug);
     saveFavs();
+    var on = favorites.has(slug), name = (bySlug[slug] || {}).name || '';
     document.querySelectorAll('[data-fav="' + slug + '"]').forEach(function (b) {
-      var on = favorites.has(slug);
       b.setAttribute('aria-pressed', on ? 'true' : 'false');
-      b.setAttribute('aria-label', (on ? 'Remove ' : 'Add ') + (bySlug[slug] || {}).name + (on ? ' from favorites' : ' to favorites'));
+      b.setAttribute('aria-label', (on ? 'Remove ' : 'Add ') + name + (on ? ' from favorites' : ' to favorites'));
+      b.textContent = on ? '⭐' : '☆';
     });
-    if (filters.fav) renderGrid();
+    if (filters.fav) renderGrid(); else renderCount();
     renderMatches();
   }
 
@@ -92,57 +104,59 @@
     }).join('');
     var courts = uniq(MATCHES.map(function (m) { return m.court; }).filter(function (c) { return !isTBD(c); })).sort(function (a, b) { return courtRank(a) - courtRank(b); });
     var sessions = uniq(MATCHES.map(function (m) { return m.session; }).filter(function (s) { return !isTBD(s); }));
-    $('filter-court').innerHTML = courts.length ? courts.map(function (c) {
+    $('filter-court').innerHTML = courts.map(function (c) {
       return pill({ key: 'court', value: c, on: filters.court === c, label: courtIcon(c) + ' ' + esc(shortCourt(c)) });
-    }).join('') : '<span class="pill muted">🏟️ Court filters unlock Saturday morning!</span>';
+    }).join('');
     $('filter-session').innerHTML = sessions.map(function (s) {
       return pill({ key: 'session', value: s, on: filters.session === s, cls: s, label: sessionLabel(s) });
     }).join('');
+    $('court-note').hidden = courts.length > 0;
   }
   function shortCourt(c) { return String(c).replace('Arthur Ashe Stadium', 'Ashe').replace('Louis Armstrong Stadium', 'Armstrong'); }
   function uniq(a) { return a.filter(function (v, i) { return a.indexOf(v) === i; }); }
+  function resetFilters() { filters = { draw: null, tier: null, court: null, session: null, fav: false }; }
   $('filters').addEventListener('click', function (e) {
     var b = e.target.closest('button[data-f]'); if (!b) return;
     var k = b.getAttribute('data-f'), v = b.getAttribute('data-v');
     if (k === 'fav') filters.fav = !filters.fav; else filters[k] = (String(filters[k]) === v) ? null : v;
     renderFilters(); renderGrid(); renderMatches();
   });
-  $('clear-filters').addEventListener('click', function () {
-    filters = { draw: null, tier: null, court: null, session: null, fav: false };
-    renderFilters(); renderGrid(); renderMatches();
-  });
+  $('clear-filters').addEventListener('click', function () { resetFilters(); renderFilters(); renderGrid(); renderMatches(); });
 
-  /* ---------- hero ---------- */
+  /* ---------- hero + section order ---------- */
   function renderHero() {
-    var kid = CONFIG.kidName || 'My';
-    var title = (kid === 'My' ? 'My' : kid + "'s") + ' US Open Guide';
+    var kid = CONFIG.kidName || '';
+    var title = (kid ? kid + "'s" : 'My') + ' US Open Guide';
     document.title = title;
-    $('hero-title').textContent = title;
+    $('hero-title').innerHTML = '<span class="hero-name">' + esc(kid ? kid + "'s" : 'My') + '</span><span class="hero-rest">US Open Guide</span>';
     $('hero-date').textContent = CONFIG.eventLabel || '';
-    $('hero-kicker').textContent = (PLAYERS.length || MATCHES.length * 2) + ' players · ' + MATCHES.length + ' matches';
+    $('hero-kicker').textContent = (kid ? kid + "'s collector's guide · " : '') + PLAYERS.length + ' players · ' + MATCHES.length + ' matches';
+    // While the order of play is unknown the matches carry little a kid can use: album first.
+    var main = $('main'), players = $('players'), matches = $('matches');
+    if (OOP) main.insertBefore(matches, players); else main.insertBefore(players, matches);
   }
 
   /* ---------- matches ---------- */
   function playerBtn(mp, right) {
     var p = bySlug[mp.slug] || mp;
-    var fav = favorites.has(mp.slug) ? '<span class="fav-dot" aria-label="favorite">⭐</span>' : '';
-    return '<button type="button" class="match-player' + (right ? ' right' : '') + '" data-open="' + esc(mp.slug) + '" aria-label="Open ' + esc(mp.name) + '">' +
+    var fav = favorites.has(mp.slug) ? ' <span class="fav-dot" aria-label="favorite">⭐</span>' : '';
+    return '<button type="button" class="match-player' + (right ? ' right' : '') + '" data-open="' + esc(mp.slug) + '" aria-label="Open ' + esc(p.name) + '">' +
       '<span class="flag" aria-hidden="true">' + flagOf(p) + '</span>' + seedBadge(mp.seed) +
-      '<span class="nm">' + esc(mp.name) + ' ' + fav + '</span></button>';
+      '<span class="nm">' + esc(p.name) + fav + '</span></button>';
   }
   function matchCard(m) {
-    var meta = '<span class="tag t' + m.tier + '">' + tierInfo(m.tier).emoji + ' ' + tierInfo(m.tier).label + '</span>' +
-      '<span class="tag">' + (m.draw === 'women' ? "👩 Women's" : "👨 Men's") + '</span>';
+    var meta = '<span class="tag">' + (m.draw === 'women' ? "👩 Women's" : "👨 Men's") + '</span>';
     if (!isTBD(m.session)) meta += '<span class="tag ' + esc(m.session) + '">' + sessionLabel(m.session) + '</span>';
     if (m.order) meta += '<span class="tag">Match ' + m.order + (m.startTimeET ? ' · ' + esc(m.startTimeET) + ' ET' : '') + '</span>';
     else if (m.startTimeET) meta += '<span class="tag">' + esc(m.startTimeET) + ' ET</span>';
-    return '<article class="match" aria-label="' + esc(m.players[0].name) + ' versus ' + esc(m.players[1].name) + '">' +
+    var a = bySlug[m.players[0].slug] || m.players[0], b = bySlug[m.players[1].slug] || m.players[1];
+    return '<article class="match" aria-label="' + esc(a.name) + ' versus ' + esc(b.name) + '">' +
       '<div class="match-meta">' + meta + '</div>' +
       '<div class="match-row">' + playerBtn(m.players[0]) + '<span class="vs" aria-hidden="true">vs</span>' + playerBtn(m.players[1], true) + '</div></article>';
   }
   function matchVisible(m) {
     if (filters.draw && m.draw !== filters.draw) return false;
-    if (filters.tier && String(m.tier) !== String(filters.tier)) return false;
+    if (filters.tier && !m.players.some(function (mp) { var p = bySlug[mp.slug]; return p && String(p.tier) === String(filters.tier); })) return false;
     if (filters.court && m.court !== filters.court) return false;
     if (filters.session && m.session !== filters.session) return false;
     if (filters.fav && !m.players.some(function (p) { return favorites.has(p.slug); })) return false;
@@ -176,30 +190,32 @@
 
   /* ---------- player grid ---------- */
   function playerCard(p) {
-    var fav = favorites.has(p.slug);
     return '<div class="card-wrap">' +
       '<button type="button" class="card" data-open="' + esc(p.slug) + '" aria-label="Open ' + esc(p.name) + ' card">' +
         '<div class="card-photo">' + photoHTML(p) +
-          '<span class="flag-big" aria-hidden="true">' + flagOf(p) + '</span>' + seedBadge(p.seed, true) + '</div>' +
+          '<span class="flag-big" aria-hidden="true">' + flagOf(p) + '</span>' + seedBadge(p.seed) + '</div>' +
         '<div class="card-body"><h3 class="card-name">' + esc(p.name) + '</h3>' +
           '<p class="card-tag">' + esc(p.nicknameOrTagline || p.countryName || '') + '</p>' +
-          '<span class="card-tier"><span class="tag t' + p.tier + '">' + tierInfo(p.tier).emoji + ' ' + tierInfo(p.tier).label + '</span></span>' +
-        '</div></button>' +
-      '<button type="button" class="fav" data-fav="' + esc(p.slug) + '" aria-pressed="' + fav + '" aria-label="' + (fav ? 'Remove ' : 'Add ') + esc(p.name) + (fav ? ' from favorites' : ' to favorites') + '">' + (fav ? '⭐' : '☆') + '</button>' +
-    '</div>';
+          '<span class="card-tier">' + tierTag(p.tier) + '</span>' +
+        '</div></button>' + favButton(p) + '</div>';
+  }
+  function renderCount() {
+    var n = PLAYERS.filter(matchesFilters).length;
+    var favs = favorites.size ? ' · ⭐ ' + favorites.size + ' collected' : '';
+    $('count').textContent = (n === PLAYERS.length ? 'All ' + n + ' players' : n + ' of ' + PLAYERS.length + ' players') + favs;
   }
   function renderGrid() {
     var list = PLAYERS.filter(matchesFilters);
     $('grid').innerHTML = list.map(playerCard).join('');
     $('empty').hidden = list.length > 0;
-    $('count').textContent = list.length ? (list.length === PLAYERS.length ? 'All ' + list.length + ' players' : list.length + ' of ' + PLAYERS.length + ' players') : '';
+    renderCount();
     if (!PLAYERS.length) { $('empty').hidden = false; $('empty').querySelector('.empty-big').textContent = 'Player cards are being printed…'; }
   }
   document.addEventListener('click', function (e) {
     var f = e.target.closest('button[data-fav]');
-    if (f) { toggleFav(f.getAttribute('data-fav')); if (favorites.has(f.getAttribute('data-fav'))) f.textContent = '⭐'; else f.textContent = '☆'; return; }
+    if (f) { toggleFav(f.getAttribute('data-fav')); return; }
     var o = e.target.closest('[data-open]');
-    if (o) { lastFocus = o; location.hash = '#p/' + o.getAttribute('data-open'); }
+    if (o && !o.closest('#sheet')) { lastFocus = o; openedFromPage = true; location.hash = '#p/' + o.getAttribute('data-open'); }
   });
   document.addEventListener('error', function (e) {
     var img = e.target; if (!img || img.tagName !== 'IMG' || !img.dataset.slug) return;
@@ -209,8 +225,8 @@
   }, true);
 
   /* ---------- detail sheet ---------- */
-  var sheet = $('sheet'), sheetScroll = $('sheet-scroll'), lastFocus = null, openSlug = null;
-  function stat(k, v, wide) { return v ? '<div class="stat' + (wide ? ' wide' : '') + '"><span class="k">' + k + '</span><span class="v">' + v + '</span></div>' : ''; }
+  var sheet = $('sheet'), sheetScroll = $('sheet-scroll'), lastFocus = null, openSlug = null, openedFromPage = false;
+  function stat(k, v) { return v ? '<div class="stat"><span class="k">' + k + '</span><span class="v">' + v + '</span></div>' : ''; }
   function detailHTML(p) {
     var mt = p.matchTomorrow || {}; var m = matchOf(p) || mt;
     var court = m.court, session = m.session;
@@ -222,38 +238,41 @@
     var prev = PLAYERS[(idx - 1 + PLAYERS.length) % PLAYERS.length], next = PLAYERS[(idx + 1) % PLAYERS.length];
     var facts = (p.funFacts || []).map(function (f, i) {
       return '<button type="button" class="flip" aria-pressed="false" aria-label="Fun fact ' + (i + 1) + ', tap to flip"><div class="flip-inner">' +
-        '<div class="face front"><span class="n">Fun fact #' + (i + 1) + '</span><span class="tap">Tap to flip! 🔄</span></div>' +
-        '<div class="face back">' + esc(f.text || f) + '</div></div></button>';
+        '<div class="face front c' + (i % 3) + '"><span class="q" aria-hidden="true">?</span><span class="n">Fun fact #' + (i + 1) + '</span><span class="tap">Tap to flip! 🔄</span></div>' +
+        '<div class="face back" aria-hidden="true"><span class="n">#' + (i + 1) + '</span>' + esc(f.text || f) + '</div></div></button>';
     }).join('');
     var srcs = (p.sources || []).map(function (s) { return '<li><a href="' + esc(s) + '" target="_blank" rel="noopener">' + esc(s.replace(/^https?:\/\/(www\.)?/, '').slice(0, 60)) + '</a></li>'; }).join('');
-    return '<button type="button" class="d-close" id="d-close" aria-label="Close">✕</button>' +
-      '<div class="d-top"><div class="d-photo">' + photoHTML(p) + '</div></div>' +
-      '<div class="d-head"><span class="flag-big" aria-hidden="true">' + flagOf(p) + '</span><div>' +
+    var home = hometownOf(p);
+    return '<div class="d-top"><div class="d-photo">' + photoHTML(p) + '</div>' +
+        (hasPhoto(p) && !isAvatarPhoto(p) ? '' : '<span class="d-mystery">🕵️ No photo yet — a mystery card!</span>') +
+        '<button type="button" class="d-close" id="d-close" aria-label="Close">✕</button></div>' +
+      '<div class="d-head"><span class="flag-big" aria-hidden="true">' + flagOf(p) + '</span><div class="grow">' +
         '<h2 class="d-name" id="sheet-name">' + esc(p.name) + '</h2>' +
         (p.nicknameOrTagline ? '<p class="d-tagline">“' + esc(p.nicknameOrTagline) + '”</p>' : '') +
-        '<p class="d-country">' + flagOf(p) + ' ' + esc(p.countryName || p.country || '') + (p.hometown ? ' · from ' + esc(p.hometown) : '') + '</p>' +
-      '</div></div>' +
+        '<p class="d-country">' + esc(p.countryName || p.country || '') + (home ? ' · from ' + esc(home) : '') + '</p>' +
+      '</div>' + favButton(p, true) + '</div>' +
       '<div class="d-body">' +
         '<div class="stats">' +
-          stat('Age', p.age) + stat('Seed', p.seed ? '#' + p.seed : 'Unseeded') + stat('Ranking', p.ranking ? '#' + p.ranking : '') +
+          stat('Age', p.age) + stat('Seed', p.seed ? '#' + p.seed : '<small>no seed</small>') +
           stat('Height', p.heightCm ? feetIn(p.heightCm) + '<small>' + p.heightCm + ' cm</small>' : '') +
-          stat('Plays', p.plays ? '<small style="font-size:17px">' + esc(p.plays) + '</small>' : '', true) +
-          stat('Tier', tierInfo(p.tier).emoji + ' <small style="font-size:16px">' + tierInfo(p.tier).label + '</small>') +
+          stat('Hits with', handOf(p) ? '<small style="font-size:20px">' + handOf(p) + '</small>' : '') +
         '</div>' +
         '<section class="box match-box" aria-label="Saturday match"><h3>🎾 Saturday\'s match</h3>' +
-          (mt.opponent ? '<p>vs</p><button type="button" class="opp" data-open="' + esc(mt.opponentSlug || '') + '"' + (opp ? '' : ' disabled') + '>' + (opp ? flagOf(opp) + ' ' : '') + esc(mt.opponent) + '</button>' : '<p>Opponent coming soon!</p>') +
-          '<p>' + courtTxt + '</p><div class="tags">' + sessTxt + timeTxt + '</div></section>' +
-        (p.intro ? '<section class="box"><h3>👋 Meet ' + esc(p.name.split(' ')[0]) + '</h3><p>' + esc(p.intro) + '</p></section>' : '') +
-        (p.story ? '<section class="box"><h3>📖 The story</h3><p>' + esc(p.story) + '</p></section>' : '') +
+          (mt.opponent ? '<p>vs</p><button type="button" class="opp" data-open="' + esc(mt.opponentSlug || '') + '"' + (opp ? '' : ' disabled') + '>' + (opp ? flagOf(opp) + ' ' : '') + esc(opp ? opp.name : mt.opponent) + (opp ? ' ▸' : '') + '</button>' : '<p>Opponent coming soon!</p>') +
+          '<p>' + courtTxt + '</p><div class="tags">' + tierTag(p.tier) + sessTxt + timeTxt + '</div></section>' +
         (p.watchFor ? '<section class="box watch"><h3>Watch for this! 👀</h3><p>' + esc(p.watchFor) + '</p></section>' : '') +
-        (facts ? '<section aria-label="Fun facts"><h3 class="box-h" style="font-family:var(--display);font-weight:400;font-size:26px;margin:0 0 10px">🤩 Fun facts</h3><div class="facts">' + facts + '</div></section>' : '') +
+        (facts ? '<section aria-label="Fun facts"><h3 class="facts-h">🤩 Fun facts — tap to collect!</h3><div class="facts">' + facts + '</div></section>' : '') +
+        (p.intro ? '<section class="box"><h3>👋 Meet ' + esc(firstName(p.name)) + '</h3><p>' + esc(p.intro) + '</p></section>' : '') +
+        (p.story ? '<section class="box"><h3>📖 The story</h3><p>' + esc(p.story) + '</p></section>' : '') +
+        (p.ranking ? '<p class="verified">World ranking: #' + p.ranking + (p.seed ? ' · Seed #' + p.seed : '') + '</p>' : '') +
         '<details><summary>Where this came from</summary><ul class="src-list">' + (srcs || '<li>Sources coming soon.</li>') + '</ul>' +
           (p.photo && !isAvatarPhoto(p) && hasPhoto(p) ? '<p class="verified">Photo: ' + esc(p.photo.author || 'Unknown') + ' · ' + esc(p.photo.license || '') + (p.photo.sourceUrl ? ' · <a href="' + esc(p.photo.sourceUrl) + '" target="_blank" rel="noopener">source</a>' : '') + '</p>' : '') +
         '</details>' +
       '</div>' +
       '<nav class="d-nav" aria-label="Other players">' +
-        '<button type="button" class="pill" data-nav="' + esc(prev.slug) + '">◀ <span class="nm">' + esc(prev.name) + '</span></button>' +
-        '<button type="button" class="pill" data-nav="' + esc(next.slug) + '">' + '<span class="nm">' + esc(next.name) + '</span> ▶</button>' +
+        '<button type="button" class="pill" data-nav="' + esc(prev.slug) + '" aria-label="Previous: ' + esc(prev.name) + '">◀ <span class="nm">' + esc(prev.name) + '</span></button>' +
+        '<button type="button" class="pill close" data-close aria-label="Close">✕ Close</button>' +
+        '<button type="button" class="pill" data-nav="' + esc(next.slug) + '" aria-label="Next: ' + esc(next.name) + '"><span class="nm">' + esc(next.name) + '</span> ▶</button>' +
       '</nav>';
   }
   function openDetail(slug) {
@@ -273,25 +292,31 @@
   }
   function requestClose() {
     if (location.hash.indexOf('#p/') === 0) {
-      if (history.length > 1 && cameFromHere) history.back();
+      // Only go back through history when WE pushed this hash from a tap on the page;
+      // a deep link opened directly must never navigate away from the site.
+      if (openedFromPage) { openedFromPage = false; history.back(); }
       else { history.replaceState(null, '', location.pathname + location.search); closeDetail(); }
     } else closeDetail();
   }
-  var cameFromHere = false;
   function route() {
     var h = decodeURIComponent(location.hash || '');
-    if (h.indexOf('#p/') === 0) { cameFromHere = true; openDetail(h.slice(3)); }
-    else closeDetail();
+    if (h.indexOf('#p/') === 0) openDetail(h.slice(3));
+    else { openedFromPage = false; closeDetail(); }
   }
+  function swapTo(slug) { history.replaceState(null, '', '#p/' + slug); openDetail(slug); }
   sheet.addEventListener('click', function (e) {
-    if (e.target === sheet) { requestClose(); return; }
-    if (e.target.closest('#d-close')) { requestClose(); return; }
+    if (e.target === sheet || e.target.closest('#d-close') || e.target.closest('[data-close]')) { requestClose(); return; }
     var nav = e.target.closest('[data-nav]');
-    if (nav) { e.stopPropagation(); history.replaceState(null, '', '#p/' + nav.getAttribute('data-nav')); openDetail(nav.getAttribute('data-nav')); return; }
+    if (nav) { swapTo(nav.getAttribute('data-nav')); return; }
     var opp = e.target.closest('.opp[data-open]');
-    if (opp) { e.stopPropagation(); e.preventDefault(); history.replaceState(null, '', '#p/' + opp.getAttribute('data-open')); openDetail(opp.getAttribute('data-open')); return; }
+    if (opp && !opp.disabled) { swapTo(opp.getAttribute('data-open')); return; }
     var flip = e.target.closest('.flip');
-    if (flip) flip.setAttribute('aria-pressed', flip.getAttribute('aria-pressed') === 'true' ? 'false' : 'true');
+    if (flip) {
+      var on = flip.getAttribute('aria-pressed') !== 'true';
+      flip.setAttribute('aria-pressed', on ? 'true' : 'false');
+      flip.querySelector('.face.front').setAttribute('aria-hidden', on ? 'true' : 'false');
+      flip.querySelector('.face.back').setAttribute('aria-hidden', on ? 'false' : 'true');
+    }
   });
   document.addEventListener('keydown', function (e) {
     if (sheet.hidden) return;

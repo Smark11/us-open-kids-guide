@@ -15,33 +15,29 @@
 <link rel="stylesheet" href="styles/main.css">
 </head>
 <body>
-<a class="skip" href="#players">Skip to players</a>
+<a class="skip" href="#players">Skip to player cards</a>
 
 <header class="hero" id="top">
   <div class="hero-lines" aria-hidden="true"></div>
   <div class="wrap hero-inner">
-    <div class="ball-bounce" aria-hidden="true"><span class="ball"></span><span class="ball-shadow"></span></div>
-    <p class="hero-kicker" id="hero-kicker">Collector's Guide</p>
-    <h1 class="hero-title" id="hero-title">US Open Guide</h1>
-    <p class="hero-date" id="hero-date"></p>
-    <p class="hero-tip">A <strong>seed</strong> is like a ranking badge — the lower the number, the bigger the star! <span class="seed-demo" aria-hidden="true">1</span></p>
+    <h1 class="hero-title" id="hero-title"><span class="hero-name">Nora's</span><span class="hero-rest">US Open Guide</span></h1>
+    <p class="hero-date"><span id="hero-date"></span> <span class="ball-bounce" aria-hidden="true"><span class="ball"></span><span class="ball-shadow"></span></span></p>
+    <p class="hero-kicker" id="hero-kicker"></p>
+    <a class="pill jump" href="#players">🃏 See my player cards</a>
+    <p class="hero-tip">A <strong>seed</strong> is like a ranking badge — the lower the number, <span class="nowrap">the bigger the star! <span class="seed-demo" aria-hidden="true">1</span></span></p>
   </div>
 </header>
 
-<main class="wrap">
-  <section class="section" id="matches" aria-labelledby="matches-title">
-    <h2 class="section-title" id="matches-title">Saturday's Matches</h2>
-    <div id="oop-banner" class="banner" hidden></div>
-    <div id="matches-list" class="matches"></div>
-  </section>
-
+<main class="wrap" id="main">
   <section class="section" id="players" aria-labelledby="players-title">
     <h2 class="section-title" id="players-title">Player Cards</h2>
     <div class="filters" id="filters" role="group" aria-label="Filter players">
       <div class="filter-row" id="filter-draw"></div>
       <div class="filter-row" id="filter-tier"></div>
+      <p class="filter-note">🐶 <strong>Underdogs</strong> are the ones nobody expects to win — so cheer extra loud!</p>
       <div class="filter-row" id="filter-court"></div>
       <div class="filter-row" id="filter-session"></div>
+      <p class="filter-note" id="court-note" hidden>🏟️ Court and time filters appear Saturday morning.</p>
     </div>
     <p class="count" id="count" aria-live="polite"></p>
     <div class="grid" id="grid"></div>
@@ -51,13 +47,19 @@
       <button type="button" class="pill" id="clear-filters">Show everyone</button>
     </div>
   </section>
+
+  <section class="section" id="matches" aria-labelledby="matches-title">
+    <h2 class="section-title" id="matches-title">Saturday's Matches</h2>
+    <div id="oop-banner" class="banner" hidden></div>
+    <div id="matches-list" class="matches"></div>
+  </section>
 </main>
 
 <footer class="footer wrap">
-  <section aria-labelledby="credits-title">
-    <h2 class="footer-title" id="credits-title">Photo credits</h2>
+  <details class="credits-box">
+    <summary>📷 Photo credits</summary>
     <ul class="credits" id="credits"></ul>
-  </section>
+  </details>
   <section aria-labelledby="sources-title">
     <h2 class="footer-title" id="sources-title">Sources</h2>
     <p class="sources-note">Player facts come from Wikipedia, ATP Tour, WTA, and usopen.org player pages, plus interviews linked on each card. Seeds, rankings and match info come from the official US Open draw feed. Tap a player and open "Where this came from" to see their links.</p>

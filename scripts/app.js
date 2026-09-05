@@ -129,7 +129,12 @@
     var title = (kid ? kid + "'s" : 'My') + ' US Open Guide';
     document.title = title;
     $('hero-title').innerHTML = '<span class="hero-name">' + esc(kid ? kid + "'s" : 'My') + '</span><span class="hero-rest">US Open Guide</span>';
-    $('hero-date').textContent = CONFIG.eventLabel || '';
+    (function () {
+      var parts = (CONFIG.eventLabel || '').split(' · ');
+      var el = $('hero-date'); el.textContent = '';
+      el.appendChild(document.createTextNode(parts[0] || ''));
+      if (parts.length > 1) { el.appendChild(document.createTextNode(' · ')); var sp = document.createElement('span'); sp.className = 'nowrap'; sp.textContent = parts.slice(1).join(' · '); el.appendChild(sp); }
+    })();
     $('hero-kicker').textContent = (kid ? kid + "'s collector's guide · " : '') + PLAYERS.length + ' players · ' + MATCHES.length + ' matches';
     // While the order of play is unknown the matches carry little a kid can use: album first.
     var main = $('main'), players = $('players'), matches = $('matches');

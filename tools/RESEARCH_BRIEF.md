@@ -1,7 +1,7 @@
 # Player researcher brief
 
 Working dir: /Users/mac-mini/_src/tennis_player_site/us-open-kids-guide
-Today: Friday, September 4, 2026. The match is Saturday, September 5, 2026 (US Open third round). The kid reading this is 9 years old. She and her parent are attending in person.
+Today: Saturday, September 5, 2026. Players marked `playsSaturday: false` in data/schedule.json won their third-round match on Friday and play the FOURTH round on Sunday, September 6, 2026; for them `matchTomorrow` means Sunday's match and `story` may mention they won on Friday (source it from the schedule/results). The kid reading this is 9 years old. She and her parent are attending in person.
 
 For EACH player assigned to you, produce `data/players/<slug>.json` (slug is given). Use the seed/ranking/country/matchId from `data/schedule.json` (read it first; find the player's match in `matches` to get the opponent name, `court`, `session`).
 

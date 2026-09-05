@@ -59,6 +59,27 @@
   function matchOf(p) { var m = p.matchTomorrow; if (!m) return null; return MATCHES.filter(function (x) { return x.id === m.matchId; })[0] || null; }
   function courtOf(p) { var m = matchOf(p); return m ? m.court : (p.matchTomorrow && p.matchTomorrow.court); }
   function sessionOf(p) { var m = matchOf(p); return m ? m.session : (p.matchTomorrow && p.matchTomorrow.session); }
+  /* Saturday (today) vs Sunday: players carry playsSaturday, matches carry day (missing = today) */
+  var TODAY = (DATA.schedule && DATA.schedule.date) || '';
+  function playsToday(p) { return p.playsSaturday !== false; }
+  function isToday(m) { return !m.day || !TODAY || m.day === TODAY; }
+  var TODAY_MATCHES = MATCHES.filter(isToday), LATER_MATCHES = MATCHES.filter(function (m) { return !isToday(m); });
+  var SAT = PLAYERS.filter(playsToday), SUN = PLAYERS.filter(function (p) { return !playsToday(p); });
+  function roundShort(r) { return { 'Third round': '3rd round', 'Fourth round': '4th round' }[r] || String(r || '').toLowerCase() || '4th round'; }
+  function bySlot(a, b) { var sa = a.session === 'night' ? 1 : 0, sb = b.session === 'night' ? 1 : 0; return sa - sb || (a.order || 99) - (b.order || 99); }
+  // first not-yet-started match on each court = "Up next" (over all matches, so filters never shift it)
+  var UP_NEXT = {};
+  (function () {
+    var g = {};
+    TODAY_MATCHES.forEach(function (m) { if (!isTBD(m.court)) (g[m.court] = g[m.court] || []).push(m); });
+    Object.keys(g).forEach(function (c) { var s = g[c].sort(bySlot).filter(function (m) { return !m.status || m.status === 'scheduled'; })[0]; if (s) UP_NEXT[s.id] = true; });
+  })();
+  function statusChip(m) {
+    if (m.status === 'completed') return '<span class="tag done">✅ Done</span>';
+    if (m.status === 'in_progress') return '<span class="tag live">🔴 On now</span>';
+    if (UP_NEXT[m.id]) return '<span class="tag next">⏭️ Up next</span>';
+    return '';
+  }
 
   /* ---------- favorites ---------- */
   var favorites = new Set();
@@ -82,8 +103,12 @@
   }
 
   /* ---------- filters ---------- */
-  var filters = { draw: null, tier: null, court: null, session: null, fav: false };
+  var DAY_DEFAULT = SUN.length ? 'sat' : 'all';
+  var filters = { day: DAY_DEFAULT, draw: null, tier: null, court: null, session: null, fav: false };
   function matchesFilters(p) {
+    if (filters.day === 'sat' && !playsToday(p)) return false;
+    if (filters.day === 'sun' && playsToday(p)) return false;
+    if ((filters.court || filters.session) && !playsToday(p)) return false; // court/session pills are today's order of play
     if (filters.fav && !favorites.has(p.slug)) return false;
     if (filters.draw && p.draw !== filters.draw) return false;
     if (filters.tier && String(p.tier) !== String(filters.tier)) return false;
@@ -95,6 +120,9 @@
     return '<button type="button" class="pill ' + (opts.cls || '') + '" data-f="' + opts.key + '" data-v="' + esc(opts.value) + '" aria-pressed="' + (opts.on ? 'true' : 'false') + '">' + opts.label + '</button>';
   }
   function renderFilters() {
+    $('filter-day').innerHTML = SUN.length ? [['sat', '🎾 Playing today (Sat)'], ['sun', '📅 Playing Sunday'], ['all', 'All']].map(function (d) {
+      return pill({ key: 'day', value: d[0], on: filters.day === d[0], cls: 'daypill ' + d[0], label: d[1] });
+    }).join('') : '';
     $('filter-draw').innerHTML =
       pill({ key: 'fav', value: '1', on: filters.fav, cls: 'favpill', label: '⭐ My favorites' }) +
       pill({ key: 'draw', value: 'women', on: filters.draw === 'women', label: '👩 Women' }) +
@@ -102,8 +130,8 @@
     $('filter-tier').innerHTML = [1, 2, 3].map(function (t) {
       return pill({ key: 'tier', value: t, on: String(filters.tier) === String(t), cls: 't' + t, label: tierInfo(t).emoji + ' ' + tierInfo(t).label });
     }).join('');
-    var courts = uniq(MATCHES.map(function (m) { return m.court; }).filter(function (c) { return !isTBD(c); })).sort(function (a, b) { return courtRank(a) - courtRank(b); });
-    var sessions = uniq(MATCHES.map(function (m) { return m.session; }).filter(function (s) { return !isTBD(s); }));
+    var courts = uniq(TODAY_MATCHES.map(function (m) { return m.court; }).filter(function (c) { return !isTBD(c); })).sort(function (a, b) { return courtRank(a) - courtRank(b); });
+    var sessions = uniq(TODAY_MATCHES.map(function (m) { return m.session; }).filter(function (s) { return !isTBD(s); }));
     $('filter-court').innerHTML = courts.map(function (c) {
       return pill({ key: 'court', value: c, on: filters.court === c, label: courtIcon(c) + ' ' + esc(shortCourt(c)) });
     }).join('');
@@ -114,11 +142,11 @@
   }
   function shortCourt(c) { return String(c).replace('Arthur Ashe Stadium', 'Ashe').replace('Louis Armstrong Stadium', 'Armstrong'); }
   function uniq(a) { return a.filter(function (v, i) { return a.indexOf(v) === i; }); }
-  function resetFilters() { filters = { draw: null, tier: null, court: null, session: null, fav: false }; }
+  function resetFilters() { filters = { day: 'all', draw: null, tier: null, court: null, session: null, fav: false }; }
   $('filters').addEventListener('click', function (e) {
     var b = e.target.closest('button[data-f]'); if (!b) return;
     var k = b.getAttribute('data-f'), v = b.getAttribute('data-v');
-    if (k === 'fav') filters.fav = !filters.fav; else filters[k] = (String(filters[k]) === v) ? null : v;
+    if (k === 'fav') filters.fav = !filters.fav; else if (k === 'day') filters.day = v; else filters[k] = (String(filters[k]) === v) ? null : v;
     renderFilters(); renderGrid(); renderMatches();
   });
   $('clear-filters').addEventListener('click', function () { resetFilters(); renderFilters(); renderGrid(); renderMatches(); });
@@ -135,7 +163,8 @@
       el.appendChild(document.createTextNode(parts[0] || ''));
       if (parts.length > 1) { el.appendChild(document.createTextNode(' · ')); var sp = document.createElement('span'); sp.className = 'nowrap'; sp.textContent = parts.slice(1).join(' · '); el.appendChild(sp); }
     })();
-    $('hero-kicker').textContent = (kid ? kid + "'s collector's guide · " : '') + PLAYERS.length + ' players · ' + MATCHES.length + ' matches';
+    var counts = SUN.length ? SAT.length + ' playing today · ' + SUN.length + ' more still in it' : PLAYERS.length + ' players · ' + MATCHES.length + ' matches';
+    $('hero-kicker').textContent = (kid ? kid + "'s collector's guide · " : '') + counts;
     // While the order of play is unknown the matches carry little a kid can use: album first.
     var main = $('main'), players = $('players'), matches = $('matches');
     if (OOP) main.insertBefore(matches, players); else main.insertBefore(players, matches);

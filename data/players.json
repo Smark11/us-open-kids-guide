@@ -6,18 +6,18 @@
  },
  "schedule": {
   "date": "2026-09-05",
-  "round": "Third round (Day 7)",
-  "orderOfPlayPublished": false,
-  "fetchedAt": "2026-09-04T17:05:33Z"
+  "round": "Third round (Day 7) + Fourth round (Day 8)",
+  "orderOfPlayPublished": true,
+  "fetchedAt": "2026-09-05T17:40:50Z"
  },
  "matches": [
   {
    "id": "m1",
    "draw": "men",
    "usopenMatchId": "1301",
-   "court": "TBD",
-   "session": "TBD",
-   "order": null,
+   "court": "Arthur Ashe Stadium",
+   "session": "night",
+   "order": 2,
    "startTimeET": null,
    "tier": 1,
    "pending": false,
@@ -38,15 +38,19 @@
      "seed": 25,
      "ranking": 28
     }
-   ]
+   ],
+   "round": "Third round",
+   "day": "2026-09-05",
+   "startTimeNote": "Follows previous match on this court",
+   "status": "scheduled"
   },
   {
    "id": "m2",
    "draw": "men",
    "usopenMatchId": "1302",
-   "court": "TBD",
-   "session": "TBD",
-   "order": null,
+   "court": "Court 5",
+   "session": "day",
+   "order": 3,
    "startTimeET": null,
    "tier": 2,
    "pending": false,
@@ -67,15 +71,19 @@
      "seed": null,
      "ranking": 123
     }
-   ]
+   ],
+   "round": "Third round",
+   "day": "2026-09-05",
+   "startTimeNote": "Follows previous match on this court",
+   "status": "scheduled"
   },
   {
    "id": "m3",
    "draw": "men",
    "usopenMatchId": "1303",
-   "court": "TBD",
-   "session": "TBD",
-   "order": null,
+   "court": "Grandstand",
+   "session": "day",
+   "order": 3,
    "startTimeET": null,
    "tier": 3,
    "pending": false,
@@ -96,16 +104,20 @@
      "seed": null,
      "ranking": 87
     }
-   ]
+   ],
+   "round": "Third round",
+   "day": "2026-09-05",
+   "startTimeNote": "Follows previous match on this court",
+   "status": "scheduled"
   },
   {
    "id": "m4",
    "draw": "men",
    "usopenMatchId": "1304",
-   "court": "TBD",
-   "session": "TBD",
-   "order": null,
-   "startTimeET": null,
+   "court": "Court 17",
+   "session": "day",
+   "order": 4,
+   "startTimeET": "16:30",
    "tier": 2,
    "pending": false,
    "players": [
@@ -125,15 +137,19 @@
      "seed": null,
      "ranking": 70
     }
-   ]
+   ],
+   "round": "Third round",
+   "day": "2026-09-05",
+   "startTimeNote": "Not before 4:30 PM",
+   "status": "scheduled"
   },
   {
    "id": "m5",
    "draw": "men",
    "usopenMatchId": "1305",
-   "court": "TBD",
-   "session": "TBD",
-   "order": null,
+   "court": "Court 17",
+   "session": "day",
+   "order": 3,
    "startTimeET": null,
    "tier": 3,
    "pending": false,
@@ -154,17 +170,21 @@
      "seed": null,
      "ranking": 97
     }
-   ]
+   ],
+   "round": "Third round",
+   "day": "2026-09-05",
+   "startTimeNote": "Follows previous match on this court",
+   "status": "scheduled"
   },
   {
    "id": "m6",
    "draw": "men",
    "usopenMatchId": "1306",
-   "court": "TBD",
-   "session": "TBD",
-   "order": null,
+   "court": "Louis Armstrong Stadium",
+   "session": "night",
+   "order": 2,
    "startTimeET": null,
-   "tier": 2,
+   "tier": 1,
    "pending": false,
    "players": [
     {
@@ -183,16 +203,20 @@
      "seed": 14,
      "ranking": 15
     }
-   ]
+   ],
+   "round": "Third round",
+   "day": "2026-09-05",
+   "startTimeNote": "Follows previous match on this court",
+   "status": "scheduled"
   },
   {
    "id": "m7",
    "draw": "men",
    "usopenMatchId": "1307",
-   "court": "TBD",
-   "session": "TBD",
-   "order": null,
-   "startTimeET": null,
+   "court": "Arthur Ashe Stadium",
+   "session": "day",
+   "order": 1,
+   "startTimeET": "11:30",
    "tier": 1,
    "pending": false,
    "players": [
@@ -212,15 +236,19 @@
      "seed": 24,
      "ranking": 25
     }
-   ]
+   ],
+   "round": "Third round",
+   "day": "2026-09-05",
+   "startTimeNote": null,
+   "status": "in_progress"
   },
   {
    "id": "m8",
    "draw": "men",
    "usopenMatchId": "1308",
-   "court": "TBD",
-   "session": "TBD",
-   "order": null,
+   "court": "Louis Armstrong Stadium",
+   "session": "day",
+   "order": 2,
    "startTimeET": null,
    "tier": 1,
    "pending": false,
@@ -241,15 +269,19 @@
      "seed": 5,
      "ranking": 6
     }
-   ]
+   ],
+   "round": "Third round",
+   "day": "2026-09-05",
+   "startTimeNote": "Follows previous match on this court",
+   "status": "in_progress"
   },
   {
    "id": "m9",
    "draw": "women",
    "usopenMatchId": "2309",
-   "court": "TBD",
-   "session": "TBD",
-   "order": null,
+   "court": "Court 17",
+   "session": "day",
+   "order": 2,
    "startTimeET": null,
    "tier": 1,
    "pending": false,
@@ -270,16 +302,20 @@
      "seed": null,
      "ranking": 34
     }
-   ]
+   ],
+   "round": "Third round",
+   "day": "2026-09-05",
+   "startTimeNote": "Follows previous match on this court",
+   "status": "in_progress"
   },
   {
    "id": "m10",
    "draw": "women",
    "usopenMatchId": "2310",
-   "court": "TBD",
-   "session": "TBD",
-   "order": null,
-   "startTimeET": null,
+   "court": "Louis Armstrong Stadium",
+   "session": "day",
+   "order": 1,
+   "startTimeET": "11:00",
    "tier": 1,
    "pending": false,
    "players": [
@@ -299,17 +335,23 @@
      "seed": 10,
      "ranking": 10
     }
-   ]
+   ],
+   "round": "Third round",
+   "day": "2026-09-05",
+   "startTimeNote": null,
+   "status": "completed",
+   "winnerSlug": "anastasia-potapova",
+   "score": "6-2 7-5"
   },
   {
    "id": "m11",
    "draw": "women",
    "usopenMatchId": "2311",
-   "court": "TBD",
-   "session": "TBD",
-   "order": null,
-   "startTimeET": null,
-   "tier": 2,
+   "court": "Arthur Ashe Stadium",
+   "session": "night",
+   "order": 1,
+   "startTimeET": "19:00",
+   "tier": 1,
    "pending": false,
    "players": [
     {
@@ -328,16 +370,20 @@
      "seed": 17,
      "ranking": 18
     }
-   ]
+   ],
+   "round": "Third round",
+   "day": "2026-09-05",
+   "startTimeNote": null,
+   "status": "scheduled"
   },
   {
    "id": "m12",
    "draw": "women",
    "usopenMatchId": "2312",
-   "court": "TBD",
-   "session": "TBD",
-   "order": null,
-   "startTimeET": null,
+   "court": "Arthur Ashe Stadium",
+   "session": "day",
+   "order": 2,
+   "startTimeET": "13:30",
    "tier": 1,
    "pending": false,
    "players": [
@@ -357,15 +403,19 @@
      "seed": 4,
      "ranking": 4
     }
-   ]
+   ],
+   "round": "Third round",
+   "day": "2026-09-05",
+   "startTimeNote": "Not before 1:30 PM",
+   "status": "scheduled"
   },
   {
    "id": "m13",
    "draw": "women",
    "usopenMatchId": "2313",
-   "court": "TBD",
-   "session": "TBD",
-   "order": null,
+   "court": "Grandstand",
+   "session": "day",
+   "order": 2,
    "startTimeET": null,
    "tier": 1,
    "pending": false,
@@ -386,16 +436,20 @@
      "seed": 25,
      "ranking": 26
     }
-   ]
+   ],
+   "round": "Third round",
+   "day": "2026-09-05",
+   "startTimeNote": "Follows previous match on this court",
+   "status": "scheduled"
   },
   {
    "id": "m14",
    "draw": "women",
    "usopenMatchId": "2314",
-   "court": "TBD",
-   "session": "TBD",
-   "order": null,
-   "startTimeET": null,
+   "court": "Grandstand",
+   "session": "day",
+   "order": 1,
+   "startTimeET": "11:00",
    "tier": 2,
    "pending": false,
    "players": [
@@ -415,17 +469,23 @@
      "seed": null,
      "ranking": 121
     }
-   ]
+   ],
+   "round": "Third round",
+   "day": "2026-09-05",
+   "startTimeNote": null,
+   "status": "completed",
+   "winnerSlug": "qinwen-zheng",
+   "score": "1-6 7-6(3) 7-5"
   },
   {
    "id": "m15",
    "draw": "women",
    "usopenMatchId": "2315",
-   "court": "TBD",
-   "session": "TBD",
-   "order": null,
-   "startTimeET": null,
-   "tier": 2,
+   "court": "Louis Armstrong Stadium",
+   "session": "night",
+   "order": 1,
+   "startTimeET": "19:00",
+   "tier": 1,
    "pending": false,
    "players": [
     {
@@ -444,16 +504,20 @@
      "seed": 23,
      "ranking": 20
     }
-   ]
+   ],
+   "round": "Third round",
+   "day": "2026-09-05",
+   "startTimeNote": null,
+   "status": "scheduled"
   },
   {
    "id": "m16",
    "draw": "women",
    "usopenMatchId": "2316",
-   "court": "TBD",
-   "session": "TBD",
-   "order": null,
-   "startTimeET": null,
+   "court": "Grandstand",
+   "session": "day",
+   "order": 4,
+   "startTimeET": "17:00",
    "tier": 1,
    "pending": false,
    "players": [
@@ -473,10 +537,278 @@
      "seed": 2,
      "ranking": 2
     }
+   ],
+   "round": "Third round",
+   "day": "2026-09-05",
+   "startTimeNote": "Not before 5:00 PM",
+   "status": "scheduled"
+  },
+  {
+   "id": "m17",
+   "draw": "men",
+   "usopenMatchId": "1405",
+   "court": "Louis Armstrong Stadium",
+   "session": "day",
+   "order": 3,
+   "startTimeET": "15:00",
+   "startTimeNote": "Not before 3:00 PM",
+   "tier": 1,
+   "pending": false,
+   "round": "Fourth round",
+   "day": "2026-09-06",
+   "status": "scheduled",
+   "players": [
+    {
+     "slug": "daniil-medvedev",
+     "name": "Daniil Medvedev",
+     "country": "RU",
+     "countryName": "Russia",
+     "seed": 7,
+     "ranking": 8
+    },
+    {
+     "slug": "frances-tiafoe",
+     "name": "Frances Tiafoe",
+     "country": "US",
+     "countryName": "United States",
+     "seed": 11,
+     "ranking": 12
+    }
+   ]
+  },
+  {
+   "id": "m18",
+   "draw": "men",
+   "usopenMatchId": "1406",
+   "court": "Grandstand",
+   "session": "day",
+   "order": 3,
+   "startTimeET": "14:30",
+   "startTimeNote": "Not before 2:30 PM",
+   "tier": 2,
+   "pending": false,
+   "round": "Fourth round",
+   "day": "2026-09-06",
+   "status": "scheduled",
+   "players": [
+    {
+     "slug": "alex-michelsen",
+     "name": "Alex Michelsen",
+     "country": "US",
+     "countryName": "United States",
+     "seed": null,
+     "ranking": 46
+    },
+    {
+     "slug": "tomas-martin-etcheverry",
+     "name": "Tomas Martin Etcheverry",
+     "country": "AR",
+     "countryName": "Argentina",
+     "seed": 27,
+     "ranking": 32
+    }
+   ]
+  },
+  {
+   "id": "m19",
+   "draw": "men",
+   "usopenMatchId": "1407",
+   "court": "Arthur Ashe Stadium",
+   "session": "night",
+   "order": 1,
+   "startTimeET": "19:00",
+   "startTimeNote": null,
+   "tier": 1,
+   "pending": false,
+   "round": "Fourth round",
+   "day": "2026-09-06",
+   "status": "scheduled",
+   "players": [
+    {
+     "slug": "ben-shelton",
+     "name": "Ben Shelton",
+     "country": "US",
+     "countryName": "United States",
+     "seed": 8,
+     "ranking": 9
+    },
+    {
+     "slug": "stefanos-tsitsipas",
+     "name": "Stefanos Tsitsipas",
+     "country": "GR",
+     "countryName": "Greece",
+     "seed": null,
+     "ranking": 53
+    }
+   ]
+  },
+  {
+   "id": "m20",
+   "draw": "men",
+   "usopenMatchId": "1408",
+   "court": "Arthur Ashe Stadium",
+   "session": "day",
+   "order": 2,
+   "startTimeET": "14:00",
+   "startTimeNote": "Not before 2:00 PM",
+   "tier": 1,
+   "pending": false,
+   "round": "Fourth round",
+   "day": "2026-09-06",
+   "status": "scheduled",
+   "players": [
+    {
+     "slug": "tommy-paul",
+     "name": "Tommy Paul",
+     "country": "US",
+     "countryName": "United States",
+     "seed": 20,
+     "ranking": 21
+    },
+    {
+     "slug": "carlos-alcaraz",
+     "name": "Carlos Alcaraz",
+     "country": "ES",
+     "countryName": "Spain",
+     "seed": 2,
+     "ranking": 3
+    }
+   ]
+  },
+  {
+   "id": "m21",
+   "draw": "women",
+   "usopenMatchId": "2401",
+   "court": "Arthur Ashe Stadium",
+   "session": "day",
+   "order": 1,
+   "startTimeET": "11:30",
+   "startTimeNote": null,
+   "tier": 1,
+   "pending": false,
+   "round": "Fourth round",
+   "day": "2026-09-06",
+   "status": "scheduled",
+   "players": [
+    {
+     "slug": "aryna-sabalenka",
+     "name": "Aryna Sabalenka",
+     "country": "BY",
+     "countryName": "Belarus",
+     "seed": 1,
+     "ranking": 1
+    },
+    {
+     "slug": "taylor-townsend",
+     "name": "Taylor Townsend",
+     "country": "US",
+     "countryName": "United States",
+     "seed": null,
+     "ranking": 96
+    }
+   ]
+  },
+  {
+   "id": "m22",
+   "draw": "women",
+   "usopenMatchId": "2402",
+   "court": "Louis Armstrong Stadium",
+   "session": "day",
+   "order": 2,
+   "startTimeET": "12:30",
+   "startTimeNote": "Not before 12:30 PM",
+   "tier": 1,
+   "pending": false,
+   "round": "Fourth round",
+   "day": "2026-09-06",
+   "status": "scheduled",
+   "players": [
+    {
+     "slug": "marta-kostyuk",
+     "name": "Marta Kostyuk",
+     "country": "UA",
+     "countryName": "Ukraine",
+     "seed": 11,
+     "ranking": 11
+    },
+    {
+     "slug": "linda-noskova",
+     "name": "Linda Noskova",
+     "country": "CZ",
+     "countryName": "Czechia",
+     "seed": 6,
+     "ranking": 6
+    }
+   ]
+  },
+  {
+   "id": "m23",
+   "draw": "women",
+   "usopenMatchId": "2403",
+   "court": "Louis Armstrong Stadium",
+   "session": "day",
+   "order": 4,
+   "startTimeET": null,
+   "startTimeNote": "Follows previous match on this court",
+   "tier": 1,
+   "pending": false,
+   "round": "Fourth round",
+   "day": "2026-09-06",
+   "status": "scheduled",
+   "players": [
+    {
+     "slug": "jessica-pegula",
+     "name": "Jessica Pegula",
+     "country": "US",
+     "countryName": "United States",
+     "seed": 3,
+     "ranking": 3
+    },
+    {
+     "slug": "sorana-cirstea",
+     "name": "Sorana Cirstea",
+     "country": "RO",
+     "countryName": "Romania",
+     "seed": 16,
+     "ranking": 17
+    }
+   ]
+  },
+  {
+   "id": "m24",
+   "draw": "women",
+   "usopenMatchId": "2404",
+   "court": "Arthur Ashe Stadium",
+   "session": "night",
+   "order": 2,
+   "startTimeET": null,
+   "startTimeNote": "Follows previous match on this court",
+   "tier": 1,
+   "pending": false,
+   "round": "Fourth round",
+   "day": "2026-09-06",
+   "status": "scheduled",
+   "players": [
+    {
+     "slug": "anna-kalinskaya",
+     "name": "Anna Kalinskaya",
+     "country": "RU",
+     "countryName": "Russia",
+     "seed": 21,
+     "ranking": 23
+    },
+    {
+     "slug": "emma-navarro",
+     "name": "Emma Navarro",
+     "country": "US",
+     "countryName": "United States",
+     "seed": 26,
+     "ranking": 27
+    }
    ]
   }
  ],
- "generatedAt": "2026-09-04T22:52:55",
+ "generatedAt": "2026-09-05T13:42:00",
  "players": [
   {
    "slug": "alexander-zverev",
@@ -530,11 +862,16 @@
    "matchTomorrow": {
     "opponent": "Alejandro Tabilo",
     "opponentSlug": "alejandro-tabilo",
-    "court": "TBD",
-    "session": "TBD",
-    "order": null,
+    "court": "Arthur Ashe Stadium",
+    "session": "night",
+    "order": 2,
     "startTimeET": null,
-    "matchId": "m1"
+    "matchId": "m1",
+    "round": "Third round",
+    "day": "2026-09-05",
+    "status": "scheduled",
+    "winnerSlug": null,
+    "score": null
    },
    "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Alexander_Zverev.jpg",
@@ -565,7 +902,9 @@
      "Fact 5: 'Now they are rivals' (Federer retired 2022) -> 'Years later he beat Federer in a real match' (Halle 2016, Wikipedia)."
     ]
    },
-   "matchTier": 1
+   "matchTier": 1,
+   "playsSaturday": true,
+   "round": "Third round"
   },
   {
    "slug": "elena-rybakina",
@@ -615,11 +954,16 @@
    "matchTomorrow": {
     "opponent": "Yuliia Starodubtseva",
     "opponentSlug": "yuliia-starodubtseva",
-    "court": "TBD",
-    "session": "TBD",
-    "order": null,
-    "startTimeET": null,
-    "matchId": "m16"
+    "court": "Grandstand",
+    "session": "day",
+    "order": 4,
+    "startTimeET": "17:00",
+    "matchId": "m16",
+    "round": "Third round",
+    "day": "2026-09-05",
+    "status": "scheduled",
+    "winnerSlug": null,
+    "score": null
    },
    "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Elena_Rybakina_%282025_DC_Open%29_11_%28cropped%29.jpg",
@@ -650,7 +994,9 @@
      "Fact 3: re-sourced from fgsn.com to SCMP; shelters wording matched to source. Removed fgsn.com from sources."
     ]
    },
-   "matchTier": 1
+   "matchTier": 1,
+   "playsSaturday": true,
+   "round": "Third round"
   },
   {
    "slug": "coco-gauff",
@@ -704,11 +1050,16 @@
    "matchTomorrow": {
     "opponent": "Cristina Bucsa",
     "opponentSlug": "cristina-bucsa",
-    "court": "TBD",
-    "session": "TBD",
-    "order": null,
-    "startTimeET": null,
-    "matchId": "m12"
+    "court": "Arthur Ashe Stadium",
+    "session": "day",
+    "order": 2,
+    "startTimeET": "13:30",
+    "matchId": "m12",
+    "round": "Third round",
+    "day": "2026-09-05",
+    "status": "scheduled",
+    "winnerSlug": null,
+    "score": null
    },
    "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Coco_Gauff_Miami_Open.jpg",
@@ -741,7 +1092,9 @@
      "watchFor: removed unsourced 'points to the sky after big wins'."
     ]
    },
-   "matchTier": 1
+   "matchTier": 1,
+   "playsSaturday": true,
+   "round": "Third round"
   },
   {
    "slug": "flavio-cobolli",
@@ -795,11 +1148,16 @@
    "matchTomorrow": {
     "opponent": "Alexander Blockx",
     "opponentSlug": "alexander-blockx",
-    "court": "TBD",
-    "session": "TBD",
-    "order": null,
+    "court": "Louis Armstrong Stadium",
+    "session": "day",
+    "order": 2,
     "startTimeET": null,
-    "matchId": "m8"
+    "matchId": "m8",
+    "round": "Third round",
+    "day": "2026-09-05",
+    "status": "in_progress",
+    "winnerSlug": null,
+    "score": null
    },
    "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Cobolli_RGQ23_%2852944096963%29.jpg",
@@ -826,7 +1184,9 @@
     ],
     "changes": []
    },
-   "matchTier": 1
+   "matchTier": 1,
+   "playsSaturday": true,
+   "round": "Third round"
   },
   {
    "slug": "mirra-andreeva",
@@ -880,11 +1240,16 @@
    "matchTomorrow": {
     "opponent": "Nikola Bartunkova",
     "opponentSlug": "nikola-bartunkova",
-    "court": "TBD",
-    "session": "TBD",
-    "order": null,
+    "court": "Court 17",
+    "session": "day",
+    "order": 2,
     "startTimeET": null,
-    "matchId": "m9"
+    "matchId": "m9",
+    "round": "Third round",
+    "day": "2026-09-05",
+    "status": "in_progress",
+    "winnerSlug": null,
+    "score": null
    },
    "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Mirra_Andreeva_WMQ23_%28cropped%29.jpg",
@@ -919,7 +1284,9 @@
      "All tennis-infinity.com citations replaced with WTA/Sky Sports/tennishead/Tennis Majors/Tennis Gazette."
     ]
    },
-   "matchTier": 1
+   "matchTier": 1,
+   "playsSaturday": true,
+   "round": "Third round"
   },
   {
    "slug": "iga-swiatek",
@@ -973,11 +1340,16 @@
    "matchTomorrow": {
     "opponent": "Marie Bouzkova",
     "opponentSlug": "marie-bouzkova",
-    "court": "TBD",
-    "session": "TBD",
-    "order": null,
+    "court": "Grandstand",
+    "session": "day",
+    "order": 2,
     "startTimeET": null,
-    "matchId": "m13"
+    "matchId": "m13",
+    "round": "Third round",
+    "day": "2026-09-05",
+    "status": "scheduled",
+    "winnerSlug": null,
+    "score": null
    },
    "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Iga_Swiatek_2023_Cropped_%2B_Retouched.jpg",
@@ -1010,7 +1382,9 @@
      "Removed fgsn.com from sources."
     ]
    },
-   "matchTier": 1
+   "matchTier": 1,
+   "playsSaturday": true,
+   "round": "Third round"
   },
   {
    "slug": "taylor-fritz",
@@ -1064,11 +1438,16 @@
    "matchTomorrow": {
     "opponent": "Francisco Cerundolo",
     "opponentSlug": "francisco-cerundolo",
-    "court": "TBD",
-    "session": "TBD",
-    "order": null,
-    "startTimeET": null,
-    "matchId": "m7"
+    "court": "Arthur Ashe Stadium",
+    "session": "day",
+    "order": 1,
+    "startTimeET": "11:30",
+    "matchId": "m7",
+    "round": "Third round",
+    "day": "2026-09-05",
+    "status": "in_progress",
+    "winnerSlug": null,
+    "score": null
    },
    "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Taylor_Fritz_-_Delray_Beach_Open_Final_Round_%28cropped%29.jpg",
@@ -1100,7 +1479,9 @@
      "Fact 6: 'star of' -> 'was on'. Added fun fact 8 (Washington 2026 title) with ATP source."
     ]
    },
-   "matchTier": 1
+   "matchTier": 1,
+   "playsSaturday": true,
+   "round": "Third round"
   },
   {
    "slug": "amanda-anisimova",
@@ -1154,11 +1535,16 @@
    "matchTomorrow": {
     "opponent": "Anastasia Potapova",
     "opponentSlug": "anastasia-potapova",
-    "court": "TBD",
-    "session": "TBD",
-    "order": null,
-    "startTimeET": null,
-    "matchId": "m10"
+    "court": "Louis Armstrong Stadium",
+    "session": "day",
+    "order": 1,
+    "startTimeET": "11:00",
+    "matchId": "m10",
+    "round": "Third round",
+    "day": "2026-09-05",
+    "status": "completed",
+    "winnerSlug": "anastasia-potapova",
+    "score": "6-2 7-5"
    },
    "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Amanda_Anisimova_%282024_DC_Open%29_05_%28cropped4%29.jpg",
@@ -1192,7 +1578,9 @@
      "Fun fact 4: 'fostered a dog' -> 'volunteered at a dog shelter' (ESPN); road trips kept (WTA/ESPN)."
     ]
    },
-   "matchTier": 1
+   "matchTier": 1,
+   "playsSaturday": true,
+   "round": "Third round"
   },
   {
    "slug": "naomi-osaka",
@@ -1205,7 +1593,7 @@
    "seed": 13,
    "ranking": 13,
    "draw": "women",
-   "tier": 2,
+   "tier": 1,
    "plays": "Right-handed, two-handed backhand",
    "heightCm": 180,
    "hometown": "Osaka, Japan",
@@ -1246,11 +1634,16 @@
    "matchTomorrow": {
     "opponent": "Elise Mertens",
     "opponentSlug": "elise-mertens",
-    "court": "TBD",
-    "session": "TBD",
-    "order": null,
-    "startTimeET": null,
-    "matchId": "m15"
+    "court": "Louis Armstrong Stadium",
+    "session": "night",
+    "order": 1,
+    "startTimeET": "19:00",
+    "matchId": "m15",
+    "round": "Third round",
+    "day": "2026-09-05",
+    "status": "scheduled",
+    "winnerSlug": null,
+    "score": null
    },
    "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Naomi_Osaka_%2827849801707%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -1285,7 +1678,9 @@
      "Video-game fact: 'playing with her sister Mari' not in source; removed."
     ]
    },
-   "matchTier": 2
+   "matchTier": 1,
+   "playsSaturday": true,
+   "round": "Third round"
   },
   {
    "slug": "iva-jovic",
@@ -1298,7 +1693,7 @@
    "seed": 14,
    "ranking": 14,
    "draw": "women",
-   "tier": 2,
+   "tier": 1,
    "plays": "Right-handed, two-handed backhand",
    "heightCm": 173,
    "hometown": "Torrance, California, United States",
@@ -1339,11 +1734,16 @@
    "matchTomorrow": {
     "opponent": "Alexandra Eala",
     "opponentSlug": "alexandra-eala",
-    "court": "TBD",
-    "session": "TBD",
-    "order": null,
-    "startTimeET": null,
-    "matchId": "m11"
+    "court": "Arthur Ashe Stadium",
+    "session": "night",
+    "order": 1,
+    "startTimeET": "19:00",
+    "matchId": "m11",
+    "round": "Third round",
+    "day": "2026-09-05",
+    "status": "scheduled",
+    "winnerSlug": null,
+    "score": null
    },
    "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Iva_Jovic%2C_Roma_7_May_2026_%28cropped_v2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -1379,7 +1779,9 @@
      "Fun fact 7 made precise: youngest American woman to win a US Open main-draw match since 2000 (Wikipedia wording)."
     ]
    },
-   "matchTier": 2
+   "matchTier": 1,
+   "playsSaturday": true,
+   "round": "Third round"
   },
   {
    "slug": "learner-tien",
@@ -1392,7 +1794,7 @@
    "seed": 14,
    "ranking": 15,
    "draw": "men",
-   "tier": 2,
+   "tier": 1,
    "plays": "Left-handed, two-handed backhand",
    "heightCm": 180,
    "hometown": "Irvine, California, United States",
@@ -1433,11 +1835,16 @@
    "matchTomorrow": {
     "opponent": "Jakub Mensik",
     "opponentSlug": "jakub-mensik",
-    "court": "TBD",
-    "session": "TBD",
-    "order": null,
+    "court": "Louis Armstrong Stadium",
+    "session": "night",
+    "order": 2,
     "startTimeET": null,
-    "matchId": "m6"
+    "matchId": "m6",
+    "round": "Third round",
+    "day": "2026-09-05",
+    "status": "scheduled",
+    "winnerSlug": null,
+    "score": null
    },
    "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Learner_Tien_%282024_US_Open%29_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -1469,7 +1876,9 @@
      "No content changes needed."
     ]
    },
-   "matchTier": 2
+   "matchTier": 1,
+   "playsSaturday": true,
+   "round": "Third round"
   },
   {
    "slug": "alexandra-eala",
@@ -1482,7 +1891,7 @@
    "seed": 17,
    "ranking": 18,
    "draw": "women",
-   "tier": 2,
+   "tier": 1,
    "plays": "Left-handed, two-handed backhand",
    "heightCm": 175,
    "hometown": "Quezon City, Philippines",
@@ -1523,11 +1932,16 @@
    "matchTomorrow": {
     "opponent": "Iva Jovic",
     "opponentSlug": "iva-jovic",
-    "court": "TBD",
-    "session": "TBD",
-    "order": null,
-    "startTimeET": null,
-    "matchId": "m11"
+    "court": "Arthur Ashe Stadium",
+    "session": "night",
+    "order": 1,
+    "startTimeET": "19:00",
+    "matchId": "m11",
+    "round": "Third round",
+    "day": "2026-09-05",
+    "status": "scheduled",
+    "winnerSlug": null,
+    "score": null
    },
    "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Ealas_and_Patrick_Gregorio_%28cropped_Alexandra_Eala%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -1565,7 +1979,9 @@
      "Added tennis365 source for the age-13 move to Spain."
     ]
    },
-   "matchTier": 2
+   "matchTier": 1,
+   "playsSaturday": true,
+   "round": "Third round"
   },
   {
    "slug": "jakub-mensik",
@@ -1578,7 +1994,7 @@
    "seed": 17,
    "ranking": 18,
    "draw": "men",
-   "tier": 2,
+   "tier": 1,
    "plays": "Right-handed, two-handed backhand",
    "heightCm": 196,
    "hometown": "Prostějov, Czechia",
@@ -1623,11 +2039,16 @@
    "matchTomorrow": {
     "opponent": "Learner Tien",
     "opponentSlug": "learner-tien",
-    "court": "TBD",
-    "session": "TBD",
-    "order": null,
+    "court": "Louis Armstrong Stadium",
+    "session": "night",
+    "order": 2,
     "startTimeET": null,
-    "matchId": "m6"
+    "matchId": "m6",
+    "round": "Third round",
+    "day": "2026-09-05",
+    "status": "scheduled",
+    "winnerSlug": null,
+    "score": null
    },
    "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Jakub_Men%C5%A1%C3%ADk_%282023_US_Open%29_14_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -1666,7 +2087,594 @@
      "Dropped x.com from sources; added ATP feature and usopen.org."
     ]
    },
-   "matchTier": 2
+   "matchTier": 1,
+   "playsSaturday": true,
+   "round": "Third round"
+  },
+  {
+   "slug": "elise-mertens",
+   "name": "Elise Mertens",
+   "country": "BE",
+   "countryName": "Belgium",
+   "flagEmoji": "🇧🇪",
+   "birthDate": "1995-11-17",
+   "age": 30,
+   "seed": 23,
+   "ranking": 20,
+   "draw": "women",
+   "tier": 1,
+   "plays": "Right-handed, two-handed backhand",
+   "heightCm": 179,
+   "hometown": "Hamont-Achel, Belgium",
+   "nicknameOrTagline": "Doubles Queen of Belgium",
+   "intro": "Elise Mertens is a tennis star from Belgium. She has won ten singles titles. In doubles she has been the number one player in the whole world.",
+   "story": "Elise's big sister Lauren put a racket in her hand at age four. Lauren is now an airline pilot! Later Elise trained at the tennis school of Belgian champ Kim Clijsters. Last summer she won a title after saving eleven match points. That means she was one point from losing eleven times, and still won!",
+   "funFacts": [
+    {
+     "text": "She has a house full of rescue dogs. She wants to be a voice for shelter animals.",
+     "source": "https://osakaworld.com/en-gb/blogs/athletes/elise-mertens"
+    },
+    {
+     "text": "Her family keeps birds too: peacocks, pheasants, chickens, and cranes.",
+     "source": "https://www.tennismajors.com/wta-tour-news/elise-mertens-tennis-belgium-doubles-sabalenka-clijsters-who-is-questions-329467.html"
+    },
+    {
+     "text": "She speaks three languages: Dutch, French, and English.",
+     "source": "https://en.wikipedia.org/wiki/Elise_Mertens"
+    },
+    {
+     "text": "She was homeschooled so she could travel and play tennis.",
+     "source": "https://en.wikipedia.org/wiki/Elise_Mertens"
+    },
+    {
+     "text": "Her dad makes furniture for churches. Her mom is a teacher.",
+     "source": "https://en.wikipedia.org/wiki/Elise_Mertens"
+    },
+    {
+     "text": "She has won six doubles titles at Grand Slams, the four biggest tournaments.",
+     "source": "https://en.wikipedia.org/wiki/Elise_Mertens"
+    },
+    {
+     "text": "She has a tiny green tattoo on her wrist for her dog Bo. Green means hope.",
+     "source": "https://osakaworld.com/en-gb/blogs/athletes/elise-mertens"
+    }
+   ],
+   "watchFor": "Watch how fast she runs to the net to smack a volley. Doubles champs love the net!",
+   "matchTomorrow": {
+    "opponent": "Naomi Osaka",
+    "opponentSlug": "naomi-osaka",
+    "court": "Louis Armstrong Stadium",
+    "session": "night",
+    "order": 1,
+    "startTimeET": "19:00",
+    "matchId": "m15",
+    "round": "Third round",
+    "day": "2026-09-05",
+    "status": "scheduled",
+    "winnerSlug": null,
+    "score": null
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Elise_Mertens_%282024_DC_Open%29_06_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "localPath": "img/players/elise-mertens.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AElise_Mertens_%282024_DC_Open%29_06_%28cropped%29.jpg",
+    "title": "File:Elise_Mertens_(2024_DC_Open)_06_(cropped).jpg",
+    "bytes": 30957,
+    "width": 424,
+    "height": 600,
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Elise_Mertens",
+    "https://www.tennismajors.com/wta-tour-news/elise-mertens-tennis-belgium-doubles-sabalenka-clijsters-who-is-questions-329467.html",
+    "https://osakaworld.com/en-gb/blogs/athletes/elise-mertens",
+    "https://www.wtatennis.com/news/4571786/osaka-recovers-after-second-set-dip-to-defeat-siniakova-at-us-open",
+    "https://www.wtatennis.com/news/4287076/mertens",
+    "https://en.wikipedia.org/wiki/2026_Australian_Open_%E2%80%93_Women%27s_doubles"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-04T17:14:15Z",
+   "factCheck": {
+    "checkedAt": "2026-09-04T18:30:00Z",
+    "notes": [
+     "Birth date, height, plays, ranking 20, seed 23, opponent Osaka (m15), parents' jobs, sister Lauren (pilot), homeschooling, three languages, Clijsters academy, doubles No.1, 10 singles titles all confirmed via Wikipedia + schedule.json.",
+     "Six Grand Slam doubles titles confirmed (2019 USO, 2021 AO, 2021 W, 2024 AO, 2025 W, 2026 AO) with Sabalenka, Hsieh, Kudermetova, Zhang Shuai.",
+     "Dog count conflicts: her own osakaworld Q&A says 8 shelter dogs; Tennis Majors says 4 dogs plus birds. Number removed.",
+     "The 11-match-point save was at the 2025 Libema Open semifinal ('s-Hertogenbosch), not summer 2026; reworded to 'last summer'.",
+     "Tattoo (green, left wrist, for collie Bo, colour of hope, strength on ball toss) confirmed at osakaworld.",
+     "Hometown Hamont-Achel is her residence (born Leuven) per Tennis Majors."
+    ],
+    "changes": [
+     "Removed '8 rescue dogs' number (conflicting sources).",
+     "Fixed story timing of 11-match-point title (2025, Netherlands).",
+     "Added Australian Open 2026 doubles title to story.",
+     "Clarified 'four different partners' in doubles fact."
+    ]
+   },
+   "matchTier": 1,
+   "playsSaturday": true,
+   "round": "Third round"
+  },
+  {
+   "slug": "anastasia-potapova",
+   "name": "Anastasia Potapova",
+   "country": "AT",
+   "countryName": "Austria",
+   "flagEmoji": "🇦🇹",
+   "birthDate": "2001-03-30",
+   "age": 25,
+   "seed": 24,
+   "ranking": 25,
+   "draw": "women",
+   "tier": 1,
+   "plays": "Right-handed, two-handed backhand",
+   "heightCm": 175,
+   "hometown": "Vienna, Austria (born in Saratov, Russia)",
+   "nicknameOrTagline": "Big Swings, Big Smile",
+   "intro": "Anastasia Potapova plays for Austria and lives in Vienna. She was born in Russia. She swings at every ball with all her might.",
+   "story": "At 15, Anastasia won the junior title at Wimbledon. She became the number 1 junior in the world. This year in Madrid she was a lucky loser. That means she lost her last qualifying match but got a spot anyway. Then she surprised everyone and reached the semifinals!",
+   "funFacts": [
+    {
+     "text": "She travels to tournaments with her dog. She says the dog brings her luck.",
+     "source": "https://www.puntodebreak.com/en/2026/05/24/potapovas-dog-protagonist-at-roland-garros"
+    },
+    {
+     "text": "She loves fashion, especially fancy handbags.",
+     "source": "https://tennistonic.com/tennis-news/1028538/if-im-not-gonna-look-good-on-court-if-im-not-going-to-play-good-potapova-explains-how-self-care-fuels-performance/"
+    },
+    {
+     "text": "She tells stories with sound effects, like Woosh! and Boom!",
+     "source": "https://www.tennis.com/news/articles/anastasia-potapova-burnout-new-coach-coco-gauff-montreal"
+    },
+    {
+     "text": "Her grandma coaches a basketball team in Moscow. She got Anastasia into tennis at age four.",
+     "source": "https://www.wtatennis.com/news/1414583/potapova-russian-on-the-rise"
+    },
+    {
+     "text": "She won the Wimbledon junior girls' title in 2016.",
+     "source": "https://en.wikipedia.org/wiki/Anastasia_Potapova"
+    },
+    {
+     "text": "She says Austria feels like home. Since 2026 she plays for Austria.",
+     "source": "https://www.tennis.com/news/articles/anastasia-potapova-changes-sporting-nationality-to-austria-ahead-of-2026-tennis-season"
+    },
+    {
+     "text": "She plays basketball just for fun. She cheers for the Miami Heat.",
+     "source": "https://www.wtatennis.com/news/1414583/potapova-russian-on-the-rise"
+    }
+   ],
+   "watchFor": "Watch her wind up big on every forehand and hit it super hard.",
+   "matchTomorrow": {
+    "opponent": "Amanda Anisimova",
+    "opponentSlug": "amanda-anisimova",
+    "court": "Louis Armstrong Stadium",
+    "session": "day",
+    "order": 1,
+    "startTimeET": "11:00",
+    "matchId": "m10",
+    "round": "Third round",
+    "day": "2026-09-05",
+    "status": "completed",
+    "winnerSlug": "anastasia-potapova",
+    "score": "6-2 7-5"
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Day_9_-_Transylvania_Open_Women%27s_Singles_Final_ceremony_-_Anna_Potapova_Lucia_Bronzetti_%2854318974077%29.jpg",
+    "localPath": "img/players/anastasia-potapova.jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "Nuță Lucian from Cluj-Napoca, Romania",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ADay_9_-_Transylvania_Open_Women%27s_Singles_Final_ceremony_-_Anna_Potapova_Lucia_Bronzetti_%2854318974077%29.jpg",
+    "title": "File:Day_9_-_Transylvania_Open_Women's_Singles_Final_ceremony_-_Anna_Potapova_Lucia_Bronzetti_(54318974077).jpg",
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Anastasia_Potapova",
+    "https://www.tennis.com/news/articles/anastasia-potapova-changes-sporting-nationality-to-austria-ahead-of-2026-tennis-season",
+    "https://www.puntodebreak.com/en/2026/05/24/potapovas-dog-protagonist-at-roland-garros",
+    "https://tennistonic.com/tennis-news/1028538/if-im-not-gonna-look-good-on-court-if-im-not-going-to-play-good-potapova-explains-how-self-care-fuels-performance/",
+    "https://www.wtatennis.com/news/1414583/potapova-russian-on-the-rise"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-04T17:16:31+00:00",
+   "factCheck": {
+    "checkedAt": "2026-09-04T21:52:28+00:00",
+    "notes": [
+     "Birth 2001-03-30 Saratov, resides Vienna, Austrian since Dec 2025/2026 season, R-handed/2HBH, 175 cm, 2016 Wimbledon girls' title at 15, junior No. 1, three WTA titles (Istanbul 2022, Linz 2023, Cluj 2025), first lucky loser to reach a WTA 1000 SF (Madrid 2026): confirmed on Wikipedia.",
+     "Dog travels with her in Europe and 'brings me luck': puntodebreak. 'Woosh'/'Boom' storytelling: tennis.com Montreal article. Designer bags/fashion: tennistonic article (page returned 403 to fetch; content confirmed via search excerpt).",
+     "Seed 24 / ranking 25 / opponent Anisimova match schedule.json."
+    ],
+    "changes": [
+     "Fun fact 1: removed unsupported 'little' (dog's size/breed not stated in source).",
+     "Fun fact 4 (grandmother): cited tennis.com article did not mention it; re-sourced to WTA 'Russian On The Rise' and reworded.",
+     "Fun fact 6: 'Vienna feels like home' -> her actual quote is about Austria feeling like home; reworded."
+    ]
+   },
+   "matchTier": 1,
+   "playsSaturday": true,
+   "round": "Third round"
+  },
+  {
+   "slug": "francisco-cerundolo",
+   "name": "Francisco Cerúndolo",
+   "country": "AR",
+   "countryName": "Argentina",
+   "flagEmoji": "🇦🇷",
+   "birthDate": "1998-08-13",
+   "age": 28,
+   "seed": 24,
+   "ranking": 25,
+   "draw": "men",
+   "tier": 1,
+   "plays": "Right-handed, two-handed backhand",
+   "heightCm": 185,
+   "hometown": "Buenos Aires, Argentina",
+   "nicknameOrTagline": "Fran",
+   "intro": "Francisco Cerúndolo is from Buenos Aires, Argentina. Everyone calls him Fran. He is famous for a huge, whip-crack forehand.",
+   "story": "Fran started tennis at age 5. His mom and dad both played tennis. They run a tennis school in Buenos Aires. His little brother Juan Manuel is a pro too. This summer Fran won his biggest title ever, on grass in London.",
+   "funFacts": [
+    {
+     "text": "His secret talent is math. He loves numbers and checking stats.",
+     "source": "https://www.atptour.com/en/players/francisco-cerundolo/c0au/bio"
+    },
+    {
+     "text": "His favorite foods are burgers and asado, Argentine barbecue.",
+     "source": "https://www.atptour.com/en/players/francisco-cerundolo/c0au/bio"
+    },
+    {
+     "text": "He loves to sing. He packs a speaker to play music in every hotel room.",
+     "source": "https://www.atptour.com/en/news/cerundolo-nomadic-life-june-2023"
+    },
+    {
+     "text": "His sister María Constanza won field hockey gold at the Youth Olympics.",
+     "source": "https://www.atptour.com/en/players/francisco-cerundolo/c0au/bio"
+    },
+    {
+     "text": "He and his brother Juan Manuel were in the world top 100 at the same time.",
+     "source": "https://en.wikipedia.org/wiki/Francisco_Cer%C3%BAndolo"
+    },
+    {
+     "text": "His favorite movie is Gladiator. He cheers for the River Plate soccer club.",
+     "source": "https://www.atptour.com/en/players/francisco-cerundolo/c0au/bio"
+    },
+    {
+     "text": "He once lost his passport on a trip and missed his plane.",
+     "source": "https://www.atptour.com/en/news/cerundolo-nomadic-life-june-2023"
+    }
+   ],
+   "watchFor": "Watch him run around his backhand to smack a giant forehand.",
+   "matchTomorrow": {
+    "opponent": "Taylor Fritz",
+    "opponentSlug": "taylor-fritz",
+    "court": "Arthur Ashe Stadium",
+    "session": "day",
+    "order": 1,
+    "startTimeET": "11:30",
+    "matchId": "m7",
+    "round": "Third round",
+    "day": "2026-09-05",
+    "status": "in_progress",
+    "winnerSlug": null,
+    "score": null
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Cerundolo_MCM23_%2821%29_%2852883527185%29.jpg",
+    "localPath": "img/players/francisco-cerundolo.jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "si.robi",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ACerundolo_MCM23_%2821%29_%2852883527185%29.jpg",
+    "title": "File:Cerundolo_MCM23_(21)_(52883527185).jpg",
+    "isAvatar": false,
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Francisco_Cer%C3%BAndolo",
+    "https://www.atptour.com/en/players/francisco-cerundolo/c0au/bio",
+    "https://www.atptour.com/en/news/cerundolo-nomadic-life-june-2023",
+    "https://lavercup.com/player/francisco-cerundolo"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-04T17:11:02Z",
+   "factCheck": {
+    "checkedAt": "2026-09-04T21:53:16Z",
+    "notes": [
+     "birthDate/height/plays/hometown: Wikipedia + Laver Cup profile (185 cm). Seed 24 / ranking 25 match schedule.json; Wikipedia table shows him unseeded but usopen.org feed is authoritative.",
+     "ATP bio confirms nickname Fran, math, burgers/asado, Gladiator, River Plate, sister's 2018 Youth Olympic hockey gold, singing. ATP nomadic-life article confirms speaker and passport story. Wikipedia confirms brothers in top 100 (2022) and 2026 Queen's title."
+    ],
+    "changes": [
+     "Story: 'grew up at family academy' rephrased to sourced version (parents run academy in Buenos Aires, started at 5).",
+     "Passport fact: 'sleep at the airport' unsupported; changed to 'missed his plane'."
+    ]
+   },
+   "matchTier": 1,
+   "playsSaturday": true,
+   "round": "Third round"
+  },
+  {
+   "slug": "alejandro-tabilo",
+   "name": "Alejandro Tabilo",
+   "country": "CL",
+   "countryName": "Chile",
+   "flagEmoji": "🇨🇱",
+   "birthDate": "1997-06-02",
+   "age": 29,
+   "seed": 25,
+   "ranking": 28,
+   "draw": "men",
+   "tier": 1,
+   "plays": "Left-handed, two-handed backhand",
+   "heightCm": 188,
+   "hometown": "Santiago, Chile (born in Toronto, Canada)",
+   "nicknameOrTagline": "Jano",
+   "intro": "Alejandro Tabilo is a lefty from Chile. A lefty hits with his left hand. His friends call him Jano.",
+   "story": "Jano started tennis by copying his big brother Sebastian. At 13 he left home to train in Florida. Later he moved to Chile and became its best player. In 2024 he beat superstar Novak Djokovic in Rome. Then he did it again in 2025!",
+   "funFacts": [
+    {
+     "text": "His secret talent is chess.",
+     "source": "https://www.atptour.com/en/players/alejandro-tabilo/te30/bio"
+    },
+    {
+     "text": "His favorite food is popcorn. His favorite treat is ice cream.",
+     "source": "https://www.atptour.com/en/players/alejandro-tabilo/te30/bio"
+    },
+    {
+     "text": "Favorite school subject? Gym class, of course.",
+     "source": "https://www.atptour.com/en/players/alejandro-tabilo/te30/bio"
+    },
+    {
+     "text": "He was born in Toronto, Canada. His parents are both from Chile.",
+     "source": "https://en.wikipedia.org/wiki/Alejandro_Tabilo"
+    },
+    {
+     "text": "He beat world No. 1 Novak Djokovic in Rome in 2024.",
+     "source": "https://en.wikipedia.org/wiki/Alejandro_Tabilo"
+    },
+    {
+     "text": "His favorite shot is the drop shot, a sneaky soft shot. His idol is lefty Rafael Nadal.",
+     "source": "https://www.atptour.com/en/players/alejandro-tabilo/te30/bio"
+    },
+    {
+     "text": "His favorite superhero is Superman.",
+     "source": "https://www.atptour.com/en/players/alejandro-tabilo/te30/bio"
+    }
+   ],
+   "watchFor": "Watch his lefty serve curve out wide, then spot his sneaky drop shot.",
+   "matchTomorrow": {
+    "opponent": "Alexander Zverev",
+    "opponentSlug": "alexander-zverev",
+    "court": "Arthur Ashe Stadium",
+    "session": "night",
+    "order": 2,
+    "startTimeET": null,
+    "matchId": "m1",
+    "round": "Third round",
+    "day": "2026-09-05",
+    "status": "scheduled",
+    "winnerSlug": null,
+    "score": null
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Tabilo_RGQ23_%2852942983162%29.jpg",
+    "localPath": "img/players/alejandro-tabilo.jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "si.robi",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ATabilo_RGQ23_%2852942983162%29.jpg",
+    "title": "File:Tabilo_RGQ23_(52942983162).jpg",
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Alejandro_Tabilo",
+    "https://www.atptour.com/en/players/alejandro-tabilo/te30/bio",
+    "https://www.tennismajors.com/atp/chile-canada-djokovic-everything-you-always-wanted-to-know-about-alejandro-tabilo-but-never-had-time-to-find-out-760301.html",
+    "https://www.tennis-prose.com/bios/biofile-alejandro-tabilo-interview/"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-04T17:16:31+00:00",
+   "factCheck": {
+    "checkedAt": "2026-09-04T21:52:28+00:00",
+    "notes": [
+     "Birth 1997-06-02 Toronto, Chilean parents, left-handed/2HBH, 188 cm, beat No. 1 Djokovic Rome 2024 and again Monte Carlo 2025, current Chilean No. 1: confirmed on Wikipedia.",
+     "Nickname Jano, brother Sebastian, left home at 13 for Florida, chess, popcorn, ice cream, gym, drop shot, Nadal idol, Superman: all confirmed on ATP bio page.",
+     "Hometown Santiago: tennismajors interview ('When I was around 18, I moved to Santiago').",
+     "Seed 25 / ranking 28 / opponent Zverev match schedule.json. No text changes needed."
+    ],
+    "changes": []
+   },
+   "matchTier": 1,
+   "playsSaturday": true,
+   "round": "Third round"
+  },
+  {
+   "slug": "alexander-blockx",
+   "name": "Alexander Blockx",
+   "country": "BE",
+   "countryName": "Belgium",
+   "flagEmoji": "🇧🇪",
+   "birthDate": "2005-04-08",
+   "age": 21,
+   "seed": 28,
+   "ranking": 34,
+   "draw": "men",
+   "tier": 1,
+   "plays": "Right-handed, two-handed backhand",
+   "heightCm": 193,
+   "hometown": "Antwerp, Belgium",
+   "nicknameOrTagline": "Big Server from Belgium",
+   "intro": "Alexander Blockx is a tall young player from Belgium. He is only 21. He is already the best player in his country.",
+   "story": "Alexander started tennis at age four. He tagged along to his big brother's lessons. The coach asked if he wanted to try. He said yes, and he never stopped! In 2023 he won the junior title at the Australian Open.",
+   "funFacts": [
+    {
+     "text": "His dad was a hurdle runner. His mom was a swimmer.",
+     "source": "https://www.atptour.com/en/news/blockx-saint-tropez-challenger-2024-feature"
+    },
+    {
+     "text": "He is a tennis trivia whiz. He remembers old match scores.",
+     "source": "https://www.atptour.com/en/news/blockx-saint-tropez-challenger-2024-feature"
+    },
+    {
+     "text": "As a kid fan, he got a photo with star Daniil Medvedev. Now they share the stage at events.",
+     "source": "https://www.tennis.com/news/articles/alexander-blockx-full-circle-medvedev-goffin-belgium-roland-garros-interview"
+    },
+    {
+     "text": "He had the same coach from age 4 until this year. That is 16 years!",
+     "source": "https://www.atptour.com/en/players/alexander-blockx/b0pg/bio"
+    },
+    {
+     "text": "He won 42 of 45 matches in under-12 tournaments.",
+     "source": "https://www.atptour.com/en/news/blockx-saint-tropez-challenger-2024-feature"
+    },
+    {
+     "text": "This spring he reached the semifinals of a big tournament in Madrid.",
+     "source": "https://en.wikipedia.org/wiki/Alexander_Blockx"
+    },
+    {
+     "text": "He is 6 feet 4 inches tall. That is a lot of reach!",
+     "source": "https://en.wikipedia.org/wiki/Alexander_Blockx"
+    }
+   ],
+   "watchFor": "Watch his booming serve come down fast and bounce up high.",
+   "matchTomorrow": {
+    "opponent": "Flavio Cobolli",
+    "opponentSlug": "flavio-cobolli",
+    "court": "Louis Armstrong Stadium",
+    "session": "day",
+    "order": 2,
+    "startTimeET": null,
+    "matchId": "m8",
+    "round": "Third round",
+    "day": "2026-09-05",
+    "status": "in_progress",
+    "winnerSlug": null,
+    "score": null
+   },
+   "photo": {
+    "localPath": "img/players/alexander-blockx.svg",
+    "license": "generated",
+    "author": "site",
+    "sourceUrl": null,
+    "url": null,
+    "isAvatar": true,
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Alexander_Blockx",
+    "https://www.atptour.com/en/news/blockx-saint-tropez-challenger-2024-feature",
+    "https://www.atptour.com/en/players/alexander-blockx/b0pg/bio",
+    "https://www.tennis.com/news/articles/alexander-blockx-full-circle-medvedev-goffin-belgium-roland-garros-interview",
+    "https://tennisnow.com/alexander-blockx-former-junior-no-1-is-rising-rapidly-in-madrid/"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-04T17:16:31+00:00",
+   "factCheck": {
+    "checkedAt": "2026-09-04T21:52:28+00:00",
+    "notes": [
+     "Birth 2005-04-08 Antwerp, R-handed/2HBH, 193 cm, parents Oleg (hurdles) and Natalia (swimmer), 2023 AO boys' title over Learner Tien, junior No. 1, coach Cassiers 2010-Apr 2026, 2026 Madrid SF, Belgian No. 1, started at 4 via brother's lessons: confirmed on Wikipedia.",
+     "Trivia memory, 42 of 45 U12 matches, parents' sports: confirmed in ATP Saint-Tropez feature. Medvedev fan photo (Next Gen Finals) and later sharing a stage (Tecnifibre event RG 2026): confirmed in tennis.com interview.",
+     "Ranking 34 per schedule.json (Wikipedia shows 32 as of late July; schedule feed is authoritative). Seed 28 / opponent Cobolli match."
+    ],
+    "changes": []
+   },
+   "matchTier": 1,
+   "playsSaturday": true,
+   "round": "Third round"
+  },
+  {
+   "slug": "cristina-bucsa",
+   "name": "Cristina Bucșa",
+   "country": "ES",
+   "countryName": "Spain",
+   "flagEmoji": "🇪🇸",
+   "birthDate": "1998-01-01",
+   "age": 28,
+   "seed": null,
+   "ranking": 40,
+   "draw": "women",
+   "tier": 1,
+   "plays": "Right-handed, two-handed backhand",
+   "heightCm": 176,
+   "hometown": "Torrelavega, Spain (born in Chișinău, Moldova)",
+   "nicknameOrTagline": "The Quiet Olympian",
+   "intro": "Cristina Bucșa plays for Spain. She was born in Moldova and moved to Spain at age three. She won an Olympic bronze medal in doubles in 2024.",
+   "story": "Cristina's dad Ion was an Olympic biathlete. That is skiing plus target shooting! He carried Moldova's flag at two Winter Olympics. Now he is her coach. This year she won her first big singles title in Mexico.",
+   "funFacts": [
+    {
+     "text": "Her birthday is January 1. She is a New Year's baby!",
+     "source": "https://en.wikipedia.org/wiki/Cristina_Buc%C8%99a"
+    },
+    {
+     "text": "She speaks four languages: Spanish, Romanian, English and French. She is learning Korean too.",
+     "source": "https://en.wikipedia.org/wiki/Cristina_Buc%C8%99a"
+    },
+    {
+     "text": "She has a blue belt in karate.",
+     "source": "https://www.wtatennis.com/news/4301091/from-no-shoes-to-finding-her-footing-bucsa-is-moving-up-at-wimbledon"
+    },
+    {
+     "text": "She once played Wimbledon in too-big shoes stuffed with socks. She still won!",
+     "source": "https://www.wtatennis.com/news/4301091/from-no-shoes-to-finding-her-footing-bucsa-is-moving-up-at-wimbledon"
+    },
+    {
+     "text": "She has no Instagram or TikTok. She says she is too busy training.",
+     "source": "https://www.claytenis.com/features/cristina-bucsa-when-spains-no-1-doesnt-want-you-to-find-her/"
+    },
+    {
+     "text": "In spring at home she can ski in the morning and swim in the sea after lunch.",
+     "source": "https://www.wtatennis.com/news/4301091/from-no-shoes-to-finding-her-footing-bucsa-is-moving-up-at-wimbledon"
+    },
+    {
+     "text": "At age seven she was already the best under-10 player in her region.",
+     "source": "https://www.claytenis.com/features/cristina-bucsa-when-spains-no-1-doesnt-want-you-to-find-her/"
+    }
+   ],
+   "watchFor": "Watch her rush to the net for quick volleys, like a doubles champ.",
+   "matchTomorrow": {
+    "opponent": "Coco Gauff",
+    "opponentSlug": "coco-gauff",
+    "court": "Arthur Ashe Stadium",
+    "session": "day",
+    "order": 2,
+    "startTimeET": "13:30",
+    "matchId": "m12",
+    "round": "Third round",
+    "day": "2026-09-05",
+    "status": "scheduled",
+    "winnerSlug": null,
+    "score": null
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Cristina_Buc%C8%99a_%282025_DC_Open%29_03_%28cropped%29.jpg",
+    "localPath": "img/players/cristina-bucsa.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ACristina_Buc%C8%99a_%282025_DC_Open%29_03_%28cropped%29.jpg",
+    "title": "File:Cristina_Bucșa_(2025_DC_Open)_03_(cropped).jpg",
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Cristina_Buc%C8%99a",
+    "https://www.wtatennis.com/news/4301091/from-no-shoes-to-finding-her-footing-bucsa-is-moving-up-at-wimbledon",
+    "https://www.claytenis.com/features/cristina-bucsa-when-spains-no-1-doesnt-want-you-to-find-her/"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-04T17:16:31+00:00",
+   "factCheck": {
+    "checkedAt": "2026-09-04T21:52:28+00:00",
+    "notes": [
+     "Birth 1998-01-01 Chisinau, moved to Cantabria at 3, resides Torrelavega, R-handed/2HBH, 176 cm, father Ion Olympic biathlete and flag bearer 1998/2002 and her coach, Paris 2024 doubles bronze with Sorribes Tormo, first WTA singles title Merida 2026, speaks Spanish/Romanian/English/French: confirmed on Wikipedia.",
+     "Karate blue belt, oversized-shoes Wimbledon qualifying win, studying Korean, no social media: WTA article 4301091. Regional U10 champion at seven: claytenis.",
+     "Unseeded / ranking 40 / opponent Gauff match schedule.json."
+    ],
+    "changes": [
+     "Story: 'Olympic skier and shooter' -> 'Olympic biathlete (skiing and shooting)' per Wikipedia/claytenis.",
+     "Fun fact 2 (languages): four languages sourced to Wikipedia; Korean study remains from WTA article.",
+     "Fun fact 5: reworded to match her quote ('I don't have time. I'm working so hard').",
+     "Fun fact 6 (ski/swim): claytenis did not contain it; re-sourced to WTA article and reworded ('in spring')."
+    ]
+   },
+   "matchTier": 1,
+   "playsSaturday": true,
+   "round": "Third round"
   },
   {
    "slug": "luciano-darderi",
@@ -1720,11 +2728,16 @@
    "matchTomorrow": {
     "opponent": "Dane Sweeny",
     "opponentSlug": "dane-sweeny",
-    "court": "TBD",
-    "session": "TBD",
-    "order": null,
+    "court": "Court 5",
+    "session": "day",
+    "order": 3,
     "startTimeET": null,
-    "matchId": "m2"
+    "matchId": "m2",
+    "round": "Third round",
+    "day": "2026-09-05",
+    "status": "scheduled",
+    "winnerSlug": null,
+    "score": null
    },
    "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Darderi_RGQ23_%2852944097003%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -1757,7 +2770,9 @@
      "Added puntodebreak.com source."
     ]
    },
-   "matchTier": 2
+   "matchTier": 2,
+   "playsSaturday": true,
+   "round": "Third round"
   },
   {
    "slug": "madison-keys",
@@ -1815,11 +2830,16 @@
    "matchTomorrow": {
     "opponent": "Qinwen Zheng",
     "opponentSlug": "qinwen-zheng",
-    "court": "TBD",
-    "session": "TBD",
-    "order": null,
-    "startTimeET": null,
-    "matchId": "m14"
+    "court": "Grandstand",
+    "session": "day",
+    "order": 1,
+    "startTimeET": "11:00",
+    "matchId": "m14",
+    "round": "Third round",
+    "day": "2026-09-05",
+    "status": "completed",
+    "winnerSlug": "qinwen-zheng",
+    "score": "1-6 7-6(3) 7-5"
    },
    "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Madison_Keys_%282023_DC_Open%29_01a_%28cropped2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -1853,373 +2873,9 @@
      "Added Yahoo-sourced furniture fun fact."
     ]
    },
-   "matchTier": 2
-  },
-  {
-   "slug": "elise-mertens",
-   "name": "Elise Mertens",
-   "country": "BE",
-   "countryName": "Belgium",
-   "flagEmoji": "🇧🇪",
-   "birthDate": "1995-11-17",
-   "age": 30,
-   "seed": 23,
-   "ranking": 20,
-   "draw": "women",
-   "tier": 2,
-   "plays": "Right-handed, two-handed backhand",
-   "heightCm": 179,
-   "hometown": "Hamont-Achel, Belgium",
-   "nicknameOrTagline": "Doubles Queen of Belgium",
-   "intro": "Elise Mertens is a tennis star from Belgium. She has won ten singles titles. In doubles she has been the number one player in the whole world.",
-   "story": "Elise's big sister Lauren put a racket in her hand at age four. Lauren is now an airline pilot! Later Elise trained at the tennis school of Belgian champ Kim Clijsters. Last summer she won a title after saving eleven match points. That means she was one point from losing eleven times, and still won!",
-   "funFacts": [
-    {
-     "text": "She has a house full of rescue dogs. She wants to be a voice for shelter animals.",
-     "source": "https://osakaworld.com/en-gb/blogs/athletes/elise-mertens"
-    },
-    {
-     "text": "Her family keeps birds too: peacocks, pheasants, chickens, and cranes.",
-     "source": "https://www.tennismajors.com/wta-tour-news/elise-mertens-tennis-belgium-doubles-sabalenka-clijsters-who-is-questions-329467.html"
-    },
-    {
-     "text": "She speaks three languages: Dutch, French, and English.",
-     "source": "https://en.wikipedia.org/wiki/Elise_Mertens"
-    },
-    {
-     "text": "She was homeschooled so she could travel and play tennis.",
-     "source": "https://en.wikipedia.org/wiki/Elise_Mertens"
-    },
-    {
-     "text": "Her dad makes furniture for churches. Her mom is a teacher.",
-     "source": "https://en.wikipedia.org/wiki/Elise_Mertens"
-    },
-    {
-     "text": "She has won six doubles titles at Grand Slams, the four biggest tournaments.",
-     "source": "https://en.wikipedia.org/wiki/Elise_Mertens"
-    },
-    {
-     "text": "She has a tiny green tattoo on her wrist for her dog Bo. Green means hope.",
-     "source": "https://osakaworld.com/en-gb/blogs/athletes/elise-mertens"
-    }
-   ],
-   "watchFor": "Watch how fast she runs to the net to smack a volley. Doubles champs love the net!",
-   "matchTomorrow": {
-    "opponent": "Naomi Osaka",
-    "opponentSlug": "naomi-osaka",
-    "court": "TBD",
-    "session": "TBD",
-    "order": null,
-    "startTimeET": null,
-    "matchId": "m15"
-   },
-   "photo": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Elise_Mertens_%282024_DC_Open%29_06_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "localPath": "img/players/elise-mertens.jpg",
-    "license": "CC BY-SA 4.0",
-    "author": "Hameltion",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AElise_Mertens_%282024_DC_Open%29_06_%28cropped%29.jpg",
-    "title": "File:Elise_Mertens_(2024_DC_Open)_06_(cropped).jpg",
-    "bytes": 30957,
-    "width": 424,
-    "height": 600,
-    "exists": true
-   },
-   "sources": [
-    "https://en.wikipedia.org/wiki/Elise_Mertens",
-    "https://www.tennismajors.com/wta-tour-news/elise-mertens-tennis-belgium-doubles-sabalenka-clijsters-who-is-questions-329467.html",
-    "https://osakaworld.com/en-gb/blogs/athletes/elise-mertens",
-    "https://www.wtatennis.com/news/4571786/osaka-recovers-after-second-set-dip-to-defeat-siniakova-at-us-open",
-    "https://www.wtatennis.com/news/4287076/mertens",
-    "https://en.wikipedia.org/wiki/2026_Australian_Open_%E2%80%93_Women%27s_doubles"
-   ],
-   "verified": true,
-   "researchedAt": "2026-09-04T17:14:15Z",
-   "factCheck": {
-    "checkedAt": "2026-09-04T18:30:00Z",
-    "notes": [
-     "Birth date, height, plays, ranking 20, seed 23, opponent Osaka (m15), parents' jobs, sister Lauren (pilot), homeschooling, three languages, Clijsters academy, doubles No.1, 10 singles titles all confirmed via Wikipedia + schedule.json.",
-     "Six Grand Slam doubles titles confirmed (2019 USO, 2021 AO, 2021 W, 2024 AO, 2025 W, 2026 AO) with Sabalenka, Hsieh, Kudermetova, Zhang Shuai.",
-     "Dog count conflicts: her own osakaworld Q&A says 8 shelter dogs; Tennis Majors says 4 dogs plus birds. Number removed.",
-     "The 11-match-point save was at the 2025 Libema Open semifinal ('s-Hertogenbosch), not summer 2026; reworded to 'last summer'.",
-     "Tattoo (green, left wrist, for collie Bo, colour of hope, strength on ball toss) confirmed at osakaworld.",
-     "Hometown Hamont-Achel is her residence (born Leuven) per Tennis Majors."
-    ],
-    "changes": [
-     "Removed '8 rescue dogs' number (conflicting sources).",
-     "Fixed story timing of 11-match-point title (2025, Netherlands).",
-     "Added Australian Open 2026 doubles title to story.",
-     "Clarified 'four different partners' in doubles fact."
-    ]
-   },
-   "matchTier": 2
-  },
-  {
-   "slug": "anastasia-potapova",
-   "name": "Anastasia Potapova",
-   "country": "AT",
-   "countryName": "Austria",
-   "flagEmoji": "🇦🇹",
-   "birthDate": "2001-03-30",
-   "age": 25,
-   "seed": 24,
-   "ranking": 25,
-   "draw": "women",
-   "tier": 2,
-   "plays": "Right-handed, two-handed backhand",
-   "heightCm": 175,
-   "hometown": "Vienna, Austria (born in Saratov, Russia)",
-   "nicknameOrTagline": "Big Swings, Big Smile",
-   "intro": "Anastasia Potapova plays for Austria and lives in Vienna. She was born in Russia. She swings at every ball with all her might.",
-   "story": "At 15, Anastasia won the junior title at Wimbledon. She became the number 1 junior in the world. This year in Madrid she was a lucky loser. That means she lost her last qualifying match but got a spot anyway. Then she surprised everyone and reached the semifinals!",
-   "funFacts": [
-    {
-     "text": "She travels to tournaments with her dog. She says the dog brings her luck.",
-     "source": "https://www.puntodebreak.com/en/2026/05/24/potapovas-dog-protagonist-at-roland-garros"
-    },
-    {
-     "text": "She loves fashion, especially fancy handbags.",
-     "source": "https://tennistonic.com/tennis-news/1028538/if-im-not-gonna-look-good-on-court-if-im-not-going-to-play-good-potapova-explains-how-self-care-fuels-performance/"
-    },
-    {
-     "text": "She tells stories with sound effects, like Woosh! and Boom!",
-     "source": "https://www.tennis.com/news/articles/anastasia-potapova-burnout-new-coach-coco-gauff-montreal"
-    },
-    {
-     "text": "Her grandma coaches a basketball team in Moscow. She got Anastasia into tennis at age four.",
-     "source": "https://www.wtatennis.com/news/1414583/potapova-russian-on-the-rise"
-    },
-    {
-     "text": "She won the Wimbledon junior girls' title in 2016.",
-     "source": "https://en.wikipedia.org/wiki/Anastasia_Potapova"
-    },
-    {
-     "text": "She says Austria feels like home. Since 2026 she plays for Austria.",
-     "source": "https://www.tennis.com/news/articles/anastasia-potapova-changes-sporting-nationality-to-austria-ahead-of-2026-tennis-season"
-    },
-    {
-     "text": "She plays basketball just for fun. She cheers for the Miami Heat.",
-     "source": "https://www.wtatennis.com/news/1414583/potapova-russian-on-the-rise"
-    }
-   ],
-   "watchFor": "Watch her wind up big on every forehand and hit it super hard.",
-   "matchTomorrow": {
-    "opponent": "Amanda Anisimova",
-    "opponentSlug": "amanda-anisimova",
-    "court": "TBD",
-    "session": "TBD",
-    "order": null,
-    "startTimeET": null,
-    "matchId": "m10"
-   },
-   "photo": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Day_9_-_Transylvania_Open_Women%27s_Singles_Final_ceremony_-_Anna_Potapova_Lucia_Bronzetti_%2854318974077%29.jpg",
-    "localPath": "img/players/anastasia-potapova.jpg",
-    "license": "CC BY-SA 2.0",
-    "author": "Nuță Lucian from Cluj-Napoca, Romania",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ADay_9_-_Transylvania_Open_Women%27s_Singles_Final_ceremony_-_Anna_Potapova_Lucia_Bronzetti_%2854318974077%29.jpg",
-    "title": "File:Day_9_-_Transylvania_Open_Women's_Singles_Final_ceremony_-_Anna_Potapova_Lucia_Bronzetti_(54318974077).jpg",
-    "exists": true
-   },
-   "sources": [
-    "https://en.wikipedia.org/wiki/Anastasia_Potapova",
-    "https://www.tennis.com/news/articles/anastasia-potapova-changes-sporting-nationality-to-austria-ahead-of-2026-tennis-season",
-    "https://www.puntodebreak.com/en/2026/05/24/potapovas-dog-protagonist-at-roland-garros",
-    "https://tennistonic.com/tennis-news/1028538/if-im-not-gonna-look-good-on-court-if-im-not-going-to-play-good-potapova-explains-how-self-care-fuels-performance/",
-    "https://www.wtatennis.com/news/1414583/potapova-russian-on-the-rise"
-   ],
-   "verified": true,
-   "researchedAt": "2026-09-04T17:16:31+00:00",
-   "factCheck": {
-    "checkedAt": "2026-09-04T21:52:28+00:00",
-    "notes": [
-     "Birth 2001-03-30 Saratov, resides Vienna, Austrian since Dec 2025/2026 season, R-handed/2HBH, 175 cm, 2016 Wimbledon girls' title at 15, junior No. 1, three WTA titles (Istanbul 2022, Linz 2023, Cluj 2025), first lucky loser to reach a WTA 1000 SF (Madrid 2026): confirmed on Wikipedia.",
-     "Dog travels with her in Europe and 'brings me luck': puntodebreak. 'Woosh'/'Boom' storytelling: tennis.com Montreal article. Designer bags/fashion: tennistonic article (page returned 403 to fetch; content confirmed via search excerpt).",
-     "Seed 24 / ranking 25 / opponent Anisimova match schedule.json."
-    ],
-    "changes": [
-     "Fun fact 1: removed unsupported 'little' (dog's size/breed not stated in source).",
-     "Fun fact 4 (grandmother): cited tennis.com article did not mention it; re-sourced to WTA 'Russian On The Rise' and reworded.",
-     "Fun fact 6: 'Vienna feels like home' -> her actual quote is about Austria feeling like home; reworded."
-    ]
-   },
-   "matchTier": 1
-  },
-  {
-   "slug": "francisco-cerundolo",
-   "name": "Francisco Cerúndolo",
-   "country": "AR",
-   "countryName": "Argentina",
-   "flagEmoji": "🇦🇷",
-   "birthDate": "1998-08-13",
-   "age": 28,
-   "seed": 24,
-   "ranking": 25,
-   "draw": "men",
-   "tier": 2,
-   "plays": "Right-handed, two-handed backhand",
-   "heightCm": 185,
-   "hometown": "Buenos Aires, Argentina",
-   "nicknameOrTagline": "Fran",
-   "intro": "Francisco Cerúndolo is from Buenos Aires, Argentina. Everyone calls him Fran. He is famous for a huge, whip-crack forehand.",
-   "story": "Fran started tennis at age 5. His mom and dad both played tennis. They run a tennis school in Buenos Aires. His little brother Juan Manuel is a pro too. This summer Fran won his biggest title ever, on grass in London.",
-   "funFacts": [
-    {
-     "text": "His secret talent is math. He loves numbers and checking stats.",
-     "source": "https://www.atptour.com/en/players/francisco-cerundolo/c0au/bio"
-    },
-    {
-     "text": "His favorite foods are burgers and asado, Argentine barbecue.",
-     "source": "https://www.atptour.com/en/players/francisco-cerundolo/c0au/bio"
-    },
-    {
-     "text": "He loves to sing. He packs a speaker to play music in every hotel room.",
-     "source": "https://www.atptour.com/en/news/cerundolo-nomadic-life-june-2023"
-    },
-    {
-     "text": "His sister María Constanza won field hockey gold at the Youth Olympics.",
-     "source": "https://www.atptour.com/en/players/francisco-cerundolo/c0au/bio"
-    },
-    {
-     "text": "He and his brother Juan Manuel were in the world top 100 at the same time.",
-     "source": "https://en.wikipedia.org/wiki/Francisco_Cer%C3%BAndolo"
-    },
-    {
-     "text": "His favorite movie is Gladiator. He cheers for the River Plate soccer club.",
-     "source": "https://www.atptour.com/en/players/francisco-cerundolo/c0au/bio"
-    },
-    {
-     "text": "He once lost his passport on a trip and missed his plane.",
-     "source": "https://www.atptour.com/en/news/cerundolo-nomadic-life-june-2023"
-    }
-   ],
-   "watchFor": "Watch him run around his backhand to smack a giant forehand.",
-   "matchTomorrow": {
-    "opponent": "Taylor Fritz",
-    "opponentSlug": "taylor-fritz",
-    "court": "TBD",
-    "session": "TBD",
-    "order": null,
-    "startTimeET": null,
-    "matchId": "m7"
-   },
-   "photo": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Cerundolo_MCM23_%2821%29_%2852883527185%29.jpg",
-    "localPath": "img/players/francisco-cerundolo.jpg",
-    "license": "CC BY-SA 2.0",
-    "author": "si.robi",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ACerundolo_MCM23_%2821%29_%2852883527185%29.jpg",
-    "title": "File:Cerundolo_MCM23_(21)_(52883527185).jpg",
-    "isAvatar": false,
-    "exists": true
-   },
-   "sources": [
-    "https://en.wikipedia.org/wiki/Francisco_Cer%C3%BAndolo",
-    "https://www.atptour.com/en/players/francisco-cerundolo/c0au/bio",
-    "https://www.atptour.com/en/news/cerundolo-nomadic-life-june-2023",
-    "https://lavercup.com/player/francisco-cerundolo"
-   ],
-   "verified": true,
-   "researchedAt": "2026-09-04T17:11:02Z",
-   "factCheck": {
-    "checkedAt": "2026-09-04T21:53:16Z",
-    "notes": [
-     "birthDate/height/plays/hometown: Wikipedia + Laver Cup profile (185 cm). Seed 24 / ranking 25 match schedule.json; Wikipedia table shows him unseeded but usopen.org feed is authoritative.",
-     "ATP bio confirms nickname Fran, math, burgers/asado, Gladiator, River Plate, sister's 2018 Youth Olympic hockey gold, singing. ATP nomadic-life article confirms speaker and passport story. Wikipedia confirms brothers in top 100 (2022) and 2026 Queen's title."
-    ],
-    "changes": [
-     "Story: 'grew up at family academy' rephrased to sourced version (parents run academy in Buenos Aires, started at 5).",
-     "Passport fact: 'sleep at the airport' unsupported; changed to 'missed his plane'."
-    ]
-   },
-   "matchTier": 1
-  },
-  {
-   "slug": "alejandro-tabilo",
-   "name": "Alejandro Tabilo",
-   "country": "CL",
-   "countryName": "Chile",
-   "flagEmoji": "🇨🇱",
-   "birthDate": "1997-06-02",
-   "age": 29,
-   "seed": 25,
-   "ranking": 28,
-   "draw": "men",
-   "tier": 2,
-   "plays": "Left-handed, two-handed backhand",
-   "heightCm": 188,
-   "hometown": "Santiago, Chile (born in Toronto, Canada)",
-   "nicknameOrTagline": "Jano",
-   "intro": "Alejandro Tabilo is a lefty from Chile. A lefty hits with his left hand. His friends call him Jano.",
-   "story": "Jano started tennis by copying his big brother Sebastian. At 13 he left home to train in Florida. Later he moved to Chile and became its best player. In 2024 he beat superstar Novak Djokovic in Rome. Then he did it again in 2025!",
-   "funFacts": [
-    {
-     "text": "His secret talent is chess.",
-     "source": "https://www.atptour.com/en/players/alejandro-tabilo/te30/bio"
-    },
-    {
-     "text": "His favorite food is popcorn. His favorite treat is ice cream.",
-     "source": "https://www.atptour.com/en/players/alejandro-tabilo/te30/bio"
-    },
-    {
-     "text": "Favorite school subject? Gym class, of course.",
-     "source": "https://www.atptour.com/en/players/alejandro-tabilo/te30/bio"
-    },
-    {
-     "text": "He was born in Toronto, Canada. His parents are both from Chile.",
-     "source": "https://en.wikipedia.org/wiki/Alejandro_Tabilo"
-    },
-    {
-     "text": "He beat world No. 1 Novak Djokovic in Rome in 2024.",
-     "source": "https://en.wikipedia.org/wiki/Alejandro_Tabilo"
-    },
-    {
-     "text": "His favorite shot is the drop shot, a sneaky soft shot. His idol is lefty Rafael Nadal.",
-     "source": "https://www.atptour.com/en/players/alejandro-tabilo/te30/bio"
-    },
-    {
-     "text": "His favorite superhero is Superman.",
-     "source": "https://www.atptour.com/en/players/alejandro-tabilo/te30/bio"
-    }
-   ],
-   "watchFor": "Watch his lefty serve curve out wide, then spot his sneaky drop shot.",
-   "matchTomorrow": {
-    "opponent": "Alexander Zverev",
-    "opponentSlug": "alexander-zverev",
-    "court": "TBD",
-    "session": "TBD",
-    "order": null,
-    "startTimeET": null,
-    "matchId": "m1"
-   },
-   "photo": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Tabilo_RGQ23_%2852942983162%29.jpg",
-    "localPath": "img/players/alejandro-tabilo.jpg",
-    "license": "CC BY-SA 2.0",
-    "author": "si.robi",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ATabilo_RGQ23_%2852942983162%29.jpg",
-    "title": "File:Tabilo_RGQ23_(52942983162).jpg",
-    "exists": true
-   },
-   "sources": [
-    "https://en.wikipedia.org/wiki/Alejandro_Tabilo",
-    "https://www.atptour.com/en/players/alejandro-tabilo/te30/bio",
-    "https://www.tennismajors.com/atp/chile-canada-djokovic-everything-you-always-wanted-to-know-about-alejandro-tabilo-but-never-had-time-to-find-out-760301.html",
-    "https://www.tennis-prose.com/bios/biofile-alejandro-tabilo-interview/"
-   ],
-   "verified": true,
-   "researchedAt": "2026-09-04T17:16:31+00:00",
-   "factCheck": {
-    "checkedAt": "2026-09-04T21:52:28+00:00",
-    "notes": [
-     "Birth 1997-06-02 Toronto, Chilean parents, left-handed/2HBH, 188 cm, beat No. 1 Djokovic Rome 2024 and again Monte Carlo 2025, current Chilean No. 1: confirmed on Wikipedia.",
-     "Nickname Jano, brother Sebastian, left home at 13 for Florida, chess, popcorn, ice cream, gym, drop shot, Nadal idol, Superman: all confirmed on ATP bio page.",
-     "Hometown Santiago: tennismajors interview ('When I was around 18, I moved to Santiago').",
-     "Seed 25 / ranking 28 / opponent Zverev match schedule.json. No text changes needed."
-    ],
-    "changes": []
-   },
-   "matchTier": 1
+   "matchTier": 2,
+   "playsSaturday": true,
+   "round": "Third round"
   },
   {
    "slug": "marie-bouzkova",
@@ -2273,11 +2929,16 @@
    "matchTomorrow": {
     "opponent": "Iga Swiatek",
     "opponentSlug": "iga-swiatek",
-    "court": "TBD",
-    "session": "TBD",
-    "order": null,
+    "court": "Grandstand",
+    "session": "day",
+    "order": 2,
     "startTimeET": null,
-    "matchId": "m13"
+    "matchId": "m13",
+    "round": "Third round",
+    "day": "2026-09-05",
+    "status": "scheduled",
+    "winnerSlug": null,
+    "score": null
    },
    "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Marie_Bouzkov%C3%A1_%282023_US_Open%29_26_%28cropped2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -2309,94 +2970,9 @@
      "Wordle 'every day' -> 'in her free time'."
     ]
    },
-   "matchTier": 1
-  },
-  {
-   "slug": "alexander-blockx",
-   "name": "Alexander Blockx",
-   "country": "BE",
-   "countryName": "Belgium",
-   "flagEmoji": "🇧🇪",
-   "birthDate": "2005-04-08",
-   "age": 21,
-   "seed": 28,
-   "ranking": 34,
-   "draw": "men",
-   "tier": 2,
-   "plays": "Right-handed, two-handed backhand",
-   "heightCm": 193,
-   "hometown": "Antwerp, Belgium",
-   "nicknameOrTagline": "Big Server from Belgium",
-   "intro": "Alexander Blockx is a tall young player from Belgium. He is only 21. He is already the best player in his country.",
-   "story": "Alexander started tennis at age four. He tagged along to his big brother's lessons. The coach asked if he wanted to try. He said yes, and he never stopped! In 2023 he won the junior title at the Australian Open.",
-   "funFacts": [
-    {
-     "text": "His dad was a hurdle runner. His mom was a swimmer.",
-     "source": "https://www.atptour.com/en/news/blockx-saint-tropez-challenger-2024-feature"
-    },
-    {
-     "text": "He is a tennis trivia whiz. He remembers old match scores.",
-     "source": "https://www.atptour.com/en/news/blockx-saint-tropez-challenger-2024-feature"
-    },
-    {
-     "text": "As a kid fan, he got a photo with star Daniil Medvedev. Now they share the stage at events.",
-     "source": "https://www.tennis.com/news/articles/alexander-blockx-full-circle-medvedev-goffin-belgium-roland-garros-interview"
-    },
-    {
-     "text": "He had the same coach from age 4 until this year. That is 16 years!",
-     "source": "https://www.atptour.com/en/players/alexander-blockx/b0pg/bio"
-    },
-    {
-     "text": "He won 42 of 45 matches in under-12 tournaments.",
-     "source": "https://www.atptour.com/en/news/blockx-saint-tropez-challenger-2024-feature"
-    },
-    {
-     "text": "This spring he reached the semifinals of a big tournament in Madrid.",
-     "source": "https://en.wikipedia.org/wiki/Alexander_Blockx"
-    },
-    {
-     "text": "He is 6 feet 4 inches tall. That is a lot of reach!",
-     "source": "https://en.wikipedia.org/wiki/Alexander_Blockx"
-    }
-   ],
-   "watchFor": "Watch his booming serve come down fast and bounce up high.",
-   "matchTomorrow": {
-    "opponent": "Flavio Cobolli",
-    "opponentSlug": "flavio-cobolli",
-    "court": "TBD",
-    "session": "TBD",
-    "order": null,
-    "startTimeET": null,
-    "matchId": "m8"
-   },
-   "photo": {
-    "localPath": "img/players/alexander-blockx.svg",
-    "license": "generated",
-    "author": "site",
-    "sourceUrl": null,
-    "url": null,
-    "isAvatar": true,
-    "exists": true
-   },
-   "sources": [
-    "https://en.wikipedia.org/wiki/Alexander_Blockx",
-    "https://www.atptour.com/en/news/blockx-saint-tropez-challenger-2024-feature",
-    "https://www.atptour.com/en/players/alexander-blockx/b0pg/bio",
-    "https://www.tennis.com/news/articles/alexander-blockx-full-circle-medvedev-goffin-belgium-roland-garros-interview",
-    "https://tennisnow.com/alexander-blockx-former-junior-no-1-is-rising-rapidly-in-madrid/"
-   ],
-   "verified": true,
-   "researchedAt": "2026-09-04T17:16:31+00:00",
-   "factCheck": {
-    "checkedAt": "2026-09-04T21:52:28+00:00",
-    "notes": [
-     "Birth 2005-04-08 Antwerp, R-handed/2HBH, 193 cm, parents Oleg (hurdles) and Natalia (swimmer), 2023 AO boys' title over Learner Tien, junior No. 1, coach Cassiers 2010-Apr 2026, 2026 Madrid SF, Belgian No. 1, started at 4 via brother's lessons: confirmed on Wikipedia.",
-     "Trivia memory, 42 of 45 U12 matches, parents' sports: confirmed in ATP Saint-Tropez feature. Medvedev fan photo (Next Gen Finals) and later sharing a stage (Tecnifibre event RG 2026): confirmed in tennis.com interview.",
-     "Ranking 34 per schedule.json (Wikipedia shows 32 as of late July; schedule feed is authoritative). Seed 28 / opponent Cobolli match."
-    ],
-    "changes": []
-   },
-   "matchTier": 1
+   "matchTier": 1,
+   "playsSaturday": true,
+   "round": "Third round"
   },
   {
    "slug": "zizou-bergs",
@@ -2446,11 +3022,16 @@
    "matchTomorrow": {
     "opponent": "Botic van de Zandschulp",
     "opponentSlug": "botic-van-de-zandschulp",
-    "court": "TBD",
-    "session": "TBD",
-    "order": null,
-    "startTimeET": null,
-    "matchId": "m4"
+    "court": "Court 17",
+    "session": "day",
+    "order": 4,
+    "startTimeET": "16:30",
+    "matchId": "m4",
+    "round": "Third round",
+    "day": "2026-09-05",
+    "status": "scheduled",
+    "winnerSlug": null,
+    "score": null
    },
    "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Zizou_Bergs_%282023_US_Open%29_03_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -2486,7 +3067,9 @@
      "Reworded watchFor to a supportable claim."
     ]
    },
-   "matchTier": 2
+   "matchTier": 2,
+   "playsSaturday": true,
+   "round": "Third round"
   },
   {
    "slug": "arthur-gea",
@@ -2540,11 +3123,16 @@
    "matchTomorrow": {
     "opponent": "Michael Zheng",
     "opponentSlug": "michael-zheng",
-    "court": "TBD",
-    "session": "TBD",
-    "order": null,
+    "court": "Grandstand",
+    "session": "day",
+    "order": 3,
     "startTimeET": null,
-    "matchId": "m3"
+    "matchId": "m3",
+    "round": "Third round",
+    "day": "2026-09-05",
+    "status": "scheduled",
+    "winnerSlug": null,
+    "score": null
    },
    "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Gea_RGQ23_%2852944097158%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -2583,7 +3171,9 @@
      "Lucky-loser fact: source changed from tennistemple.com (403) to atptour.com."
     ]
    },
-   "matchTier": 3
+   "matchTier": 3,
+   "playsSaturday": true,
+   "round": "Third round"
   },
   {
    "slug": "benjamin-bonzi",
@@ -2637,11 +3227,16 @@
    "matchTomorrow": {
     "opponent": "Karen Khachanov",
     "opponentSlug": "karen-khachanov",
-    "court": "TBD",
-    "session": "TBD",
-    "order": null,
+    "court": "Court 17",
+    "session": "day",
+    "order": 3,
     "startTimeET": null,
-    "matchId": "m5"
+    "matchId": "m5",
+    "round": "Third round",
+    "day": "2026-09-05",
+    "status": "scheduled",
+    "winnerSlug": null,
+    "score": null
    },
    "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Bonzi_MLC21_%282%29_%2851602502868%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -2674,7 +3269,9 @@
      "Story: 'That is a record!' -> 'That ties the all-time record!' (six Challenger titles in a season ties, not breaks, the record)."
     ]
    },
-   "matchTier": 3
+   "matchTier": 3,
+   "playsSaturday": true,
+   "round": "Third round"
   },
   {
    "slug": "botic-van-de-zandschulp",
@@ -2728,11 +3325,16 @@
    "matchTomorrow": {
     "opponent": "Zizou Bergs",
     "opponentSlug": "zizou-bergs",
-    "court": "TBD",
-    "session": "TBD",
-    "order": null,
-    "startTimeET": null,
-    "matchId": "m4"
+    "court": "Court 17",
+    "session": "day",
+    "order": 4,
+    "startTimeET": "16:30",
+    "matchId": "m4",
+    "round": "Third round",
+    "day": "2026-09-05",
+    "status": "scheduled",
+    "winnerSlug": null,
+    "score": null
    },
    "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Van_de_Zandschulp_MCM22_%2811%29_%2852036444288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -2764,97 +3366,9 @@
      "Reworded 'farm town' to 'a Dutch city known for farming'."
     ]
    },
-   "matchTier": 2
-  },
-  {
-   "slug": "cristina-bucsa",
-   "name": "Cristina Bucșa",
-   "country": "ES",
-   "countryName": "Spain",
-   "flagEmoji": "🇪🇸",
-   "birthDate": "1998-01-01",
-   "age": 28,
-   "seed": null,
-   "ranking": 40,
-   "draw": "women",
-   "tier": 3,
-   "plays": "Right-handed, two-handed backhand",
-   "heightCm": 176,
-   "hometown": "Torrelavega, Spain (born in Chișinău, Moldova)",
-   "nicknameOrTagline": "The Quiet Olympian",
-   "intro": "Cristina Bucșa plays for Spain. She was born in Moldova and moved to Spain at age three. She won an Olympic bronze medal in doubles in 2024.",
-   "story": "Cristina's dad Ion was an Olympic biathlete. That is skiing plus target shooting! He carried Moldova's flag at two Winter Olympics. Now he is her coach. This year she won her first big singles title in Mexico.",
-   "funFacts": [
-    {
-     "text": "Her birthday is January 1. She is a New Year's baby!",
-     "source": "https://en.wikipedia.org/wiki/Cristina_Buc%C8%99a"
-    },
-    {
-     "text": "She speaks four languages: Spanish, Romanian, English and French. She is learning Korean too.",
-     "source": "https://en.wikipedia.org/wiki/Cristina_Buc%C8%99a"
-    },
-    {
-     "text": "She has a blue belt in karate.",
-     "source": "https://www.wtatennis.com/news/4301091/from-no-shoes-to-finding-her-footing-bucsa-is-moving-up-at-wimbledon"
-    },
-    {
-     "text": "She once played Wimbledon in too-big shoes stuffed with socks. She still won!",
-     "source": "https://www.wtatennis.com/news/4301091/from-no-shoes-to-finding-her-footing-bucsa-is-moving-up-at-wimbledon"
-    },
-    {
-     "text": "She has no Instagram or TikTok. She says she is too busy training.",
-     "source": "https://www.claytenis.com/features/cristina-bucsa-when-spains-no-1-doesnt-want-you-to-find-her/"
-    },
-    {
-     "text": "In spring at home she can ski in the morning and swim in the sea after lunch.",
-     "source": "https://www.wtatennis.com/news/4301091/from-no-shoes-to-finding-her-footing-bucsa-is-moving-up-at-wimbledon"
-    },
-    {
-     "text": "At age seven she was already the best under-10 player in her region.",
-     "source": "https://www.claytenis.com/features/cristina-bucsa-when-spains-no-1-doesnt-want-you-to-find-her/"
-    }
-   ],
-   "watchFor": "Watch her rush to the net for quick volleys, like a doubles champ.",
-   "matchTomorrow": {
-    "opponent": "Coco Gauff",
-    "opponentSlug": "coco-gauff",
-    "court": "TBD",
-    "session": "TBD",
-    "order": null,
-    "startTimeET": null,
-    "matchId": "m12"
-   },
-   "photo": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Cristina_Buc%C8%99a_%282025_DC_Open%29_03_%28cropped%29.jpg",
-    "localPath": "img/players/cristina-bucsa.jpg",
-    "license": "CC BY-SA 4.0",
-    "author": "Hameltion",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ACristina_Buc%C8%99a_%282025_DC_Open%29_03_%28cropped%29.jpg",
-    "title": "File:Cristina_Bucșa_(2025_DC_Open)_03_(cropped).jpg",
-    "exists": true
-   },
-   "sources": [
-    "https://en.wikipedia.org/wiki/Cristina_Buc%C8%99a",
-    "https://www.wtatennis.com/news/4301091/from-no-shoes-to-finding-her-footing-bucsa-is-moving-up-at-wimbledon",
-    "https://www.claytenis.com/features/cristina-bucsa-when-spains-no-1-doesnt-want-you-to-find-her/"
-   ],
-   "verified": true,
-   "researchedAt": "2026-09-04T17:16:31+00:00",
-   "factCheck": {
-    "checkedAt": "2026-09-04T21:52:28+00:00",
-    "notes": [
-     "Birth 1998-01-01 Chisinau, moved to Cantabria at 3, resides Torrelavega, R-handed/2HBH, 176 cm, father Ion Olympic biathlete and flag bearer 1998/2002 and her coach, Paris 2024 doubles bronze with Sorribes Tormo, first WTA singles title Merida 2026, speaks Spanish/Romanian/English/French: confirmed on Wikipedia.",
-     "Karate blue belt, oversized-shoes Wimbledon qualifying win, studying Korean, no social media: WTA article 4301091. Regional U10 champion at seven: claytenis.",
-     "Unseeded / ranking 40 / opponent Gauff match schedule.json."
-    ],
-    "changes": [
-     "Story: 'Olympic skier and shooter' -> 'Olympic biathlete (skiing and shooting)' per Wikipedia/claytenis.",
-     "Fun fact 2 (languages): four languages sourced to Wikipedia; Korean study remains from WTA article.",
-     "Fun fact 5: reworded to match her quote ('I don't have time. I'm working so hard').",
-     "Fun fact 6 (ski/swim): claytenis did not contain it; re-sourced to WTA article and reworded ('in spring')."
-    ]
-   },
-   "matchTier": 1
+   "matchTier": 2,
+   "playsSaturday": true,
+   "round": "Third round"
   },
   {
    "slug": "dane-sweeny",
@@ -2908,11 +3422,16 @@
    "matchTomorrow": {
     "opponent": "Luciano Darderi",
     "opponentSlug": "luciano-darderi",
-    "court": "TBD",
-    "session": "TBD",
-    "order": null,
+    "court": "Court 5",
+    "session": "day",
+    "order": 3,
     "startTimeET": null,
-    "matchId": "m2"
+    "matchId": "m2",
+    "round": "Third round",
+    "day": "2026-09-05",
+    "status": "scheduled",
+    "winnerSlug": null,
+    "score": null
    },
    "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Sweeny_WMQ23_%2853062168553%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -2949,7 +3468,9 @@
      "'slow breathing' -> 'mindful breathing'."
     ]
    },
-   "matchTier": 2
+   "matchTier": 2,
+   "playsSaturday": true,
+   "round": "Third round"
   },
   {
    "slug": "karen-khachanov",
@@ -3003,11 +3524,16 @@
    "matchTomorrow": {
     "opponent": "Benjamin Bonzi",
     "opponentSlug": "benjamin-bonzi",
-    "court": "TBD",
-    "session": "TBD",
-    "order": null,
+    "court": "Court 17",
+    "session": "day",
+    "order": 3,
     "startTimeET": null,
-    "matchId": "m5"
+    "matchId": "m5",
+    "round": "Third round",
+    "day": "2026-09-05",
+    "status": "scheduled",
+    "winnerSlug": null,
+    "score": null
    },
    "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Karen_Khachanov_%282024_DC_Open%29_02.jpg",
@@ -3042,7 +3568,9 @@
      "Story: replaced unsourced 'grew up watching big tournaments in Moscow' with 'decided to become a pro player when he was 12' (Wikipedia)."
     ]
    },
-   "matchTier": 3
+   "matchTier": 3,
+   "playsSaturday": true,
+   "round": "Third round"
   },
   {
    "slug": "michael-zheng",
@@ -3096,11 +3624,16 @@
    "matchTomorrow": {
     "opponent": "Arthur Gea",
     "opponentSlug": "arthur-gea",
-    "court": "TBD",
-    "session": "TBD",
-    "order": null,
+    "court": "Grandstand",
+    "session": "day",
+    "order": 3,
     "startTimeET": null,
-    "matchId": "m3"
+    "matchId": "m3",
+    "round": "Third round",
+    "day": "2026-09-05",
+    "status": "scheduled",
+    "winnerSlug": null,
+    "score": null
    },
    "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Michael_Zheng_%282023_US_Open%29_13_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -3136,7 +3669,9 @@
      "Dad/sister fact: source URL changed to ATP Challenger 2025 feature (which has the Federer detail); sister Amy is from the ATP AO 2026 feature."
     ]
    },
-   "matchTier": 3
+   "matchTier": 3,
+   "playsSaturday": true,
+   "round": "Third round"
   },
   {
    "slug": "nikola-bartunkova",
@@ -3194,11 +3729,16 @@
    "matchTomorrow": {
     "opponent": "Mirra Andreeva",
     "opponentSlug": "mirra-andreeva",
-    "court": "TBD",
-    "session": "TBD",
-    "order": null,
+    "court": "Court 17",
+    "session": "day",
+    "order": 2,
     "startTimeET": null,
-    "matchId": "m9"
+    "matchId": "m9",
+    "round": "Third round",
+    "day": "2026-09-05",
+    "status": "in_progress",
+    "winnerSlug": null,
+    "score": null
    },
    "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Nikola_Bart%C5%AF%C5%88kov%C3%A1_Birmingham_2026_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -3232,7 +3772,9 @@
      "Added WTA-sourced music fun fact."
     ]
    },
-   "matchTier": 1
+   "matchTier": 1,
+   "playsSaturday": true,
+   "round": "Third round"
   },
   {
    "slug": "yuliia-starodubtseva",
@@ -3286,11 +3828,16 @@
    "matchTomorrow": {
     "opponent": "Elena Rybakina",
     "opponentSlug": "elena-rybakina",
-    "court": "TBD",
-    "session": "TBD",
-    "order": null,
-    "startTimeET": null,
-    "matchId": "m16"
+    "court": "Grandstand",
+    "session": "day",
+    "order": 4,
+    "startTimeET": "17:00",
+    "matchId": "m16",
+    "round": "Third round",
+    "day": "2026-09-05",
+    "status": "scheduled",
+    "winnerSlug": null,
+    "score": null
    },
    "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Yuliia_Starodubtseva_%282023_US_Open%29_07_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -3325,7 +3872,9 @@
      "watchFor: removed unsourced flags line; replaced with WTA-sourced match description."
     ]
    },
-   "matchTier": 1
+   "matchTier": 1,
+   "playsSaturday": true,
+   "round": "Third round"
   },
   {
    "slug": "qinwen-zheng",
@@ -3379,11 +3928,16 @@
    "matchTomorrow": {
     "opponent": "Madison Keys",
     "opponentSlug": "madison-keys",
-    "court": "TBD",
-    "session": "TBD",
-    "order": null,
-    "startTimeET": null,
-    "matchId": "m14"
+    "court": "Grandstand",
+    "session": "day",
+    "order": 1,
+    "startTimeET": "11:00",
+    "matchId": "m14",
+    "round": "Third round",
+    "day": "2026-09-05",
+    "status": "completed",
+    "winnerSlug": "qinwen-zheng",
+    "score": "1-6 7-6(3) 7-5"
    },
    "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Zheng_Qinwen_%282024_US_Open%29_01_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -3421,7 +3975,9 @@
      "Re-sourced and reworded 2,800 rpm fact."
     ]
    },
-   "matchTier": 2
+   "matchTier": 2,
+   "playsSaturday": true,
+   "round": "Third round"
   }
  ]
 }

@@ -257,7 +257,10 @@
     if (!playsToday(p)) return '<span class="tag chip sun">📅 Sun</span>';
     var c = courtOf(p); if (isTBD(c)) return '';
     var st = (matchOf(p) || {}).status;
-    return '<span class="tag chip' + (st === 'in_progress' ? ' live' : st === 'completed' ? ' done' : '') + '">' + courtIcon(c) + ' ' + esc(shortCourt(c)) + (st === 'in_progress' ? ' · On now' : st === 'completed' ? ' · Done' : '') + '</span>';
+    // Status wins over the court name on the small card chip (the court is in the detail sheet anyway).
+    if (st === 'in_progress') return '<span class="tag chip live">🔴 On now</span>';
+    if (st === 'completed') return '<span class="tag chip done">✅ Done</span>';
+    return '<span class="tag chip">' + courtIcon(c) + ' ' + esc(shortCourt(c)) + '</span>';
   }
   function playerCard(p) {
     return '<div class="card-wrap">' +

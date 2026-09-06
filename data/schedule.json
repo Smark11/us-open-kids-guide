@@ -531,9 +531,9 @@
    "round": "Third round",
    "day": "2026-09-05",
    "startTimeNote": null,
-   "status": "in_progress",
-   "winnerSlug": null,
-   "score": null
+   "status": "completed",
+   "winnerSlug": "naomi-osaka",
+   "score": "6-3 3-6 7-5"
   },
   {
    "id": "m16",
@@ -2257,5 +2257,5 @@
   }
  ],
  "sundayOrderOfPlayPublished": true,
- "statusFetchedAt": "2026-09-05T21:22"
+ "statusFetchedAt": "2026-09-05T21:54"
 }

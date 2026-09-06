@@ -78,7 +78,9 @@ Decisions: Sabalenka, Medvedev, Kalinskaya shown with 🎾 / "Plays without a fl
 | Research (16) | DONE | 4 batches, fetch-only (search budget exhausted). 15/16 Commons photos; Daniel Mérida has none → avatar (2nd waiver). |
 | Fact check | DONE | 16/16 verified. Notable: Bublik Halle/Sinner sequencing fixed; Fernandez "three top-5 in a row" corrected; Vacherot birthplace conflict (ATP: Monaco, Wikipedia: Roquebrune) noted; Rakhimova–Venus Williams win confirmed. |
 | UI v3 | LIVE | "🏁 Finished Friday" pill, default view is now **All** (user couldn't find Alcaraz under the Sunday pill), muted eliminated cards, kind "Friday's match" box, collapsed Friday results block. SW v7. |
-| Kid editor | RUNNING | baseline: 2 of 64 over grade 4.5 |
-| Gate / QA / Deploy | pending | |
+| Kid editor | DONE | 64/64 at FK grade <= 4.5 (max 4.4). |
+| Gate 1c (16 Friday) | PASS | 16/16 verified, 0 inappropriate hits, 0 negative loss framing, 5/5 spot-checks, personas 5/5. Fixes applied (Mérida birthday wording, Shnaider PG-13 movie fact cut, kinder "Played X on Friday" line). |
+| QA (64 players) | PASS | 0 console errors, 64/64 cards, pills 32/16/16/64, SW v7 71 entries, credits 62/62, chip contrast 11:1. Card chip clipping at 390 fixed after (status-only chip). |
+| Deploy | LIVE | 64 players; SW v8; scores refreshed 9:54 PM (Osaka d. Mertens added). |
 
 Outage: API session limit hit again ~6:20 PM (reset 6:30 PM); scout + builder relaunched at 9:20 PM.

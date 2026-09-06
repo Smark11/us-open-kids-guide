@@ -528,9 +528,9 @@
    "round": "Third round",
    "day": "2026-09-05",
    "startTimeNote": null,
-   "status": "in_progress",
-   "winnerSlug": null,
-   "score": null
+   "status": "completed",
+   "winnerSlug": "naomi-osaka",
+   "score": "6-3 3-6 7-5"
   },
   {
    "id": "m16",
@@ -1387,7 +1387,7 @@
    ]
   }
  ],
- "generatedAt": "2026-09-05T21:43:50",
+ "generatedAt": "2026-09-05T21:54:05",
  "players": [
   {
    "slug": "alexander-zverev",
@@ -2228,9 +2228,9 @@
     "matchId": "m15",
     "round": "Third round",
     "day": "2026-09-05",
-    "status": "in_progress",
-    "winnerSlug": null,
-    "score": null
+    "status": "completed",
+    "winnerSlug": "naomi-osaka",
+    "score": "6-3 3-6 7-5"
    },
    "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Naomi_Osaka_%2827849801707%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -2742,9 +2742,9 @@
     "matchId": "m15",
     "round": "Third round",
     "day": "2026-09-05",
-    "status": "in_progress",
-    "winnerSlug": null,
-    "score": null
+    "status": "completed",
+    "winnerSlug": "naomi-osaka",
+    "score": "6-3 3-6 7-5"
    },
    "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Elise_Mertens_%282024_DC_Open%29_06_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",

@@ -38,8 +38,8 @@ for f in sorted(glob.glob(os.path.join(ROOT, "data/players/*.json"))):
         p["photo"]["exists"] = os.path.exists(os.path.join(ROOT, p["photo"]["localPath"]))
     players.append(p)
 players.sort(key=lambda p: (not p.get("playsSaturday", True), p.get("eliminated", False), p.get("tier", 3), p.get("seed") or 999, p["name"]))
-# Friday (2026-09-04) matches only render once the v3 UI ships; set MERGE_INCLUDE_FRIDAY=1 to include them.
-include_friday = os.environ.get("MERGE_INCLUDE_FRIDAY") == "1"
+# Friday (2026-09-04) matches are included since the v3 UI (Finished Friday state); set MERGE_INCLUDE_FRIDAY=0 to drop them.
+include_friday = os.environ.get("MERGE_INCLUDE_FRIDAY", "1") == "1"
 out_matches = [m for m in sched["matches"] if include_friday or m.get("day") != "2026-09-04"]
 out = {"config": cfg, "schedule": {k: sched[k] for k in ("date", "round", "orderOfPlayPublished", "fetchedAt")}, "matches": out_matches,
        "generatedAt": datetime.datetime.now().isoformat(timespec="seconds"), "players": players}

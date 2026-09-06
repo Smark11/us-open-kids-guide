@@ -70,3 +70,15 @@ Target: Saturday, September 5, 2026 (Day 6, third round). Build started 2026-09-
 | Deploy | LIVE | 48 players, scores refreshed at push time; SW v6. |
 
 Decisions: Sabalenka, Medvedev, Kalinskaya shown with 🎾 / "Plays without a flag" like Andreeva and Khachanov. Session web-search budget hit 200/200 during batch I fact-check; remaining agents use direct fetch only.
+
+## v3 — Saturday Sept 5 evening (user request: "expand for all 64 from both brackets")
+| Step | Status | Notes |
+|---|---|---|
+| Schedule | DONE | Friday R3 matches m25–m40 + 16 eliminated players added (`eliminated: true`); Sunday players got `fridayMatchId`. Saturday results refreshed at 9:22 PM (10 done, 4 in progress, 2 not started). |
+| Research (16) | DONE | 4 batches, fetch-only (search budget exhausted). 15/16 Commons photos; Daniel Mérida has none → avatar (2nd waiver). |
+| Fact check | DONE | 16/16 verified. Notable: Bublik Halle/Sinner sequencing fixed; Fernandez "three top-5 in a row" corrected; Vacherot birthplace conflict (ATP: Monaco, Wikipedia: Roquebrune) noted; Rakhimova–Venus Williams win confirmed. |
+| UI v3 | LIVE | "🏁 Finished Friday" pill, default view is now **All** (user couldn't find Alcaraz under the Sunday pill), muted eliminated cards, kind "Friday's match" box, collapsed Friday results block. SW v7. |
+| Kid editor | RUNNING | baseline: 2 of 64 over grade 4.5 |
+| Gate / QA / Deploy | pending | |
+
+Outage: API session limit hit again ~6:20 PM (reset 6:30 PM); scout + builder relaunched at 9:20 PM.

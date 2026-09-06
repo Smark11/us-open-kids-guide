@@ -1,0 +1,87 @@
+{
+  "slug": "valentin-vacherot",
+  "name": "Valentin Vacherot",
+  "country": "MC",
+  "countryName": "Monaco",
+  "flagEmoji": "🇲🇨",
+  "birthDate": "1998-11-16",
+  "age": 27,
+  "seed": 22,
+  "ranking": 23,
+  "draw": "men",
+  "tier": 1,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 193,
+  "hometown": "Monaco",
+  "nicknameOrTagline": "Val",
+  "intro": "Valentin Vacherot plays for tiny Monaco. Friends call him Val. He is the star of one of tennis's best surprise stories.",
+  "story": "Val went to college in Texas. He played for Texas A&M. Last year he was ranked No. 204. Then he won the big Shanghai tournament out of nowhere! In the final he beat his own cousin, Arthur. His big brother Benjamin is his coach. This week he won two matches in New York. Next time, watch that serve!",
+  "funFacts": [
+    {
+      "text": "He loves pizza and pasta. His guilty pleasure is Haribo candy.",
+      "source": "https://www.atptour.com/en/players/valentin-vacherot/va25/bio"
+    },
+    {
+      "text": "He grew up skiing before he chose tennis.",
+      "source": "https://www.atptour.com/en/players/valentin-vacherot/va25/bio"
+    },
+    {
+      "text": "He went to college in Texas with his cousin Arthur.",
+      "source": "https://www.atptour.com/en/players/valentin-vacherot/va25/bio"
+    },
+    {
+      "text": "He speaks French and English.",
+      "source": "https://www.atptour.com/en/players/valentin-vacherot/va25/bio"
+    },
+    {
+      "text": "He loves Formula 1 car racing and the AS Monaco soccer team.",
+      "source": "https://www.atptour.com/en/players/valentin-vacherot/va25/bio"
+    },
+    {
+      "text": "His favorite TV show is Friends.",
+      "source": "https://www.atptour.com/en/players/valentin-vacherot/va25/bio"
+    },
+    {
+      "text": "He beat Novak Djokovic on the way to his Shanghai title.",
+      "source": "https://en.wikipedia.org/wiki/Valentin_Vacherot"
+    }
+  ],
+  "watchFor": "Watch his serve, his favorite shot, and notice how tall he is.",
+  "matchTomorrow": {
+    "opponent": "Frances Tiafoe",
+    "opponentSlug": "frances-tiafoe",
+    "court": "Louis Armstrong Stadium",
+    "session": "night",
+    "matchId": "m28"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Valentin_Vacherot_2025_Swiss_Indoors.jpg",
+    "localPath": "img/players/valentin-vacherot.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Skyscraper2010",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AValentin_Vacherot_2025_Swiss_Indoors.jpg",
+    "title": "File:Valentin_Vacherot_2025_Swiss_Indoors.jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Valentin_Vacherot",
+    "https://en.wikipedia.org/w/index.php?title=Valentin_Vacherot&action=raw",
+    "https://www.atptour.com/en/players/valentin-vacherot/va25/bio",
+    "data/schedule.json"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-05T22:10:00Z",
+  "eliminated": true,
+  "factCheck": {
+    "checkedAt": "2026-09-05T23:30:00Z",
+    "notes": [
+      "Birth date 1998-11-16 (age 27), 193 cm, right-handed/two-handed backhand, represents Monaco: Wikipedia confirms.",
+      "Birthplace conflict: Wikipedia infobox says Roquebrune-Cap-Martin, France ('raised in a border-town by Monaco'); ATP bio says 'born in Monaco'. Hometown set to 'Monaco' per ATP bio and because he represents and trains in Monaco.",
+      "Seed 22 / ranking 23 / opponent Frances Tiafoe / Louis Armstrong night m28 match data/schedule.json (lost 4-6 2-6 4-6).",
+      "Texas A&M, No. 204 before Shanghai 2025, beat Djokovic in SF, beat cousin Arthur Rinderknech in final, coached by elder half-brother Benjamin Balleret: Wikipedia. Nickname Val, skiing, French/English, pizza/pasta, Haribo, Formula 1, AS Monaco, Friends, serve favorite shot, college with cousin: ATP bio. 'Big brother' kept for the half-brother."
+    ],
+    "changes": [
+      "Hometown changed from 'Roquebrune-Cap-Martin, France' to 'Monaco'.",
+      "Added eliminated: true."
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "mariano-navone",
+  "name": "Mariano Navone",
+  "country": "AR",
+  "countryName": "Argentina",
+  "flagEmoji": "🇦🇷",
+  "birthDate": "2001-02-27",
+  "age": 25,
+  "seed": null,
+  "ranking": 49,
+  "draw": "men",
+  "tier": 2,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 178,
+  "hometown": "Nueve de Julio, Argentina",
+  "nicknameOrTagline": "La Navoneta",
+  "intro": "Mariano Navone is from a small city in Argentina. Fans call him La Navoneta. He is famous for his big smile and his dance moves.",
+  "story": "Mariano grew up in Nueve de Julio. His city is famous for car racing. He started tennis at age three. His mom, dad and sister all play too! In April he won his first ATP title in Bucharest. Then in New York he beat the legend Novak Djokovic. It took five sets and more than four and a half hours. He called it a dream come true. Next time, watch for his dance!",
+  "funFacts": [
+    {
+      "text": "As a newborn baby, he got a rattle shaped like a tennis racket!",
+      "source": "https://www.lanacion.com.ar/deportes/tenis/mariano-navone-de-imitar-a-la-legion-por-tv-en-una-ciudad-fierrera-a-sonar-desafios-contra-alcaraz-y-nid15112023/"
+    },
+    {
+      "text": "His hometown has a famous racetrack. His dad took him to car races as a kid.",
+      "source": "https://www.lanacion.com.ar/deportes/tenis/mariano-navone-de-imitar-a-la-legion-por-tv-en-una-ciudad-fierrera-a-sonar-desafios-contra-alcaraz-y-nid15112023/"
+    },
+    {
+      "text": "He loves NBA basketball. He cheers for the soccer club Argentinos Juniors.",
+      "source": "https://www.lanacion.com.ar/deportes/tenis/mariano-navone-de-imitar-a-la-legion-por-tv-en-una-ciudad-fierrera-a-sonar-desafios-contra-alcaraz-y-nid15112023/"
+    },
+    {
+      "text": "He loves to dance and do funny impressions of other athletes.",
+      "source": "https://www.lanacion.com.ar/deportes/tenis/mariano-navone-de-imitar-a-la-legion-por-tv-en-una-ciudad-fierrera-a-sonar-desafios-contra-alcaraz-y-nid15112023/"
+    },
+    {
+      "text": "He likes to joke around with the ball kids during matches.",
+      "source": "https://www.lanacion.com.ar/deportes/tenis/mariano-navone-de-imitar-a-la-legion-por-tv-en-una-ciudad-fierrera-a-sonar-desafios-contra-alcaraz-y-nid15112023/"
+    },
+    {
+      "text": "His nickname La Navoneta copies Argentina's soccer team nickname, La Scaloneta.",
+      "source": "https://www.atptour.com/en/news/five-things-to-know-about-mariano-navone"
+    },
+    {
+      "text": "He beat Novak Djokovic in five sets at this year's US Open.",
+      "source": "https://www.atptour.com/en/news/djokovic-navone-us-open-2026-r1"
+    }
+  ],
+  "watchFor": "Watch for his big grin and a little dance after a great point.",
+  "matchTomorrow": {
+    "opponent": "Tomas Martin Etcheverry",
+    "opponentSlug": "tomas-martin-etcheverry",
+    "court": "Court 11",
+    "session": "day",
+    "matchId": "m32"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Road_2_Australia_-_Navone_V_Burruchaga_Final_-_BugWarp_206_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "localPath": "img/players/mariano-navone.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "BugWarp",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ARoad_2_Australia_-_Navone_V_Burruchaga_Final_-_BugWarp_206_%28cropped%29.jpg",
+    "title": "File:Road_2_Australia_-_Navone_V_Burruchaga_Final_-_BugWarp_206_(cropped).jpg",
+    "bytes": 41750,
+    "width": 417,
+    "height": 600
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mariano_Navone",
+    "https://en.wikipedia.org/api/rest_v1/page/summary/Mariano_Navone",
+    "https://www.atptour.com/en/news/five-things-to-know-about-mariano-navone",
+    "https://www.lanacion.com.ar/deportes/tenis/mariano-navone-de-imitar-a-la-legion-por-tv-en-una-ciudad-fierrera-a-sonar-desafios-contra-alcaraz-y-nid15112023/",
+    "https://www.atptour.com/en/news/djokovic-navone-us-open-2026-r1",
+    "https://www.atptour.com/en/news/navone-madrid-feature-2024"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-06T01:30:33Z",
+  "factCheck": {
+    "checkedAt": "2026-09-06T01:34:15+00:00",
+    "notes": [
+      "Born 2001-02-27 Nueve de Julio, 178 cm, right-handed/2HBH, started tennis at three, Bucharest 2026 first ATP title over Merida, US Open R1 def. Djokovic 7-6(5) 5-7 4-6 6-2 6-1: confirmed on en.wikipedia.",
+      "Fetched the La Nacion article directly: racket-shaped rattle as a newborn, Autodromo 9 de Julio and dad taking him to races, NBA fan since 14, Argentinos Juniors member, dancing and impressions, jokes with ball kids, started at three and a half: all confirmed in the Spanish text.",
+      "'Sister, mother and father all play tennis' and La Navoneta / La Scaloneta: confirmed in cited atptour.com five-things article.",
+      "Djokovic match: five sets, 4h36, 'It's a dream come true' quote: confirmed in cited atptour.com match report. Djokovic's illness details deliberately omitted (age-appropriateness).",
+      "Ranking 49, unseeded, age 25, R3 opponent Etcheverry on Court 11 (m32, completed, Etcheverry won 6-4 6-4 6-3) match schedule.json."
+    ],
+    "changes": [
+      "intro/story: 'small town' -> 'small city' (Nueve de Julio is a city); 'four and a half hours' -> 'more than four and a half hours' (4h36)",
+      "added eliminated:true, playsSaturday:false"
+    ]
+  },
+  "eliminated": true,
+  "playsSaturday": false
+}

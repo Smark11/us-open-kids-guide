@@ -1,0 +1,93 @@
+{
+  "slug": "yibing-wu",
+  "name": "Wu Yibing",
+  "country": "CN",
+  "countryName": "China",
+  "flagEmoji": "🇨🇳",
+  "birthDate": "1999-10-14",
+  "age": 26,
+  "seed": null,
+  "ranking": 113,
+  "draw": "men",
+  "tier": 1,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 183,
+  "hometown": "Hangzhou, China",
+  "nicknameOrTagline": "China's History Maker",
+  "intro": "Wu Yibing is a tennis player from Hangzhou, China. In China the family name comes first. So friends call him Yibing. He was the first man from China to win an ATP tournament.",
+  "story": "At 17, Yibing won the junior US Open right here in New York. In 2023 he won a big tournament in Dallas, Texas. No man from China had ever done that! Then he missed many months and came back stronger. This year he won two matches in New York. He even got to play Carlos Alcaraz on the biggest court! Next time, watch him dive.",
+  "funFacts": [
+    {
+      "text": "He won the boys' singles AND doubles at the 2017 US Open.",
+      "source": "https://en.wikipedia.org/wiki/Wu_Yibing"
+    },
+    {
+      "text": "In 2023 in Dallas, he became the first man from China to win an ATP title.",
+      "source": "https://en.wikipedia.org/wiki/Wu_Yibing"
+    },
+    {
+      "text": "In that Dallas final he saved four championship points. He never gave up!",
+      "source": "https://en.wikipedia.org/wiki/Wu_Yibing"
+    },
+    {
+      "text": "As a kid he kept a world map. He drew flight paths to the four biggest tournaments.",
+      "source": "https://www.atptour.com/en/news/wu-miami-2023-feature"
+    },
+    {
+      "text": "He had posters of Roger Federer and other stars on his bedroom wall.",
+      "source": "https://www.atptour.com/en/news/wu-miami-2023-feature"
+    },
+    {
+      "text": "He lives and trains in Bradenton, Florida, far from home.",
+      "source": "https://en.wikipedia.org/wiki/Wu_Yibing"
+    },
+    {
+      "text": "He once won a match with a diving volley. He dove like a soccer goalie!",
+      "source": "https://bnpparibasopen.com/news/match-point-drama-as-wu-yibing-makes-epic-diving-shot-to-win-his-first-career-indian-wells-match/"
+    }
+  ],
+  "watchFor": "Watch him chase every ball, even diving for a volley, a shot hit before the bounce.",
+  "matchTomorrow": {
+    "opponent": "Carlos Alcaraz",
+    "opponentSlug": "carlos-alcaraz",
+    "court": "Arthur Ashe Stadium",
+    "session": "day",
+    "matchId": "m25"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Wu_Yibing_%28Roland_Garros_2023%29_01_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "localPath": "img/players/yibing-wu.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AWu_Yibing_%28Roland_Garros_2023%29_01_%28cropped_2%29.jpg",
+    "title": "File:Wu_Yibing_(Roland_Garros_2023)_01_(cropped_2).jpg",
+    "bytes": 35169,
+    "width": 385,
+    "height": 600
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Wu_Yibing",
+    "https://en.wikipedia.org/api/rest_v1/page/summary/Wu_Yibing",
+    "https://www.atptour.com/en/news/wu-miami-2023-feature",
+    "https://bnpparibasopen.com/news/match-point-drama-as-wu-yibing-makes-epic-diving-shot-to-win-his-first-career-indian-wells-match/",
+    "https://worldtennismagazine.com/another-tennis-comeback-for-chinas-wu-yibing/22999"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-06T01:30:33Z",
+  "factCheck": {
+    "checkedAt": "2026-09-06T01:34:15+00:00",
+    "notes": [
+      "Born 1999-10-14 Hangzhou, 183 cm, right-handed/2HBH, resides Bradenton FL, 2017 US Open boys' singles + doubles, Dallas 2023 title over Isner saving four championship points as first Chinese man (Open Era) to win an ATP title: confirmed on en.wikipedia.",
+      "World map with flight paths to the four Slams and Federer/Nalbandian poster: confirmed in the cited atptour.com Miami 2023 feature.",
+      "Diving volley on match point vs Munar, Indian Wells 2023: confirmed in cited bnpparibasopen.com article.",
+      "Injury sentence kept as the gentle 'missed many months and came back stronger' (Wikipedia: injury halted his 2023 season and ended a later season early); no detail added.",
+      "R1 def. Walton, R2 def. Duckworth (en.wikipedia); R3 vs Alcaraz on Ashe (m25, completed, Alcaraz won 6-3 6-4 6-1) matches schedule.json. Ranking 113, unseeded, age 26 correct."
+    ],
+    "changes": [
+      "no text changes",
+      "added eliminated:true, playsSaturday:false"
+    ]
+  },
+  "eliminated": true,
+  "playsSaturday": false
+}

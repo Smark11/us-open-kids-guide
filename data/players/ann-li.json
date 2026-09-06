@@ -1,0 +1,92 @@
+{
+  "slug": "ann-li",
+  "name": "Ann Li",
+  "country": "US",
+  "countryName": "United States",
+  "flagEmoji": "🇺🇸",
+  "birthDate": "2000-06-26",
+  "age": 26,
+  "seed": 29,
+  "ranking": 28,
+  "draw": "women",
+  "tier": 1,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 170,
+  "hometown": "King of Prussia, Pennsylvania, United States",
+  "nicknameOrTagline": "The Ukulele Girl from Pennsylvania",
+  "intro": "Ann Li is American. Her hometown has a funny name: King of Prussia, Pennsylvania. Her favorite courts are grass courts. This year she cracked the top 30 for the first time.",
+  "story": "Ann started tennis at age five. At 17 she reached the Wimbledon girls' final. This spring she got a big win over superstar Iga Swiatek in Madrid. Her parents came from China. Her whole family loves sports. She had a great run in New York this year. She won two matches. Then she pushed the No. 6 seed to three sets. A seed is a ranking badge for top players. Next time, watch that backhand!",
+  "funFacts": [
+    {
+      "text": "She plays the ukulele in her free time.",
+      "source": "https://www.usta.com/en/home/pro/pro-media---news/ann-li-motivated-by-wimbledon-run--striving-to-find-success-on-p.html"
+    },
+    {
+      "text": "She loves country music. It helps her relax at tournaments.",
+      "source": "https://www.tennis.com/baseline/articles/five-things-to-know-about-20-year-old-ann-li"
+    },
+    {
+      "text": "Her dad played college soccer. Her mom ran track. Her aunt was a pro speed skater in China!",
+      "source": "https://www.tennis.com/baseline/articles/five-things-to-know-about-20-year-old-ann-li"
+    },
+    {
+      "text": "Roger Federer has been her idol since forever. She says he makes tennis look easy.",
+      "source": "https://www.usta.com/en/home/pro/pro-media---news/ann-li-motivated-by-wimbledon-run--striving-to-find-success-on-p.html"
+    },
+    {
+      "text": "Besides music, she loves watching movies and reading books.",
+      "source": "https://www.wtatennis.com/players/326096/ann-li"
+    },
+    {
+      "text": "In 2017 she played an all-American Wimbledon girls' final. First one since 1979!",
+      "source": "https://en.wikipedia.org/wiki/Ann_Li_(tennis)"
+    },
+    {
+      "text": "She won a tournament in Guangzhou, China, in 2025. Both her parents are from China.",
+      "source": "https://en.wikipedia.org/wiki/Ann_Li_(tennis)"
+    }
+  ],
+  "watchFor": "Watch her two-handed backhand, with both hands gripping the racket.",
+  "matchTomorrow": {
+    "opponent": "Linda Noskova",
+    "opponentSlug": "linda-noskova",
+    "court": "Court 17",
+    "session": "day",
+    "matchId": "m40",
+    "status": "completed",
+    "winnerSlug": "linda-noskova"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Li_WMQ23_%2853061122422%29.jpg",
+    "localPath": "img/players/ann-li.jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "si.robi",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ALi_WMQ23_%2853061122422%29.jpg",
+    "title": "File:Li_WMQ23_(53061122422).jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ann_Li_(tennis)",
+    "https://en.wikipedia.org/api/rest_v1/page/summary/Ann_Li_(tennis)",
+    "https://www.wtatennis.com/players/326096/ann-li",
+    "https://www.tennis.com/baseline/articles/five-things-to-know-about-20-year-old-ann-li",
+    "https://www.usta.com/en/home/pro/pro-media---news/ann-li-motivated-by-wimbledon-run--striving-to-find-success-on-p.html"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-06T01:29:28+00:00",
+  "factCheck": {
+    "checkedAt": "2026-09-06T01:33:21+00:00",
+    "notes": [
+      "Birth 2000-06-26 King of Prussia PA, parents from Changchun and Suzhou (China), right-handed/2HBH, 5'7\" (170 cm), 2017 Wimbledon girls' final vs Claire Liu (first all-American since 1979), Oct 2025 Guangzhou title, 2026 Madrid win over Swiatek (retired in third set), career-high No. 29 on 4 May 2026 (top-30 debut), lost 2026 US Open R3 to Noskova: Wikipedia.",
+      "Favorite surface grass, hobbies music/movies/reading, idolizes Federer, coach Carlos Boluda Purkiss, lives in Atlanta: WTA profile.",
+      "Started at 5, country music, dad college soccer / mom track / aunt pro speed skater in China ('sports run in her blood'): tennis.com five-things article. Ukulele and Federer 'idol since forever' / 'so effortless': USTA article.",
+      "Seed 29 / ranking 28 / lost R3 to No. 6 seed Noskova on Court 17 (m40, three sets) match schedule.json.",
+      "Swiatek win came via retirement; text says 'got a big win over' without injury detail."
+    ],
+    "changes": [
+      "intro: removed unsourced 'hits clean, smooth shots'; replaced with WTA-sourced favorite surface (grass).",
+      "story: 'beat superstar Iga Swiatek' -> 'got a big win over superstar Iga Swiatek' (Swiatek retired mid-match).",
+      "funFact Federer: 'hero' -> 'idol' to match USTA quote.",
+      "watchFor: removed researcher's own 'takes the ball on the rise' characterization; now the two-handed backhand (Wikipedia)."
+    ]
+  }
+}

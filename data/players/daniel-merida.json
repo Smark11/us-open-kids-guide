@@ -1,0 +1,92 @@
+{
+  "slug": "daniel-merida",
+  "name": "Daniel Mérida",
+  "country": "ES",
+  "countryName": "Spain",
+  "flagEmoji": "🇪🇸",
+  "birthDate": "2004-09-26",
+  "age": 21,
+  "seed": null,
+  "ranking": 39,
+  "draw": "men",
+  "tier": 3,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 188,
+  "hometown": "Madrid, Spain",
+  "nicknameOrTagline": "Madrid's Rising Star",
+  "intro": "Daniel Mérida is a young tennis player from Madrid, Spain. Friends call him Dani. This year he won his very first ATP tournament.",
+  "story": "One year ago, Dani had never played a match on the big tour. Then in April he zoomed all the way to a final in Bucharest. In July he won his first title in Umag, Croatia. Only Carlos Alcaraz and Jannik Sinner won there younger this decade! This was his first US Open main draw. He won two matches in New York. Not bad for a rookie!",
+  "funFacts": [
+    {
+      "text": "His birthday is September 26. He turns 22 three weeks after the US Open.",
+      "source": "https://en.wikipedia.org/wiki/Daniel_M%C3%A9rida"
+    },
+    {
+      "text": "He is from Madrid, the capital city of Spain.",
+      "source": "https://en.wikipedia.org/wiki/Daniel_M%C3%A9rida"
+    },
+    {
+      "text": "He grew up at the Chamartín tennis club in Madrid.",
+      "source": "https://mutuamadridopen.com/en/madrid-has-its-three-musketeers/"
+    },
+    {
+      "text": "His best tennis friends, Rafa and Martín, trained at his club. They have played each other since age eight.",
+      "source": "https://mutuamadridopen.com/en/madrid-has-its-three-musketeers/"
+    },
+    {
+      "text": "2026 was his first year playing all four Grand Slams. Those are the four biggest tournaments.",
+      "source": "https://en.wikipedia.org/wiki/Daniel_M%C3%A9rida"
+    },
+    {
+      "text": "He won his first ATP title in Umag, Croatia. It was only his seventh tour event.",
+      "source": "https://www.atptour.com/en/news/merida-dzumhur-umag-2026-final"
+    },
+    {
+      "text": "His first big final was against Mariano Navone, who is also in this guide!",
+      "source": "https://en.wikipedia.org/wiki/Daniel_M%C3%A9rida"
+    }
+  ],
+  "watchFor": "Watch him crush the ball from the back of the court.",
+  "matchTomorrow": {
+    "opponent": "Alex Michelsen",
+    "opponentSlug": "alex-michelsen",
+    "court": "Court 17",
+    "session": "day",
+    "matchId": "m31"
+  },
+  "photo": {
+    "localPath": "img/players/daniel-merida.svg",
+    "license": "generated",
+    "author": "site",
+    "sourceUrl": null,
+    "url": null,
+    "isAvatar": true
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Daniel_M%C3%A9rida",
+    "https://en.wikipedia.org/api/rest_v1/page/summary/Daniel_M%C3%A9rida",
+    "https://mutuamadridopen.com/en/madrid-has-its-three-musketeers/",
+    "https://mutuamadridopen.com/en/merida-i-want-to-keep-competing-at-this-level/",
+    "https://www.atptour.com/en/news/merida-dzumhur-umag-2026-final",
+    "https://www.atptour.com/en/news/merida-burruchaga-umag-2026-friday"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-06T01:30:33Z",
+  "factCheck": {
+    "checkedAt": "2026-09-06T01:34:15+00:00",
+    "notes": [
+      "Born 2004-09-26 Madrid, 188 cm, right-handed/2HBH, Bucharest 2026 final lost to Navone, Umag July 2026 title over Dzumhur, 2026 first year at all four majors, US Open qualifying only in 2025, ATP singles main-draw debut Indian Wells 2026: confirmed on en/es.wikipedia.",
+      "Chamartin club and rivalry with Rafa Jodar / Martin Landaluce since age eight: confirmed in cited mutuamadridopen.com article.",
+      "Seventh tour-level event, third-youngest Umag champion this decade behind Alcaraz and Sinner, 'ferocious ballstriking from the baseline': confirmed in cited atptour.com final report.",
+      "Non-tennis facts: en/es Wikipedia, ATP report and both Madrid Open articles contain none (only coaches Israel Sevilla/Guillermo Martinez and residence Alicante). ATP bio page could not be located without search. Kept the 7 sourced facts; all are tennis-related.",
+      "Ranking 39, unseeded, age 21, R3 opponent Michelsen on Court 17 (m31, completed, Michelsen won 7-6(5) 6-4 6-3) match schedule.json."
+    ],
+    "changes": [
+      "story: 'had never won a match on the big tour' -> 'had never even played a match on the big tour' (singles tour debut was Indian Wells 2026); 'first US Open ever' -> 'first time in the US Open main draw' (played 2025 qualifying)",
+      "watchFor: dropped unsourced 'flat'; now 'hits it really hard' per ATP's 'ferocious ballstriking from the baseline'",
+      "added eliminated:true, playsSaturday:false"
+    ]
+  },
+  "eliminated": true,
+  "playsSaturday": false
+}

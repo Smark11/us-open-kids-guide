@@ -1,0 +1,91 @@
+{
+  "slug": "diana-shnaider",
+  "name": "Diana Shnaider",
+  "country": "RU",
+  "countryName": "Plays without a flag",
+  "flagEmoji": "🎾",
+  "birthDate": "2004-04-02",
+  "age": 22,
+  "seed": 15,
+  "ranking": 16,
+  "draw": "women",
+  "tier": 2,
+  "plays": "Left-handed, two-handed backhand",
+  "heightCm": 170,
+  "hometown": "Moscow, Russia (born in Zhigulevsk, Russia)",
+  "nicknameOrTagline": "The Bandana Lefty",
+  "intro": "Diana Shnaider is a lefty. She swings with her left hand. You can spot her by her colorful bandana. She is 22 and already has an Olympic medal. This spring she reached the final four at the French Open.",
+  "story": "Diana started tennis at age four. At 18 she went to college in North Carolina. She won almost every match. Then she turned pro and shot up the rankings. At the Paris Olympics she won a silver medal in doubles. She won two matches here in New York this year. On Friday she battled for three sets. Next time, look for that bandana!",
+  "funFacts": [
+    {
+      "text": "She plays in a bandana instead of a cap. She started as a kid to avoid sunburn.",
+      "source": "https://en.wikipedia.org/wiki/Diana_Shnaider"
+    },
+    {
+      "text": "Her favorite movie is Never Back Down. Her favorite food is Asian food.",
+      "source": "https://www.wtatennis.com/players/330482/diana-shnaider"
+    },
+    {
+      "text": "Her mom is an English teacher. Her dad is a lawyer who used to be a boxer.",
+      "source": "https://en.wikipedia.org/wiki/Diana_Shnaider"
+    },
+    {
+      "text": "She played one season of college tennis at NC State. She won 20 matches and lost only 3.",
+      "source": "https://en.wikipedia.org/wiki/Diana_Shnaider"
+    },
+    {
+      "text": "She won Olympic silver in doubles with her partner Mirra Andreeva.",
+      "source": "https://en.wikipedia.org/wiki/Diana_Shnaider"
+    },
+    {
+      "text": "At the 2026 French Open she was way behind. She came back to beat the world No. 1.",
+      "source": "https://en.wikipedia.org/wiki/Diana_Shnaider"
+    },
+    {
+      "text": "She is a lefty. Lefties make the ball spin the other way. That can surprise opponents.",
+      "source": "https://www.wtatennis.com/players/330482/diana-shnaider"
+    }
+  ],
+  "watchFor": "Spot her bandana, then notice she holds the racket in her left hand.",
+  "matchTomorrow": {
+    "opponent": "Taylor Townsend",
+    "opponentSlug": "taylor-townsend",
+    "court": "Court 17",
+    "session": "day",
+    "matchId": "m39",
+    "status": "completed",
+    "winnerSlug": "taylor-townsend"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Diana_Shnaider_%282023_US_Open%29_05_%28cropped%29.jpg",
+    "localPath": "img/players/diana-shnaider.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ADiana_Shnaider_%282023_US_Open%29_05_%28cropped%29.jpg",
+    "title": "File:Diana_Shnaider_(2023_US_Open)_05_(cropped).jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Diana_Shnaider",
+    "https://en.wikipedia.org/api/rest_v1/page/summary/Diana_Shnaider",
+    "https://www.wtatennis.com/players/330482/diana-shnaider",
+    "https://www.tennis.com/baseline/articles/beginners-guide-diana-shnaider-college-crossroads-2023-australian-open"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-06T01:29:28+00:00",
+  "factCheck": {
+    "checkedAt": "2026-09-06T01:33:21+00:00",
+    "notes": [
+      "Birth 2004-04-02 Zhigulevsk, residence Moscow, left-handed/2HBH, 170 cm, started at 4, headscarf since childhood to prevent sunburn (prefers it to caps), father Maxim lawyer/former boxer, mother Yulia English teacher, NC State 20-3 in 2022-23, Paris 2024 doubles silver with Mirra Andreeva, 2026 Roland Garros SF incl. QF comeback from 3-6 1-4 down vs world No. 1 Sabalenka, lost 2026 US Open R3 to Townsend: Wikipedia.",
+      "Favorite movie Never Back Down, favorite food Asian, left-handed, NC State 2022-23: WTA profile. tennis.com beginner's guide confirms 'bandana-wearing, big-swinging lefty'.",
+      "Seed 15 / ranking 16 / lost R3 to Townsend on Court 17 (m39, 6-2 6-7(3) 6-3 = three sets) match schedule.json.",
+      "Neutral-flag settings left unchanged per instructions."
+    ],
+    "changes": [
+      "intro: 'always plays in' -> 'is known for playing in' a bandana (sources say she wears headscarves, not that she has never missed a match).",
+      "funFact bandana: 'in every match' -> 'instead of a cap' (Wikipedia: prefers headscarves over caps and visors).",
+      "funFact Olympics: 'her friend' -> 'her partner' (friendship not sourced).",
+      "funFact lefty: source switched to WTA profile (Left-Handed); wording made general ('spin the opposite way').",
+      "watchFor: removed unsourced 'big lefty forehand swing'; now points to the bandana and left hand (both sourced)."
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "slug": "jasmine-paolini",
+  "name": "Jasmine Paolini",
+  "country": "IT",
+  "countryName": "Italy",
+  "flagEmoji": "🇮🇹",
+  "birthDate": "1996-01-04",
+  "age": 30,
+  "seed": 19,
+  "ranking": 21,
+  "draw": "women",
+  "tier": 2,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 163,
+  "hometown": "Bagni di Lucca, Italy",
+  "nicknameOrTagline": "Small, Fast, Always Smiling",
+  "intro": "Jasmine Paolini is a smiling star from Italy. She is small but super fast. In 2024 she reached two Grand Slam finals. A Grand Slam is one of the four biggest tournaments.",
+  "story": "Jasmine's dad and uncle taught her tennis at age five. She is only 5 feet 4 inches tall. She makes up for it with quick feet and a big heart. In 2024 she won Olympic gold in doubles. She won two matches here in New York this year. Next time, look for that smile!",
+  "funFacts": [
+    {
+      "text": "She speaks Polish! Her grandma is from Poland.",
+      "source": "https://it.wikipedia.org/wiki/Jasmine_Paolini"
+    },
+    {
+      "text": "Her grandpa is from Ghana, a country in Africa.",
+      "source": "https://it.wikipedia.org/wiki/Jasmine_Paolini"
+    },
+    {
+      "text": "Her dad Ugo ran a bar in their little town.",
+      "source": "https://it.wikipedia.org/wiki/Jasmine_Paolini"
+    },
+    {
+      "text": "Her little brother William plays tennis too.",
+      "source": "https://en.wikipedia.org/wiki/Jasmine_Paolini"
+    },
+    {
+      "text": "She once said she wished she was taller. Then she could serve better.",
+      "source": "https://en.wikipedia.org/wiki/Jasmine_Paolini"
+    },
+    {
+      "text": "She won Olympic gold in doubles with Sara Errani in 2024.",
+      "source": "https://en.wikipedia.org/wiki/Jasmine_Paolini"
+    },
+    {
+      "text": "Sara Errani is her doubles partner and now her coach too!",
+      "source": "https://en.wikipedia.org/wiki/Jasmine_Paolini"
+    }
+  ],
+  "watchFor": "Watch her bouncy feet and huge smile, even after losing a point.",
+  "matchTomorrow": {
+    "opponent": "Sorana Cirstea",
+    "opponentSlug": "sorana-cirstea",
+    "court": "Court 17",
+    "session": "day",
+    "matchId": "m38"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Jasmine_Paolini_%282023_US_Open%29_01_%28cropped%29.jpg",
+    "localPath": "img/players/jasmine-paolini.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Original: Hameltion, Derivative work: Blackcat",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AJasmine_Paolini_%282023_US_Open%29_01_%28cropped%29.jpg",
+    "title": "File:Jasmine_Paolini_(2023_US_Open)_01_(cropped).jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jasmine_Paolini",
+    "https://en.wikipedia.org/api/rest_v1/page/summary/Jasmine_Paolini",
+    "https://it.wikipedia.org/wiki/Jasmine_Paolini",
+    "https://bleacherreport.com/articles/25496089-us-open-tennis-2026-results-winners-losers-and-highlights-fridays-bracket"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-06T01:30:23+00:00",
+  "factCheck": {
+    "checkedAt": "2026-09-06T01:33:32+00:00",
+    "notes": [
+      "Birth 1996-01-04 (born Castelnuovo di Garfagnana; trained at and lives in Bagni di Lucca, kept as hometown), 163 cm / 5 ft 4, right-handed/2HBH, started at five with father and uncle, brother William plays tennis, 2024 RG + Wimbledon finals, 2024 Olympic doubles gold with Errani, quote 'I wish I was taller, because I could serve better', 2026 US Open 3R loss to Cirstea: confirmed on en.wikipedia.",
+      "Speaks Polish, grandmother Polish / grandfather from Ghana, father Ugo ran a bar: confirmed on it.wikipedia ('parla anche il polacco', 'la nonna e polacca e il nonno del Ghana', 'gestiva un bar').",
+      "Errani as coach: en.wikipedia infobox lists 'Sara Errani (Dec 2025-)' and Errani remains her doubles partner in 2026 (Miami 2026). Kept; mild doubt only because no 2026 news article was reachable to reconfirm.",
+      "Seed 19 / ranking 21 (schedule.json; en.wikipedia shows No. 15 as of Aug 2026, schedule feed kept) / opponent Cirstea (m38, completed, lost 3-6 3-6): matches schedule.json.",
+      "Age 30 on 2026-09-05."
+    ],
+    "changes": [
+      "Fun fact 3: dropped unsourced 'mountain' descriptor ('little mountain town' -> 'little town')."
+    ]
+  }
+}

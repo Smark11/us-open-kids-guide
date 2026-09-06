@@ -1,0 +1,93 @@
+{
+  "slug": "elina-svitolina",
+  "name": "Elina Svitolina",
+  "country": "UA",
+  "countryName": "Ukraine",
+  "flagEmoji": "🇺🇦",
+  "birthDate": "1994-09-12",
+  "age": 31,
+  "seed": 9,
+  "ranking": 9,
+  "draw": "women",
+  "tier": 1,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 174,
+  "hometown": "Odesa, Ukraine",
+  "nicknameOrTagline": "The Wall From Odesa",
+  "intro": "Elina Svitolina is a tennis star from Ukraine. She is the No. 9 seed. A seed is a ranking badge for top players. Her superpower is chasing down every ball.",
+  "story": "Elina started tennis at age five. Her big brother played first. She wanted to play too. She has been a top player for more than ten years. This January she reached the final four in Australia. She won two matches in New York this year. Next time, watch her chase every ball!",
+  "funFacts": [
+    {
+      "text": "She is a mom! Her daughter Skaï was born in October 2022.",
+      "source": "https://fr.wikipedia.org/wiki/Elina_Svitolina"
+    },
+    {
+      "text": "Her dad was a wrestler. Her mom was a rower. Sporty family!",
+      "source": "https://en.wikipedia.org/wiki/Elina_Svitolina"
+    },
+    {
+      "text": "She was named after a famous movie actress, Elina Bystritskaya.",
+      "source": "https://en.wikipedia.org/wiki/Elina_Svitolina"
+    },
+    {
+      "text": "Her big brother Yulian played tennis first. She wanted to play too.",
+      "source": "https://en.wikipedia.org/wiki/Elina_Svitolina"
+    },
+    {
+      "text": "She loves soccer and cheers for Chelsea, a team in London.",
+      "source": "https://uk.wikipedia.org/wiki/%D0%A1%D0%B2%D1%96%D1%82%D0%BE%D0%BB%D1%96%D0%BD%D0%B0_%D0%95%D0%BB%D1%96%D0%BD%D0%B0_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D1%96%D0%B2%D0%BD%D0%B0"
+    },
+    {
+      "text": "She won a bronze medal at the Tokyo Olympics.",
+      "source": "https://en.wikipedia.org/wiki/Elina_Svitolina"
+    },
+    {
+      "text": "She has won 20 tour titles. That is a lot of trophies!",
+      "source": "https://en.wikipedia.org/wiki/Elina_Svitolina"
+    },
+    {
+      "text": "Her birthday is September 12. She turns 32 next week!",
+      "source": "https://en.wikipedia.org/wiki/Elina_Svitolina"
+    }
+  ],
+  "watchFor": "Watch her run down balls that look impossible to reach.",
+  "matchTomorrow": {
+    "opponent": "Anna Kalinskaya",
+    "opponentSlug": "anna-kalinskaya",
+    "court": "Louis Armstrong Stadium",
+    "session": "night",
+    "matchId": "m35"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Elina_Svitolina_at_Sports_Festival_2026.jpg",
+    "localPath": "img/players/elina-svitolina.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Nuță Lucian",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AElina_Svitolina_at_Sports_Festival_2026.jpg",
+    "title": "File:Elina_Svitolina_at_Sports_Festival_2026.jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Elina_Svitolina",
+    "https://en.wikipedia.org/api/rest_v1/page/summary/Elina_Svitolina",
+    "https://fr.wikipedia.org/wiki/Elina_Svitolina",
+    "https://uk.wikipedia.org/wiki/%D0%A1%D0%B2%D1%96%D1%82%D0%BE%D0%BB%D1%96%D0%BD%D0%B0_%D0%95%D0%BB%D1%96%D0%BD%D0%B0_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D1%96%D0%B2%D0%BD%D0%B0",
+    "https://en.wikipedia.org/wiki/Ga%C3%ABl_Monfils",
+    "https://bleacherreport.com/articles/25496089-us-open-tennis-2026-results-winners-losers-and-highlights-fridays-bracket"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-06T01:30:23+00:00",
+  "factCheck": {
+    "checkedAt": "2026-09-06T01:33:32+00:00",
+    "notes": [
+      "Birth 1994-09-12 Odesa, 174 cm, right-handed/2HBH, 20 WTA titles, Tokyo bronze, wrestler father / rower mother, named after actress Elina Bystritskaya, brother Yulian played tennis, started at five, 2026 AO semifinal: confirmed on en.wikipedia.",
+      "Daughter Skai born October 2022: fr.wikipedia ('une fille prenommee Skai', October 2022); uk.wikipedia gives 15 Oct 2022.",
+      "Chelsea fan: uk.wikipedia ('vboliva za zbirnu Ukrainy ta za Chelsi').",
+      "Seed 9 / ranking 9 / opponent Kalinskaya (m35, completed, lost 3-6 6-2 3-6): matches schedule.json.",
+      "Age 31 on 2026-09-05; turns 32 on Sept 12 (next Saturday). No war/politics content present."
+    ],
+    "changes": [
+      "Story: 'She wanted to copy her big brother' reworded to 'Her big brother played tennis, so she wanted to play too' (en.wikipedia says she took up tennis after seeing her brother's attention for playing).",
+      "Story: removed unsupported 'Her little girl still thinks she is the champ!'; replaced with non-factual closing line."
+    ]
+  }
+}

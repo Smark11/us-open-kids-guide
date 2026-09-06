@@ -830,9 +830,564 @@
      "ranking": 27
     }
    ]
+  },
+  {
+   "id": "m25",
+   "draw": "men",
+   "usopenMatchId": "1316",
+   "court": "Arthur Ashe Stadium",
+   "session": "day",
+   "order": 2,
+   "startTimeET": "13:00",
+   "startTimeNote": "Not before 1:00 PM",
+   "tier": 1,
+   "pending": false,
+   "round": "Third round",
+   "day": "2026-09-04",
+   "status": "completed",
+   "winnerSlug": "carlos-alcaraz",
+   "score": "6-3 6-4 6-1",
+   "players": [
+    {
+     "slug": "yibing-wu",
+     "name": "Yibing Wu",
+     "country": "CN",
+     "countryName": "China",
+     "seed": null,
+     "ranking": 113
+    },
+    {
+     "slug": "carlos-alcaraz",
+     "name": "Carlos Alcaraz",
+     "country": "ES",
+     "countryName": "Spain",
+     "seed": 2,
+     "ranking": 3
+    }
+   ]
+  },
+  {
+   "id": "m26",
+   "draw": "men",
+   "usopenMatchId": "1313",
+   "court": "Arthur Ashe Stadium",
+   "session": "night",
+   "order": 2,
+   "startTimeET": null,
+   "startTimeNote": "Follows previous match on this court",
+   "tier": 1,
+   "pending": false,
+   "round": "Third round",
+   "day": "2026-09-04",
+   "status": "completed",
+   "winnerSlug": "ben-shelton",
+   "score": "7-6(3) 6-7(5) 6-3 6-4",
+   "players": [
+    {
+     "slug": "ben-shelton",
+     "name": "Ben Shelton",
+     "country": "US",
+     "countryName": "United States",
+     "seed": 8,
+     "ranking": 9
+    },
+    {
+     "slug": "denis-shapovalov",
+     "name": "Denis Shapovalov",
+     "country": "CA",
+     "countryName": "Canada",
+     "seed": null,
+     "ranking": 48
+    }
+   ]
+  },
+  {
+   "id": "m27",
+   "draw": "men",
+   "usopenMatchId": "1315",
+   "court": "Louis Armstrong Stadium",
+   "session": "day",
+   "order": 2,
+   "startTimeET": null,
+   "startTimeNote": "Follows previous match on this court",
+   "tier": 1,
+   "pending": false,
+   "round": "Third round",
+   "day": "2026-09-04",
+   "status": "completed",
+   "winnerSlug": "tommy-paul",
+   "score": "6-4 3-6 6-7(4) 6-1 6-3",
+   "players": [
+    {
+     "slug": "alexander-bublik",
+     "name": "Alexander Bublik",
+     "country": "KZ",
+     "countryName": "Kazakhstan",
+     "seed": 15,
+     "ranking": 16
+    },
+    {
+     "slug": "tommy-paul",
+     "name": "Tommy Paul",
+     "country": "US",
+     "countryName": "United States",
+     "seed": 20,
+     "ranking": 21
+    }
+   ]
+  },
+  {
+   "id": "m28",
+   "draw": "men",
+   "usopenMatchId": "1310",
+   "court": "Louis Armstrong Stadium",
+   "session": "night",
+   "order": 1,
+   "startTimeET": "19:00",
+   "tier": 1,
+   "pending": false,
+   "round": "Third round",
+   "day": "2026-09-04",
+   "status": "completed",
+   "winnerSlug": "frances-tiafoe",
+   "score": "6-4 6-2 6-4",
+   "players": [
+    {
+     "slug": "valentin-vacherot",
+     "name": "Valentin Vacherot",
+     "country": "MC",
+     "countryName": "Monaco",
+     "seed": 22,
+     "ranking": 23
+    },
+    {
+     "slug": "frances-tiafoe",
+     "name": "Frances Tiafoe",
+     "country": "US",
+     "countryName": "United States",
+     "seed": 11,
+     "ranking": 12
+    }
+   ]
+  },
+  {
+   "id": "m29",
+   "draw": "men",
+   "usopenMatchId": "1309",
+   "court": "Grandstand",
+   "session": "day",
+   "order": 2,
+   "startTimeET": null,
+   "startTimeNote": "Follows previous match on this court",
+   "tier": 1,
+   "pending": false,
+   "round": "Third round",
+   "day": "2026-09-04",
+   "status": "completed",
+   "winnerSlug": "daniil-medvedev",
+   "score": "6-4 6-4 6-4",
+   "players": [
+    {
+     "slug": "daniil-medvedev",
+     "name": "Daniil Medvedev",
+     "country": "RU",
+     "countryName": "Russia",
+     "seed": 7,
+     "ranking": 8
+    },
+    {
+     "slug": "arthur-rinderknech",
+     "name": "Arthur Rinderknech",
+     "country": "FR",
+     "countryName": "France",
+     "seed": 26,
+     "ranking": 29
+    }
+   ]
+  },
+  {
+   "id": "m30",
+   "draw": "men",
+   "usopenMatchId": "1314",
+   "court": "Grandstand",
+   "session": "day",
+   "order": 4,
+   "startTimeET": "17:00",
+   "startTimeNote": "Not before 5:00 PM",
+   "tier": 2,
+   "pending": false,
+   "round": "Third round",
+   "day": "2026-09-04",
+   "status": "completed",
+   "winnerSlug": "stefanos-tsitsipas",
+   "score": "2-6 6-1 7-6(3) 6-1",
+   "players": [
+    {
+     "slug": "jiri-lehecka",
+     "name": "Jiri Lehecka",
+     "country": "CZ",
+     "countryName": "Czechia",
+     "seed": 18,
+     "ranking": 19
+    },
+    {
+     "slug": "stefanos-tsitsipas",
+     "name": "Stefanos Tsitsipas",
+     "country": "GR",
+     "countryName": "Greece",
+     "seed": null,
+     "ranking": 53
+    }
+   ]
+  },
+  {
+   "id": "m31",
+   "draw": "men",
+   "usopenMatchId": "1311",
+   "court": "Court 17",
+   "session": "day",
+   "order": 4,
+   "startTimeET": "16:30",
+   "startTimeNote": "Not before 4:30 PM",
+   "tier": 3,
+   "pending": false,
+   "round": "Third round",
+   "day": "2026-09-04",
+   "status": "completed",
+   "winnerSlug": "alex-michelsen",
+   "score": "7-6(5) 6-4 6-3",
+   "players": [
+    {
+     "slug": "alex-michelsen",
+     "name": "Alex Michelsen",
+     "country": "US",
+     "countryName": "United States",
+     "seed": null,
+     "ranking": 46
+    },
+    {
+     "slug": "daniel-merida",
+     "name": "Daniel Merida",
+     "country": "ES",
+     "countryName": "Spain",
+     "seed": null,
+     "ranking": 39
+    }
+   ]
+  },
+  {
+   "id": "m32",
+   "draw": "men",
+   "usopenMatchId": "1312",
+   "court": "Court 11",
+   "session": "day",
+   "order": 4,
+   "startTimeET": "16:00",
+   "startTimeNote": "Not before 4:00 PM",
+   "tier": 2,
+   "pending": false,
+   "round": "Third round",
+   "day": "2026-09-04",
+   "status": "completed",
+   "winnerSlug": "tomas-martin-etcheverry",
+   "score": "6-4 6-4 6-3",
+   "players": [
+    {
+     "slug": "tomas-martin-etcheverry",
+     "name": "Tomas Martin Etcheverry",
+     "country": "AR",
+     "countryName": "Argentina",
+     "seed": 27,
+     "ranking": 32
+    },
+    {
+     "slug": "mariano-navone",
+     "name": "Mariano Navone",
+     "country": "AR",
+     "countryName": "Argentina",
+     "seed": null,
+     "ranking": 49
+    }
+   ]
+  },
+  {
+   "id": "m33",
+   "draw": "women",
+   "usopenMatchId": "2305",
+   "court": "Arthur Ashe Stadium",
+   "session": "day",
+   "order": 1,
+   "startTimeET": "11:30",
+   "tier": 1,
+   "pending": false,
+   "round": "Third round",
+   "day": "2026-09-04",
+   "status": "completed",
+   "winnerSlug": "jessica-pegula",
+   "score": "1-6 6-4 6-3",
+   "players": [
+    {
+     "slug": "jessica-pegula",
+     "name": "Jessica Pegula",
+     "country": "US",
+     "countryName": "United States",
+     "seed": 3,
+     "ranking": 3
+    },
+    {
+     "slug": "leylah-fernandez",
+     "name": "Leylah Fernandez",
+     "country": "CA",
+     "countryName": "Canada",
+     "seed": 31,
+     "ranking": 33
+    }
+   ]
+  },
+  {
+   "id": "m34",
+   "draw": "women",
+   "usopenMatchId": "2301",
+   "court": "Louis Armstrong Stadium",
+   "session": "day",
+   "order": 1,
+   "startTimeET": "11:00",
+   "tier": 1,
+   "pending": false,
+   "round": "Third round",
+   "day": "2026-09-04",
+   "status": "completed",
+   "winnerSlug": "aryna-sabalenka",
+   "score": "6-3 6-4",
+   "players": [
+    {
+     "slug": "aryna-sabalenka",
+     "name": "Aryna Sabalenka",
+     "country": "BY",
+     "countryName": "Belarus",
+     "seed": 1,
+     "ranking": 1
+    },
+    {
+     "slug": "kamilla-rakhimova",
+     "name": "Kamilla Rakhimova",
+     "country": "UZ",
+     "countryName": "Uzbekistan",
+     "seed": null,
+     "ranking": 92
+    }
+   ]
+  },
+  {
+   "id": "m35",
+   "draw": "women",
+   "usopenMatchId": "2307",
+   "court": "Louis Armstrong Stadium",
+   "session": "night",
+   "order": 2,
+   "startTimeET": null,
+   "startTimeNote": "Follows previous match on this court",
+   "tier": 1,
+   "pending": false,
+   "round": "Third round",
+   "day": "2026-09-04",
+   "status": "completed",
+   "winnerSlug": "anna-kalinskaya",
+   "score": "6-3 2-6 6-3",
+   "players": [
+    {
+     "slug": "elina-svitolina",
+     "name": "Elina Svitolina",
+     "country": "UA",
+     "countryName": "Ukraine",
+     "seed": 9,
+     "ranking": 9
+    },
+    {
+     "slug": "anna-kalinskaya",
+     "name": "Anna Kalinskaya",
+     "country": "RU",
+     "countryName": "Russia",
+     "seed": 21,
+     "ranking": 23
+    }
+   ]
+  },
+  {
+   "id": "m36",
+   "draw": "women",
+   "usopenMatchId": "2303",
+   "court": "Grandstand",
+   "session": "day",
+   "order": 1,
+   "startTimeET": "11:00",
+   "tier": 2,
+   "pending": false,
+   "round": "Third round",
+   "day": "2026-09-04",
+   "status": "completed",
+   "winnerSlug": "marta-kostyuk",
+   "score": "6-3 6-2",
+   "players": [
+    {
+     "slug": "marta-kostyuk",
+     "name": "Marta Kostyuk",
+     "country": "UA",
+     "countryName": "Ukraine",
+     "seed": 11,
+     "ranking": 11
+    },
+    {
+     "slug": "ekaterina-alexandrova",
+     "name": "Ekaterina Alexandrova",
+     "country": "RU",
+     "countryName": "Russia",
+     "seed": 18,
+     "ranking": 19
+    }
+   ]
+  },
+  {
+   "id": "m37",
+   "draw": "women",
+   "usopenMatchId": "2308",
+   "court": "Grandstand",
+   "session": "day",
+   "order": 3,
+   "startTimeET": null,
+   "startTimeNote": "Follows previous match on this court",
+   "tier": 1,
+   "pending": false,
+   "round": "Third round",
+   "day": "2026-09-04",
+   "status": "completed",
+   "winnerSlug": "emma-navarro",
+   "score": "6-3 7-5",
+   "players": [
+    {
+     "slug": "emma-navarro",
+     "name": "Emma Navarro",
+     "country": "US",
+     "countryName": "United States",
+     "seed": 26,
+     "ranking": 27
+    },
+    {
+     "slug": "karolina-muchova",
+     "name": "Karolina Muchova",
+     "country": "CZ",
+     "countryName": "Czechia",
+     "seed": 7,
+     "ranking": 7
+    }
+   ]
+  },
+  {
+   "id": "m38",
+   "draw": "women",
+   "usopenMatchId": "2306",
+   "court": "Court 17",
+   "session": "day",
+   "order": 1,
+   "startTimeET": "11:00",
+   "tier": 2,
+   "pending": false,
+   "round": "Third round",
+   "day": "2026-09-04",
+   "status": "completed",
+   "winnerSlug": "sorana-cirstea",
+   "score": "6-3 6-3",
+   "players": [
+    {
+     "slug": "jasmine-paolini",
+     "name": "Jasmine Paolini",
+     "country": "IT",
+     "countryName": "Italy",
+     "seed": 19,
+     "ranking": 21
+    },
+    {
+     "slug": "sorana-cirstea",
+     "name": "Sorana Cirstea",
+     "country": "RO",
+     "countryName": "Romania",
+     "seed": 16,
+     "ranking": 17
+    }
+   ]
+  },
+  {
+   "id": "m39",
+   "draw": "women",
+   "usopenMatchId": "2302",
+   "court": "Court 17",
+   "session": "day",
+   "order": 2,
+   "startTimeET": "13:00",
+   "startTimeNote": "Not before 1:00 PM",
+   "tier": 2,
+   "pending": false,
+   "round": "Third round",
+   "day": "2026-09-04",
+   "status": "completed",
+   "winnerSlug": "taylor-townsend",
+   "score": "6-2 6-7(3) 6-3",
+   "players": [
+    {
+     "slug": "taylor-townsend",
+     "name": "Taylor Townsend",
+     "country": "US",
+     "countryName": "United States",
+     "seed": null,
+     "ranking": 96
+    },
+    {
+     "slug": "diana-shnaider",
+     "name": "Diana Shnaider",
+     "country": "RU",
+     "countryName": "Russia",
+     "seed": 15,
+     "ranking": 16
+    }
+   ]
+  },
+  {
+   "id": "m40",
+   "draw": "women",
+   "usopenMatchId": "2304",
+   "court": "Court 17",
+   "session": "day",
+   "order": 3,
+   "startTimeET": null,
+   "startTimeNote": "Follows previous match on this court",
+   "tier": 1,
+   "pending": false,
+   "round": "Third round",
+   "day": "2026-09-04",
+   "status": "completed",
+   "winnerSlug": "linda-noskova",
+   "score": "6-2 6-7(6) 6-2",
+   "players": [
+    {
+     "slug": "ann-li",
+     "name": "Ann Li",
+     "country": "US",
+     "countryName": "United States",
+     "seed": 29,
+     "ranking": 28
+    },
+    {
+     "slug": "linda-noskova",
+     "name": "Linda Noskova",
+     "country": "CZ",
+     "countryName": "Czechia",
+     "seed": 6,
+     "ranking": 6
+    }
+   ]
   }
  ],
- "generatedAt": "2026-09-05T21:24:43",
+ "generatedAt": "2026-09-05T21:39:08",
  "players": [
   {
    "slug": "alexander-zverev",
@@ -5674,6 +6229,1624 @@
    "eliminated": false,
    "fridayMatchId": "m31",
    "round": "Fourth round"
+  },
+  {
+   "slug": "karolina-muchova",
+   "name": "Karolína Muchová",
+   "country": "CZ",
+   "countryName": "Czechia",
+   "flagEmoji": "🇨🇿",
+   "birthDate": "1996-08-21",
+   "age": 30,
+   "seed": 7,
+   "ranking": 7,
+   "draw": "women",
+   "tier": 1,
+   "plays": "Right-handed, two-handed backhand",
+   "heightCm": 180,
+   "hometown": "Olomouc, Czechia",
+   "nicknameOrTagline": "Muška the Little Fly",
+   "intro": "Karolína Muchová is a tall, tricky player from Czechia. She is the No. 7 seed. A seed is a ranking badge for top players. She can hit every shot in the book.",
+   "story": "Her dad was a pro soccer player. He showed her tennis at age seven. She played handball too. At 12 she picked tennis for good. This summer she reached the Wimbledon final. Wimbledon is a Grand Slam, one of the four biggest tournaments. In New York she won two singles matches. She also won the mixed doubles trophy here with Jakub Menšík! What a summer.",
+   "funFacts": [
+    {
+     "text": "Her nickname is Muška. In Czech that means little fly.",
+     "source": "https://cs.wikipedia.org/wiki/Karol%C3%ADna_Muchov%C3%A1"
+    },
+    {
+     "text": "Her dad Josef was a pro soccer player in Czechia.",
+     "source": "https://en.wikipedia.org/wiki/Karol%C3%ADna_Muchov%C3%A1"
+    },
+    {
+     "text": "Her brother Filip is a soccer goalkeeper.",
+     "source": "https://cs.wikipedia.org/wiki/Karol%C3%ADna_Muchov%C3%A1"
+    },
+    {
+     "text": "As a kid she played handball. At 12 she chose tennis.",
+     "source": "https://en.wikipedia.org/wiki/Karol%C3%ADna_Muchov%C3%A1"
+    },
+    {
+     "text": "Her childhood hero was Roger Federer.",
+     "source": "https://en.wikipedia.org/wiki/Karol%C3%ADna_Muchov%C3%A1"
+    },
+    {
+     "text": "Her serve can zoom at 110 miles per hour.",
+     "source": "https://en.wikipedia.org/wiki/Karol%C3%ADna_Muchov%C3%A1"
+    },
+    {
+     "text": "She just won the US Open mixed doubles title with Jakub Menšík.",
+     "source": "https://en.wikipedia.org/wiki/Karol%C3%ADna_Muchov%C3%A1"
+    }
+   ],
+   "watchFor": "Watch for her drop shot, a soft shot that barely hops over the net.",
+   "matchTomorrow": {
+    "opponent": "Emma Navarro",
+    "opponentSlug": "emma-navarro",
+    "court": "Grandstand",
+    "session": "day",
+    "order": 3,
+    "startTimeET": null,
+    "matchId": "m37",
+    "round": "Third round",
+    "day": "2026-09-04",
+    "status": "completed",
+    "winnerSlug": "emma-navarro",
+    "score": "6-3 7-5"
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Karol%C3%ADna_Muchov%C3%A1_%282023_US_Open%29_25_%28cropped2%29.jpg",
+    "localPath": "img/players/karolina-muchova.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AKarol%C3%ADna_Muchov%C3%A1_%282023_US_Open%29_25_%28cropped2%29.jpg",
+    "title": "File:Karolína_Muchová_(2023_US_Open)_25_(cropped2).jpg",
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Karol%C3%ADna_Muchov%C3%A1",
+    "https://en.wikipedia.org/api/rest_v1/page/summary/Karol%C3%ADna_Muchov%C3%A1",
+    "https://cs.wikipedia.org/wiki/Karol%C3%ADna_Muchov%C3%A1",
+    "https://de.wikipedia.org/wiki/Karol%C3%ADna_Muchov%C3%A1",
+    "https://bleacherreport.com/articles/25496089-us-open-tennis-2026-results-winners-losers-and-highlights-fridays-bracket",
+    "https://en.wiktionary.org/wiki/mu%C5%A1ka"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-06T01:30:23+00:00",
+   "factCheck": {
+    "checkedAt": "2026-09-06T01:33:32+00:00",
+    "notes": [
+     "Birth 1996-08-21 Olomouc, 180 cm, right-handed/2HBH, father Josef Mucha ex-footballer introduced her at seven, chose tennis over handball at ~12, idol Federer, first serve peaks 110 mph, drop shots/variety, 2026 Wimbledon final, 2026 US Open 3R loss and mixed doubles title with Jakub Mensik: confirmed on en.wikipedia.",
+     "Nickname 'Muska' (infobox prezdivka), brother Filip Mucha goalkeeper, US Open 2026 mixed doubles win with Mensik: confirmed on cs.wikipedia.",
+     "'Little fly' gloss: en.wiktionary lists Czech 'muska' as diminutive of 'moucha' (fly); Wiktionary added to sources.",
+     "Seed 7 / ranking 7 (schedule.json; en.wikipedia shows No. 6 as of 13 Jul 2026, schedule feed kept) / opponent Navarro (m37, completed, lost 3-6 5-7): matches schedule.json.",
+     "Age 30 on 2026-09-05."
+    ],
+    "changes": [
+     "Fun fact 1 wording tightened; translation now sourced via Wiktionary."
+    ]
+   },
+   "matchTier": 1,
+   "playsSaturday": false,
+   "eliminated": true,
+   "round": "Third round"
+  },
+  {
+   "slug": "elina-svitolina",
+   "name": "Elina Svitolina",
+   "country": "UA",
+   "countryName": "Ukraine",
+   "flagEmoji": "🇺🇦",
+   "birthDate": "1994-09-12",
+   "age": 31,
+   "seed": 9,
+   "ranking": 9,
+   "draw": "women",
+   "tier": 1,
+   "plays": "Right-handed, two-handed backhand",
+   "heightCm": 174,
+   "hometown": "Odesa, Ukraine",
+   "nicknameOrTagline": "The Wall From Odesa",
+   "intro": "Elina Svitolina is a tennis star from Ukraine. She is the No. 9 seed. A seed is a ranking badge for top players. Her superpower is chasing down every ball.",
+   "story": "Elina started tennis at age five. Her big brother played first. She wanted to play too. She has been a top player for more than ten years. This January she reached the final four in Australia. She won two matches in New York this year. Next time, watch her chase every ball!",
+   "funFacts": [
+    {
+     "text": "She is a mom! Her daughter Skaï was born in October 2022.",
+     "source": "https://fr.wikipedia.org/wiki/Elina_Svitolina"
+    },
+    {
+     "text": "Her dad was a wrestler. Her mom was a rower. Sporty family!",
+     "source": "https://en.wikipedia.org/wiki/Elina_Svitolina"
+    },
+    {
+     "text": "She was named after a famous movie actress, Elina Bystritskaya.",
+     "source": "https://en.wikipedia.org/wiki/Elina_Svitolina"
+    },
+    {
+     "text": "Her big brother Yulian played tennis first. She wanted to play too.",
+     "source": "https://en.wikipedia.org/wiki/Elina_Svitolina"
+    },
+    {
+     "text": "She loves soccer and cheers for Chelsea, a team in London.",
+     "source": "https://uk.wikipedia.org/wiki/%D0%A1%D0%B2%D1%96%D1%82%D0%BE%D0%BB%D1%96%D0%BD%D0%B0_%D0%95%D0%BB%D1%96%D0%BD%D0%B0_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D1%96%D0%B2%D0%BD%D0%B0"
+    },
+    {
+     "text": "She won a bronze medal at the Tokyo Olympics.",
+     "source": "https://en.wikipedia.org/wiki/Elina_Svitolina"
+    },
+    {
+     "text": "She has won 20 tour titles. That is a lot of trophies!",
+     "source": "https://en.wikipedia.org/wiki/Elina_Svitolina"
+    },
+    {
+     "text": "Her birthday is September 12. She turns 32 next week!",
+     "source": "https://en.wikipedia.org/wiki/Elina_Svitolina"
+    }
+   ],
+   "watchFor": "Watch her run down balls that look impossible to reach.",
+   "matchTomorrow": {
+    "opponent": "Anna Kalinskaya",
+    "opponentSlug": "anna-kalinskaya",
+    "court": "Louis Armstrong Stadium",
+    "session": "night",
+    "order": 2,
+    "startTimeET": null,
+    "matchId": "m35",
+    "round": "Third round",
+    "day": "2026-09-04",
+    "status": "completed",
+    "winnerSlug": "anna-kalinskaya",
+    "score": "6-3 2-6 6-3"
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Elina_Svitolina_at_Sports_Festival_2026.jpg",
+    "localPath": "img/players/elina-svitolina.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Nuță Lucian",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AElina_Svitolina_at_Sports_Festival_2026.jpg",
+    "title": "File:Elina_Svitolina_at_Sports_Festival_2026.jpg",
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Elina_Svitolina",
+    "https://en.wikipedia.org/api/rest_v1/page/summary/Elina_Svitolina",
+    "https://fr.wikipedia.org/wiki/Elina_Svitolina",
+    "https://uk.wikipedia.org/wiki/%D0%A1%D0%B2%D1%96%D1%82%D0%BE%D0%BB%D1%96%D0%BD%D0%B0_%D0%95%D0%BB%D1%96%D0%BD%D0%B0_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D1%96%D0%B2%D0%BD%D0%B0",
+    "https://en.wikipedia.org/wiki/Ga%C3%ABl_Monfils",
+    "https://bleacherreport.com/articles/25496089-us-open-tennis-2026-results-winners-losers-and-highlights-fridays-bracket"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-06T01:30:23+00:00",
+   "factCheck": {
+    "checkedAt": "2026-09-06T01:33:32+00:00",
+    "notes": [
+     "Birth 1994-09-12 Odesa, 174 cm, right-handed/2HBH, 20 WTA titles, Tokyo bronze, wrestler father / rower mother, named after actress Elina Bystritskaya, brother Yulian played tennis, started at five, 2026 AO semifinal: confirmed on en.wikipedia.",
+     "Daughter Skai born October 2022: fr.wikipedia ('une fille prenommee Skai', October 2022); uk.wikipedia gives 15 Oct 2022.",
+     "Chelsea fan: uk.wikipedia ('vboliva za zbirnu Ukrainy ta za Chelsi').",
+     "Seed 9 / ranking 9 / opponent Kalinskaya (m35, completed, lost 3-6 6-2 3-6): matches schedule.json.",
+     "Age 31 on 2026-09-05; turns 32 on Sept 12 (next Saturday). No war/politics content present."
+    ],
+    "changes": [
+     "Story: 'She wanted to copy her big brother' reworded to 'Her big brother played tennis, so she wanted to play too' (en.wikipedia says she took up tennis after seeing her brother's attention for playing).",
+     "Story: removed unsupported 'Her little girl still thinks she is the champ!'; replaced with non-factual closing line."
+    ]
+   },
+   "matchTier": 1,
+   "playsSaturday": false,
+   "eliminated": true,
+   "round": "Third round"
+  },
+  {
+   "slug": "alexander-bublik",
+   "name": "Alexander Bublik",
+   "country": "KZ",
+   "countryName": "Kazakhstan",
+   "flagEmoji": "🇰🇿",
+   "birthDate": "1997-06-17",
+   "age": 29,
+   "seed": 15,
+   "ranking": 16,
+   "draw": "men",
+   "tier": 1,
+   "plays": "Right-handed, two-handed backhand",
+   "heightCm": 196,
+   "hometown": "Gatchina, Russia",
+   "nicknameOrTagline": "Sasha",
+   "intro": "Alexander Bublik plays for Kazakhstan. Friends call him Sasha. He is the trick-shot king of tennis, full of surprises.",
+   "story": "Sasha started tennis at age two with his dad. He grew up very tall, with a huge serve. In 2025 he beat world No. 1 Jannik Sinner on his way to a title. This year he cracked the top 10 for the first time. In New York he won two matches. Then he played a five-set thriller. Next time, expect a surprise!",
+   "funFacts": [
+    {
+     "text": "He sometimes serves underhand, just to surprise people.",
+     "source": "https://en.wikipedia.org/wiki/Alexander_Bublik"
+    },
+    {
+     "text": "He loves adding trick shots to his matches, just for fun.",
+     "source": "https://en.wikipedia.org/wiki/Alexander_Bublik"
+    },
+    {
+     "text": "He is 196 cm tall. That is about six and a half feet!",
+     "source": "https://en.wikipedia.org/wiki/Alexander_Bublik"
+    },
+    {
+     "text": "He loves chess. In 2023 he was picked as a reserve for the Levitov Chess Wizards.",
+     "source": "https://en.wikipedia.org/wiki/Alexander_Bublik"
+    },
+    {
+     "text": "He has a little boy named Vasily, born in 2022.",
+     "source": "https://en.wikipedia.org/wiki/Alexander_Bublik"
+    },
+    {
+     "text": "He hit more aces than anyone on tour in 2021. An ace is a serve nobody can touch.",
+     "source": "https://en.wikipedia.org/wiki/Alexander_Bublik"
+    },
+    {
+     "text": "He started tennis at age two with his dad, Stanislav.",
+     "source": "https://www.atptour.com/en/players/alexander-bublik/bk92/bio"
+    }
+   ],
+   "watchFor": "Watch for a sneaky underhand serve or a surprise trick shot.",
+   "matchTomorrow": {
+    "opponent": "Tommy Paul",
+    "opponentSlug": "tommy-paul",
+    "court": "Louis Armstrong Stadium",
+    "session": "day",
+    "order": 2,
+    "startTimeET": null,
+    "matchId": "m27",
+    "round": "Third round",
+    "day": "2026-09-04",
+    "status": "completed",
+    "winnerSlug": "tommy-paul",
+    "score": "6-4 3-6 6-7(4) 6-1 6-3"
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Sascha_Bublik_%282023_DC_Open%29_05_%28cropped%29.jpg",
+    "localPath": "img/players/alexander-bublik.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ASascha_Bublik_%282023_DC_Open%29_05_%28cropped%29.jpg",
+    "title": "File:Sascha_Bublik_(2023_DC_Open)_05_(cropped).jpg",
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Alexander_Bublik",
+    "https://en.wikipedia.org/api/rest_v1/page/summary/Alexander_Bublik",
+    "https://en.wikipedia.org/w/index.php?title=Alexander_Bublik&action=raw",
+    "https://www.atptour.com/en/players/alexander-bublik/bk92/bio",
+    "data/schedule.json"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-05T22:10:00Z",
+   "eliminated": true,
+   "factCheck": {
+    "checkedAt": "2026-09-05T23:30:00Z",
+    "notes": [
+     "Birth date 1997-06-17, Gatchina birthplace, 196 cm, right-handed/two-handed backhand, Kazakhstan: Wikipedia article confirms.",
+     "Seed 15 / ranking 16 / opponent Tommy Paul / Louis Armstrong day match m27 match data/schedule.json (lost 4-6 6-3 7-6(4) 1-6 3-6).",
+     "Nickname 'Sasha' is in the Wikipedia lead. Underarm serve, trick shots, 2021 aces leader, son Vasily (2022), Levitov Chess Wizards reserve (2023), top 10 on 12 Jan 2026 all confirmed on Wikipedia. Age-2 start with father Stanislav confirmed on ATP bio.",
+     "Halle 2025: Wikipedia says he upset world No. 1 Sinner in the R16 then won the title, so story wording changed from 'beat Sinner to win a title' to 'on his way to a title'."
+    ],
+    "changes": [
+     "Fun fact 'hitting the ball between his legs' rewritten: Wikipedia only mentions 'trick shots', not tweeners.",
+     "Chess fact reworded to the exact team name (Levitov Chess Wizards) and year (2023).",
+     "watchFor reworded to drop the between-the-legs claim.",
+     "Story: Sinner win reworded to 'on his way to a title'.",
+     "Added eliminated: true."
+    ]
+   },
+   "matchTier": 1,
+   "playsSaturday": false,
+   "round": "Third round"
+  },
+  {
+   "slug": "valentin-vacherot",
+   "name": "Valentin Vacherot",
+   "country": "MC",
+   "countryName": "Monaco",
+   "flagEmoji": "🇲🇨",
+   "birthDate": "1998-11-16",
+   "age": 27,
+   "seed": 22,
+   "ranking": 23,
+   "draw": "men",
+   "tier": 1,
+   "plays": "Right-handed, two-handed backhand",
+   "heightCm": 193,
+   "hometown": "Monaco",
+   "nicknameOrTagline": "Val",
+   "intro": "Valentin Vacherot plays for tiny Monaco. Friends call him Val. He is the star of one of tennis's best surprise stories.",
+   "story": "Val went to college in Texas. He played for Texas A&M. Last year he was ranked No. 204. Then he won the big Shanghai tournament out of nowhere! In the final he beat his own cousin, Arthur. His big brother Benjamin is his coach. This week he won two matches in New York. Next time, watch that serve!",
+   "funFacts": [
+    {
+     "text": "He loves pizza and pasta. His guilty pleasure is Haribo candy.",
+     "source": "https://www.atptour.com/en/players/valentin-vacherot/va25/bio"
+    },
+    {
+     "text": "He grew up skiing before he chose tennis.",
+     "source": "https://www.atptour.com/en/players/valentin-vacherot/va25/bio"
+    },
+    {
+     "text": "He went to college in Texas with his cousin Arthur.",
+     "source": "https://www.atptour.com/en/players/valentin-vacherot/va25/bio"
+    },
+    {
+     "text": "He speaks French and English.",
+     "source": "https://www.atptour.com/en/players/valentin-vacherot/va25/bio"
+    },
+    {
+     "text": "He loves Formula 1 car racing and the AS Monaco soccer team.",
+     "source": "https://www.atptour.com/en/players/valentin-vacherot/va25/bio"
+    },
+    {
+     "text": "His favorite TV show is Friends.",
+     "source": "https://www.atptour.com/en/players/valentin-vacherot/va25/bio"
+    },
+    {
+     "text": "He beat Novak Djokovic on the way to his Shanghai title.",
+     "source": "https://en.wikipedia.org/wiki/Valentin_Vacherot"
+    }
+   ],
+   "watchFor": "Watch his serve, his favorite shot, and notice how tall he is.",
+   "matchTomorrow": {
+    "opponent": "Frances Tiafoe",
+    "opponentSlug": "frances-tiafoe",
+    "court": "Louis Armstrong Stadium",
+    "session": "night",
+    "order": 1,
+    "startTimeET": "19:00",
+    "matchId": "m28",
+    "round": "Third round",
+    "day": "2026-09-04",
+    "status": "completed",
+    "winnerSlug": "frances-tiafoe",
+    "score": "6-4 6-2 6-4"
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Valentin_Vacherot_2025_Swiss_Indoors.jpg",
+    "localPath": "img/players/valentin-vacherot.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Skyscraper2010",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AValentin_Vacherot_2025_Swiss_Indoors.jpg",
+    "title": "File:Valentin_Vacherot_2025_Swiss_Indoors.jpg",
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Valentin_Vacherot",
+    "https://en.wikipedia.org/w/index.php?title=Valentin_Vacherot&action=raw",
+    "https://www.atptour.com/en/players/valentin-vacherot/va25/bio",
+    "data/schedule.json"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-05T22:10:00Z",
+   "eliminated": true,
+   "factCheck": {
+    "checkedAt": "2026-09-05T23:30:00Z",
+    "notes": [
+     "Birth date 1998-11-16 (age 27), 193 cm, right-handed/two-handed backhand, represents Monaco: Wikipedia confirms.",
+     "Birthplace conflict: Wikipedia infobox says Roquebrune-Cap-Martin, France ('raised in a border-town by Monaco'); ATP bio says 'born in Monaco'. Hometown set to 'Monaco' per ATP bio and because he represents and trains in Monaco.",
+     "Seed 22 / ranking 23 / opponent Frances Tiafoe / Louis Armstrong night m28 match data/schedule.json (lost 4-6 2-6 4-6).",
+     "Texas A&M, No. 204 before Shanghai 2025, beat Djokovic in SF, beat cousin Arthur Rinderknech in final, coached by elder half-brother Benjamin Balleret: Wikipedia. Nickname Val, skiing, French/English, pizza/pasta, Haribo, Formula 1, AS Monaco, Friends, serve favorite shot, college with cousin: ATP bio. 'Big brother' kept for the half-brother."
+    ],
+    "changes": [
+     "Hometown changed from 'Roquebrune-Cap-Martin, France' to 'Monaco'.",
+     "Added eliminated: true."
+    ]
+   },
+   "matchTier": 1,
+   "playsSaturday": false,
+   "round": "Third round"
+  },
+  {
+   "slug": "leylah-fernandez",
+   "name": "Leylah Fernandez",
+   "country": "CA",
+   "countryName": "Canada",
+   "flagEmoji": "🇨🇦",
+   "birthDate": "2002-09-06",
+   "age": 23,
+   "seed": 31,
+   "ranking": 33,
+   "draw": "women",
+   "tier": 1,
+   "plays": "Left-handed, two-handed backhand",
+   "heightCm": 168,
+   "hometown": "Montreal, Canada",
+   "nicknameOrTagline": "Montreal's Lefty Fighter",
+   "intro": "Leylah Fernandez is a lefty from Montreal, Canada. A lefty holds the racket in her left hand. At 19 she reached the US Open final. New York fans have loved her ever since.",
+   "story": "Leylah's dad played soccer, not tennis. He taught himself how to coach her anyway. In 2021 she beat three top-five players here. One was the champion, Naomi Osaka. That took her all the way to the final. This year she won two more matches in New York. She turns 24 on Sunday. Happy birthday, Leylah!",
+   "funFacts": [
+    {
+     "text": "Her birthday is September 6. She turns 24 this Sunday!",
+     "source": "https://en.wikipedia.org/wiki/Leylah_Fernandez"
+    },
+    {
+     "text": "She speaks three languages: English, French, and Spanish.",
+     "source": "https://en.wikipedia.org/wiki/Leylah_Fernandez"
+    },
+    {
+     "text": "Her dad is from Ecuador. Her mom's family is from the Philippines.",
+     "source": "https://en.wikipedia.org/wiki/Leylah_Fernandez"
+    },
+    {
+     "text": "She loves soccer and cheers for Real Madrid and Manchester City.",
+     "source": "https://en.wikipedia.org/wiki/Leylah_Fernandez"
+    },
+    {
+     "text": "She is studying business online while she plays on tour.",
+     "source": "https://en.wikipedia.org/wiki/Leylah_Fernandez"
+    },
+    {
+     "text": "Her little sister Bianca plays tennis too. Her big sister is a dentist.",
+     "source": "https://en.wikipedia.org/wiki/Leylah_Fernandez"
+    },
+    {
+     "text": "In 2023 she helped Canada win its first Billie Jean King Cup.",
+     "source": "https://en.wikipedia.org/wiki/Leylah_Fernandez"
+    }
+   ],
+   "watchFor": "Watch her lefty forehand and her fiery fist pump.",
+   "matchTomorrow": {
+    "opponent": "Jessica Pegula",
+    "opponentSlug": "jessica-pegula",
+    "court": "Arthur Ashe Stadium",
+    "session": "day",
+    "order": 1,
+    "startTimeET": "11:30",
+    "matchId": "m33",
+    "round": "Third round",
+    "day": "2026-09-04",
+    "status": "completed",
+    "winnerSlug": "jessica-pegula",
+    "score": "1-6 6-4 6-3"
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Leylah_Fernandez_%282025_DC_Open%29_03_%28cropped%29.jpg",
+    "localPath": "img/players/leylah-fernandez.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ALeylah_Fernandez_%282025_DC_Open%29_03_%28cropped%29.jpg",
+    "title": "File:Leylah_Fernandez_(2025_DC_Open)_03_(cropped).jpg",
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Leylah_Fernandez",
+    "https://en.wikipedia.org/api/rest_v1/page/summary/Leylah_Fernandez",
+    "https://fr.wikipedia.org/wiki/Leylah_Fernandez",
+    "https://bleacherreport.com/articles/25496089-us-open-tennis-2026-results-winners-losers-and-highlights-fridays-bracket",
+    "https://en.wikipedia.org/wiki/Jorge_Fernandez_(tennis_coach_and_footballer)"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-06T01:30:23+00:00",
+   "factCheck": {
+    "checkedAt": "2026-09-06T01:33:32+00:00",
+    "notes": [
+     "Birth 2002-09-06 Montreal, 168 cm, left-handed/2HBH, father Jorge from Ecuador, mother Irene Filipino Canadian, speaks English/French/Spanish, fan of Real Madrid and Manchester City, studies business online at Indiana University East (WTA partnership), younger sister Bianca plays tennis, older sister Jodeci is a dentist, 2021 US Open final (beat No. 3 seed/defending champ Osaka, No. 5 seed Svitolina, No. 2 seed Sabalenka), 2023 BJK Cup title: confirmed on en.wikipedia.",
+     "Father semi-pro footballer in Montreal who coached her despite never playing tennis: confirmed on en.wikipedia Jorge Fernandez article (added to sources).",
+     "Seed 31 / ranking 33 (schedule.json; en.wikipedia shows No. 34 as of 27 Jul 2026, schedule feed kept) / opponent Pegula (m33, completed, lost 6-1 4-6 3-6): matches schedule.json. Note en.wikipedia fetch claimed a 3R loss to Gauff; schedule feed (Pegula) is authoritative and the story names no opponent.",
+     "Age 23 on 2026-09-05; Sept 6, 2026 is Sunday, so 'turns 24 this Sunday' is correct."
+    ],
+    "changes": [
+     "Story: '...three top-five players here in a row' corrected (Kerber, beaten in R4 between Osaka and Svitolina, was not top-5); now 'three top-five players here, including champion Naomi Osaka'."
+    ]
+   },
+   "matchTier": 1,
+   "playsSaturday": false,
+   "eliminated": true,
+   "round": "Third round"
+  },
+  {
+   "slug": "denis-shapovalov",
+   "name": "Denis Shapovalov",
+   "country": "CA",
+   "countryName": "Canada",
+   "flagEmoji": "🇨🇦",
+   "birthDate": "1999-04-15",
+   "age": 27,
+   "seed": null,
+   "ranking": 48,
+   "draw": "men",
+   "tier": 1,
+   "plays": "Left-handed, one-handed backhand",
+   "heightCm": 185,
+   "hometown": "Vaughan, Ontario, Canada",
+   "nicknameOrTagline": "Shapo",
+   "intro": "Denis Shapovalov is a lefty from Canada. That means he swings with his left hand. Everyone calls him Shapo. He is famous for his flying one-handed backhand.",
+   "story": "Shapo's mom, Tessa, was a tennis player. She taught him at her own tennis school. At 18 he beat Rafael Nadal in Montreal. The whole crowd went wild. In 2021 he reached the Wimbledon semifinals. This week he won two matches in New York. Then he pushed Ben Shelton hard on Arthur Ashe Stadium. Next time, watch him fly!",
+   "funFacts": [
+    {
+     "text": "He is a rapper too! He released two songs in 2020.",
+     "source": "https://en.wikipedia.org/wiki/Denis_Shapovalov"
+    },
+    {
+     "text": "His first song was called Night Train.",
+     "source": "https://en.wikipedia.org/wiki/Denis_Shapovalov"
+    },
+    {
+     "text": "He brings a Nintendo Switch on trips and plays Mario Kart.",
+     "source": "https://www.atptour.com/en/players/denis-shapovalov/su55/bio"
+    },
+    {
+     "text": "If not tennis, he would play ice hockey.",
+     "source": "https://www.atptour.com/en/players/denis-shapovalov/su55/bio"
+    },
+    {
+     "text": "He speaks English and Russian.",
+     "source": "https://www.atptour.com/en/players/denis-shapovalov/su55/bio"
+    },
+    {
+     "text": "He cheers for the Toronto Maple Leafs and Toronto Raptors.",
+     "source": "https://www.atptour.com/en/players/denis-shapovalov/su55/bio"
+    },
+    {
+     "text": "He started ShapoShelter to help animals in need.",
+     "source": "https://www.atptour.com/en/players/denis-shapovalov/su55/bio"
+    }
+   ],
+   "watchFor": "Watch him leap into the air on his one-handed backhand.",
+   "matchTomorrow": {
+    "opponent": "Ben Shelton",
+    "opponentSlug": "ben-shelton",
+    "court": "Arthur Ashe Stadium",
+    "session": "night",
+    "order": 2,
+    "startTimeET": null,
+    "matchId": "m26",
+    "round": "Third round",
+    "day": "2026-09-04",
+    "status": "completed",
+    "winnerSlug": "ben-shelton",
+    "score": "7-6(3) 6-7(5) 6-3 6-4"
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Denis_Shapovalov%2C_Swiss_Indoors_Basel_2025_%28cropped%29.jpg",
+    "localPath": "img/players/denis-shapovalov.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Skyscraper2010",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ADenis_Shapovalov%2C_Swiss_Indoors_Basel_2025_%28cropped%29.jpg",
+    "title": "File:Denis_Shapovalov,_Swiss_Indoors_Basel_2025_(cropped).jpg",
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Denis_Shapovalov",
+    "https://en.wikipedia.org/api/rest_v1/page/summary/Denis_Shapovalov",
+    "https://en.wikipedia.org/w/index.php?title=Denis_Shapovalov&action=raw&section=16",
+    "https://en.wikipedia.org/w/index.php?title=Denis_Shapovalov&action=raw&section=13",
+    "https://www.atptour.com/en/players/denis-shapovalov/su55/bio",
+    "data/schedule.json"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-05T22:10:00Z",
+   "eliminated": true,
+   "factCheck": {
+    "checkedAt": "2026-09-05T23:30:00Z",
+    "notes": [
+     "Birth date 1999-04-15 (age 27), 185 cm, left-handed/one-handed backhand, Canada: Wikipedia confirms. Born Tel Aviv; family moved to Canada before his first birthday, he lived in Vaughan and went to school there (Wikipedia), so hometown Vaughan kept. Current residence is Nassau, Bahamas.",
+     "Unseeded / ranking 48 / opponent Ben Shelton / Ashe night m26 match data/schedule.json (lost 6-7(3) 7-6(5) 3-6 4-6, two tiebreaks, so 'pushed hard' is fair).",
+     "Mother Tessa former player with academy in Vaughan, 2017 Montreal win over Nadal at 18, 2021 Wimbledon semifinal: Wikipedia. Two songs in 2020 (Night Train, Drip), Nintendo Switch/Mario Kart, ice hockey, English and Russian, Maple Leafs/Raptors, ShapoShelter (April 2022): ATP bio."
+    ],
+    "changes": [
+     "No text changes needed.",
+     "Added eliminated: true."
+    ]
+   },
+   "matchTier": 1,
+   "playsSaturday": false,
+   "round": "Third round"
+  },
+  {
+   "slug": "kamilla-rakhimova",
+   "name": "Kamilla Rakhimova",
+   "country": "UZ",
+   "countryName": "Uzbekistan",
+   "flagEmoji": "🇺🇿",
+   "birthDate": "2001-08-28",
+   "age": 25,
+   "seed": null,
+   "ranking": 92,
+   "draw": "women",
+   "tier": 1,
+   "plays": "Right-handed, two-handed backhand",
+   "heightCm": 170,
+   "hometown": "Yekaterinburg, Russia",
+   "nicknameOrTagline": "Uzbekistan's Rising Star",
+   "intro": "Kamilla Rakhimova plays for Uzbekistan. That is a country in Central Asia. Her mom played tennis for Uzbekistan too. Kamilla loves hard courts, just like the ones in New York.",
+   "story": "Kamilla started tennis at age five. Her mom Rufina played too. It runs in the family. Last November Kamilla joined the Uzbekistan team. Now she is one of their top players. This summer in Toronto she got a win over the famous Venus Williams. In New York she won two matches. Then she got to play the world No. 1 on a big stadium court. What a week!",
+   "funFacts": [
+    {
+     "text": "Her mom Rufina played tennis for Uzbekistan when she was young.",
+     "source": "https://en.wikipedia.org/wiki/Kamilla_Rakhimova"
+    },
+    {
+     "text": "Her big brother Timur was born in Tashkent. That is the capital of Uzbekistan.",
+     "source": "https://en.wikipedia.org/wiki/Kamilla_Rakhimova"
+    },
+    {
+     "text": "She turned 25 just a few days before the US Open started.",
+     "source": "https://en.wikipedia.org/wiki/Kamilla_Rakhimova"
+    },
+    {
+     "text": "She joined the Uzbekistan team in November 2025. They called it a historic event.",
+     "source": "https://tennis.uz/en/news/kamila-rakhimova-ranked-109th-in-the-wta-rankings-has-officially-joined-the-uzbekistan-national-team/"
+    },
+    {
+     "text": "This summer in Toronto she got a win over tennis legend Venus Williams.",
+     "source": "https://en.wikipedia.org/wiki/2026_Canadian_Open_%E2%80%93_Women%27s_singles"
+    },
+    {
+     "text": "At Wimbledon 2025 she beat the No. 4 seed, Jasmine Paolini. Paolini is in this guide too!",
+     "source": "https://en.wikipedia.org/wiki/Kamilla_Rakhimova"
+    },
+    {
+     "text": "Her favorite courts are hard courts. That is what New York has!",
+     "source": "https://www.wtatennis.com/players/325936/kamilla-rakhimova"
+    }
+   ],
+   "watchFor": "Watch her two-handed backhand, with both hands on the racket.",
+   "matchTomorrow": {
+    "opponent": "Aryna Sabalenka",
+    "opponentSlug": "aryna-sabalenka",
+    "court": "Louis Armstrong Stadium",
+    "session": "day",
+    "order": 1,
+    "startTimeET": "11:00",
+    "matchId": "m34",
+    "round": "Third round",
+    "day": "2026-09-04",
+    "status": "completed",
+    "winnerSlug": "aryna-sabalenka",
+    "score": "6-3 6-4"
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Kamilla_Rakhimova_%282024_DC_Open%29_05_%28cropped%29.jpg",
+    "localPath": "img/players/kamilla-rakhimova.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AKamilla_Rakhimova_%282024_DC_Open%29_05_%28cropped%29.jpg",
+    "title": "File:Kamilla_Rakhimova_(2024_DC_Open)_05_(cropped).jpg",
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Kamilla_Rakhimova",
+    "https://en.wikipedia.org/api/rest_v1/page/summary/Kamilla_Rakhimova",
+    "https://www.wtatennis.com/players/325936/kamilla-rakhimova",
+    "https://tennis.uz/en/news/kamila-rakhimova-ranked-109th-in-the-wta-rankings-has-officially-joined-the-uzbekistan-national-team/",
+    "https://en.wikipedia.org/wiki/2026_Canadian_Open_%E2%80%93_Women%27s_singles",
+    "https://en.wikipedia.org/wiki/Uzbekistan_Billie_Jean_King_Cup_team"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-06T01:29:28+00:00",
+   "factCheck": {
+    "checkedAt": "2026-09-06T01:33:21+00:00",
+    "notes": [
+     "Birth 2001-08-28 Yekaterinburg, represents Uzbekistan since 28 Nov 2025, right-handed/2HBH, 170 cm, mother Rufina youth player for the Uzbek SSR, brother Timur born in Tashkent, beat 4th seed Paolini at Wimbledon 2025: Wikipedia.",
+     "Started at 5, favorite surface hard, coach Yulia Pilchikova: WTA profile.",
+     "Venus Williams: Wikipedia 2026 Canadian Open (Toronto) women's singles draw shows Rakhimova d. Williams 6-4 1-0 ret. in R1, then lost to Pegula. Kept as 'got a win over' with no injury detail.",
+     "'Historic': tennis.uz federation article calls her arrival 'an event of historic significance'. Uzbekistan BJK Cup team page (Wikipedia) lists her as the highest-ranked member, so 'one of their top players' is supported.",
+     "Unseeded / ranking 92 / lost R3 to No. 1 Sabalenka on Louis Armstrong Stadium (m34) match schedule.json. Birthday Aug 28 is a few days before the tournament start.",
+     "Non-tennis facts kept: mom's background, brother born in Tashkent, birthday timing."
+    ],
+    "changes": [
+     "intro/watchFor: removed unsourced 'steady, clever... loves a long rally' and 'pounce on short balls'; replaced with WTA favorite surface and Wikipedia two-handed backhand.",
+     "story: 'Last winter' -> 'Last November'; 'their top player' -> 'one of their top players'; 'beat' Venus -> 'got a win over' (retirement).",
+     "nickname: 'Uzbekistan's Number One' -> 'Uzbekistan's Rising Star' (No. 1 status not directly sourced).",
+     "funFact Venus: source changed from WTA profile (no mention) to Wikipedia 2026 Canadian Open draw.",
+     "funFact Paolini: 'world No. 5' -> 'the No. 4 seed' (Wikipedia).",
+     "funFact team: 'historic day' -> 'historic event' (matches federation wording).",
+     "sources: dropped two unused URLs (tennisuptodate, WTA Guadalajara news); added Canadian Open and BJK Cup team pages."
+    ]
+   },
+   "matchTier": 1,
+   "playsSaturday": false,
+   "eliminated": true,
+   "round": "Third round"
+  },
+  {
+   "slug": "yibing-wu",
+   "name": "Wu Yibing",
+   "country": "CN",
+   "countryName": "China",
+   "flagEmoji": "🇨🇳",
+   "birthDate": "1999-10-14",
+   "age": 26,
+   "seed": null,
+   "ranking": 113,
+   "draw": "men",
+   "tier": 1,
+   "plays": "Right-handed, two-handed backhand",
+   "heightCm": 183,
+   "hometown": "Hangzhou, China",
+   "nicknameOrTagline": "China's History Maker",
+   "intro": "Wu Yibing is a tennis player from Hangzhou, China. In China the family name comes first. So friends call him Yibing. He was the first man from China to win an ATP tournament.",
+   "story": "At 17, Yibing won the junior US Open right here in New York. In 2023 he won a big tournament in Dallas, Texas. No man from China had ever done that! Then he missed many months and came back stronger. This year he won two matches in New York. He even got to play Carlos Alcaraz on the biggest court! Next time, watch him dive.",
+   "funFacts": [
+    {
+     "text": "He won the boys' singles AND doubles at the 2017 US Open.",
+     "source": "https://en.wikipedia.org/wiki/Wu_Yibing"
+    },
+    {
+     "text": "In 2023 in Dallas, he became the first man from China to win an ATP title.",
+     "source": "https://en.wikipedia.org/wiki/Wu_Yibing"
+    },
+    {
+     "text": "In that Dallas final he saved four championship points. He never gave up!",
+     "source": "https://en.wikipedia.org/wiki/Wu_Yibing"
+    },
+    {
+     "text": "As a kid he kept a world map. He drew flight paths to the four biggest tournaments.",
+     "source": "https://www.atptour.com/en/news/wu-miami-2023-feature"
+    },
+    {
+     "text": "He had posters of Roger Federer and other stars on his bedroom wall.",
+     "source": "https://www.atptour.com/en/news/wu-miami-2023-feature"
+    },
+    {
+     "text": "He lives and trains in Bradenton, Florida, far from home.",
+     "source": "https://en.wikipedia.org/wiki/Wu_Yibing"
+    },
+    {
+     "text": "He once won a match with a diving volley. He dove like a soccer goalie!",
+     "source": "https://bnpparibasopen.com/news/match-point-drama-as-wu-yibing-makes-epic-diving-shot-to-win-his-first-career-indian-wells-match/"
+    }
+   ],
+   "watchFor": "Watch him chase every ball, even diving for a volley, a shot hit before the bounce.",
+   "matchTomorrow": {
+    "opponent": "Carlos Alcaraz",
+    "opponentSlug": "carlos-alcaraz",
+    "court": "Arthur Ashe Stadium",
+    "session": "day",
+    "order": 2,
+    "startTimeET": "13:00",
+    "matchId": "m25",
+    "round": "Third round",
+    "day": "2026-09-04",
+    "status": "completed",
+    "winnerSlug": "carlos-alcaraz",
+    "score": "6-3 6-4 6-1"
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Wu_Yibing_%28Roland_Garros_2023%29_01_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "localPath": "img/players/yibing-wu.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AWu_Yibing_%28Roland_Garros_2023%29_01_%28cropped_2%29.jpg",
+    "title": "File:Wu_Yibing_(Roland_Garros_2023)_01_(cropped_2).jpg",
+    "bytes": 35169,
+    "width": 385,
+    "height": 600,
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Wu_Yibing",
+    "https://en.wikipedia.org/api/rest_v1/page/summary/Wu_Yibing",
+    "https://www.atptour.com/en/news/wu-miami-2023-feature",
+    "https://bnpparibasopen.com/news/match-point-drama-as-wu-yibing-makes-epic-diving-shot-to-win-his-first-career-indian-wells-match/",
+    "https://worldtennismagazine.com/another-tennis-comeback-for-chinas-wu-yibing/22999"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-06T01:30:33Z",
+   "factCheck": {
+    "checkedAt": "2026-09-06T01:34:15+00:00",
+    "notes": [
+     "Born 1999-10-14 Hangzhou, 183 cm, right-handed/2HBH, resides Bradenton FL, 2017 US Open boys' singles + doubles, Dallas 2023 title over Isner saving four championship points as first Chinese man (Open Era) to win an ATP title: confirmed on en.wikipedia.",
+     "World map with flight paths to the four Slams and Federer/Nalbandian poster: confirmed in the cited atptour.com Miami 2023 feature.",
+     "Diving volley on match point vs Munar, Indian Wells 2023: confirmed in cited bnpparibasopen.com article.",
+     "Injury sentence kept as the gentle 'missed many months and came back stronger' (Wikipedia: injury halted his 2023 season and ended a later season early); no detail added.",
+     "R1 def. Walton, R2 def. Duckworth (en.wikipedia); R3 vs Alcaraz on Ashe (m25, completed, Alcaraz won 6-3 6-4 6-1) matches schedule.json. Ranking 113, unseeded, age 26 correct."
+    ],
+    "changes": [
+     "no text changes",
+     "added eliminated:true, playsSaturday:false"
+    ]
+   },
+   "eliminated": true,
+   "playsSaturday": false,
+   "matchTier": 1,
+   "round": "Third round"
+  },
+  {
+   "slug": "diana-shnaider",
+   "name": "Diana Shnaider",
+   "country": "RU",
+   "countryName": "Plays without a flag",
+   "flagEmoji": "🎾",
+   "birthDate": "2004-04-02",
+   "age": 22,
+   "seed": 15,
+   "ranking": 16,
+   "draw": "women",
+   "tier": 2,
+   "plays": "Left-handed, two-handed backhand",
+   "heightCm": 170,
+   "hometown": "Moscow, Russia (born in Zhigulevsk, Russia)",
+   "nicknameOrTagline": "The Bandana Lefty",
+   "intro": "Diana Shnaider is a lefty. She swings with her left hand. You can spot her by her colorful bandana. She is 22 and already has an Olympic medal. This spring she reached the final four at the French Open.",
+   "story": "Diana started tennis at age four. At 18 she went to college in North Carolina. She won almost every match. Then she turned pro and shot up the rankings. At the Paris Olympics she won a silver medal in doubles. She won two matches here in New York this year. On Friday she battled for three sets. Next time, look for that bandana!",
+   "funFacts": [
+    {
+     "text": "She plays in a bandana instead of a cap. She started as a kid to avoid sunburn.",
+     "source": "https://en.wikipedia.org/wiki/Diana_Shnaider"
+    },
+    {
+     "text": "Her favorite movie is Never Back Down. Her favorite food is Asian food.",
+     "source": "https://www.wtatennis.com/players/330482/diana-shnaider"
+    },
+    {
+     "text": "Her mom is an English teacher. Her dad is a lawyer who used to be a boxer.",
+     "source": "https://en.wikipedia.org/wiki/Diana_Shnaider"
+    },
+    {
+     "text": "She played one season of college tennis at NC State. She won 20 matches and lost only 3.",
+     "source": "https://en.wikipedia.org/wiki/Diana_Shnaider"
+    },
+    {
+     "text": "She won Olympic silver in doubles with her partner Mirra Andreeva.",
+     "source": "https://en.wikipedia.org/wiki/Diana_Shnaider"
+    },
+    {
+     "text": "At the 2026 French Open she was way behind. She came back to beat the world No. 1.",
+     "source": "https://en.wikipedia.org/wiki/Diana_Shnaider"
+    },
+    {
+     "text": "She is a lefty. Lefties make the ball spin the other way. That can surprise opponents.",
+     "source": "https://www.wtatennis.com/players/330482/diana-shnaider"
+    }
+   ],
+   "watchFor": "Spot her bandana, then notice she holds the racket in her left hand.",
+   "matchTomorrow": {
+    "opponent": "Taylor Townsend",
+    "opponentSlug": "taylor-townsend",
+    "court": "Court 17",
+    "session": "day",
+    "order": 2,
+    "startTimeET": "13:00",
+    "matchId": "m39",
+    "round": "Third round",
+    "day": "2026-09-04",
+    "status": "completed",
+    "winnerSlug": "taylor-townsend",
+    "score": "6-2 6-7(3) 6-3"
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Diana_Shnaider_%282023_US_Open%29_05_%28cropped%29.jpg",
+    "localPath": "img/players/diana-shnaider.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ADiana_Shnaider_%282023_US_Open%29_05_%28cropped%29.jpg",
+    "title": "File:Diana_Shnaider_(2023_US_Open)_05_(cropped).jpg",
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Diana_Shnaider",
+    "https://en.wikipedia.org/api/rest_v1/page/summary/Diana_Shnaider",
+    "https://www.wtatennis.com/players/330482/diana-shnaider",
+    "https://www.tennis.com/baseline/articles/beginners-guide-diana-shnaider-college-crossroads-2023-australian-open"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-06T01:29:28+00:00",
+   "factCheck": {
+    "checkedAt": "2026-09-06T01:33:21+00:00",
+    "notes": [
+     "Birth 2004-04-02 Zhigulevsk, residence Moscow, left-handed/2HBH, 170 cm, started at 4, headscarf since childhood to prevent sunburn (prefers it to caps), father Maxim lawyer/former boxer, mother Yulia English teacher, NC State 20-3 in 2022-23, Paris 2024 doubles silver with Mirra Andreeva, 2026 Roland Garros SF incl. QF comeback from 3-6 1-4 down vs world No. 1 Sabalenka, lost 2026 US Open R3 to Townsend: Wikipedia.",
+     "Favorite movie Never Back Down, favorite food Asian, left-handed, NC State 2022-23: WTA profile. tennis.com beginner's guide confirms 'bandana-wearing, big-swinging lefty'.",
+     "Seed 15 / ranking 16 / lost R3 to Townsend on Court 17 (m39, 6-2 6-7(3) 6-3 = three sets) match schedule.json.",
+     "Neutral-flag settings left unchanged per instructions."
+    ],
+    "changes": [
+     "intro: 'always plays in' -> 'is known for playing in' a bandana (sources say she wears headscarves, not that she has never missed a match).",
+     "funFact bandana: 'in every match' -> 'instead of a cap' (Wikipedia: prefers headscarves over caps and visors).",
+     "funFact Olympics: 'her friend' -> 'her partner' (friendship not sourced).",
+     "funFact lefty: source switched to WTA profile (Left-Handed); wording made general ('spin the opposite way').",
+     "watchFor: removed unsourced 'big lefty forehand swing'; now points to the bandana and left hand (both sourced)."
+    ]
+   },
+   "matchTier": 2,
+   "playsSaturday": false,
+   "eliminated": true,
+   "round": "Third round"
+  },
+  {
+   "slug": "ekaterina-alexandrova",
+   "name": "Ekaterina Alexandrova",
+   "country": "RU",
+   "countryName": "Plays without a flag",
+   "flagEmoji": "🎾",
+   "birthDate": "1994-11-15",
+   "age": 31,
+   "seed": 18,
+   "ranking": 19,
+   "draw": "women",
+   "tier": 2,
+   "plays": "Right-handed, two-handed backhand",
+   "heightCm": 175,
+   "hometown": "Prague, Czech Republic (born in Chelyabinsk, Russia)",
+   "nicknameOrTagline": "The Cake Baker of Prague",
+   "intro": "Ekaterina Alexandrova was born in Russia. She grew up in Prague. Her favorite shot is her forehand. Her favorite courts are hard courts, like the ones in New York. Last fall she reached the world's top 10 for the first time.",
+   "story": "Ekaterina moved to Prague with her family at about age 12. The city had lots of tennis courts, so they stayed. She kept working for years and years. At age 30 she finally became a top 10 player. She was the No. 18 seed here. A seed is a ranking badge for top players. She won two matches in New York this year. What a run!",
+   "funFacts": [
+    {
+     "text": "She loves to cook. Her specialty is baking cakes.",
+     "source": "https://www.wtatennis.com/players/319007/ekaterina-alexandrova"
+    },
+    {
+     "text": "She speaks three languages: Russian, Czech, and English.",
+     "source": "https://en.wikipedia.org/wiki/Ekaterina_Alexandrova"
+    },
+    {
+     "text": "She has a sister named Anna and a brother named Jury.",
+     "source": "https://www.wtatennis.com/players/319007/ekaterina-alexandrova"
+    },
+    {
+     "text": "Her family moved to Prague after a kids' tournament there. They liked all the tennis courts!",
+     "source": "https://en.wikipedia.org/wiki/Ekaterina_Alexandrova"
+    },
+    {
+     "text": "Her dad Evgeny was her coach for many years. Her childhood hero was Steffi Graf.",
+     "source": "https://en.wikipedia.org/wiki/Ekaterina_Alexandrova"
+    },
+    {
+     "text": "Her favorite shot is the forehand. She started tennis at age six.",
+     "source": "https://www.wtatennis.com/players/319007/ekaterina-alexandrova"
+    },
+    {
+     "text": "This year she won a doubles title in Abu Dhabi with Maya Joint.",
+     "source": "https://en.wikipedia.org/wiki/Ekaterina_Alexandrova"
+    }
+   ],
+   "watchFor": "Watch her forehand, her favorite shot, and see how much she loves hitting it.",
+   "matchTomorrow": {
+    "opponent": "Marta Kostyuk",
+    "opponentSlug": "marta-kostyuk",
+    "court": "Grandstand",
+    "session": "day",
+    "order": 1,
+    "startTimeET": "11:00",
+    "matchId": "m36",
+    "round": "Third round",
+    "day": "2026-09-04",
+    "status": "completed",
+    "winnerSlug": "marta-kostyuk",
+    "score": "6-3 6-2"
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Alexandrova_RG22_%2841%29_%2852143062592%29_%28cropped%29.jpg",
+    "localPath": "img/players/ekaterina-alexandrova.jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "si.robi",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AAlexandrova_RG22_%2841%29_%2852143062592%29_%28cropped%29.jpg",
+    "title": "File:Alexandrova_RG22_(41)_(52143062592)_(cropped).jpg",
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ekaterina_Alexandrova",
+    "https://en.wikipedia.org/api/rest_v1/page/summary/Ekaterina_Alexandrova",
+    "https://www.wtatennis.com/players/319007/ekaterina-alexandrova"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-06T01:29:28+00:00",
+   "factCheck": {
+    "checkedAt": "2026-09-06T01:33:21+00:00",
+    "notes": [
+     "Birth 1994-11-15 Chelyabinsk, residence Prague, right-handed/2HBH, 175 cm, family moved to Prague in 2006 after a youth tournament (lots of courts), languages Russian/Czech/English, father Evgeny coach, Steffi Graf idol, top-10 debut 13 Oct 2025 (age 30), 2026 Abu Dhabi doubles title with Maya Joint: Wikipedia.",
+     "Cooking/cakes, sister Anna and brother Jury, started at 6, favorite shot forehand, favorite surface hard: WTA profile.",
+     "Seed 18 / ranking 19 / lost R3 to Kostyuk on Grandstand (m36) match schedule.json; 'won two matches' follows from reaching R3.",
+     "Neutral-flag settings left unchanged per instructions."
+    ],
+    "changes": [
+     "intro: removed unsourced 'hits the ball hard, flat, and fast'; replaced with WTA-sourced favorite shot (forehand) and favorite surface (hard).",
+     "story: 'when she was 12' -> 'when she was about 12' (Wikipedia: moved 2006, age 11-12).",
+     "watchFor: removed unsourced 'flat and hard'; now cites forehand as her favorite shot (WTA)."
+    ]
+   },
+   "matchTier": 2,
+   "playsSaturday": false,
+   "eliminated": true,
+   "round": "Third round"
+  },
+  {
+   "slug": "jiri-lehecka",
+   "name": "Jiří Lehečka",
+   "country": "CZ",
+   "countryName": "Czechia",
+   "flagEmoji": "🇨🇿",
+   "birthDate": "2001-11-08",
+   "age": 24,
+   "seed": 18,
+   "ranking": 19,
+   "draw": "men",
+   "tier": 2,
+   "plays": "Right-handed, two-handed backhand",
+   "heightCm": 185,
+   "hometown": "Kněžmost, Czechia",
+   "nicknameOrTagline": "Lehy",
+   "intro": "Jiří Lehečka is one of the best men's players from Czechia. His friends call him Lehy. He hits a big, clean forehand.",
+   "story": "Jiří comes from a family of athletes. His dad was a swimmer. His mom ran track. He first held a racket at age three. At 15 he left home to train harder. In 2019 he won the Wimbledon boys' doubles title. Last year he reached the US Open quarterfinals. This year he won two more matches in New York. Next time, watch that forehand!",
+   "funFacts": [
+    {
+     "text": "His favorite food is fish. His guilty pleasure is sweet desserts.",
+     "source": "https://www.atptour.com/en/players/jiri-lehecka/l0bv/bio"
+    },
+    {
+     "text": "His favorite school subject was geography.",
+     "source": "https://www.atptour.com/en/players/jiri-lehecka/l0bv/bio"
+    },
+    {
+     "text": "He loves hiking, cycling, and skiing in his free time.",
+     "source": "https://www.atptour.com/en/players/jiri-lehecka/l0bv/bio"
+    },
+    {
+     "text": "His favorite movie is Inception.",
+     "source": "https://www.atptour.com/en/players/jiri-lehecka/l0bv/bio"
+    },
+    {
+     "text": "His grandma taught his big sister tennis. That made him want to play.",
+     "source": "https://en.wikipedia.org/wiki/Ji%C5%99%C3%AD_Lehe%C4%8Dka"
+    },
+    {
+     "text": "His tennis hero is Roger Federer.",
+     "source": "https://en.wikipedia.org/wiki/Ji%C5%99%C3%AD_Lehe%C4%8Dka"
+    },
+    {
+     "text": "He reached his first big Masters final in Miami this year.",
+     "source": "https://en.wikipedia.org/wiki/Ji%C5%99%C3%AD_Lehe%C4%8Dka"
+    }
+   ],
+   "watchFor": "Watch his forehand, his favorite shot, and see how hard he rips it.",
+   "matchTomorrow": {
+    "opponent": "Stefanos Tsitsipas",
+    "opponentSlug": "stefanos-tsitsipas",
+    "court": "Grandstand",
+    "session": "day",
+    "order": 4,
+    "startTimeET": "17:00",
+    "matchId": "m30",
+    "round": "Third round",
+    "day": "2026-09-04",
+    "status": "completed",
+    "winnerSlug": "stefanos-tsitsipas",
+    "score": "2-6 6-1 7-6(3) 6-1"
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Lehecka_MCM23_%285%29_%2852883527310%29.jpg",
+    "localPath": "img/players/jiri-lehecka.jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "si.robi",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ALehecka_MCM23_%285%29_%2852883527310%29.jpg",
+    "title": "File:Lehecka_MCM23_(5)_(52883527310).jpg",
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ji%C5%99%C3%AD_Lehe%C4%8Dka",
+    "https://www.atptour.com/en/players/jiri-lehecka/l0bv/bio",
+    "data/schedule.json"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-05T22:10:00Z",
+   "eliminated": true,
+   "factCheck": {
+    "checkedAt": "2026-09-05T23:30:00Z",
+    "notes": [
+     "Birth date 2001-11-08 (age 24), born Mladá Boleslav, lives in Kněžmost, 185 cm, right-handed/two-handed backhand: Wikipedia confirms. Display name keeps diacritics 'Jiří Lehečka' (schedule uses plain 'Jiri Lehecka').",
+     "Seed 18 / ranking 19 / opponent Stefanos Tsitsipas / Grandstand day m30 match data/schedule.json (lost 6-2 1-6 6-7(3) 1-6).",
+     "Swimmer father, track-and-field mother, racquet at three, grandmother taught older sister, Federer idol, 2019 Wimbledon boys' doubles, 2025 US Open QF, 2026 Miami Open final (first Masters 1000 final): Wikipedia. Nickname Lehy, left home at 15 for Prostejov, forehand favorite shot, fish/desserts, geography, hiking/cycling/skiing, Inception: ATP bio.",
+     "Wikipedia says he became Czech No. 1 in Sept 2025 but does not confirm he still is, so intro softened to 'one of the best'."
+    ],
+    "changes": [
+     "Intro: 'the top men's player from Czechia' changed to 'one of the best men's players from Czechia'.",
+     "Added eliminated: true."
+    ]
+   },
+   "matchTier": 2,
+   "playsSaturday": false,
+   "round": "Third round"
+  },
+  {
+   "slug": "jasmine-paolini",
+   "name": "Jasmine Paolini",
+   "country": "IT",
+   "countryName": "Italy",
+   "flagEmoji": "🇮🇹",
+   "birthDate": "1996-01-04",
+   "age": 30,
+   "seed": 19,
+   "ranking": 21,
+   "draw": "women",
+   "tier": 2,
+   "plays": "Right-handed, two-handed backhand",
+   "heightCm": 163,
+   "hometown": "Bagni di Lucca, Italy",
+   "nicknameOrTagline": "Small, Fast, Always Smiling",
+   "intro": "Jasmine Paolini is a smiling star from Italy. She is small but super fast. In 2024 she reached two Grand Slam finals. A Grand Slam is one of the four biggest tournaments.",
+   "story": "Jasmine's dad and uncle taught her tennis at age five. She is only 5 feet 4 inches tall. She makes up for it with quick feet and a big heart. In 2024 she won Olympic gold in doubles. She won two matches here in New York this year. Next time, look for that smile!",
+   "funFacts": [
+    {
+     "text": "She speaks Polish! Her grandma is from Poland.",
+     "source": "https://it.wikipedia.org/wiki/Jasmine_Paolini"
+    },
+    {
+     "text": "Her grandpa is from Ghana, a country in Africa.",
+     "source": "https://it.wikipedia.org/wiki/Jasmine_Paolini"
+    },
+    {
+     "text": "Her dad Ugo ran a bar in their little town.",
+     "source": "https://it.wikipedia.org/wiki/Jasmine_Paolini"
+    },
+    {
+     "text": "Her little brother William plays tennis too.",
+     "source": "https://en.wikipedia.org/wiki/Jasmine_Paolini"
+    },
+    {
+     "text": "She once said she wished she was taller. Then she could serve better.",
+     "source": "https://en.wikipedia.org/wiki/Jasmine_Paolini"
+    },
+    {
+     "text": "She won Olympic gold in doubles with Sara Errani in 2024.",
+     "source": "https://en.wikipedia.org/wiki/Jasmine_Paolini"
+    },
+    {
+     "text": "Sara Errani is her doubles partner and now her coach too!",
+     "source": "https://en.wikipedia.org/wiki/Jasmine_Paolini"
+    }
+   ],
+   "watchFor": "Watch her bouncy feet and huge smile, even after losing a point.",
+   "matchTomorrow": {
+    "opponent": "Sorana Cirstea",
+    "opponentSlug": "sorana-cirstea",
+    "court": "Court 17",
+    "session": "day",
+    "order": 1,
+    "startTimeET": "11:00",
+    "matchId": "m38",
+    "round": "Third round",
+    "day": "2026-09-04",
+    "status": "completed",
+    "winnerSlug": "sorana-cirstea",
+    "score": "6-3 6-3"
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Jasmine_Paolini_%282023_US_Open%29_01_%28cropped%29.jpg",
+    "localPath": "img/players/jasmine-paolini.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Original: Hameltion, Derivative work: Blackcat",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AJasmine_Paolini_%282023_US_Open%29_01_%28cropped%29.jpg",
+    "title": "File:Jasmine_Paolini_(2023_US_Open)_01_(cropped).jpg",
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Jasmine_Paolini",
+    "https://en.wikipedia.org/api/rest_v1/page/summary/Jasmine_Paolini",
+    "https://it.wikipedia.org/wiki/Jasmine_Paolini",
+    "https://bleacherreport.com/articles/25496089-us-open-tennis-2026-results-winners-losers-and-highlights-fridays-bracket"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-06T01:30:23+00:00",
+   "factCheck": {
+    "checkedAt": "2026-09-06T01:33:32+00:00",
+    "notes": [
+     "Birth 1996-01-04 (born Castelnuovo di Garfagnana; trained at and lives in Bagni di Lucca, kept as hometown), 163 cm / 5 ft 4, right-handed/2HBH, started at five with father and uncle, brother William plays tennis, 2024 RG + Wimbledon finals, 2024 Olympic doubles gold with Errani, quote 'I wish I was taller, because I could serve better', 2026 US Open 3R loss to Cirstea: confirmed on en.wikipedia.",
+     "Speaks Polish, grandmother Polish / grandfather from Ghana, father Ugo ran a bar: confirmed on it.wikipedia ('parla anche il polacco', 'la nonna e polacca e il nonno del Ghana', 'gestiva un bar').",
+     "Errani as coach: en.wikipedia infobox lists 'Sara Errani (Dec 2025-)' and Errani remains her doubles partner in 2026 (Miami 2026). Kept; mild doubt only because no 2026 news article was reachable to reconfirm.",
+     "Seed 19 / ranking 21 (schedule.json; en.wikipedia shows No. 15 as of Aug 2026, schedule feed kept) / opponent Cirstea (m38, completed, lost 3-6 3-6): matches schedule.json.",
+     "Age 30 on 2026-09-05."
+    ],
+    "changes": [
+     "Fun fact 3: dropped unsourced 'mountain' descriptor ('little mountain town' -> 'little town')."
+    ]
+   },
+   "matchTier": 2,
+   "playsSaturday": false,
+   "eliminated": true,
+   "round": "Third round"
+  },
+  {
+   "slug": "arthur-rinderknech",
+   "name": "Arthur Rinderknech",
+   "country": "FR",
+   "countryName": "France",
+   "flagEmoji": "🇫🇷",
+   "birthDate": "1995-07-23",
+   "age": 31,
+   "seed": 26,
+   "ranking": 29,
+   "draw": "men",
+   "tier": 2,
+   "plays": "Right-handed, two-handed backhand",
+   "heightCm": 196,
+   "hometown": "Gassin, France (grew up near Paris)",
+   "nicknameOrTagline": "The Tall Texan from France",
+   "intro": "Arthur Rinderknech is a very tall tennis player from France. He is almost two meters high! He went to college in Texas before turning pro.",
+   "story": "Arthur started tennis lessons at age six. His mom was a pro tennis player too. He did not turn pro right away. First he went to college at Texas A&M. Last year he reached his first giant final in Shanghai. This year he was the No. 26 seed. A seed is a ranking badge for top players. He won two matches in New York. What a run!",
+   "funFacts": [
+    {
+     "text": "He is 1.96 meters tall. That is about as tall as a refrigerator!",
+     "source": "https://en.wikipedia.org/wiki/Arthur_Rinderknech"
+    },
+    {
+     "text": "His mom, Virginie, was a pro tennis player on the women's tour.",
+     "source": "https://en.wikipedia.org/wiki/Arthur_Rinderknech"
+    },
+    {
+     "text": "He has three sisters: Mathilde, Julie and Flore.",
+     "source": "https://en.wikipedia.org/wiki/Arthur_Rinderknech"
+    },
+    {
+     "text": "He studied business at Texas A&M University in the United States.",
+     "source": "https://12thman.com/sports/mens-tennis/roster/arthur-rinderknech/4875"
+    },
+    {
+     "text": "His cousin Valentin Vacherot is a pro too. They played together on vacations since age five.",
+     "source": "https://bnpparibasopen.com/news/cousins-reach-doubles-final"
+    },
+    {
+     "text": "He and his cousin lived across the street from each other in college.",
+     "source": "https://bnpparibasopen.com/news/cousins-reach-doubles-final"
+    },
+    {
+     "text": "He cheers for the French soccer club AS Saint-Étienne.",
+     "source": "https://en.wikipedia.org/wiki/Arthur_Rinderknech"
+    }
+   ],
+   "watchFor": "Look how he towers over almost everyone on court at 1.96 meters tall.",
+   "matchTomorrow": {
+    "opponent": "Daniil Medvedev",
+    "opponentSlug": "daniil-medvedev",
+    "court": "Grandstand",
+    "session": "day",
+    "order": 2,
+    "startTimeET": null,
+    "matchId": "m29",
+    "round": "Third round",
+    "day": "2026-09-04",
+    "status": "completed",
+    "winnerSlug": "daniil-medvedev",
+    "score": "6-4 6-4 6-4"
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Rinderknech_MCM22_%2816%29_%2852036912945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "localPath": "img/players/arthur-rinderknech.jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "si.robi",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ARinderknech_MCM22_%2816%29_%2852036912945%29.jpg",
+    "title": "File:Rinderknech_MCM22_(16)_(52036912945).jpg",
+    "bytes": 41410,
+    "width": 400,
+    "height": 600,
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Arthur_Rinderknech",
+    "https://en.wikipedia.org/api/rest_v1/page/summary/Arthur_Rinderknech",
+    "https://12thman.com/sports/mens-tennis/roster/arthur-rinderknech/4875",
+    "https://bnpparibasopen.com/news/cousins-reach-doubles-final"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-06T01:30:33Z",
+   "factCheck": {
+    "checkedAt": "2026-09-06T01:34:15+00:00",
+    "notes": [
+     "Born 1995-07-23 Gassin, 196 cm, right-handed/2HBH, mother Virginie Paquet ex-WTA pro, three sisters Mathilde/Julie/Flore, Texas A&M, cousin Vacherot, AS Saint-Etienne fan, tennis lessons at age 6, 2025 Shanghai Masters runner-up: confirmed on en.wikipedia.",
+     "Hometown: en.wikipedia gives birthplace Gassin (Var); fr.wikipedia says he grew up in Vincennes / Saint-Germain-en-Laye (Paris area) and 12thman.com lists hometown Paris. Field now shows both.",
+     "Business major confirmed on 12thman.com (fr.wikipedia: diplome en commerce, 2014-2018).",
+     "Cousins since age five on vacations and lived across the street at Texas A&M: confirmed in bnpparibasopen.com article.",
+     "Seed 26 / ranking 29 / R3 opponent Medvedev (m29, completed, Medvedev won 6-4 6-4 6-4) match schedule.json. Age 31 on 2026-09-05 correct.",
+     "'Booming serve' was inferred, not documented; replaced with his documented height."
+    ],
+    "changes": [
+     "hometown: 'Gassin, France' -> 'Gassin, France (grew up near Paris)'",
+     "watchFor: removed unsourced 'booming serve', now about his 1.96 m height",
+     "added eliminated:true, playsSaturday:false"
+    ]
+   },
+   "eliminated": true,
+   "playsSaturday": false,
+   "matchTier": 1,
+   "round": "Third round"
+  },
+  {
+   "slug": "ann-li",
+   "name": "Ann Li",
+   "country": "US",
+   "countryName": "United States",
+   "flagEmoji": "🇺🇸",
+   "birthDate": "2000-06-26",
+   "age": 26,
+   "seed": 29,
+   "ranking": 28,
+   "draw": "women",
+   "tier": 2,
+   "plays": "Right-handed, two-handed backhand",
+   "heightCm": 170,
+   "hometown": "King of Prussia, Pennsylvania, United States",
+   "nicknameOrTagline": "The Ukulele Girl from Pennsylvania",
+   "intro": "Ann Li is American. Her hometown has a funny name: King of Prussia, Pennsylvania. Her favorite courts are grass courts. This year she cracked the top 30 for the first time.",
+   "story": "Ann started tennis at age five. At 17 she reached the Wimbledon girls' final. This spring she got a big win over superstar Iga Swiatek in Madrid. Her parents came from China. Her whole family loves sports. She had a great run in New York this year. She won two matches. Then she pushed the No. 6 seed to three sets. A seed is a ranking badge for top players. Next time, watch that backhand!",
+   "funFacts": [
+    {
+     "text": "She plays the ukulele in her free time.",
+     "source": "https://www.usta.com/en/home/pro/pro-media---news/ann-li-motivated-by-wimbledon-run--striving-to-find-success-on-p.html"
+    },
+    {
+     "text": "She loves country music. It helps her relax at tournaments.",
+     "source": "https://www.tennis.com/baseline/articles/five-things-to-know-about-20-year-old-ann-li"
+    },
+    {
+     "text": "Her dad played college soccer. Her mom ran track. Her aunt was a pro speed skater in China!",
+     "source": "https://www.tennis.com/baseline/articles/five-things-to-know-about-20-year-old-ann-li"
+    },
+    {
+     "text": "Roger Federer has been her idol since forever. She says he makes tennis look easy.",
+     "source": "https://www.usta.com/en/home/pro/pro-media---news/ann-li-motivated-by-wimbledon-run--striving-to-find-success-on-p.html"
+    },
+    {
+     "text": "Besides music, she loves watching movies and reading books.",
+     "source": "https://www.wtatennis.com/players/326096/ann-li"
+    },
+    {
+     "text": "In 2017 she played an all-American Wimbledon girls' final. First one since 1979!",
+     "source": "https://en.wikipedia.org/wiki/Ann_Li_(tennis)"
+    },
+    {
+     "text": "She won a tournament in Guangzhou, China, in 2025. Both her parents are from China.",
+     "source": "https://en.wikipedia.org/wiki/Ann_Li_(tennis)"
+    }
+   ],
+   "watchFor": "Watch her two-handed backhand, with both hands gripping the racket.",
+   "matchTomorrow": {
+    "opponent": "Linda Noskova",
+    "opponentSlug": "linda-noskova",
+    "court": "Court 17",
+    "session": "day",
+    "order": 3,
+    "startTimeET": null,
+    "matchId": "m40",
+    "round": "Third round",
+    "day": "2026-09-04",
+    "status": "completed",
+    "winnerSlug": "linda-noskova",
+    "score": "6-2 6-7(6) 6-2"
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Li_WMQ23_%2853061122422%29.jpg",
+    "localPath": "img/players/ann-li.jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "si.robi",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ALi_WMQ23_%2853061122422%29.jpg",
+    "title": "File:Li_WMQ23_(53061122422).jpg",
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ann_Li_(tennis)",
+    "https://en.wikipedia.org/api/rest_v1/page/summary/Ann_Li_(tennis)",
+    "https://www.wtatennis.com/players/326096/ann-li",
+    "https://www.tennis.com/baseline/articles/five-things-to-know-about-20-year-old-ann-li",
+    "https://www.usta.com/en/home/pro/pro-media---news/ann-li-motivated-by-wimbledon-run--striving-to-find-success-on-p.html"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-06T01:29:28+00:00",
+   "factCheck": {
+    "checkedAt": "2026-09-06T01:33:21+00:00",
+    "notes": [
+     "Birth 2000-06-26 King of Prussia PA, parents from Changchun and Suzhou (China), right-handed/2HBH, 5'7\" (170 cm), 2017 Wimbledon girls' final vs Claire Liu (first all-American since 1979), Oct 2025 Guangzhou title, 2026 Madrid win over Swiatek (retired in third set), career-high No. 29 on 4 May 2026 (top-30 debut), lost 2026 US Open R3 to Noskova: Wikipedia.",
+     "Favorite surface grass, hobbies music/movies/reading, idolizes Federer, coach Carlos Boluda Purkiss, lives in Atlanta: WTA profile.",
+     "Started at 5, country music, dad college soccer / mom track / aunt pro speed skater in China ('sports run in her blood'): tennis.com five-things article. Ukulele and Federer 'idol since forever' / 'so effortless': USTA article.",
+     "Seed 29 / ranking 28 / lost R3 to No. 6 seed Noskova on Court 17 (m40, three sets) match schedule.json.",
+     "Swiatek win came via retirement; text says 'got a big win over' without injury detail."
+    ],
+    "changes": [
+     "intro: removed unsourced 'hits clean, smooth shots'; replaced with WTA-sourced favorite surface (grass).",
+     "story: 'beat superstar Iga Swiatek' -> 'got a big win over superstar Iga Swiatek' (Swiatek retired mid-match).",
+     "funFact Federer: 'hero' -> 'idol' to match USTA quote.",
+     "watchFor: removed researcher's own 'takes the ball on the rise' characterization; now the two-handed backhand (Wikipedia)."
+    ]
+   },
+   "matchTier": 1,
+   "playsSaturday": false,
+   "eliminated": true,
+   "round": "Third round"
+  },
+  {
+   "slug": "daniel-merida",
+   "name": "Daniel Mérida",
+   "country": "ES",
+   "countryName": "Spain",
+   "flagEmoji": "🇪🇸",
+   "birthDate": "2004-09-26",
+   "age": 21,
+   "seed": null,
+   "ranking": 39,
+   "draw": "men",
+   "tier": 3,
+   "plays": "Right-handed, two-handed backhand",
+   "heightCm": 188,
+   "hometown": "Madrid, Spain",
+   "nicknameOrTagline": "Madrid's Rising Star",
+   "intro": "Daniel Mérida is a young tennis player from Madrid, Spain. Friends call him Dani. This year he won his very first ATP tournament.",
+   "story": "One year ago, Dani had never played a match on the big tour. Then in April he zoomed all the way to a final in Bucharest. In July he won his first title in Umag, Croatia. Only Carlos Alcaraz and Jannik Sinner won there younger this decade! This was his first US Open main draw. He won two matches in New York. Not bad for a rookie!",
+   "funFacts": [
+    {
+     "text": "His birthday is September 26. He turns 22 three weeks after the US Open.",
+     "source": "https://en.wikipedia.org/wiki/Daniel_M%C3%A9rida"
+    },
+    {
+     "text": "He is from Madrid, the capital city of Spain.",
+     "source": "https://en.wikipedia.org/wiki/Daniel_M%C3%A9rida"
+    },
+    {
+     "text": "He grew up at the Chamartín tennis club in Madrid.",
+     "source": "https://mutuamadridopen.com/en/madrid-has-its-three-musketeers/"
+    },
+    {
+     "text": "His best tennis friends, Rafa and Martín, trained at his club. They have played each other since age eight.",
+     "source": "https://mutuamadridopen.com/en/madrid-has-its-three-musketeers/"
+    },
+    {
+     "text": "2026 was his first year playing all four Grand Slams. Those are the four biggest tournaments.",
+     "source": "https://en.wikipedia.org/wiki/Daniel_M%C3%A9rida"
+    },
+    {
+     "text": "He won his first ATP title in Umag, Croatia. It was only his seventh tour event.",
+     "source": "https://www.atptour.com/en/news/merida-dzumhur-umag-2026-final"
+    },
+    {
+     "text": "His first big final was against Mariano Navone, who is also in this guide!",
+     "source": "https://en.wikipedia.org/wiki/Daniel_M%C3%A9rida"
+    }
+   ],
+   "watchFor": "Watch him crush the ball from the back of the court.",
+   "matchTomorrow": {
+    "opponent": "Alex Michelsen",
+    "opponentSlug": "alex-michelsen",
+    "court": "Court 17",
+    "session": "day",
+    "order": 4,
+    "startTimeET": "16:30",
+    "matchId": "m31",
+    "round": "Third round",
+    "day": "2026-09-04",
+    "status": "completed",
+    "winnerSlug": "alex-michelsen",
+    "score": "7-6(5) 6-4 6-3"
+   },
+   "photo": {
+    "localPath": "img/players/daniel-merida.svg",
+    "license": "generated",
+    "author": "site",
+    "sourceUrl": null,
+    "url": null,
+    "isAvatar": true,
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Daniel_M%C3%A9rida",
+    "https://en.wikipedia.org/api/rest_v1/page/summary/Daniel_M%C3%A9rida",
+    "https://mutuamadridopen.com/en/madrid-has-its-three-musketeers/",
+    "https://mutuamadridopen.com/en/merida-i-want-to-keep-competing-at-this-level/",
+    "https://www.atptour.com/en/news/merida-dzumhur-umag-2026-final",
+    "https://www.atptour.com/en/news/merida-burruchaga-umag-2026-friday"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-06T01:30:33Z",
+   "factCheck": {
+    "checkedAt": "2026-09-06T01:34:15+00:00",
+    "notes": [
+     "Born 2004-09-26 Madrid, 188 cm, right-handed/2HBH, Bucharest 2026 final lost to Navone, Umag July 2026 title over Dzumhur, 2026 first year at all four majors, US Open qualifying only in 2025, ATP singles main-draw debut Indian Wells 2026: confirmed on en/es.wikipedia.",
+     "Chamartin club and rivalry with Rafa Jodar / Martin Landaluce since age eight: confirmed in cited mutuamadridopen.com article.",
+     "Seventh tour-level event, third-youngest Umag champion this decade behind Alcaraz and Sinner, 'ferocious ballstriking from the baseline': confirmed in cited atptour.com final report.",
+     "Non-tennis facts: en/es Wikipedia, ATP report and both Madrid Open articles contain none (only coaches Israel Sevilla/Guillermo Martinez and residence Alicante). ATP bio page could not be located without search. Kept the 7 sourced facts; all are tennis-related.",
+     "Ranking 39, unseeded, age 21, R3 opponent Michelsen on Court 17 (m31, completed, Michelsen won 7-6(5) 6-4 6-3) match schedule.json."
+    ],
+    "changes": [
+     "story: 'had never won a match on the big tour' -> 'had never even played a match on the big tour' (singles tour debut was Indian Wells 2026); 'first US Open ever' -> 'first time in the US Open main draw' (played 2025 qualifying)",
+     "watchFor: dropped unsourced 'flat'; now 'hits it really hard' per ATP's 'ferocious ballstriking from the baseline'",
+     "added eliminated:true, playsSaturday:false"
+    ]
+   },
+   "eliminated": true,
+   "playsSaturday": false,
+   "matchTier": 3,
+   "round": "Third round"
+  },
+  {
+   "slug": "mariano-navone",
+   "name": "Mariano Navone",
+   "country": "AR",
+   "countryName": "Argentina",
+   "flagEmoji": "🇦🇷",
+   "birthDate": "2001-02-27",
+   "age": 25,
+   "seed": null,
+   "ranking": 49,
+   "draw": "men",
+   "tier": 3,
+   "plays": "Right-handed, two-handed backhand",
+   "heightCm": 178,
+   "hometown": "Nueve de Julio, Argentina",
+   "nicknameOrTagline": "La Navoneta",
+   "intro": "Mariano Navone is from a small city in Argentina. Fans call him La Navoneta. He is famous for his big smile and his dance moves.",
+   "story": "Mariano grew up in Nueve de Julio. His city is famous for car racing. He started tennis at age three. His mom, dad and sister all play too! In April he won his first ATP title in Bucharest. Then in New York he beat the legend Novak Djokovic. It took five sets and more than four and a half hours. He called it a dream come true. Next time, watch for his dance!",
+   "funFacts": [
+    {
+     "text": "As a newborn baby, he got a rattle shaped like a tennis racket!",
+     "source": "https://www.lanacion.com.ar/deportes/tenis/mariano-navone-de-imitar-a-la-legion-por-tv-en-una-ciudad-fierrera-a-sonar-desafios-contra-alcaraz-y-nid15112023/"
+    },
+    {
+     "text": "His hometown has a famous racetrack. His dad took him to car races as a kid.",
+     "source": "https://www.lanacion.com.ar/deportes/tenis/mariano-navone-de-imitar-a-la-legion-por-tv-en-una-ciudad-fierrera-a-sonar-desafios-contra-alcaraz-y-nid15112023/"
+    },
+    {
+     "text": "He loves NBA basketball. He cheers for the soccer club Argentinos Juniors.",
+     "source": "https://www.lanacion.com.ar/deportes/tenis/mariano-navone-de-imitar-a-la-legion-por-tv-en-una-ciudad-fierrera-a-sonar-desafios-contra-alcaraz-y-nid15112023/"
+    },
+    {
+     "text": "He loves to dance and do funny impressions of other athletes.",
+     "source": "https://www.lanacion.com.ar/deportes/tenis/mariano-navone-de-imitar-a-la-legion-por-tv-en-una-ciudad-fierrera-a-sonar-desafios-contra-alcaraz-y-nid15112023/"
+    },
+    {
+     "text": "He likes to joke around with the ball kids during matches.",
+     "source": "https://www.lanacion.com.ar/deportes/tenis/mariano-navone-de-imitar-a-la-legion-por-tv-en-una-ciudad-fierrera-a-sonar-desafios-contra-alcaraz-y-nid15112023/"
+    },
+    {
+     "text": "His nickname La Navoneta copies Argentina's soccer team nickname, La Scaloneta.",
+     "source": "https://www.atptour.com/en/news/five-things-to-know-about-mariano-navone"
+    },
+    {
+     "text": "He beat Novak Djokovic in five sets at this year's US Open.",
+     "source": "https://www.atptour.com/en/news/djokovic-navone-us-open-2026-r1"
+    }
+   ],
+   "watchFor": "Watch for his big grin and a little dance after a great point.",
+   "matchTomorrow": {
+    "opponent": "Tomas Martin Etcheverry",
+    "opponentSlug": "tomas-martin-etcheverry",
+    "court": "Court 11",
+    "session": "day",
+    "order": 4,
+    "startTimeET": "16:00",
+    "matchId": "m32",
+    "round": "Third round",
+    "day": "2026-09-04",
+    "status": "completed",
+    "winnerSlug": "tomas-martin-etcheverry",
+    "score": "6-4 6-4 6-3"
+   },
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Road_2_Australia_-_Navone_V_Burruchaga_Final_-_BugWarp_206_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "localPath": "img/players/mariano-navone.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "BugWarp",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ARoad_2_Australia_-_Navone_V_Burruchaga_Final_-_BugWarp_206_%28cropped%29.jpg",
+    "title": "File:Road_2_Australia_-_Navone_V_Burruchaga_Final_-_BugWarp_206_(cropped).jpg",
+    "bytes": 41750,
+    "width": 417,
+    "height": 600,
+    "exists": true
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mariano_Navone",
+    "https://en.wikipedia.org/api/rest_v1/page/summary/Mariano_Navone",
+    "https://www.atptour.com/en/news/five-things-to-know-about-mariano-navone",
+    "https://www.lanacion.com.ar/deportes/tenis/mariano-navone-de-imitar-a-la-legion-por-tv-en-una-ciudad-fierrera-a-sonar-desafios-contra-alcaraz-y-nid15112023/",
+    "https://www.atptour.com/en/news/djokovic-navone-us-open-2026-r1",
+    "https://www.atptour.com/en/news/navone-madrid-feature-2024"
+   ],
+   "verified": true,
+   "researchedAt": "2026-09-06T01:30:33Z",
+   "factCheck": {
+    "checkedAt": "2026-09-06T01:34:15+00:00",
+    "notes": [
+     "Born 2001-02-27 Nueve de Julio, 178 cm, right-handed/2HBH, started tennis at three, Bucharest 2026 first ATP title over Merida, US Open R1 def. Djokovic 7-6(5) 5-7 4-6 6-2 6-1: confirmed on en.wikipedia.",
+     "Fetched the La Nacion article directly: racket-shaped rattle as a newborn, Autodromo 9 de Julio and dad taking him to races, NBA fan since 14, Argentinos Juniors member, dancing and impressions, jokes with ball kids, started at three and a half: all confirmed in the Spanish text.",
+     "'Sister, mother and father all play tennis' and La Navoneta / La Scaloneta: confirmed in cited atptour.com five-things article.",
+     "Djokovic match: five sets, 4h36, 'It's a dream come true' quote: confirmed in cited atptour.com match report. Djokovic's illness details deliberately omitted (age-appropriateness).",
+     "Ranking 49, unseeded, age 25, R3 opponent Etcheverry on Court 11 (m32, completed, Etcheverry won 6-4 6-4 6-3) match schedule.json."
+    ],
+    "changes": [
+     "intro/story: 'small town' -> 'small city' (Nueve de Julio is a city); 'four and a half hours' -> 'more than four and a half hours' (4h36)",
+     "added eliminated:true, playsSaturday:false"
+    ]
+   },
+   "eliminated": true,
+   "playsSaturday": false,
+   "matchTier": 2,
+   "round": "Third round"
   }
  ]
 }

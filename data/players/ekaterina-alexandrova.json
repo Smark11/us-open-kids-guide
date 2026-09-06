@@ -1,0 +1,88 @@
+{
+  "slug": "ekaterina-alexandrova",
+  "name": "Ekaterina Alexandrova",
+  "country": "RU",
+  "countryName": "Plays without a flag",
+  "flagEmoji": "🎾",
+  "birthDate": "1994-11-15",
+  "age": 31,
+  "seed": 18,
+  "ranking": 19,
+  "draw": "women",
+  "tier": 2,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 175,
+  "hometown": "Prague, Czech Republic (born in Chelyabinsk, Russia)",
+  "nicknameOrTagline": "The Cake Baker of Prague",
+  "intro": "Ekaterina Alexandrova was born in Russia. She grew up in Prague. Her favorite shot is her forehand. Her favorite courts are hard courts, like the ones in New York. Last fall she reached the world's top 10 for the first time.",
+  "story": "Ekaterina moved to Prague with her family at about age 12. The city had lots of tennis courts, so they stayed. She kept working for years and years. At age 30 she finally became a top 10 player. She was the No. 18 seed here. A seed is a ranking badge for top players. She won two matches in New York this year. What a run!",
+  "funFacts": [
+    {
+      "text": "She loves to cook. Her specialty is baking cakes.",
+      "source": "https://www.wtatennis.com/players/319007/ekaterina-alexandrova"
+    },
+    {
+      "text": "She speaks three languages: Russian, Czech, and English.",
+      "source": "https://en.wikipedia.org/wiki/Ekaterina_Alexandrova"
+    },
+    {
+      "text": "She has a sister named Anna and a brother named Jury.",
+      "source": "https://www.wtatennis.com/players/319007/ekaterina-alexandrova"
+    },
+    {
+      "text": "Her family moved to Prague after a kids' tournament there. They liked all the tennis courts!",
+      "source": "https://en.wikipedia.org/wiki/Ekaterina_Alexandrova"
+    },
+    {
+      "text": "Her dad Evgeny was her coach for many years. Her childhood hero was Steffi Graf.",
+      "source": "https://en.wikipedia.org/wiki/Ekaterina_Alexandrova"
+    },
+    {
+      "text": "Her favorite shot is the forehand. She started tennis at age six.",
+      "source": "https://www.wtatennis.com/players/319007/ekaterina-alexandrova"
+    },
+    {
+      "text": "This year she won a doubles title in Abu Dhabi with Maya Joint.",
+      "source": "https://en.wikipedia.org/wiki/Ekaterina_Alexandrova"
+    }
+  ],
+  "watchFor": "Watch her forehand, her favorite shot, and see how much she loves hitting it.",
+  "matchTomorrow": {
+    "opponent": "Marta Kostyuk",
+    "opponentSlug": "marta-kostyuk",
+    "court": "Grandstand",
+    "session": "day",
+    "matchId": "m36",
+    "status": "completed",
+    "winnerSlug": "marta-kostyuk"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Alexandrova_RG22_%2841%29_%2852143062592%29_%28cropped%29.jpg",
+    "localPath": "img/players/ekaterina-alexandrova.jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "si.robi",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AAlexandrova_RG22_%2841%29_%2852143062592%29_%28cropped%29.jpg",
+    "title": "File:Alexandrova_RG22_(41)_(52143062592)_(cropped).jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ekaterina_Alexandrova",
+    "https://en.wikipedia.org/api/rest_v1/page/summary/Ekaterina_Alexandrova",
+    "https://www.wtatennis.com/players/319007/ekaterina-alexandrova"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-06T01:29:28+00:00",
+  "factCheck": {
+    "checkedAt": "2026-09-06T01:33:21+00:00",
+    "notes": [
+      "Birth 1994-11-15 Chelyabinsk, residence Prague, right-handed/2HBH, 175 cm, family moved to Prague in 2006 after a youth tournament (lots of courts), languages Russian/Czech/English, father Evgeny coach, Steffi Graf idol, top-10 debut 13 Oct 2025 (age 30), 2026 Abu Dhabi doubles title with Maya Joint: Wikipedia.",
+      "Cooking/cakes, sister Anna and brother Jury, started at 6, favorite shot forehand, favorite surface hard: WTA profile.",
+      "Seed 18 / ranking 19 / lost R3 to Kostyuk on Grandstand (m36) match schedule.json; 'won two matches' follows from reaching R3.",
+      "Neutral-flag settings left unchanged per instructions."
+    ],
+    "changes": [
+      "intro: removed unsourced 'hits the ball hard, flat, and fast'; replaced with WTA-sourced favorite shot (forehand) and favorite surface (hard).",
+      "story: 'when she was 12' -> 'when she was about 12' (Wikipedia: moved 2006, age 11-12).",
+      "watchFor: removed unsourced 'flat and hard'; now cites forehand as her favorite shot (WTA)."
+    ]
+  }
+}

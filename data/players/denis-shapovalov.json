@@ -1,0 +1,88 @@
+{
+  "slug": "denis-shapovalov",
+  "name": "Denis Shapovalov",
+  "country": "CA",
+  "countryName": "Canada",
+  "flagEmoji": "🇨🇦",
+  "birthDate": "1999-04-15",
+  "age": 27,
+  "seed": null,
+  "ranking": 48,
+  "draw": "men",
+  "tier": 1,
+  "plays": "Left-handed, one-handed backhand",
+  "heightCm": 185,
+  "hometown": "Vaughan, Ontario, Canada",
+  "nicknameOrTagline": "Shapo",
+  "intro": "Denis Shapovalov is a lefty from Canada. That means he swings with his left hand. Everyone calls him Shapo. He is famous for his flying one-handed backhand.",
+  "story": "Shapo's mom, Tessa, was a tennis player. She taught him at her own tennis school. At 18 he beat Rafael Nadal in Montreal. The whole crowd went wild. In 2021 he reached the Wimbledon semifinals. This week he won two matches in New York. Then he pushed Ben Shelton hard on Arthur Ashe Stadium. Next time, watch him fly!",
+  "funFacts": [
+    {
+      "text": "He is a rapper too! He released two songs in 2020.",
+      "source": "https://en.wikipedia.org/wiki/Denis_Shapovalov"
+    },
+    {
+      "text": "His first song was called Night Train.",
+      "source": "https://en.wikipedia.org/wiki/Denis_Shapovalov"
+    },
+    {
+      "text": "He brings a Nintendo Switch on trips and plays Mario Kart.",
+      "source": "https://www.atptour.com/en/players/denis-shapovalov/su55/bio"
+    },
+    {
+      "text": "If not tennis, he would play ice hockey.",
+      "source": "https://www.atptour.com/en/players/denis-shapovalov/su55/bio"
+    },
+    {
+      "text": "He speaks English and Russian.",
+      "source": "https://www.atptour.com/en/players/denis-shapovalov/su55/bio"
+    },
+    {
+      "text": "He cheers for the Toronto Maple Leafs and Toronto Raptors.",
+      "source": "https://www.atptour.com/en/players/denis-shapovalov/su55/bio"
+    },
+    {
+      "text": "He started ShapoShelter to help animals in need.",
+      "source": "https://www.atptour.com/en/players/denis-shapovalov/su55/bio"
+    }
+  ],
+  "watchFor": "Watch him leap into the air on his one-handed backhand.",
+  "matchTomorrow": {
+    "opponent": "Ben Shelton",
+    "opponentSlug": "ben-shelton",
+    "court": "Arthur Ashe Stadium",
+    "session": "night",
+    "matchId": "m26"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Denis_Shapovalov%2C_Swiss_Indoors_Basel_2025_%28cropped%29.jpg",
+    "localPath": "img/players/denis-shapovalov.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Skyscraper2010",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ADenis_Shapovalov%2C_Swiss_Indoors_Basel_2025_%28cropped%29.jpg",
+    "title": "File:Denis_Shapovalov,_Swiss_Indoors_Basel_2025_(cropped).jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Denis_Shapovalov",
+    "https://en.wikipedia.org/api/rest_v1/page/summary/Denis_Shapovalov",
+    "https://en.wikipedia.org/w/index.php?title=Denis_Shapovalov&action=raw&section=16",
+    "https://en.wikipedia.org/w/index.php?title=Denis_Shapovalov&action=raw&section=13",
+    "https://www.atptour.com/en/players/denis-shapovalov/su55/bio",
+    "data/schedule.json"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-05T22:10:00Z",
+  "eliminated": true,
+  "factCheck": {
+    "checkedAt": "2026-09-05T23:30:00Z",
+    "notes": [
+      "Birth date 1999-04-15 (age 27), 185 cm, left-handed/one-handed backhand, Canada: Wikipedia confirms. Born Tel Aviv; family moved to Canada before his first birthday, he lived in Vaughan and went to school there (Wikipedia), so hometown Vaughan kept. Current residence is Nassau, Bahamas.",
+      "Unseeded / ranking 48 / opponent Ben Shelton / Ashe night m26 match data/schedule.json (lost 6-7(3) 7-6(5) 3-6 4-6, two tiebreaks, so 'pushed hard' is fair).",
+      "Mother Tessa former player with academy in Vaughan, 2017 Montreal win over Nadal at 18, 2021 Wimbledon semifinal: Wikipedia. Two songs in 2020 (Night Train, Drip), Nintendo Switch/Mario Kart, ice hockey, English and Russian, Maple Leafs/Raptors, ShapoShelter (April 2022): ATP bio."
+    ],
+    "changes": [
+      "No text changes needed.",
+      "Added eliminated: true."
+    ]
+  }
+}

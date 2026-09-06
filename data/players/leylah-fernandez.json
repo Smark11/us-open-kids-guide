@@ -1,0 +1,86 @@
+{
+  "slug": "leylah-fernandez",
+  "name": "Leylah Fernandez",
+  "country": "CA",
+  "countryName": "Canada",
+  "flagEmoji": "🇨🇦",
+  "birthDate": "2002-09-06",
+  "age": 23,
+  "seed": 31,
+  "ranking": 33,
+  "draw": "women",
+  "tier": 1,
+  "plays": "Left-handed, two-handed backhand",
+  "heightCm": 168,
+  "hometown": "Montreal, Canada",
+  "nicknameOrTagline": "Montreal's Lefty Fighter",
+  "intro": "Leylah Fernandez is a lefty from Montreal, Canada. A lefty holds the racket in her left hand. At 19 she reached the US Open final. New York fans have loved her ever since.",
+  "story": "Leylah's dad played soccer, not tennis. He taught himself how to coach her anyway. In 2021 she beat three top-five players here. One was the champion, Naomi Osaka. That took her all the way to the final. This year she won two more matches in New York. She turns 24 on Sunday. Happy birthday, Leylah!",
+  "funFacts": [
+    {
+      "text": "Her birthday is September 6. She turns 24 this Sunday!",
+      "source": "https://en.wikipedia.org/wiki/Leylah_Fernandez"
+    },
+    {
+      "text": "She speaks three languages: English, French, and Spanish.",
+      "source": "https://en.wikipedia.org/wiki/Leylah_Fernandez"
+    },
+    {
+      "text": "Her dad is from Ecuador. Her mom's family is from the Philippines.",
+      "source": "https://en.wikipedia.org/wiki/Leylah_Fernandez"
+    },
+    {
+      "text": "She loves soccer and cheers for Real Madrid and Manchester City.",
+      "source": "https://en.wikipedia.org/wiki/Leylah_Fernandez"
+    },
+    {
+      "text": "She is studying business online while she plays on tour.",
+      "source": "https://en.wikipedia.org/wiki/Leylah_Fernandez"
+    },
+    {
+      "text": "Her little sister Bianca plays tennis too. Her big sister is a dentist.",
+      "source": "https://en.wikipedia.org/wiki/Leylah_Fernandez"
+    },
+    {
+      "text": "In 2023 she helped Canada win its first Billie Jean King Cup.",
+      "source": "https://en.wikipedia.org/wiki/Leylah_Fernandez"
+    }
+  ],
+  "watchFor": "Watch her lefty forehand and her fiery fist pump.",
+  "matchTomorrow": {
+    "opponent": "Jessica Pegula",
+    "opponentSlug": "jessica-pegula",
+    "court": "Arthur Ashe Stadium",
+    "session": "day",
+    "matchId": "m33"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Leylah_Fernandez_%282025_DC_Open%29_03_%28cropped%29.jpg",
+    "localPath": "img/players/leylah-fernandez.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ALeylah_Fernandez_%282025_DC_Open%29_03_%28cropped%29.jpg",
+    "title": "File:Leylah_Fernandez_(2025_DC_Open)_03_(cropped).jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Leylah_Fernandez",
+    "https://en.wikipedia.org/api/rest_v1/page/summary/Leylah_Fernandez",
+    "https://fr.wikipedia.org/wiki/Leylah_Fernandez",
+    "https://bleacherreport.com/articles/25496089-us-open-tennis-2026-results-winners-losers-and-highlights-fridays-bracket",
+    "https://en.wikipedia.org/wiki/Jorge_Fernandez_(tennis_coach_and_footballer)"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-06T01:30:23+00:00",
+  "factCheck": {
+    "checkedAt": "2026-09-06T01:33:32+00:00",
+    "notes": [
+      "Birth 2002-09-06 Montreal, 168 cm, left-handed/2HBH, father Jorge from Ecuador, mother Irene Filipino Canadian, speaks English/French/Spanish, fan of Real Madrid and Manchester City, studies business online at Indiana University East (WTA partnership), younger sister Bianca plays tennis, older sister Jodeci is a dentist, 2021 US Open final (beat No. 3 seed/defending champ Osaka, No. 5 seed Svitolina, No. 2 seed Sabalenka), 2023 BJK Cup title: confirmed on en.wikipedia.",
+      "Father semi-pro footballer in Montreal who coached her despite never playing tennis: confirmed on en.wikipedia Jorge Fernandez article (added to sources).",
+      "Seed 31 / ranking 33 (schedule.json; en.wikipedia shows No. 34 as of 27 Jul 2026, schedule feed kept) / opponent Pegula (m33, completed, lost 6-1 4-6 3-6): matches schedule.json. Note en.wikipedia fetch claimed a 3R loss to Gauff; schedule feed (Pegula) is authoritative and the story names no opponent.",
+      "Age 23 on 2026-09-05; Sept 6, 2026 is Sunday, so 'turns 24 this Sunday' is correct."
+    ],
+    "changes": [
+      "Story: '...three top-five players here in a row' corrected (Kerber, beaten in R4 between Osaka and Svitolina, was not top-5); now 'three top-five players here, including champion Naomi Osaka'."
+    ]
+  }
+}

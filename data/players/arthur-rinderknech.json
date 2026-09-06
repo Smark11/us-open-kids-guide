@@ -1,0 +1,94 @@
+{
+  "slug": "arthur-rinderknech",
+  "name": "Arthur Rinderknech",
+  "country": "FR",
+  "countryName": "France",
+  "flagEmoji": "🇫🇷",
+  "birthDate": "1995-07-23",
+  "age": 31,
+  "seed": 26,
+  "ranking": 29,
+  "draw": "men",
+  "tier": 1,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 196,
+  "hometown": "Gassin, France (grew up near Paris)",
+  "nicknameOrTagline": "The Tall Texan from France",
+  "intro": "Arthur Rinderknech is a very tall tennis player from France. He is almost two meters high! He went to college in Texas before turning pro.",
+  "story": "Arthur started tennis lessons at age six. His mom was a pro tennis player too. He did not turn pro right away. First he went to college at Texas A&M. Last year he reached his first giant final in Shanghai. This year he was the No. 26 seed. A seed is a ranking badge for top players. He won two matches in New York. What a run!",
+  "funFacts": [
+    {
+      "text": "He is 1.96 meters tall. That is about as tall as a refrigerator!",
+      "source": "https://en.wikipedia.org/wiki/Arthur_Rinderknech"
+    },
+    {
+      "text": "His mom, Virginie, was a pro tennis player on the women's tour.",
+      "source": "https://en.wikipedia.org/wiki/Arthur_Rinderknech"
+    },
+    {
+      "text": "He has three sisters: Mathilde, Julie and Flore.",
+      "source": "https://en.wikipedia.org/wiki/Arthur_Rinderknech"
+    },
+    {
+      "text": "He studied business at Texas A&M University in the United States.",
+      "source": "https://12thman.com/sports/mens-tennis/roster/arthur-rinderknech/4875"
+    },
+    {
+      "text": "His cousin Valentin Vacherot is a pro too. They played together on vacations since age five.",
+      "source": "https://bnpparibasopen.com/news/cousins-reach-doubles-final"
+    },
+    {
+      "text": "He and his cousin lived across the street from each other in college.",
+      "source": "https://bnpparibasopen.com/news/cousins-reach-doubles-final"
+    },
+    {
+      "text": "He cheers for the French soccer club AS Saint-Étienne.",
+      "source": "https://en.wikipedia.org/wiki/Arthur_Rinderknech"
+    }
+  ],
+  "watchFor": "Look how he towers over almost everyone on court at 1.96 meters tall.",
+  "matchTomorrow": {
+    "opponent": "Daniil Medvedev",
+    "opponentSlug": "daniil-medvedev",
+    "court": "Grandstand",
+    "session": "day",
+    "matchId": "m29"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Rinderknech_MCM22_%2816%29_%2852036912945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "localPath": "img/players/arthur-rinderknech.jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "si.robi",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ARinderknech_MCM22_%2816%29_%2852036912945%29.jpg",
+    "title": "File:Rinderknech_MCM22_(16)_(52036912945).jpg",
+    "bytes": 41410,
+    "width": 400,
+    "height": 600
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Arthur_Rinderknech",
+    "https://en.wikipedia.org/api/rest_v1/page/summary/Arthur_Rinderknech",
+    "https://12thman.com/sports/mens-tennis/roster/arthur-rinderknech/4875",
+    "https://bnpparibasopen.com/news/cousins-reach-doubles-final"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-06T01:30:33Z",
+  "factCheck": {
+    "checkedAt": "2026-09-06T01:34:15+00:00",
+    "notes": [
+      "Born 1995-07-23 Gassin, 196 cm, right-handed/2HBH, mother Virginie Paquet ex-WTA pro, three sisters Mathilde/Julie/Flore, Texas A&M, cousin Vacherot, AS Saint-Etienne fan, tennis lessons at age 6, 2025 Shanghai Masters runner-up: confirmed on en.wikipedia.",
+      "Hometown: en.wikipedia gives birthplace Gassin (Var); fr.wikipedia says he grew up in Vincennes / Saint-Germain-en-Laye (Paris area) and 12thman.com lists hometown Paris. Field now shows both.",
+      "Business major confirmed on 12thman.com (fr.wikipedia: diplome en commerce, 2014-2018).",
+      "Cousins since age five on vacations and lived across the street at Texas A&M: confirmed in bnpparibasopen.com article.",
+      "Seed 26 / ranking 29 / R3 opponent Medvedev (m29, completed, Medvedev won 6-4 6-4 6-4) match schedule.json. Age 31 on 2026-09-05 correct.",
+      "'Booming serve' was inferred, not documented; replaced with his documented height."
+    ],
+    "changes": [
+      "hometown: 'Gassin, France' -> 'Gassin, France (grew up near Paris)'",
+      "watchFor: removed unsourced 'booming serve', now about his 1.96 m height",
+      "added eliminated:true, playsSaturday:false"
+    ]
+  },
+  "eliminated": true,
+  "playsSaturday": false
+}

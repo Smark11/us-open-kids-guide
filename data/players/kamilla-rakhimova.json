@@ -1,0 +1,97 @@
+{
+  "slug": "kamilla-rakhimova",
+  "name": "Kamilla Rakhimova",
+  "country": "UZ",
+  "countryName": "Uzbekistan",
+  "flagEmoji": "🇺🇿",
+  "birthDate": "2001-08-28",
+  "age": 25,
+  "seed": null,
+  "ranking": 92,
+  "draw": "women",
+  "tier": 1,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 170,
+  "hometown": "Yekaterinburg, Russia",
+  "nicknameOrTagline": "Uzbekistan's Rising Star",
+  "intro": "Kamilla Rakhimova plays for Uzbekistan. That is a country in Central Asia. Her mom played tennis for Uzbekistan too. Kamilla loves hard courts, just like the ones in New York.",
+  "story": "Kamilla started tennis at age five. Her mom Rufina played too. It runs in the family. Last November Kamilla joined the Uzbekistan team. Now she is one of their top players. This summer in Toronto she got a win over the famous Venus Williams. In New York she won two matches. Then she got to play the world No. 1 on a big stadium court. What a week!",
+  "funFacts": [
+    {
+      "text": "Her mom Rufina played tennis for Uzbekistan when she was young.",
+      "source": "https://en.wikipedia.org/wiki/Kamilla_Rakhimova"
+    },
+    {
+      "text": "Her big brother Timur was born in Tashkent. That is the capital of Uzbekistan.",
+      "source": "https://en.wikipedia.org/wiki/Kamilla_Rakhimova"
+    },
+    {
+      "text": "She turned 25 just a few days before the US Open started.",
+      "source": "https://en.wikipedia.org/wiki/Kamilla_Rakhimova"
+    },
+    {
+      "text": "She joined the Uzbekistan team in November 2025. They called it a historic event.",
+      "source": "https://tennis.uz/en/news/kamila-rakhimova-ranked-109th-in-the-wta-rankings-has-officially-joined-the-uzbekistan-national-team/"
+    },
+    {
+      "text": "This summer in Toronto she got a win over tennis legend Venus Williams.",
+      "source": "https://en.wikipedia.org/wiki/2026_Canadian_Open_%E2%80%93_Women%27s_singles"
+    },
+    {
+      "text": "At Wimbledon 2025 she beat the No. 4 seed, Jasmine Paolini. Paolini is in this guide too!",
+      "source": "https://en.wikipedia.org/wiki/Kamilla_Rakhimova"
+    },
+    {
+      "text": "Her favorite courts are hard courts. That is what New York has!",
+      "source": "https://www.wtatennis.com/players/325936/kamilla-rakhimova"
+    }
+  ],
+  "watchFor": "Watch her two-handed backhand, with both hands on the racket.",
+  "matchTomorrow": {
+    "opponent": "Aryna Sabalenka",
+    "opponentSlug": "aryna-sabalenka",
+    "court": "Louis Armstrong Stadium",
+    "session": "day",
+    "matchId": "m34",
+    "status": "completed",
+    "winnerSlug": "aryna-sabalenka"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Kamilla_Rakhimova_%282024_DC_Open%29_05_%28cropped%29.jpg",
+    "localPath": "img/players/kamilla-rakhimova.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AKamilla_Rakhimova_%282024_DC_Open%29_05_%28cropped%29.jpg",
+    "title": "File:Kamilla_Rakhimova_(2024_DC_Open)_05_(cropped).jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kamilla_Rakhimova",
+    "https://en.wikipedia.org/api/rest_v1/page/summary/Kamilla_Rakhimova",
+    "https://www.wtatennis.com/players/325936/kamilla-rakhimova",
+    "https://tennis.uz/en/news/kamila-rakhimova-ranked-109th-in-the-wta-rankings-has-officially-joined-the-uzbekistan-national-team/",
+    "https://en.wikipedia.org/wiki/2026_Canadian_Open_%E2%80%93_Women%27s_singles",
+    "https://en.wikipedia.org/wiki/Uzbekistan_Billie_Jean_King_Cup_team"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-06T01:29:28+00:00",
+  "factCheck": {
+    "checkedAt": "2026-09-06T01:33:21+00:00",
+    "notes": [
+      "Birth 2001-08-28 Yekaterinburg, represents Uzbekistan since 28 Nov 2025, right-handed/2HBH, 170 cm, mother Rufina youth player for the Uzbek SSR, brother Timur born in Tashkent, beat 4th seed Paolini at Wimbledon 2025: Wikipedia.",
+      "Started at 5, favorite surface hard, coach Yulia Pilchikova: WTA profile.",
+      "Venus Williams: Wikipedia 2026 Canadian Open (Toronto) women's singles draw shows Rakhimova d. Williams 6-4 1-0 ret. in R1, then lost to Pegula. Kept as 'got a win over' with no injury detail.",
+      "'Historic': tennis.uz federation article calls her arrival 'an event of historic significance'. Uzbekistan BJK Cup team page (Wikipedia) lists her as the highest-ranked member, so 'one of their top players' is supported.",
+      "Unseeded / ranking 92 / lost R3 to No. 1 Sabalenka on Louis Armstrong Stadium (m34) match schedule.json. Birthday Aug 28 is a few days before the tournament start.",
+      "Non-tennis facts kept: mom's background, brother born in Tashkent, birthday timing."
+    ],
+    "changes": [
+      "intro/watchFor: removed unsourced 'steady, clever... loves a long rally' and 'pounce on short balls'; replaced with WTA favorite surface and Wikipedia two-handed backhand.",
+      "story: 'Last winter' -> 'Last November'; 'their top player' -> 'one of their top players'; 'beat' Venus -> 'got a win over' (retirement).",
+      "nickname: 'Uzbekistan's Number One' -> 'Uzbekistan's Rising Star' (No. 1 status not directly sourced).",
+      "funFact Venus: source changed from WTA profile (no mention) to Wikipedia 2026 Canadian Open draw.",
+      "funFact Paolini: 'world No. 5' -> 'the No. 4 seed' (Wikipedia).",
+      "funFact team: 'historic day' -> 'historic event' (matches federation wording).",
+      "sources: dropped two unused URLs (tennisuptodate, WTA Guadalajara news); added Canadian Open and BJK Cup team pages."
+    ]
+  }
+}

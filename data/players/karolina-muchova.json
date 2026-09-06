@@ -1,0 +1,88 @@
+{
+  "slug": "karolina-muchova",
+  "name": "Karolína Muchová",
+  "country": "CZ",
+  "countryName": "Czechia",
+  "flagEmoji": "🇨🇿",
+  "birthDate": "1996-08-21",
+  "age": 30,
+  "seed": 7,
+  "ranking": 7,
+  "draw": "women",
+  "tier": 1,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 180,
+  "hometown": "Olomouc, Czechia",
+  "nicknameOrTagline": "Muška the Little Fly",
+  "intro": "Karolína Muchová is a tall, tricky player from Czechia. She is the No. 7 seed. A seed is a ranking badge for top players. She can hit every shot in the book.",
+  "story": "Her dad was a pro soccer player. He showed her tennis at age seven. She played handball too. At 12 she picked tennis for good. This summer she reached the Wimbledon final. Wimbledon is a Grand Slam, one of the four biggest tournaments. In New York she won two singles matches. She also won the mixed doubles trophy here with Jakub Menšík! What a summer.",
+  "funFacts": [
+    {
+      "text": "Her nickname is Muška. In Czech that means little fly.",
+      "source": "https://cs.wikipedia.org/wiki/Karol%C3%ADna_Muchov%C3%A1"
+    },
+    {
+      "text": "Her dad Josef was a pro soccer player in Czechia.",
+      "source": "https://en.wikipedia.org/wiki/Karol%C3%ADna_Muchov%C3%A1"
+    },
+    {
+      "text": "Her brother Filip is a soccer goalkeeper.",
+      "source": "https://cs.wikipedia.org/wiki/Karol%C3%ADna_Muchov%C3%A1"
+    },
+    {
+      "text": "As a kid she played handball. At 12 she chose tennis.",
+      "source": "https://en.wikipedia.org/wiki/Karol%C3%ADna_Muchov%C3%A1"
+    },
+    {
+      "text": "Her childhood hero was Roger Federer.",
+      "source": "https://en.wikipedia.org/wiki/Karol%C3%ADna_Muchov%C3%A1"
+    },
+    {
+      "text": "Her serve can zoom at 110 miles per hour.",
+      "source": "https://en.wikipedia.org/wiki/Karol%C3%ADna_Muchov%C3%A1"
+    },
+    {
+      "text": "She just won the US Open mixed doubles title with Jakub Menšík.",
+      "source": "https://en.wikipedia.org/wiki/Karol%C3%ADna_Muchov%C3%A1"
+    }
+  ],
+  "watchFor": "Watch for her drop shot, a soft shot that barely hops over the net.",
+  "matchTomorrow": {
+    "opponent": "Emma Navarro",
+    "opponentSlug": "emma-navarro",
+    "court": "Grandstand",
+    "session": "day",
+    "matchId": "m37"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Karol%C3%ADna_Muchov%C3%A1_%282023_US_Open%29_25_%28cropped2%29.jpg",
+    "localPath": "img/players/karolina-muchova.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AKarol%C3%ADna_Muchov%C3%A1_%282023_US_Open%29_25_%28cropped2%29.jpg",
+    "title": "File:Karolína_Muchová_(2023_US_Open)_25_(cropped2).jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Karol%C3%ADna_Muchov%C3%A1",
+    "https://en.wikipedia.org/api/rest_v1/page/summary/Karol%C3%ADna_Muchov%C3%A1",
+    "https://cs.wikipedia.org/wiki/Karol%C3%ADna_Muchov%C3%A1",
+    "https://de.wikipedia.org/wiki/Karol%C3%ADna_Muchov%C3%A1",
+    "https://bleacherreport.com/articles/25496089-us-open-tennis-2026-results-winners-losers-and-highlights-fridays-bracket",
+    "https://en.wiktionary.org/wiki/mu%C5%A1ka"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-06T01:30:23+00:00",
+  "factCheck": {
+    "checkedAt": "2026-09-06T01:33:32+00:00",
+    "notes": [
+      "Birth 1996-08-21 Olomouc, 180 cm, right-handed/2HBH, father Josef Mucha ex-footballer introduced her at seven, chose tennis over handball at ~12, idol Federer, first serve peaks 110 mph, drop shots/variety, 2026 Wimbledon final, 2026 US Open 3R loss and mixed doubles title with Jakub Mensik: confirmed on en.wikipedia.",
+      "Nickname 'Muska' (infobox prezdivka), brother Filip Mucha goalkeeper, US Open 2026 mixed doubles win with Mensik: confirmed on cs.wikipedia.",
+      "'Little fly' gloss: en.wiktionary lists Czech 'muska' as diminutive of 'moucha' (fly); Wiktionary added to sources.",
+      "Seed 7 / ranking 7 (schedule.json; en.wikipedia shows No. 6 as of 13 Jul 2026, schedule feed kept) / opponent Navarro (m37, completed, lost 3-6 5-7): matches schedule.json.",
+      "Age 30 on 2026-09-05."
+    ],
+    "changes": [
+      "Fun fact 1 wording tightened; translation now sourced via Wiktionary."
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "slug": "alexander-bublik",
+  "name": "Alexander Bublik",
+  "country": "KZ",
+  "countryName": "Kazakhstan",
+  "flagEmoji": "🇰🇿",
+  "birthDate": "1997-06-17",
+  "age": 29,
+  "seed": 15,
+  "ranking": 16,
+  "draw": "men",
+  "tier": 1,
+  "plays": "Right-handed, two-handed backhand",
+  "heightCm": 196,
+  "hometown": "Gatchina, Russia",
+  "nicknameOrTagline": "Sasha",
+  "intro": "Alexander Bublik plays for Kazakhstan. Friends call him Sasha. He is the trick-shot king of tennis, full of surprises.",
+  "story": "Sasha started tennis at age two with his dad. He grew up very tall, with a huge serve. In 2025 he beat world No. 1 Jannik Sinner on his way to a title. This year he cracked the top 10 for the first time. In New York he won two matches. Then he played a five-set thriller. Next time, expect a surprise!",
+  "funFacts": [
+    {
+      "text": "He sometimes serves underhand, just to surprise people.",
+      "source": "https://en.wikipedia.org/wiki/Alexander_Bublik"
+    },
+    {
+      "text": "He loves adding trick shots to his matches, just for fun.",
+      "source": "https://en.wikipedia.org/wiki/Alexander_Bublik"
+    },
+    {
+      "text": "He is 196 cm tall. That is about six and a half feet!",
+      "source": "https://en.wikipedia.org/wiki/Alexander_Bublik"
+    },
+    {
+      "text": "He loves chess. In 2023 he was picked as a reserve for the Levitov Chess Wizards.",
+      "source": "https://en.wikipedia.org/wiki/Alexander_Bublik"
+    },
+    {
+      "text": "He has a little boy named Vasily, born in 2022.",
+      "source": "https://en.wikipedia.org/wiki/Alexander_Bublik"
+    },
+    {
+      "text": "He hit more aces than anyone on tour in 2021. An ace is a serve nobody can touch.",
+      "source": "https://en.wikipedia.org/wiki/Alexander_Bublik"
+    },
+    {
+      "text": "He started tennis at age two with his dad, Stanislav.",
+      "source": "https://www.atptour.com/en/players/alexander-bublik/bk92/bio"
+    }
+  ],
+  "watchFor": "Watch for a sneaky underhand serve or a surprise trick shot.",
+  "matchTomorrow": {
+    "opponent": "Tommy Paul",
+    "opponentSlug": "tommy-paul",
+    "court": "Louis Armstrong Stadium",
+    "session": "day",
+    "matchId": "m27"
+  },
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Sascha_Bublik_%282023_DC_Open%29_05_%28cropped%29.jpg",
+    "localPath": "img/players/alexander-bublik.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hameltion",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ASascha_Bublik_%282023_DC_Open%29_05_%28cropped%29.jpg",
+    "title": "File:Sascha_Bublik_(2023_DC_Open)_05_(cropped).jpg"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Alexander_Bublik",
+    "https://en.wikipedia.org/api/rest_v1/page/summary/Alexander_Bublik",
+    "https://en.wikipedia.org/w/index.php?title=Alexander_Bublik&action=raw",
+    "https://www.atptour.com/en/players/alexander-bublik/bk92/bio",
+    "data/schedule.json"
+  ],
+  "verified": true,
+  "researchedAt": "2026-09-05T22:10:00Z",
+  "eliminated": true,
+  "factCheck": {
+    "checkedAt": "2026-09-05T23:30:00Z",
+    "notes": [
+      "Birth date 1997-06-17, Gatchina birthplace, 196 cm, right-handed/two-handed backhand, Kazakhstan: Wikipedia article confirms.",
+      "Seed 15 / ranking 16 / opponent Tommy Paul / Louis Armstrong day match m27 match data/schedule.json (lost 4-6 6-3 7-6(4) 1-6 3-6).",
+      "Nickname 'Sasha' is in the Wikipedia lead. Underarm serve, trick shots, 2021 aces leader, son Vasily (2022), Levitov Chess Wizards reserve (2023), top 10 on 12 Jan 2026 all confirmed on Wikipedia. Age-2 start with father Stanislav confirmed on ATP bio.",
+      "Halle 2025: Wikipedia says he upset world No. 1 Sinner in the R16 then won the title, so story wording changed from 'beat Sinner to win a title' to 'on his way to a title'."
+    ],
+    "changes": [
+      "Fun fact 'hitting the ball between his legs' rewritten: Wikipedia only mentions 'trick shots', not tweeners.",
+      "Chess fact reworded to the exact team name (Levitov Chess Wizards) and year (2023).",
+      "watchFor reworded to drop the between-the-legs claim.",
+      "Story: Sinner win reworded to 'on his way to a title'.",
+      "Added eliminated: true."
+    ]
+  }
+}

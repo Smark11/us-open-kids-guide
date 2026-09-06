@@ -31,11 +31,13 @@ for f in sorted(glob.glob(os.path.join(ROOT, "data/players/*.json"))):
                               "round": m.get("round", "Third round"), "day": m.get("day", sched.get("date")),
                               "status": m.get("status", "scheduled"), "winnerSlug": m.get("winnerSlug"), "score": m.get("score")}
     p["playsSaturday"] = s.get("playsSaturday", True)
+    p["eliminated"] = bool(s.get("eliminated", False))
+    if s.get("fridayMatchId"): p["fridayMatchId"] = s["fridayMatchId"]
     p["round"] = s.get("round", m.get("round", "Third round") if m else "Third round")
     if p.get("photo") and p["photo"].get("localPath"):
         p["photo"]["exists"] = os.path.exists(os.path.join(ROOT, p["photo"]["localPath"]))
     players.append(p)
-players.sort(key=lambda p: (not p.get("playsSaturday", True), p.get("tier", 3), p.get("seed") or 999, p["name"]))
+players.sort(key=lambda p: (not p.get("playsSaturday", True), p.get("eliminated", False), p.get("tier", 3), p.get("seed") or 999, p["name"]))
 out = {"config": cfg, "schedule": {k: sched[k] for k in ("date", "round", "orderOfPlayPublished", "fetchedAt")}, "matches": sched["matches"],
        "generatedAt": datetime.datetime.now().isoformat(timespec="seconds"), "players": players}
 json.dump(out, open(os.path.join(ROOT, "data/players.json"), "w"), ensure_ascii=False, indent=1)

@@ -66,3 +66,19 @@ All 16 Friday R3 matches finished (no `pending`). Winners and Sunday R4 pairings
 - Saturday `status`/`score` is a snapshot; 14 of 16 Saturday matches were unfinished at fetch time. Re-run in the evening to fill winners and to add Monday's (Day 9) R4 for the Saturday half once `schedule16.json` releases.
 - Night-session order on Ashe/Armstrong can be swapped by the tournament; "follows" matches have no fixed start.
 - The Sunday feed is marked "SINGLES ONLY" (the extra non-singles slots on Armstrong/Grandstand are juniors/wheelchair events per the feed).
+
+---
+
+# Run 3 — Saturday, September 5, 2026, ~9:20 pm ET (Friday losers added; Saturday evening status)
+
+## JOB — Friday (Day 6) third-round matches and their 16 losers
+- Source: `schedule/schedule13.json` (Friday OOP + completed results), `players/players.json` (rankings, nations). All 16 Friday R3 singles matches are `Completed` (statusCode D).
+- Appended `m25`-`m32` (men, bottom half) and `m33`-`m40` (women, top half) with `round: "Third round"`, `day: "2026-09-04"`, `status: "completed"`, `winnerSlug`, `score` (winner's perspective), official court/session/order/`startTimeET` (first-on = session start; "not before" time where given; else `null` + "Follows previous match on this court"), `usopenMatchId`, `tier` (Tier 1 = top-10 seed or Ashe/Armstrong; Tier 2 = any other seed; Tier 3 = two unseeded). Court 11 appears for the first time (m32).
+- Appended the 16 losers to `players[]` with `playsSaturday: false`, `eliminated: true`, `round: "Third round"`, `matchId` = their Friday match. The 16 Friday winners (Sunday R4 players) got `fridayMatchId` (m25-m40); their `matchId` still points at their Sunday match (m17-m24). schedule.json now holds 40 matches / 64 players (all 64 third-round players).
+- Losers (seed, beaten by): Wu (—, Alcaraz m25); Shapovalov (—, Shelton m26); Bublik (15, Paul m27); Vacherot (22, Tiafoe m28); Rinderknech (26, Medvedev m29); Lehecka (18, Tsitsipas m30); Merida (—, Michelsen m31); Navone (—, Etcheverry m32); Fernandez (31, Pegula m33); Rakhimova (—, Sabalenka m34); Svitolina (9, Kalinskaya m35); Alexandrova (18, Kostyuk m36); Muchova (7, Navarro m37); Paolini (19, Cirstea m38); Shnaider (15, Townsend m39); Li (29, Noskova m40).
+- Data notes: the day feed lists Vacherot as seed 22 (Run 2 notes omitted his seed; the feed value is used). The day feed gives `nationA: null` for the neutral athletes (Sabalenka, Medvedev, Kalinskaya, Alexandrova, Shnaider); nation was taken from players.json (BLR -> BY, RUS -> RU), consistent with earlier runs. Rakhimova is UZB -> UZ (new country). Rankings are `singles_rank` at fetch time (Wu 113, Shapovalov 48, Bublik 16, Vacherot 23, Rinderknech 29, Lehecka 19, Merida 39, Navone 49, Fernandez 33, Rakhimova 92, Svitolina 9, Alexandrova 19, Muchova 7, Paolini 21, Shnaider 16, Li 28). Slugs are ascii firstname-lastname (e.g. `yibing-wu`, `ann-li`).
+
+## Saturday (Day 7) status at ~9:22 pm ET (`tools/refresh_status.py`, `schedule14.json`)
+- Completed: Darderi(21) d. Sweeny 6-4 6-3 6-3; Gea d. M. Zheng 7-6(7) 3-6 4-6 6-3 6-2; Khachanov d. Bonzi 6-3 6-2 6-4; **F. Cerundolo(24) d. Fritz(9) 3-6 4-6 6-3 6-4 6-4** (from two sets down); **Blockx(28) d. Cobolli(5) 6-7(4) 6-3 6-0 6-3**; M. Andreeva(5) d. Bartunkova 6-2 7-6(5); Potapova(24) d. Anisimova(10) 6-2 7-5; Gauff(4) d. Bucsa 6-3 6-4; Swiatek(8) d. Bouzkova(25) 7-6(3) 7-6(3); Zheng Qinwen d. Keys(22) 1-6 7-6(3) 7-5.
+- In progress: Bergs v van de Zandschulp (m4), Jovic v Eala (m11), Osaka v Mertens (m15), Starodubtseva v Rybakina (m16). Not started: Zverev v Tabilo (m1, Ashe night 2nd), Mensik v Tien (m6, Armstrong night 2nd).
+- `schedule16.json` (Monday, Day 9) is not yet released (feed returns non-JSON; the script's "feed 16 unavailable" message is expected). Re-run late tonight / Sunday morning to finish the six open Saturday matches and add Monday's R4 for this half.

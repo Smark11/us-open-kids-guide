@@ -60,12 +60,15 @@
   function matchOf(p) { var m = p.matchTomorrow; if (!m) return null; return MATCHES.filter(function (x) { return x.id === m.matchId; })[0] || null; }
   function courtOf(p) { var m = matchOf(p); return m ? m.court : (p.matchTomorrow && p.matchTomorrow.court); }
   function sessionOf(p) { var m = matchOf(p); return m ? m.session : (p.matchTomorrow && p.matchTomorrow.session); }
-  /* Saturday (today) vs Sunday: players carry playsSaturday, matches carry day (missing = today) */
+  /* Saturday (today) vs Sunday vs finished Friday: players carry playsSaturday/eliminated, matches carry day (missing = today) */
   var TODAY = (DATA.schedule && DATA.schedule.date) || '';
   function playsToday(p) { return p.playsSaturday !== false; }
+  function isOut(p) { return !!p.eliminated; }
   function isToday(m) { return !m.day || !TODAY || m.day === TODAY; }
-  var TODAY_MATCHES = MATCHES.filter(isToday), LATER_MATCHES = MATCHES.filter(function (m) { return !isToday(m); });
-  var SAT = PLAYERS.filter(playsToday), SUN = PLAYERS.filter(function (p) { return !playsToday(p); });
+  function isPast(m) { return !!(m.day && TODAY && m.day < TODAY); }
+  var TODAY_MATCHES = MATCHES.filter(isToday), LATER_MATCHES = MATCHES.filter(function (m) { return !isToday(m) && !isPast(m); }), PAST_MATCHES = MATCHES.filter(isPast);
+  var SAT = PLAYERS.filter(playsToday), SUN = PLAYERS.filter(function (p) { return !playsToday(p) && !isOut(p); }), FRI = PLAYERS.filter(isOut);
+  PLAYERS = SAT.concat(SUN, FRI); // "All" order: today first, then Sunday, then finished Friday
   function roundShort(r) { return { 'Third round': '3rd round', 'Fourth round': '4th round' }[r] || String(r || '').toLowerCase() || '4th round'; }
   function bySlot(a, b) { var sa = a.session === 'night' ? 1 : 0, sb = b.session === 'night' ? 1 : 0; return sa - sb || (a.order || 99) - (b.order || 99); }
   // first not-yet-started match on each court = "Up next" (over all matches, so filters never shift it)
@@ -104,11 +107,11 @@
   }
 
   /* ---------- filters ---------- */
-  var DAY_DEFAULT = SUN.length ? 'sat' : 'all';
-  var filters = { day: DAY_DEFAULT, draw: null, tier: null, court: null, session: null, fav: false };
+  // Default is "All" (sorted today → Sunday → Friday) so nobody is hidden under a pill she has not tapped yet.
+  var filters = { day: 'all', draw: null, tier: null, court: null, session: null, fav: false };
+  function dayOf(p) { return isOut(p) ? 'fri' : playsToday(p) ? 'sat' : 'sun'; }
   function matchesFilters(p) {
-    if (filters.day === 'sat' && !playsToday(p)) return false;
-    if (filters.day === 'sun' && playsToday(p)) return false;
+    if (filters.day !== 'all' && dayOf(p) !== filters.day) return false;
     if ((filters.court || filters.session) && !playsToday(p)) return false; // court/session pills are today's order of play
     if (filters.fav && !favorites.has(p.slug)) return false;
     if (filters.draw && p.draw !== filters.draw) return false;
@@ -121,9 +124,14 @@
     return '<button type="button" class="pill ' + (opts.cls || '') + '" data-f="' + opts.key + '" data-v="' + esc(opts.value) + '" aria-pressed="' + (opts.on ? 'true' : 'false') + '">' + opts.label + '</button>';
   }
   function renderFilters() {
-    $('filter-day').innerHTML = SUN.length ? [['sat', '🎾 Playing today (Sat)'], ['sun', '📅 Playing Sunday'], ['all', 'All']].map(function (d) {
+    var days = [['sat', '🎾 Playing today (Sat)']];
+    if (SUN.length) days.push(['sun', '📅 Playing Sunday']);
+    if (FRI.length) days.push(['fri', '🏁 Finished Friday']);
+    days.push(['all', 'All']);
+    $('filter-day').innerHTML = days.length > 2 ? days.map(function (d) {
       return pill({ key: 'day', value: d[0], on: filters.day === d[0], cls: 'daypill ' + d[0], label: d[1] });
     }).join('') : '';
+    $('day-note').hidden = !(days.length > 2 && filters.day === 'all');
     $('filter-draw').innerHTML =
       pill({ key: 'fav', value: '1', on: filters.fav, cls: 'favpill', label: '⭐ My favorites' }) +
       pill({ key: 'draw', value: 'women', on: filters.draw === 'women', label: '👩 Women' }) +
@@ -164,7 +172,7 @@
       el.appendChild(document.createTextNode(parts[0] || ''));
       if (parts.length > 1) { el.appendChild(document.createTextNode(' · ')); var sp = document.createElement('span'); sp.className = 'nowrap'; sp.textContent = parts.slice(1).join(' · '); el.appendChild(sp); }
     })();
-    var counts = SUN.length ? SAT.length + ' playing today · ' + SUN.length + ' more still in it' : PLAYERS.length + ' players · ' + MATCHES.length + ' matches';
+    var counts = SUN.length ? SAT.length + ' playing today · ' + SUN.length + ' more still in it' + (FRI.length ? ' · ' + FRI.length + ' finished Friday' : '') : PLAYERS.length + ' players · ' + MATCHES.length + ' matches';
     $('hero-kicker').textContent = (kid ? kid + "'s collector's guide · " : '') + counts;
     // While the order of play is unknown the matches carry little a kid can use: album first.
     var main = $('main'), players = $('players'), matches = $('matches');
@@ -183,11 +191,14 @@
   }
   function matchCard(m, compact) {
     var meta = '<span class="tag">' + (m.draw === 'women' ? "👩 Women's" : "👨 Men's") + '</span>';
-    if (compact) meta += isTBD(m.court) ? '<span class="tag">🏟️ Court &amp; time: coming soon</span>' : '<span class="tag">' + courtIcon(m.court) + ' ' + esc(shortCourt(m.court)) + '</span>';
-    if (!isTBD(m.session)) meta += '<span class="tag ' + esc(m.session) + '">' + sessionLabel(m.session) + '</span>';
-    if (m.order) meta += '<span class="tag">Match ' + m.order + (m.startTimeET ? ' · ' + esc(fmtTime(m.startTimeET)) + ' ET' : '') + '</span>';
-    else if (m.startTimeET) meta += '<span class="tag">' + esc(fmtTime(m.startTimeET)) + ' ET</span>';
-    meta += statusChip(m);
+    if (isPast(m)) meta += '<span class="tag fri">🏁 Fri</span>'; // finished days: who won and the score is all that matters
+    else {
+      if (compact) meta += isTBD(m.court) ? '<span class="tag">🏟️ Court &amp; time: coming soon</span>' : '<span class="tag">' + courtIcon(m.court) + ' ' + esc(shortCourt(m.court)) + '</span>';
+      if (!isTBD(m.session)) meta += '<span class="tag ' + esc(m.session) + '">' + sessionLabel(m.session) + '</span>';
+      if (m.order) meta += '<span class="tag">Match ' + m.order + (m.startTimeET ? ' · ' + esc(fmtTime(m.startTimeET)) + ' ET' : '') + '</span>';
+      else if (m.startTimeET) meta += '<span class="tag">' + esc(fmtTime(m.startTimeET)) + ' ET</span>';
+      meta += statusChip(m);
+    }
     if (m.status === 'completed' && m.score) meta += '<span class="tag">' + esc(m.score) + '</span>';
     var ps = m.players || [], a = bySlug[(ps[0] || {}).slug] || ps[0] || {}, b = bySlug[(ps[1] || {}).slug] || ps[1] || {};
     return '<article class="match' + (compact ? ' compact' : '') + '" aria-label="' + esc(a.name || 'TBD') + ' versus ' + esc(b.name || 'TBD') + '">' +
@@ -229,11 +240,20 @@
       html += '<section class="court-group later" aria-label="Sunday\'s matches"><h3 class="court-head"><span class="court-icon" aria-hidden="true">📅</span>Sunday\'s 4th-round matches</h3>' +
         (later.length ? '<div class="match-cards">' + later.map(function (m) { return matchCard(m, true); }).join('') + '</div>' : '<p class="filter-note">No Sunday matches match this filter.</p>') + '</section>';
     }
+    // Friday's results: collapsed by default (the day is over), same compact rows
+    if (PAST_MATCHES.length && !filters.court && !filters.session) {
+      var past = PAST_MATCHES.filter(matchVisible);
+      html += '<details class="results-box court-group later" id="fri-results"' + (friOpen ? ' open' : '') + '><summary><h3 class="court-head"><span class="court-icon" aria-hidden="true">🏁</span>Friday\'s 3rd-round results</h3></summary>' +
+        (past.length ? '<div class="match-cards">' + past.map(function (m) { return matchCard(m, true); }).join('') + '</div>' : '<p class="filter-note">No Friday matches match this filter.</p>') + '</details>';
+    }
     list.innerHTML = html;
   }
+  var friOpen = false;
+  $('matches-list').addEventListener('toggle', function (e) { if (e.target.id === 'fri-results') friOpen = e.target.open; }, true);
 
   /* ---------- player grid ---------- */
   function cardChip(p) {
+    if (isOut(p)) return '<span class="tag chip fri">🏁 Fri</span>';
     if (!playsToday(p)) return '<span class="tag chip sun">📅 Sun</span>';
     var c = courtOf(p); if (isTBD(c)) return '';
     var st = (matchOf(p) || {}).status;
@@ -241,7 +261,7 @@
   }
   function playerCard(p) {
     return '<div class="card-wrap">' +
-      '<button type="button" class="card" data-open="' + esc(p.slug) + '" aria-label="Open ' + esc(p.name) + ' card">' +
+      '<button type="button" class="card' + (isOut(p) ? ' out' : '') + '" data-open="' + esc(p.slug) + '" aria-label="Open ' + esc(p.name) + ' card' + (isOut(p) ? ', finished Friday' : '') + '">' +
         '<div class="card-photo">' + photoHTML(p) +
           '<span class="flag-big" aria-hidden="true">' + flagOf(p) + '</span>' + seedBadge(p.seed) + cardChip(p) + '</div>' +
         '<div class="card-body"><h3 class="card-name">' + esc(p.name) + '</h3>' +
@@ -253,8 +273,9 @@
     var n = PLAYERS.filter(matchesFilters).length;
     var favs = favorites.size ? ' · ⭐ ' + favorites.size + ' collected' : '';
     var plain = !filters.draw && !filters.tier && !filters.court && !filters.session && !filters.fav;
-    var txt = plain && filters.day === 'sat' && SUN.length ? SAT.length + ' today · ' + SUN.length + ' more still in it'
+    var txt = plain && (filters.day === 'sat' || filters.day === 'all') && SUN.length ? SAT.length + ' today · ' + SUN.length + ' more still in it' + (FRI.length ? ' · ' + FRI.length + ' finished Friday' : '')
       : plain && filters.day === 'sun' ? n + ' playing Sunday'
+      : plain && filters.day === 'fri' ? n + ' finished Friday'
       : n === PLAYERS.length ? 'All ' + n + ' players' : n + ' of ' + PLAYERS.length + ' players';
     $('count').textContent = txt + favs;
   }
@@ -285,13 +306,18 @@
     var mt = p.matchTomorrow || {}; var m = matchOf(p) || mt;
     var court = m.court, session = m.session;
     var opp = mt.opponentSlug && bySlug[mt.opponentSlug];
-    var today = playsToday(p);
-    var courtTxt = isTBD(court) ? (today ? '🏟️ Court and time: coming soon!' : '🏟️ Court and time: announced Saturday evening!')
-      : courtIcon(court) + ' ' + esc(court) + (isTBD(session) ? '' : ' · ' + sessionLabel(session) + ' session') + (m.startTimeET ? ' · ' + esc(fmtTime(m.startTimeET)) : m.startTimeNote ? ' · ' + esc(m.startTimeNote) : '');
+    var today = playsToday(p), out = isOut(p);
+    var oppName = opp ? opp.name : mt.opponent;
+    var courtTxt = isTBD(court) ? (out ? '' : today ? '🏟️ Court and time: coming soon!' : '🏟️ Court and time: announced Saturday evening!')
+      : courtIcon(court) + ' ' + esc(court) + (isTBD(session) ? '' : ' · ' + sessionLabel(session) + ' session') + (out ? '' : m.startTimeET ? ' · ' + esc(fmtTime(m.startTimeET)) : m.startTimeNote ? ' · ' + esc(m.startTimeNote) : '');
     var sessTxt = isTBD(session) ? '' : '<span class="tag ' + esc(session) + '">' + sessionLabel(session) + '</span>';
-    var timeTxt = m.order ? '<span class="tag">Match ' + m.order + (isTBD(court) && m.startTimeET ? ' · ' + esc(fmtTime(m.startTimeET)) + ' ET' : '') + '</span>' : '';
-    var result = m.status === 'completed' ? '<p class="result">' + (m.winnerSlug === p.slug ? '✅ Won!' + (m.score ? ' ' + esc(m.score) : '') : m.winnerSlug ? '💪 Played a great match today!' : '🏁 Match finished!') + '</p>'
+    var timeTxt = m.order && !out ? '<span class="tag">Match ' + m.order + (isTBD(court) && m.startTimeET ? ' · ' + esc(fmtTime(m.startTimeET)) + ' ET' : '') + '</span>' : '';
+    // Eliminated players: always kind, never a red "lost" style — she played a great tournament.
+    var result = out ? '<p class="result">💪 Played a great tournament!</p>' + (oppName ? '<p>Lost to <strong>' + esc(oppName) + '</strong> on Friday' + (m.score ? ' · ' + esc(m.score) : '') + '</p>' : '')
+      : m.status === 'completed' ? '<p class="result">' + (m.winnerSlug === p.slug ? '✅ Won!' + (m.score ? ' ' + esc(m.score) : '') : m.winnerSlug ? '💪 Played a great match today!' : '🏁 Match finished!') + '</p>'
       : m.status === 'in_progress' ? '<p class="result">🔴 On court right now!</p>' : '';
+    var fri = p.fridayMatchId && !out ? MATCHES.filter(function (x) { return x.id === p.fridayMatchId; })[0] : null;
+    var friTxt = fri && fri.winnerSlug === p.slug ? '<p>✅ Won on Friday' + (fri.score ? ' · ' + esc(fri.score) : '') + '</p>' : '';
     var idx = PLAYERS.indexOf(p);
     var prev = PLAYERS[(idx - 1 + PLAYERS.length) % PLAYERS.length], next = PLAYERS[(idx + 1) % PLAYERS.length];
     var facts = (p.funFacts || []).map(function (f, i) {
@@ -315,9 +341,9 @@
           stat('Height', p.heightCm ? feetIn(p.heightCm) + '<small>' + p.heightCm + ' cm</small>' : '') +
           stat('Hits with', handOf(p) ? '<small style="font-size:20px">' + handOf(p) + '</small>' : '') +
         '</div>' +
-        '<section class="box match-box" aria-label="' + (today ? "Today's match" : "Sunday's match") + '"><h3>' + (today ? "🎾 Today's match" : "📅 Sunday's match (" + esc(roundShort(mt.round || p.round)) + ')') + '</h3>' + result +
-          (mt.opponent ? '<p>vs</p><button type="button" class="opp" data-open="' + esc(mt.opponentSlug || '') + '"' + (opp ? '' : ' disabled') + '>' + (opp ? flagOf(opp) + ' ' : '') + esc(opp ? opp.name : mt.opponent) + (opp ? ' ▸' : '') + '</button>' : '<p>Opponent coming soon!</p>') +
-          '<p>' + courtTxt + '</p><div class="tags">' + tierTag(p.tier) + sessTxt + timeTxt + '</div></section>' +
+        '<section class="box match-box" aria-label="' + (out ? "Friday's match" : today ? "Today's match" : "Sunday's match") + '"><h3>' + (out ? "🏁 Friday's match" : today ? "🎾 Today's match" : "📅 Sunday's match (" + esc(roundShort(mt.round || p.round)) + ')') + '</h3>' + result +
+          (mt.opponent ? (out ? '' : '<p>vs</p>') + '<button type="button" class="opp" data-open="' + esc(mt.opponentSlug || '') + '"' + (opp ? '' : ' disabled') + '>' + (opp ? flagOf(opp) + ' ' : '') + esc(oppName) + (opp ? ' ▸' : '') + '</button>' : '<p>Opponent coming soon!</p>') +
+          (courtTxt ? '<p>' + courtTxt + '</p>' : '') + friTxt + '<div class="tags">' + tierTag(p.tier) + sessTxt + timeTxt + '</div></section>' +
         (p.watchFor ? '<section class="box watch"><h3>Watch for this! 👀</h3><p>' + esc(p.watchFor) + '</p></section>' : '') +
         (facts ? '<section aria-label="Fun facts"><h3 class="facts-h">🤩 Fun facts — tap to collect!</h3><div class="facts">' + facts + '</div></section>' : '') +
         (p.intro ? '<section class="box"><h3>👋 Meet ' + esc(firstName(p.name)) + '</h3><p>' + esc(p.intro) + '</p></section>' : '') +

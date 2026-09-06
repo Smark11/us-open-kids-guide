@@ -313,7 +313,7 @@
     var sessTxt = isTBD(session) ? '' : '<span class="tag ' + esc(session) + '">' + sessionLabel(session) + '</span>';
     var timeTxt = m.order && !out ? '<span class="tag">Match ' + m.order + (isTBD(court) && m.startTimeET ? ' · ' + esc(fmtTime(m.startTimeET)) + ' ET' : '') + '</span>' : '';
     // Eliminated players: always kind, never a red "lost" style — she played a great tournament.
-    var result = out ? '<p class="result">💪 Played a great tournament!</p>' + (oppName ? '<p>Lost to <strong>' + esc(oppName) + '</strong> on Friday' + (m.score ? ' · ' + esc(m.score) : '') + '</p>' : '')
+    var result = out ? '<p class="result">💪 Played a great tournament!</p>' + (oppName ? '<p>Played <strong>' + esc(oppName) + '</strong> on Friday' + (m.score ? ' · ' + esc(m.score) : '') + '</p>' : '')
       : m.status === 'completed' ? '<p class="result">' + (m.winnerSlug === p.slug ? '✅ Won!' + (m.score ? ' ' + esc(m.score) : '') : m.winnerSlug ? '💪 Played a great match today!' : '🏁 Match finished!') + '</p>'
       : m.status === 'in_progress' ? '<p class="result">🔴 On court right now!</p>' : '';
     var fri = p.fridayMatchId && !out ? MATCHES.filter(function (x) { return x.id === p.fridayMatchId; })[0] : null;

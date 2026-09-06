@@ -75,7 +75,9 @@
    "round": "Third round",
    "day": "2026-09-05",
    "startTimeNote": "Follows previous match on this court",
-   "status": "scheduled"
+   "status": "completed",
+   "winnerSlug": "luciano-darderi",
+   "score": "6-4 6-3 6-3"
   },
   {
    "id": "m3",
@@ -108,7 +110,9 @@
    "round": "Third round",
    "day": "2026-09-05",
    "startTimeNote": "Follows previous match on this court",
-   "status": "scheduled"
+   "status": "completed",
+   "winnerSlug": "arthur-gea",
+   "score": "7-6(7) 3-6 4-6 6-3 6-2"
   },
   {
    "id": "m4",
@@ -141,7 +145,9 @@
    "round": "Third round",
    "day": "2026-09-05",
    "startTimeNote": "Not before 4:30 PM",
-   "status": "scheduled"
+   "status": "in_progress",
+   "winnerSlug": null,
+   "score": null
   },
   {
    "id": "m5",
@@ -174,7 +180,9 @@
    "round": "Third round",
    "day": "2026-09-05",
    "startTimeNote": "Follows previous match on this court",
-   "status": "scheduled"
+   "status": "completed",
+   "winnerSlug": "karen-khachanov",
+   "score": "6-3 6-2 6-4"
   },
   {
    "id": "m6",
@@ -240,7 +248,9 @@
    "round": "Third round",
    "day": "2026-09-05",
    "startTimeNote": null,
-   "status": "in_progress"
+   "status": "completed",
+   "winnerSlug": "francisco-cerundolo",
+   "score": "3-6 4-6 6-3 6-4 6-4"
   },
   {
    "id": "m8",
@@ -273,7 +283,9 @@
    "round": "Third round",
    "day": "2026-09-05",
    "startTimeNote": "Follows previous match on this court",
-   "status": "in_progress"
+   "status": "completed",
+   "winnerSlug": "alexander-blockx",
+   "score": "6-7(4) 6-3 6-0 6-3"
   },
   {
    "id": "m9",
@@ -306,7 +318,9 @@
    "round": "Third round",
    "day": "2026-09-05",
    "startTimeNote": "Follows previous match on this court",
-   "status": "in_progress"
+   "status": "completed",
+   "winnerSlug": "mirra-andreeva",
+   "score": "6-2 7-6(5)"
   },
   {
    "id": "m10",
@@ -374,7 +388,9 @@
    "round": "Third round",
    "day": "2026-09-05",
    "startTimeNote": null,
-   "status": "scheduled"
+   "status": "in_progress",
+   "winnerSlug": null,
+   "score": null
   },
   {
    "id": "m12",
@@ -407,7 +423,9 @@
    "round": "Third round",
    "day": "2026-09-05",
    "startTimeNote": "Not before 1:30 PM",
-   "status": "scheduled"
+   "status": "completed",
+   "winnerSlug": "coco-gauff",
+   "score": "6-3 6-4"
   },
   {
    "id": "m13",
@@ -440,9 +458,9 @@
    "round": "Third round",
    "day": "2026-09-05",
    "startTimeNote": "Follows previous match on this court",
-   "status": "in_progress",
-   "winnerSlug": null,
-   "score": null
+   "status": "completed",
+   "winnerSlug": "iga-swiatek",
+   "score": "7-6(3) 7-6(3)"
   },
   {
    "id": "m14",
@@ -510,7 +528,9 @@
    "round": "Third round",
    "day": "2026-09-05",
    "startTimeNote": null,
-   "status": "scheduled"
+   "status": "in_progress",
+   "winnerSlug": null,
+   "score": null
   },
   {
    "id": "m16",
@@ -543,7 +563,9 @@
    "round": "Third round",
    "day": "2026-09-05",
    "startTimeNote": "Not before 5:00 PM",
-   "status": "scheduled"
+   "status": "in_progress",
+   "winnerSlug": null,
+   "score": null
   },
   {
    "id": "m17",
@@ -808,9 +830,564 @@
      "ranking": 27
     }
    ]
+  },
+  {
+   "id": "m25",
+   "draw": "men",
+   "usopenMatchId": "1316",
+   "court": "Arthur Ashe Stadium",
+   "session": "day",
+   "order": 2,
+   "startTimeET": "13:00",
+   "startTimeNote": "Not before 1:00 PM",
+   "tier": 1,
+   "pending": false,
+   "round": "Third round",
+   "day": "2026-09-04",
+   "status": "completed",
+   "winnerSlug": "carlos-alcaraz",
+   "score": "6-3 6-4 6-1",
+   "players": [
+    {
+     "slug": "yibing-wu",
+     "name": "Yibing Wu",
+     "country": "CN",
+     "countryName": "China",
+     "seed": null,
+     "ranking": 113
+    },
+    {
+     "slug": "carlos-alcaraz",
+     "name": "Carlos Alcaraz",
+     "country": "ES",
+     "countryName": "Spain",
+     "seed": 2,
+     "ranking": 3
+    }
+   ]
+  },
+  {
+   "id": "m26",
+   "draw": "men",
+   "usopenMatchId": "1313",
+   "court": "Arthur Ashe Stadium",
+   "session": "night",
+   "order": 2,
+   "startTimeET": null,
+   "startTimeNote": "Follows previous match on this court",
+   "tier": 1,
+   "pending": false,
+   "round": "Third round",
+   "day": "2026-09-04",
+   "status": "completed",
+   "winnerSlug": "ben-shelton",
+   "score": "7-6(3) 6-7(5) 6-3 6-4",
+   "players": [
+    {
+     "slug": "ben-shelton",
+     "name": "Ben Shelton",
+     "country": "US",
+     "countryName": "United States",
+     "seed": 8,
+     "ranking": 9
+    },
+    {
+     "slug": "denis-shapovalov",
+     "name": "Denis Shapovalov",
+     "country": "CA",
+     "countryName": "Canada",
+     "seed": null,
+     "ranking": 48
+    }
+   ]
+  },
+  {
+   "id": "m27",
+   "draw": "men",
+   "usopenMatchId": "1315",
+   "court": "Louis Armstrong Stadium",
+   "session": "day",
+   "order": 2,
+   "startTimeET": null,
+   "startTimeNote": "Follows previous match on this court",
+   "tier": 1,
+   "pending": false,
+   "round": "Third round",
+   "day": "2026-09-04",
+   "status": "completed",
+   "winnerSlug": "tommy-paul",
+   "score": "6-4 3-6 6-7(4) 6-1 6-3",
+   "players": [
+    {
+     "slug": "alexander-bublik",
+     "name": "Alexander Bublik",
+     "country": "KZ",
+     "countryName": "Kazakhstan",
+     "seed": 15,
+     "ranking": 16
+    },
+    {
+     "slug": "tommy-paul",
+     "name": "Tommy Paul",
+     "country": "US",
+     "countryName": "United States",
+     "seed": 20,
+     "ranking": 21
+    }
+   ]
+  },
+  {
+   "id": "m28",
+   "draw": "men",
+   "usopenMatchId": "1310",
+   "court": "Louis Armstrong Stadium",
+   "session": "night",
+   "order": 1,
+   "startTimeET": "19:00",
+   "tier": 1,
+   "pending": false,
+   "round": "Third round",
+   "day": "2026-09-04",
+   "status": "completed",
+   "winnerSlug": "frances-tiafoe",
+   "score": "6-4 6-2 6-4",
+   "players": [
+    {
+     "slug": "valentin-vacherot",
+     "name": "Valentin Vacherot",
+     "country": "MC",
+     "countryName": "Monaco",
+     "seed": 22,
+     "ranking": 23
+    },
+    {
+     "slug": "frances-tiafoe",
+     "name": "Frances Tiafoe",
+     "country": "US",
+     "countryName": "United States",
+     "seed": 11,
+     "ranking": 12
+    }
+   ]
+  },
+  {
+   "id": "m29",
+   "draw": "men",
+   "usopenMatchId": "1309",
+   "court": "Grandstand",
+   "session": "day",
+   "order": 2,
+   "startTimeET": null,
+   "startTimeNote": "Follows previous match on this court",
+   "tier": 1,
+   "pending": false,
+   "round": "Third round",
+   "day": "2026-09-04",
+   "status": "completed",
+   "winnerSlug": "daniil-medvedev",
+   "score": "6-4 6-4 6-4",
+   "players": [
+    {
+     "slug": "daniil-medvedev",
+     "name": "Daniil Medvedev",
+     "country": "RU",
+     "countryName": "Russia",
+     "seed": 7,
+     "ranking": 8
+    },
+    {
+     "slug": "arthur-rinderknech",
+     "name": "Arthur Rinderknech",
+     "country": "FR",
+     "countryName": "France",
+     "seed": 26,
+     "ranking": 29
+    }
+   ]
+  },
+  {
+   "id": "m30",
+   "draw": "men",
+   "usopenMatchId": "1314",
+   "court": "Grandstand",
+   "session": "day",
+   "order": 4,
+   "startTimeET": "17:00",
+   "startTimeNote": "Not before 5:00 PM",
+   "tier": 2,
+   "pending": false,
+   "round": "Third round",
+   "day": "2026-09-04",
+   "status": "completed",
+   "winnerSlug": "stefanos-tsitsipas",
+   "score": "2-6 6-1 7-6(3) 6-1",
+   "players": [
+    {
+     "slug": "jiri-lehecka",
+     "name": "Jiri Lehecka",
+     "country": "CZ",
+     "countryName": "Czechia",
+     "seed": 18,
+     "ranking": 19
+    },
+    {
+     "slug": "stefanos-tsitsipas",
+     "name": "Stefanos Tsitsipas",
+     "country": "GR",
+     "countryName": "Greece",
+     "seed": null,
+     "ranking": 53
+    }
+   ]
+  },
+  {
+   "id": "m31",
+   "draw": "men",
+   "usopenMatchId": "1311",
+   "court": "Court 17",
+   "session": "day",
+   "order": 4,
+   "startTimeET": "16:30",
+   "startTimeNote": "Not before 4:30 PM",
+   "tier": 3,
+   "pending": false,
+   "round": "Third round",
+   "day": "2026-09-04",
+   "status": "completed",
+   "winnerSlug": "alex-michelsen",
+   "score": "7-6(5) 6-4 6-3",
+   "players": [
+    {
+     "slug": "alex-michelsen",
+     "name": "Alex Michelsen",
+     "country": "US",
+     "countryName": "United States",
+     "seed": null,
+     "ranking": 46
+    },
+    {
+     "slug": "daniel-merida",
+     "name": "Daniel Merida",
+     "country": "ES",
+     "countryName": "Spain",
+     "seed": null,
+     "ranking": 39
+    }
+   ]
+  },
+  {
+   "id": "m32",
+   "draw": "men",
+   "usopenMatchId": "1312",
+   "court": "Court 11",
+   "session": "day",
+   "order": 4,
+   "startTimeET": "16:00",
+   "startTimeNote": "Not before 4:00 PM",
+   "tier": 2,
+   "pending": false,
+   "round": "Third round",
+   "day": "2026-09-04",
+   "status": "completed",
+   "winnerSlug": "tomas-martin-etcheverry",
+   "score": "6-4 6-4 6-3",
+   "players": [
+    {
+     "slug": "tomas-martin-etcheverry",
+     "name": "Tomas Martin Etcheverry",
+     "country": "AR",
+     "countryName": "Argentina",
+     "seed": 27,
+     "ranking": 32
+    },
+    {
+     "slug": "mariano-navone",
+     "name": "Mariano Navone",
+     "country": "AR",
+     "countryName": "Argentina",
+     "seed": null,
+     "ranking": 49
+    }
+   ]
+  },
+  {
+   "id": "m33",
+   "draw": "women",
+   "usopenMatchId": "2305",
+   "court": "Arthur Ashe Stadium",
+   "session": "day",
+   "order": 1,
+   "startTimeET": "11:30",
+   "tier": 1,
+   "pending": false,
+   "round": "Third round",
+   "day": "2026-09-04",
+   "status": "completed",
+   "winnerSlug": "jessica-pegula",
+   "score": "1-6 6-4 6-3",
+   "players": [
+    {
+     "slug": "jessica-pegula",
+     "name": "Jessica Pegula",
+     "country": "US",
+     "countryName": "United States",
+     "seed": 3,
+     "ranking": 3
+    },
+    {
+     "slug": "leylah-fernandez",
+     "name": "Leylah Fernandez",
+     "country": "CA",
+     "countryName": "Canada",
+     "seed": 31,
+     "ranking": 33
+    }
+   ]
+  },
+  {
+   "id": "m34",
+   "draw": "women",
+   "usopenMatchId": "2301",
+   "court": "Louis Armstrong Stadium",
+   "session": "day",
+   "order": 1,
+   "startTimeET": "11:00",
+   "tier": 1,
+   "pending": false,
+   "round": "Third round",
+   "day": "2026-09-04",
+   "status": "completed",
+   "winnerSlug": "aryna-sabalenka",
+   "score": "6-3 6-4",
+   "players": [
+    {
+     "slug": "aryna-sabalenka",
+     "name": "Aryna Sabalenka",
+     "country": "BY",
+     "countryName": "Belarus",
+     "seed": 1,
+     "ranking": 1
+    },
+    {
+     "slug": "kamilla-rakhimova",
+     "name": "Kamilla Rakhimova",
+     "country": "UZ",
+     "countryName": "Uzbekistan",
+     "seed": null,
+     "ranking": 92
+    }
+   ]
+  },
+  {
+   "id": "m35",
+   "draw": "women",
+   "usopenMatchId": "2307",
+   "court": "Louis Armstrong Stadium",
+   "session": "night",
+   "order": 2,
+   "startTimeET": null,
+   "startTimeNote": "Follows previous match on this court",
+   "tier": 1,
+   "pending": false,
+   "round": "Third round",
+   "day": "2026-09-04",
+   "status": "completed",
+   "winnerSlug": "anna-kalinskaya",
+   "score": "6-3 2-6 6-3",
+   "players": [
+    {
+     "slug": "elina-svitolina",
+     "name": "Elina Svitolina",
+     "country": "UA",
+     "countryName": "Ukraine",
+     "seed": 9,
+     "ranking": 9
+    },
+    {
+     "slug": "anna-kalinskaya",
+     "name": "Anna Kalinskaya",
+     "country": "RU",
+     "countryName": "Russia",
+     "seed": 21,
+     "ranking": 23
+    }
+   ]
+  },
+  {
+   "id": "m36",
+   "draw": "women",
+   "usopenMatchId": "2303",
+   "court": "Grandstand",
+   "session": "day",
+   "order": 1,
+   "startTimeET": "11:00",
+   "tier": 2,
+   "pending": false,
+   "round": "Third round",
+   "day": "2026-09-04",
+   "status": "completed",
+   "winnerSlug": "marta-kostyuk",
+   "score": "6-3 6-2",
+   "players": [
+    {
+     "slug": "marta-kostyuk",
+     "name": "Marta Kostyuk",
+     "country": "UA",
+     "countryName": "Ukraine",
+     "seed": 11,
+     "ranking": 11
+    },
+    {
+     "slug": "ekaterina-alexandrova",
+     "name": "Ekaterina Alexandrova",
+     "country": "RU",
+     "countryName": "Russia",
+     "seed": 18,
+     "ranking": 19
+    }
+   ]
+  },
+  {
+   "id": "m37",
+   "draw": "women",
+   "usopenMatchId": "2308",
+   "court": "Grandstand",
+   "session": "day",
+   "order": 3,
+   "startTimeET": null,
+   "startTimeNote": "Follows previous match on this court",
+   "tier": 1,
+   "pending": false,
+   "round": "Third round",
+   "day": "2026-09-04",
+   "status": "completed",
+   "winnerSlug": "emma-navarro",
+   "score": "6-3 7-5",
+   "players": [
+    {
+     "slug": "emma-navarro",
+     "name": "Emma Navarro",
+     "country": "US",
+     "countryName": "United States",
+     "seed": 26,
+     "ranking": 27
+    },
+    {
+     "slug": "karolina-muchova",
+     "name": "Karolina Muchova",
+     "country": "CZ",
+     "countryName": "Czechia",
+     "seed": 7,
+     "ranking": 7
+    }
+   ]
+  },
+  {
+   "id": "m38",
+   "draw": "women",
+   "usopenMatchId": "2306",
+   "court": "Court 17",
+   "session": "day",
+   "order": 1,
+   "startTimeET": "11:00",
+   "tier": 2,
+   "pending": false,
+   "round": "Third round",
+   "day": "2026-09-04",
+   "status": "completed",
+   "winnerSlug": "sorana-cirstea",
+   "score": "6-3 6-3",
+   "players": [
+    {
+     "slug": "jasmine-paolini",
+     "name": "Jasmine Paolini",
+     "country": "IT",
+     "countryName": "Italy",
+     "seed": 19,
+     "ranking": 21
+    },
+    {
+     "slug": "sorana-cirstea",
+     "name": "Sorana Cirstea",
+     "country": "RO",
+     "countryName": "Romania",
+     "seed": 16,
+     "ranking": 17
+    }
+   ]
+  },
+  {
+   "id": "m39",
+   "draw": "women",
+   "usopenMatchId": "2302",
+   "court": "Court 17",
+   "session": "day",
+   "order": 2,
+   "startTimeET": "13:00",
+   "startTimeNote": "Not before 1:00 PM",
+   "tier": 2,
+   "pending": false,
+   "round": "Third round",
+   "day": "2026-09-04",
+   "status": "completed",
+   "winnerSlug": "taylor-townsend",
+   "score": "6-2 6-7(3) 6-3",
+   "players": [
+    {
+     "slug": "taylor-townsend",
+     "name": "Taylor Townsend",
+     "country": "US",
+     "countryName": "United States",
+     "seed": null,
+     "ranking": 96
+    },
+    {
+     "slug": "diana-shnaider",
+     "name": "Diana Shnaider",
+     "country": "RU",
+     "countryName": "Russia",
+     "seed": 15,
+     "ranking": 16
+    }
+   ]
+  },
+  {
+   "id": "m40",
+   "draw": "women",
+   "usopenMatchId": "2304",
+   "court": "Court 17",
+   "session": "day",
+   "order": 3,
+   "startTimeET": null,
+   "startTimeNote": "Follows previous match on this court",
+   "tier": 1,
+   "pending": false,
+   "round": "Third round",
+   "day": "2026-09-04",
+   "status": "completed",
+   "winnerSlug": "linda-noskova",
+   "score": "6-2 6-7(6) 6-2",
+   "players": [
+    {
+     "slug": "ann-li",
+     "name": "Ann Li",
+     "country": "US",
+     "countryName": "United States",
+     "seed": 29,
+     "ranking": 28
+    },
+    {
+     "slug": "linda-noskova",
+     "name": "Linda Noskova",
+     "country": "CZ",
+     "countryName": "Czechia",
+     "seed": 6,
+     "ranking": 6
+    }
+   ]
   }
  ],
- "generatedAt": "2026-09-05T14:09:24",
+ "generatedAt": "2026-09-05T21:23:25",
  "players": [
   {
    "slug": "alexander-zverev",
@@ -906,6 +1483,7 @@
    },
    "matchTier": 1,
    "playsSaturday": true,
+   "eliminated": false,
    "round": "Third round"
   },
   {
@@ -963,7 +1541,7 @@
     "matchId": "m16",
     "round": "Third round",
     "day": "2026-09-05",
-    "status": "scheduled",
+    "status": "in_progress",
     "winnerSlug": null,
     "score": null
    },
@@ -998,6 +1576,7 @@
    },
    "matchTier": 1,
    "playsSaturday": true,
+   "eliminated": false,
    "round": "Third round"
   },
   {
@@ -1059,9 +1638,9 @@
     "matchId": "m12",
     "round": "Third round",
     "day": "2026-09-05",
-    "status": "scheduled",
-    "winnerSlug": null,
-    "score": null
+    "status": "completed",
+    "winnerSlug": "coco-gauff",
+    "score": "6-3 6-4"
    },
    "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Coco_Gauff_Miami_Open.jpg",
@@ -1096,6 +1675,7 @@
    },
    "matchTier": 1,
    "playsSaturday": true,
+   "eliminated": false,
    "round": "Third round"
   },
   {
@@ -1157,9 +1737,9 @@
     "matchId": "m8",
     "round": "Third round",
     "day": "2026-09-05",
-    "status": "in_progress",
-    "winnerSlug": null,
-    "score": null
+    "status": "completed",
+    "winnerSlug": "alexander-blockx",
+    "score": "6-7(4) 6-3 6-0 6-3"
    },
    "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Cobolli_RGQ23_%2852944096963%29.jpg",
@@ -1188,6 +1768,7 @@
    },
    "matchTier": 1,
    "playsSaturday": true,
+   "eliminated": false,
    "round": "Third round"
   },
   {
@@ -1249,9 +1830,9 @@
     "matchId": "m9",
     "round": "Third round",
     "day": "2026-09-05",
-    "status": "in_progress",
-    "winnerSlug": null,
-    "score": null
+    "status": "completed",
+    "winnerSlug": "mirra-andreeva",
+    "score": "6-2 7-6(5)"
    },
    "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Mirra_Andreeva_WMQ23_%28cropped%29.jpg",
@@ -1288,6 +1869,7 @@
    },
    "matchTier": 1,
    "playsSaturday": true,
+   "eliminated": false,
    "round": "Third round"
   },
   {
@@ -1349,9 +1931,9 @@
     "matchId": "m13",
     "round": "Third round",
     "day": "2026-09-05",
-    "status": "in_progress",
-    "winnerSlug": null,
-    "score": null
+    "status": "completed",
+    "winnerSlug": "iga-swiatek",
+    "score": "7-6(3) 7-6(3)"
    },
    "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Iga_Swiatek_2023_Cropped_%2B_Retouched.jpg",
@@ -1386,6 +1968,7 @@
    },
    "matchTier": 1,
    "playsSaturday": true,
+   "eliminated": false,
    "round": "Third round"
   },
   {
@@ -1447,9 +2030,9 @@
     "matchId": "m7",
     "round": "Third round",
     "day": "2026-09-05",
-    "status": "in_progress",
-    "winnerSlug": null,
-    "score": null
+    "status": "completed",
+    "winnerSlug": "francisco-cerundolo",
+    "score": "3-6 4-6 6-3 6-4 6-4"
    },
    "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Taylor_Fritz_-_Delray_Beach_Open_Final_Round_%28cropped%29.jpg",
@@ -1483,6 +2066,7 @@
    },
    "matchTier": 1,
    "playsSaturday": true,
+   "eliminated": false,
    "round": "Third round"
   },
   {
@@ -1582,6 +2166,7 @@
    },
    "matchTier": 1,
    "playsSaturday": true,
+   "eliminated": false,
    "round": "Third round"
   },
   {
@@ -1643,7 +2228,7 @@
     "matchId": "m15",
     "round": "Third round",
     "day": "2026-09-05",
-    "status": "scheduled",
+    "status": "in_progress",
     "winnerSlug": null,
     "score": null
    },
@@ -1682,6 +2267,7 @@
    },
    "matchTier": 1,
    "playsSaturday": true,
+   "eliminated": false,
    "round": "Third round"
   },
   {
@@ -1743,7 +2329,7 @@
     "matchId": "m11",
     "round": "Third round",
     "day": "2026-09-05",
-    "status": "scheduled",
+    "status": "in_progress",
     "winnerSlug": null,
     "score": null
    },
@@ -1783,6 +2369,7 @@
    },
    "matchTier": 1,
    "playsSaturday": true,
+   "eliminated": false,
    "round": "Third round"
   },
   {
@@ -1880,6 +2467,7 @@
    },
    "matchTier": 1,
    "playsSaturday": true,
+   "eliminated": false,
    "round": "Third round"
   },
   {
@@ -1941,7 +2529,7 @@
     "matchId": "m11",
     "round": "Third round",
     "day": "2026-09-05",
-    "status": "scheduled",
+    "status": "in_progress",
     "winnerSlug": null,
     "score": null
    },
@@ -1983,6 +2571,7 @@
    },
    "matchTier": 1,
    "playsSaturday": true,
+   "eliminated": false,
    "round": "Third round"
   },
   {
@@ -2091,6 +2680,7 @@
    },
    "matchTier": 1,
    "playsSaturday": true,
+   "eliminated": false,
    "round": "Third round"
   },
   {
@@ -2152,7 +2742,7 @@
     "matchId": "m15",
     "round": "Third round",
     "day": "2026-09-05",
-    "status": "scheduled",
+    "status": "in_progress",
     "winnerSlug": null,
     "score": null
    },
@@ -2197,6 +2787,7 @@
    },
    "matchTier": 1,
    "playsSaturday": true,
+   "eliminated": false,
    "round": "Third round"
   },
   {
@@ -2295,6 +2886,7 @@
    },
    "matchTier": 1,
    "playsSaturday": true,
+   "eliminated": false,
    "round": "Third round"
   },
   {
@@ -2356,9 +2948,9 @@
     "matchId": "m7",
     "round": "Third round",
     "day": "2026-09-05",
-    "status": "in_progress",
-    "winnerSlug": null,
-    "score": null
+    "status": "completed",
+    "winnerSlug": "francisco-cerundolo",
+    "score": "3-6 4-6 6-3 6-4 6-4"
    },
    "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Cerundolo_MCM23_%2821%29_%2852883527185%29.jpg",
@@ -2391,6 +2983,7 @@
    },
    "matchTier": 1,
    "playsSaturday": true,
+   "eliminated": false,
    "round": "Third round"
   },
   {
@@ -2485,6 +3078,7 @@
    },
    "matchTier": 1,
    "playsSaturday": true,
+   "eliminated": false,
    "round": "Third round"
   },
   {
@@ -2546,9 +3140,9 @@
     "matchId": "m8",
     "round": "Third round",
     "day": "2026-09-05",
-    "status": "in_progress",
-    "winnerSlug": null,
-    "score": null
+    "status": "completed",
+    "winnerSlug": "alexander-blockx",
+    "score": "6-7(4) 6-3 6-0 6-3"
    },
    "photo": {
     "localPath": "img/players/alexander-blockx.svg",
@@ -2579,6 +3173,7 @@
    },
    "matchTier": 1,
    "playsSaturday": true,
+   "eliminated": false,
    "round": "Third round"
   },
   {
@@ -2640,9 +3235,9 @@
     "matchId": "m12",
     "round": "Third round",
     "day": "2026-09-05",
-    "status": "scheduled",
-    "winnerSlug": null,
-    "score": null
+    "status": "completed",
+    "winnerSlug": "coco-gauff",
+    "score": "6-3 6-4"
    },
    "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Cristina_Buc%C8%99a_%282025_DC_Open%29_03_%28cropped%29.jpg",
@@ -2676,6 +3271,7 @@
    },
    "matchTier": 1,
    "playsSaturday": true,
+   "eliminated": false,
    "round": "Third round"
   },
   {
@@ -2737,9 +3333,9 @@
     "matchId": "m2",
     "round": "Third round",
     "day": "2026-09-05",
-    "status": "scheduled",
-    "winnerSlug": null,
-    "score": null
+    "status": "completed",
+    "winnerSlug": "luciano-darderi",
+    "score": "6-4 6-3 6-3"
    },
    "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Darderi_RGQ23_%2852944097003%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -2774,6 +3370,7 @@
    },
    "matchTier": 2,
    "playsSaturday": true,
+   "eliminated": false,
    "round": "Third round"
   },
   {
@@ -2877,6 +3474,7 @@
    },
    "matchTier": 2,
    "playsSaturday": true,
+   "eliminated": false,
    "round": "Third round"
   },
   {
@@ -2938,9 +3536,9 @@
     "matchId": "m13",
     "round": "Third round",
     "day": "2026-09-05",
-    "status": "in_progress",
-    "winnerSlug": null,
-    "score": null
+    "status": "completed",
+    "winnerSlug": "iga-swiatek",
+    "score": "7-6(3) 7-6(3)"
    },
    "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Marie_Bouzkov%C3%A1_%282023_US_Open%29_26_%28cropped2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -2974,6 +3572,7 @@
    },
    "matchTier": 1,
    "playsSaturday": true,
+   "eliminated": false,
    "round": "Third round"
   },
   {
@@ -3031,7 +3630,7 @@
     "matchId": "m4",
     "round": "Third round",
     "day": "2026-09-05",
-    "status": "scheduled",
+    "status": "in_progress",
     "winnerSlug": null,
     "score": null
    },
@@ -3071,6 +3670,7 @@
    },
    "matchTier": 2,
    "playsSaturday": true,
+   "eliminated": false,
    "round": "Third round"
   },
   {
@@ -3132,9 +3732,9 @@
     "matchId": "m3",
     "round": "Third round",
     "day": "2026-09-05",
-    "status": "scheduled",
-    "winnerSlug": null,
-    "score": null
+    "status": "completed",
+    "winnerSlug": "arthur-gea",
+    "score": "7-6(7) 3-6 4-6 6-3 6-2"
    },
    "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Gea_RGQ23_%2852944097158%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -3175,6 +3775,7 @@
    },
    "matchTier": 3,
    "playsSaturday": true,
+   "eliminated": false,
    "round": "Third round"
   },
   {
@@ -3236,9 +3837,9 @@
     "matchId": "m5",
     "round": "Third round",
     "day": "2026-09-05",
-    "status": "scheduled",
-    "winnerSlug": null,
-    "score": null
+    "status": "completed",
+    "winnerSlug": "karen-khachanov",
+    "score": "6-3 6-2 6-4"
    },
    "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Bonzi_MLC21_%282%29_%2851602502868%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -3273,6 +3874,7 @@
    },
    "matchTier": 3,
    "playsSaturday": true,
+   "eliminated": false,
    "round": "Third round"
   },
   {
@@ -3334,7 +3936,7 @@
     "matchId": "m4",
     "round": "Third round",
     "day": "2026-09-05",
-    "status": "scheduled",
+    "status": "in_progress",
     "winnerSlug": null,
     "score": null
    },
@@ -3370,6 +3972,7 @@
    },
    "matchTier": 2,
    "playsSaturday": true,
+   "eliminated": false,
    "round": "Third round"
   },
   {
@@ -3431,9 +4034,9 @@
     "matchId": "m2",
     "round": "Third round",
     "day": "2026-09-05",
-    "status": "scheduled",
-    "winnerSlug": null,
-    "score": null
+    "status": "completed",
+    "winnerSlug": "luciano-darderi",
+    "score": "6-4 6-3 6-3"
    },
    "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Sweeny_WMQ23_%2853062168553%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -3472,6 +4075,7 @@
    },
    "matchTier": 2,
    "playsSaturday": true,
+   "eliminated": false,
    "round": "Third round"
   },
   {
@@ -3533,9 +4137,9 @@
     "matchId": "m5",
     "round": "Third round",
     "day": "2026-09-05",
-    "status": "scheduled",
-    "winnerSlug": null,
-    "score": null
+    "status": "completed",
+    "winnerSlug": "karen-khachanov",
+    "score": "6-3 6-2 6-4"
    },
    "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Karen_Khachanov_%282024_DC_Open%29_02.jpg",
@@ -3572,6 +4176,7 @@
    },
    "matchTier": 3,
    "playsSaturday": true,
+   "eliminated": false,
    "round": "Third round"
   },
   {
@@ -3633,9 +4238,9 @@
     "matchId": "m3",
     "round": "Third round",
     "day": "2026-09-05",
-    "status": "scheduled",
-    "winnerSlug": null,
-    "score": null
+    "status": "completed",
+    "winnerSlug": "arthur-gea",
+    "score": "7-6(7) 3-6 4-6 6-3 6-2"
    },
    "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Michael_Zheng_%282023_US_Open%29_13_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -3673,6 +4278,7 @@
    },
    "matchTier": 3,
    "playsSaturday": true,
+   "eliminated": false,
    "round": "Third round"
   },
   {
@@ -3738,9 +4344,9 @@
     "matchId": "m9",
     "round": "Third round",
     "day": "2026-09-05",
-    "status": "in_progress",
-    "winnerSlug": null,
-    "score": null
+    "status": "completed",
+    "winnerSlug": "mirra-andreeva",
+    "score": "6-2 7-6(5)"
    },
    "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Nikola_Bart%C5%AF%C5%88kov%C3%A1_Birmingham_2026_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -3776,6 +4382,7 @@
    },
    "matchTier": 1,
    "playsSaturday": true,
+   "eliminated": false,
    "round": "Third round"
   },
   {
@@ -3837,7 +4444,7 @@
     "matchId": "m16",
     "round": "Third round",
     "day": "2026-09-05",
-    "status": "scheduled",
+    "status": "in_progress",
     "winnerSlug": null,
     "score": null
    },
@@ -3876,6 +4483,7 @@
    },
    "matchTier": 1,
    "playsSaturday": true,
+   "eliminated": false,
    "round": "Third round"
   },
   {
@@ -3979,6 +4587,7 @@
    },
    "matchTier": 2,
    "playsSaturday": true,
+   "eliminated": false,
    "round": "Third round"
   },
   {
@@ -4077,6 +4686,8 @@
    },
    "matchTier": 1,
    "playsSaturday": false,
+   "eliminated": false,
+   "fridayMatchId": "m34",
    "round": "Fourth round"
   },
   {
@@ -4176,6 +4787,8 @@
    },
    "matchTier": 1,
    "playsSaturday": false,
+   "eliminated": false,
+   "fridayMatchId": "m25",
    "round": "Fourth round"
   },
   {
@@ -4273,6 +4886,8 @@
    },
    "matchTier": 1,
    "playsSaturday": false,
+   "eliminated": false,
+   "fridayMatchId": "m33",
    "round": "Fourth round"
   },
   {
@@ -4375,6 +4990,8 @@
    },
    "matchTier": 1,
    "playsSaturday": false,
+   "eliminated": false,
+   "fridayMatchId": "m40",
    "round": "Fourth round"
   },
   {
@@ -4473,6 +5090,8 @@
    },
    "matchTier": 1,
    "playsSaturday": false,
+   "eliminated": false,
+   "fridayMatchId": "m29",
    "round": "Fourth round"
   },
   {
@@ -4581,6 +5200,8 @@
    },
    "matchTier": 1,
    "playsSaturday": false,
+   "eliminated": false,
+   "fridayMatchId": "m26",
    "round": "Fourth round"
   },
   {
@@ -4683,6 +5304,8 @@
    },
    "matchTier": 1,
    "playsSaturday": false,
+   "eliminated": false,
+   "fridayMatchId": "m28",
    "round": "Fourth round"
   },
   {
@@ -4784,6 +5407,8 @@
    },
    "matchTier": 1,
    "playsSaturday": false,
+   "eliminated": false,
+   "fridayMatchId": "m36",
    "round": "Fourth round"
   },
   {
@@ -4888,6 +5513,8 @@
    },
    "matchTier": 1,
    "playsSaturday": false,
+   "eliminated": false,
+   "fridayMatchId": "m38",
    "round": "Fourth round"
   },
   {
@@ -4993,6 +5620,8 @@
    },
    "matchTier": 1,
    "playsSaturday": false,
+   "eliminated": false,
+   "fridayMatchId": "m27",
    "round": "Fourth round"
   },
   {
@@ -5090,6 +5719,8 @@
    },
    "matchTier": 1,
    "playsSaturday": false,
+   "eliminated": false,
+   "fridayMatchId": "m35",
    "round": "Fourth round"
   },
   {
@@ -5193,6 +5824,8 @@
    },
    "matchTier": 1,
    "playsSaturday": false,
+   "eliminated": false,
+   "fridayMatchId": "m37",
    "round": "Fourth round"
   },
   {
@@ -5291,6 +5924,8 @@
    },
    "matchTier": 1,
    "playsSaturday": false,
+   "eliminated": false,
+   "fridayMatchId": "m30",
    "round": "Fourth round"
   },
   {
@@ -5388,6 +6023,8 @@
    },
    "matchTier": 1,
    "playsSaturday": false,
+   "eliminated": false,
+   "fridayMatchId": "m39",
    "round": "Fourth round"
   },
   {
@@ -5489,6 +6126,8 @@
    },
    "matchTier": 2,
    "playsSaturday": false,
+   "eliminated": false,
+   "fridayMatchId": "m32",
    "round": "Fourth round"
   },
   {
@@ -5587,6 +6226,8 @@
    },
    "matchTier": 2,
    "playsSaturday": false,
+   "eliminated": false,
+   "fridayMatchId": "m31",
    "round": "Fourth round"
   }
  ]
